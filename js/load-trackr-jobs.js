@@ -179,6 +179,17 @@ function showError(message) {
     `;
 }
 
+function showPreviewUnavailableMessage() {
+    const container = document.getElementById('jobs-container');
+    if (!container) return;
+
+    container.innerHTML = `
+        <div class="col-span-3 text-center py-10">
+            <p class="text-slate-600">⚠️ Jobs preview unavailable. Click 'View All Jobs' to see all opportunities.</p>
+        </div>
+    `;
+}
+
 function updateOpportunitiesCount(count) {
     const countElement = document.getElementById('opportunities-count');
     if (countElement) {
@@ -309,24 +320,29 @@ function loadMoreJobs() {
 async function loadRecentJobs() {
     try {
         showLoadingSpinner();
-        const [recentResponse] = await Promise.all([
-            fetch('data/recent_jobs.json'),
-            ensureAllJobsDataLoaded()
-        ]);
+        const recentResponse = await fetch('data/recent_jobs.json');
         if (!recentResponse.ok) throw new Error('Failed to load recent jobs');
 
-        const jobs = await recentResponse.json();
+        const recentJobs = await recentResponse.json();
+        if (!Array.isArray(recentJobs)) {
+            throw new Error('Invalid recent jobs payload');
+        }
+
         const container = document.getElementById('jobs-container');
         if (!container) return;
 
-        container.innerHTML = jobs.map(job => createJobCard(job)).join('');
+        container.innerHTML = recentJobs.map(job => createJobCard(job)).join('');
 
-        // Show filters by default and keep load more hidden in recent view
+        // Keep filters hidden until full jobs data is available.
         const filtersContainer = document.getElementById('filters-container');
         const loadMoreContainer = document.getElementById('load-more-container');
         if (filtersContainer) {
-            filtersContainer.classList.remove('hidden');
-            createFilterButtons();
+            if (allJobs.length > 0) {
+                filtersContainer.classList.remove('hidden');
+                createFilterButtons();
+            } else {
+                filtersContainer.classList.add('hidden');
+            }
         }
         if (loadMoreContainer) loadMoreContainer.classList.add('hidden');
 
@@ -338,9 +354,33 @@ async function loadRecentJobs() {
         }
         showingAll = false;
 
+        // Preload all jobs in the background so filters and counts are ready.
+        ensureAllJobsDataLoaded()
+            .then(() => {
+                const updatedFiltersContainer = document.getElementById('filters-container');
+                if (updatedFiltersContainer && !showingAll) {
+                    updatedFiltersContainer.classList.remove('hidden');
+                    createFilterButtons();
+                }
+            })
+            .catch(error => {
+                console.warn('Could not preload all jobs while showing recent jobs:', error);
+            });
+
     } catch (error) {
         console.error('Error loading recent jobs:', error);
-        showError('Unable to load recent jobs. Please try again later.');
+
+        const filtersContainer = document.getElementById('filters-container');
+        if (filtersContainer) {
+            filtersContainer.classList.add('hidden');
+        }
+
+        const loadMoreContainer = document.getElementById('load-more-container');
+        if (loadMoreContainer) {
+            loadMoreContainer.classList.add('hidden');
+        }
+
+        showPreviewUnavailableMessage();
     }
 }
 
