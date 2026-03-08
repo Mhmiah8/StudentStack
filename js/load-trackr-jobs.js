@@ -6,18 +6,73 @@ let currentFilter = 'all';
 let currentPage = 0;
 const jobsPerPage = 12;
 let categoryCounts = {};
+const recentPreviewLimit = 3;
+
+function buildDataUrl(relativePath) {
+    return new URL(relativePath, window.location.href).toString();
+}
+
+async function fetchJsonWithDebug(relativePath, label) {
+    const url = buildDataUrl(relativePath);
+    const startedAt = performance.now();
+    console.info(`[jobs] Requesting ${label}`, {
+        relativePath,
+        resolvedUrl: url,
+        pageUrl: window.location.href,
+        origin: window.location.origin
+    });
+
+    const response = await fetch(url, { cache: 'no-store' });
+    const elapsedMs = Math.round(performance.now() - startedAt);
+    const contentType = response.headers.get('content-type') || 'unknown';
+
+    if (!response.ok) {
+        const preview = (await response.text()).slice(0, 220);
+        console.error(`[jobs] ${label} request failed`, {
+            status: response.status,
+            statusText: response.statusText,
+            contentType,
+            elapsedMs,
+            bodyPreview: preview
+        });
+        throw new Error(`${label} request failed: ${response.status} ${response.statusText}`);
+    }
+
+    let data;
+    try {
+        data = await response.json();
+    } catch (error) {
+        const preview = (await response.clone().text()).slice(0, 220);
+        console.error(`[jobs] ${label} returned non-JSON payload`, {
+            contentType,
+            elapsedMs,
+            bodyPreview: preview,
+            parseError: error instanceof Error ? error.message : String(error)
+        });
+        throw error;
+    }
+
+    console.info(`[jobs] ${label} loaded`, {
+        elapsedMs,
+        contentType,
+        items: Array.isArray(data) ? data.length : undefined,
+        payloadType: Array.isArray(data) ? 'array' : typeof data
+    });
+
+    return data;
+}
 
 async function ensureAllJobsDataLoaded() {
     if (allJobs.length > 0) {
         return;
     }
 
-    const response = await fetch('data/jobs_latest.json');
-    if (!response.ok) {
-        throw new Error('Failed to load all jobs');
+    const data = await fetchJsonWithDebug('data/jobs_latest.json', 'jobs_latest.json');
+    if (!Array.isArray(data)) {
+        throw new Error('jobs_latest.json payload is not an array');
     }
 
-    allJobs = await response.json();
+    allJobs = data;
     allJobs.sort((a, b) => getRecencyTimestamp(b) - getRecencyTimestamp(a));
 
     categoryCounts = {};
@@ -190,6 +245,47 @@ function showPreviewUnavailableMessage() {
     `;
 }
 
+function renderRecentJobs(jobs) {
+    const container = document.getElementById('jobs-container');
+    if (!container) return;
+    container.innerHTML = jobs.map(job => createJobCard(job)).join('');
+}
+
+function setPreviewControlsVisibility() {
+    const filtersContainer = document.getElementById('filters-container');
+    const loadMoreContainer = document.getElementById('load-more-container');
+
+    if (filtersContainer) {
+        if (allJobs.length > 0) {
+            filtersContainer.classList.remove('hidden');
+            createFilterButtons();
+        } else {
+            filtersContainer.classList.add('hidden');
+        }
+    }
+
+    if (loadMoreContainer) {
+        loadMoreContainer.classList.add('hidden');
+    }
+}
+
+async function tryRenderRecentFromAllJobs() {
+    await ensureAllJobsDataLoaded();
+    if (!Array.isArray(allJobs) || allJobs.length === 0) {
+        throw new Error('No jobs available in jobs_latest.json fallback');
+    }
+
+    const fallbackRecent = allJobs.slice(0, recentPreviewLimit);
+    console.warn('[jobs] Using jobs_latest.json fallback for preview', {
+        fallbackCount: fallbackRecent.length,
+        totalJobs: allJobs.length
+    });
+    renderRecentJobs(fallbackRecent);
+    showingAll = false;
+    setJobsToggleButton(false);
+    setPreviewControlsVisibility();
+}
+
 function updateOpportunitiesCount(count) {
     const countElement = document.getElementById('opportunities-count');
     if (countElement) {
@@ -199,12 +295,9 @@ function updateOpportunitiesCount(count) {
 
 async function loadTotalJobsCount() {
     try {
-        const summaryResponse = await fetch('data/jobs_summary.json');
-        if (summaryResponse.ok) {
-            const summary = await summaryResponse.json();
-            if (summary && typeof summary.total_jobs === 'number') {
-                return summary.total_jobs;
-            }
+        const summary = await fetchJsonWithDebug('data/jobs_summary.json', 'jobs_summary.json');
+        if (summary && typeof summary.total_jobs === 'number') {
+            return summary.total_jobs;
         }
     } catch (error) {
         console.warn('Could not load jobs summary:', error);
@@ -320,31 +413,13 @@ function loadMoreJobs() {
 async function loadRecentJobs() {
     try {
         showLoadingSpinner();
-        const recentResponse = await fetch('data/recent_jobs.json');
-        if (!recentResponse.ok) throw new Error('Failed to load recent jobs');
-
-        const recentJobs = await recentResponse.json();
+        const recentJobs = await fetchJsonWithDebug('data/recent_jobs.json', 'recent_jobs.json');
         if (!Array.isArray(recentJobs)) {
             throw new Error('Invalid recent jobs payload');
         }
 
-        const container = document.getElementById('jobs-container');
-        if (!container) return;
-
-        container.innerHTML = recentJobs.map(job => createJobCard(job)).join('');
-
-        // Keep filters hidden until full jobs data is available.
-        const filtersContainer = document.getElementById('filters-container');
-        const loadMoreContainer = document.getElementById('load-more-container');
-        if (filtersContainer) {
-            if (allJobs.length > 0) {
-                filtersContainer.classList.remove('hidden');
-                createFilterButtons();
-            } else {
-                filtersContainer.classList.add('hidden');
-            }
-        }
-        if (loadMoreContainer) loadMoreContainer.classList.add('hidden');
+        renderRecentJobs(recentJobs);
+        setPreviewControlsVisibility();
 
         setJobsToggleButton(false);
 
@@ -354,7 +429,6 @@ async function loadRecentJobs() {
         }
         showingAll = false;
 
-        // Preload all jobs in the background so filters and counts are ready.
         ensureAllJobsDataLoaded()
             .then(() => {
                 const updatedFiltersContainer = document.getElementById('filters-container');
@@ -368,19 +442,29 @@ async function loadRecentJobs() {
             });
 
     } catch (error) {
-        console.error('Error loading recent jobs:', error);
+        console.error('[jobs] Error loading recent_jobs.json on initial view:', error);
 
-        const filtersContainer = document.getElementById('filters-container');
-        if (filtersContainer) {
-            filtersContainer.classList.add('hidden');
+        try {
+            await tryRenderRecentFromAllJobs();
+            const totalJobsCount = await loadTotalJobsCount();
+            if (typeof totalJobsCount === 'number') {
+                updateOpportunitiesCount(totalJobsCount);
+            }
+        } catch (fallbackError) {
+            console.error('[jobs] Fallback from jobs_latest.json also failed:', fallbackError);
+
+            const filtersContainer = document.getElementById('filters-container');
+            if (filtersContainer) {
+                filtersContainer.classList.add('hidden');
+            }
+
+            const loadMoreContainer = document.getElementById('load-more-container');
+            if (loadMoreContainer) {
+                loadMoreContainer.classList.add('hidden');
+            }
+
+            showPreviewUnavailableMessage();
         }
-
-        const loadMoreContainer = document.getElementById('load-more-container');
-        if (loadMoreContainer) {
-            loadMoreContainer.classList.add('hidden');
-        }
-
-        showPreviewUnavailableMessage();
     }
 }
 
@@ -436,6 +520,11 @@ function toggleJobsView() {
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function() {
+    console.info('[jobs] Initializing jobs loader', {
+        pageUrl: window.location.href,
+        origin: window.location.origin,
+        readyState: document.readyState
+    });
     loadRecentJobs();
 
     // Add event listener to toggle button
