@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Campaign Lab Spring Hack Night!",
+    "date": "2026-03-09T19:00:00.000Z",
+    "end_date": "2026-03-09T22:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/wbrblers",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 15,
+    "scraped_date": "2026-03-08T14:11:24.930435"
+  },
+  {
+    "name": "Encode AI Series: AI in Marketing",
+    "date": "2026-03-10T18:30:00.000Z",
+    "end_date": "2026-03-10T20:30:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/riof6nyl",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-08T14:11:31.753026"
+  },
+  {
+    "name": "Based Coworking @ Encode Hub",
+    "date": "2026-03-11T09:00:00.000Z",
+    "end_date": "2026-03-11T18:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/n5u86p69",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-08T14:11:31.753130"
+  },
+  {
+    "name": "London | Claude Code Curious #3",
+    "date": "2026-03-11T18:00:00.000Z",
+    "end_date": "2026-03-11T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/claude-code-curious-3",
+    "hosts": [
+      "Max Tatton-Brown",
+      "Shreman Shrestha"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-08T14:11:31.753225"
+  },
+  {
+    "name": "Agentic Commerce, Decoded",
+    "date": "2026-03-12T15:00:00.000Z",
+    "end_date": "2026-03-12T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/3kr44gfd",
+    "hosts": [
+      "Azoma AI"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-08T14:11:31.753301"
+  },
+  {
+    "name": "GeoJam: A GeoAI Evening Hackathon",
+    "date": "2026-03-12T17:00:00.000Z",
+    "end_date": "2026-03-12T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/mc92hprm",
+    "hosts": [
+      "GeoJam"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-08T14:11:31.753334"
+  },
+  {
+    "name": "How I use Claude Code as a Data PM (London Data & AI Product Management meetup #21)",
+    "date": "2026-03-12T17:30:00.000Z",
+    "end_date": "2026-03-12T21:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/yyxw9l54",
+    "hosts": [
+      "Nick Zervoudis"
+    ],
+    "attendee_count": 48,
+    "scraped_date": "2026-03-08T14:11:31.753367"
+  },
+  {
+    "name": "Claude & Finance | Claude Builder Club @ Imperial",
+    "date": "2026-03-12T18:00:00.000Z",
+    "end_date": "2026-03-12T19:30:00.000Z",
+    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2xz6igg7",
+    "hosts": [
+      "Bohdan Yermakov"
+    ],
+    "attendee_count": 76,
+    "scraped_date": "2026-03-08T14:11:31.753417"
+  },
+  {
+    "name": "Mozart AI Hack With ElevenLabs & OpenAI",
+    "date": "2026-03-14T09:00:00.000Z",
+    "end_date": "2026-03-15T14:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/678xcfd4",
+    "hosts": [
+      "Arjun S Khanna",
+      "Oliver Kingshott",
+      "Fatema"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-08T14:11:31.753503"
+  },
+  {
+    "name": "Zero to Coder: Learn to Code with AI",
+    "date": "2026-03-14T13:00:00.000Z",
+    "end_date": "2026-03-14T17:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8r7fm3wj",
+    "hosts": [
+      "Jethro Reeve"
+    ],
+    "attendee_count": 6,
+    "scraped_date": "2026-03-08T14:11:31.753535"
+  },
+  {
+    "name": "ClawClub AI Agents Hackday 🦞 London 15 Mar 2026",
+    "date": "2026-03-15T14:00:00.000Z",
+    "end_date": "2026-03-15T18:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/d04bupgn",
+    "hosts": [
+      "sugaroverflow"
+    ],
+    "attendee_count": 53,
+    "scraped_date": "2026-03-08T14:11:31.753571"
+  },
+  {
+    "name": "AI: Who Builds It, Who Benefits, and Who Decides?",
+    "date": "2026-03-16T18:00:00.000Z",
+    "end_date": "2026-03-16T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/q62uxo7n",
+    "hosts": [
+      "Women in Tech UK"
+    ],
+    "attendee_count": 20,
+    "scraped_date": "2026-03-08T14:11:31.753616"
+  }
+]

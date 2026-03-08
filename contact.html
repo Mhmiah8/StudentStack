@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StudentStack | Contact</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-900">
+  <main class="max-w-3xl mx-auto px-4 py-12">
+    <a href="code.html" class="text-primary font-semibold hover:underline">← Back to StudentStack</a>
+    <h1 class="text-3xl font-bold mt-4 mb-3">Contact Us</h1>
+    <p class="text-slate-600 mb-8">For support, partnerships, bug reports, or community submissions, contact StudentStack below.</p>
+
+    <div class="bg-white border border-slate-200 rounded-2xl p-6 mb-8">
+      <p class="text-sm text-slate-500 mb-2">Primary contact email</p>
+      <a class="text-blue-700 font-semibold text-lg hover:underline" href="mailto:mmiahhilal1@gmail.com">mmiahhilal1@gmail.com</a>
+    </div>
+
+    <form class="bg-white border border-slate-200 rounded-2xl p-6 space-y-4" id="contact-form">
+      <div>
+        <label class="block text-sm font-medium mb-1" for="contact-name">Name</label>
+        <input id="contact-name" class="w-full rounded-lg border border-slate-300 px-3 py-2" type="text" required />
+      </div>
+      <div>
+        <label class="block text-sm font-medium mb-1" for="contact-email">Email</label>
+        <input id="contact-email" class="w-full rounded-lg border border-slate-300 px-3 py-2" type="email" required />
+      </div>
+      <div>
+        <label class="block text-sm font-medium mb-1" for="contact-message">Message</label>
+        <textarea id="contact-message" class="w-full rounded-lg border border-slate-300 px-3 py-2" rows="5" required></textarea>
+      </div>
+      <button type="submit" class="bg-primary text-white px-5 py-2 rounded-lg font-semibold">Send</button>
+    </form>
+  </main>
+
+  <script>
+    document.getElementById('contact-form')?.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const name = document.getElementById('contact-name')?.value?.trim() || '';
+      const email = document.getElementById('contact-email')?.value?.trim() || '';
+      const message = document.getElementById('contact-message')?.value?.trim() || '';
+
+      if (!name || !email || !message) {
+        alert('Please complete all fields.');
+        return;
+      }
+
+      const subject = encodeURIComponent(`StudentStack Contact: ${name}`);
+      const body = encodeURIComponent(`From: ${name}\nEmail: ${email}\n\n${message}`);
+      window.location.href = `mailto:mmiahhilal1@gmail.com?subject=${subject}&body=${body}`;
+    });
+  </script>
+</body>
+</html>

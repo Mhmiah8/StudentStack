@@ -1,0 +1,61 @@
+# ---------- OS / Editor ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ---------- Environment / Secrets ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.crt
+*.cer
+*.secret
+secrets.*
+credentials*
+serviceAccountKey*.json
+firebase-adminsdk*.json
+
+# Optional local firebase config variants
+firebase-config.local.*
+
+# ---------- Logs ----------
+*.log
+*.out
+*.err
+scraper_log*.txt
+
+# ---------- Local scraper outputs (archives/temp) ----------
+data/trackr_jobs_*.json
+data/recent_*.json
+
+# ---------- Node / build artifacts (if added later) ----------
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# ---------- GitHub Actions local cache ----------
+.github/*.local.yml

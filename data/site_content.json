@@ -1,0 +1,1202 @@
+{
+  "stats": {
+    "top_universities": 128,
+    "active_students": "500+"
+  },
+  "universities": {
+    "list": [
+      "University of Cambridge",
+      "University of Oxford",
+      "London School of Economics and Political Science",
+      "University of St Andrews",
+      "Durham University",
+      "Imperial College London",
+      "Loughborough University",
+      "University of Bath",
+      "University of Warwick",
+      "Lancaster University",
+      "University of Exeter",
+      "University of York",
+      "UCL (University College London)",
+      "University of Birmingham",
+      "University of Bristol",
+      "University of Sheffield",
+      "University of Southampton",
+      "The University of Edinburgh",
+      "King's College London",
+      "University of Surrey",
+      "University of Leeds",
+      "Cardiff University",
+      "University of Liverpool",
+      "Queen's University Belfast",
+      "Heriot-Watt University",
+      "University of East Anglia (UEA)",
+      "University of Nottingham",
+      "University of Manchester",
+      "University of Essex",
+      "University of Aberdeen",
+      "University of Glasgow",
+      "Newcastle University",
+      "University of Leicester",
+      "University of the Arts London",
+      "Royal Holloway, University of London",
+      "University of Reading",
+      "Northumbria University, Newcastle",
+      "University of Strathclyde",
+      "University of Dundee",
+      "Swansea University",
+      "Queen Mary University of London",
+      "University of Portsmouth",
+      "University of Sussex",
+      "Aston University, Birmingham",
+      "Aberystwyth University",
+      "Nottingham Trent University",
+      "Harper Adams University",
+      "Oxford Brookes University",
+      "University of Kent",
+      "Manchester Metropolitan University",
+      "University of Stirling",
+      "University of Lincoln",
+      "City St George's, University of London",
+      "Ulster University",
+      "Bangor University",
+      "University of Suffolk",
+      "Edge Hill University",
+      "Norwich University of the Arts",
+      "Coventry University",
+      "University of Chichester",
+      "Arts University Bournemouth",
+      "Bristol, UWE",
+      "Falmouth University",
+      "SOAS University of London",
+      "University of Huddersfield",
+      "Cardiff Metropolitan University",
+      "Brunel University of London",
+      "Keele University",
+      "St Mary's University, Twickenham",
+      "University of West London",
+      "Goldsmiths, University of London",
+      "University of Gloucestershire",
+      "Bournemouth University",
+      "University of Chester",
+      "University of Plymouth",
+      "Liverpool John Moores University",
+      "University of South Wales",
+      "Leeds Beckett University",
+      "University of Derby",
+      "University of Salford",
+      "University of Hull",
+      "University of Hertfordshire",
+      "University of Sunderland",
+      "Sheffield Hallam University",
+      "Glasgow Caledonian University",
+      "University of Central Lancashire",
+      "Robert Gordon University",
+      "University of Brighton",
+      "Kingston University",
+      "Liverpool Hope University",
+      "Teesside University",
+      "Bath Spa University",
+      "University of Worcester",
+      "Staffordshire University",
+      "Abertay University",
+      "Edinburgh Napier University",
+      "Buckinghamshire New University",
+      "University of Winchester",
+      "Canterbury Christ Church University",
+      "Plymouth Marjon University",
+      "Arts University Plymouth",
+      "University of Greater Manchester",
+      "Birmingham City University",
+      "Leeds Arts University",
+      "York St John University",
+      "University of Greenwich",
+      "University of Bradford",
+      "Southampton Solent University",
+      "University of Wolverhampton",
+      "London South Bank University",
+      "University of Wales Trinity Saint David",
+      "University for the Creative Arts",
+      "Middlesex University",
+      "Queen Margaret University, Edinburgh",
+      "University of Roehampton",
+      "University of Buckingham",
+      "University of Cumbria",
+      "University of Northampton",
+      "Anglia Ruskin University",
+      "De Montfort University",
+      "Leeds Trinity University",
+      "University of Westminster, London",
+      "Birmingham Newman University",
+      "Royal Agricultural University",
+      "University of East London",
+      "University of the West of Scotland",
+      "Wrexham University",
+      "University of Bedfordshire"
+    ],
+    "cta": {
+      "text": "Pick your university to unlock module notes as uploads go live.",
+      "button": "Select University"
+    }
+  },
+  "grants": {
+    "title": "Grants, Bursaries & Scholarships",
+    "subtitle": "Discover live UCAS listings plus trusted directories for UK and international student funding.",
+    "live_title": "Live Opportunities",
+    "resources_title": "More Funding Resources",
+    "live_opportunities": {
+      "source_name": "UCAS Scholarships & Bursaries Search",
+      "source_url": "https://www.ucas.com/explore/search/scholarships-and-bursaries",
+      "result_count": "911+",
+      "filters": [
+        "All Universities",
+        "Open to All"
+      ],
+      "items": [
+        {
+          "name": "Rest of UK (RUK) Bursary 2026-27",
+          "amount": "£2,000.00",
+          "eligibility": "University of Dundee",
+          "deadline": "27 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/a891b5d3-a1b5-4e41-9918-42194074c320/rest-of-uk-ruk-bursary-2026-27",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.617400"
+        },
+        {
+          "name": "(RUK) Academic Excellence Bursary - 2026-27",
+          "amount": "£3,000.00",
+          "eligibility": "University of Dundee",
+          "deadline": "27 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/ce1a2b61-07bc-42bb-9e0b-083836dd04bc/ruk-academic-excellence-bursary---2026-27",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.617564"
+        },
+        {
+          "name": "2025-26 Business Scholarships",
+          "amount": "Between £2,000 to £3,500",
+          "eligibility": "Hartpury University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7a22ce6f-6060-4770-a578-601cb0f2c433/2025-26-business-scholarships",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.617693"
+        },
+        {
+          "name": "2025-26 Postgraduate Country Scholarship",
+          "amount": "Up to £5,000",
+          "eligibility": "Hartpury University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/b8426e54-11f6-40a8-9e7c-2241c35c4ba5/2025-26-postgraduate-country-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.617819"
+        },
+        {
+          "name": "2026-27 Alumni Discount",
+          "amount": "20%",
+          "eligibility": "Northumbria University, Newcastle",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/2cd28e1e-b20e-429f-a98f-87eefdd51cca/2026-27-alumni-discount",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.618418"
+        },
+        {
+          "name": "2026-27 PGT International Scholarship for Nigerian Applicants",
+          "amount": "£6,000.00",
+          "eligibility": "Northumbria University, Newcastle",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/0e3b9390-34de-4176-963d-bf6c1280e8fe/2026-27-pgt-international-scholarship-for-nigerian-applicants",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.618558"
+        },
+        {
+          "name": "2026-27 PGT International Scholarships for South Asian Applicants",
+          "amount": "£3,000.00",
+          "eligibility": "Northumbria University, Newcastle",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e1e01814-1f06-43da-ba1c-8bad32c9719d/2026-27-pgt-international-scholarships-for-south-asian-applicants",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.618688"
+        },
+        {
+          "name": "2026-27 UG International Scholarships",
+          "amount": "£3000",
+          "eligibility": "Northumbria University, Newcastle",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/feaddc38-2dc2-49ce-8681-4ef22e70cabc/2026-27-ug-international-scholarships",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.618811"
+        },
+        {
+          "name": "2026/27 Postgraduate International Scholarship",
+          "amount": "£3,000.00",
+          "eligibility": "Northumbria University, Newcastle",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/76b487e3-2cef-4e97-a5af-c5e13b37919d/2026-27-postgraduate-international-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.618936"
+        },
+        {
+          "name": "2026/27 UG International Scholarship for Nigerian Applicants",
+          "amount": "£6000",
+          "eligibility": "Northumbria University, Newcastle",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/522dd965-1128-4229-9214-e4660d0f9f98/2026-27-ug-international-scholarship-for-nigerian-applicants",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.619061"
+        },
+        {
+          "name": "2026/27 UG International Scholarship for South Asian Applicants",
+          "amount": "£4000",
+          "eligibility": "Northumbria University, Newcastle",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/fda7f0a7-6e67-401d-82ae-ff2680d342f4/2026-27-ug-international-scholarship-for-south-asian-applicants",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.619185"
+        },
+        {
+          "name": "24+ Scholarship",
+          "amount": "£4,000.00",
+          "eligibility": "SGS (South Gloucestershire and Stroud College)",
+          "deadline": "31 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/9d2f6a79-800d-4293-8f8a-76cf05ef3893/24-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.619306"
+        },
+        {
+          "name": "60th Anniversary Scholarship",
+          "amount": "£1,000.00",
+          "eligibility": "University of East Anglia UEA",
+          "deadline": "18 May 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1727949394/60th-anniversary-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.619435"
+        },
+        {
+          "name": "AberCares Bursary (for Care Leavers, Young Adult Carers, Refugees and Estranged Students)",
+          "amount": "£1,250.00",
+          "eligibility": "Aberystwyth University",
+          "deadline": "31 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e41831f0-cd84-4b8d-81b2-a8219bb60216/abercares-bursary-for-care-leavers-young-adult-carers-refugees-and-estranged-students",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.619560"
+        },
+        {
+          "name": "Aberdeen Global Scholarship - Postgraduate",
+          "amount": "£8,000.00",
+          "eligibility": "University of Aberdeen",
+          "deadline": "31 Jan 2027",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/6feb67c6-d36b-4a53-ae84-e05b8351ce21/aberdeen-global-scholarship---postgraduate",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.619679"
+        },
+        {
+          "name": "Aberdeen Global Scholarship - Undergraduate and PGDE",
+          "amount": "£6,000.00",
+          "eligibility": "University of Aberdeen",
+          "deadline": "08 Oct 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1703241566/aberdeen-global-scholarship---undergraduate-and-pgde",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.619799"
+        },
+        {
+          "name": "Abertay IB30+ Scholarship",
+          "amount": "£7,000.00",
+          "eligibility": "Abertay University",
+          "deadline": "30 Aug 2027",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e77c7fbc-dd0e-4e08-9f34-cd79cfa652a9/abertay-ib30-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.619916"
+        },
+        {
+          "name": "Abertay International Scholarship",
+          "amount": "£3,000.00",
+          "eligibility": "Abertay University",
+          "deadline": "30 Aug 2027",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1662476298/abertay-international-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.620036"
+        },
+        {
+          "name": "Abertay RUK Games Computing Cyber Scholarship",
+          "amount": "Amount not specified",
+          "eligibility": "Abertay University",
+          "deadline": "31 Dec 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1695046783/abertay-ruk-games-computing-cyber-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.620179"
+        },
+        {
+          "name": "Abertay RUK Scholarship: Business",
+          "amount": "Amount not specified",
+          "eligibility": "Abertay University",
+          "deadline": "31 Dec 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1695046384/abertay-ruk-scholarship-business",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:34.620319"
+        },
+        {
+          "name": "Abertay RUK Scholarship: Science and Social Science",
+          "amount": "Amount not specified",
+          "eligibility": "Abertay University",
+          "deadline": "31 Dec 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/21f1e2fe-2e8b-4af8-b7c3-fafdf73ae92a/abertay-ruk-scholarship-science-and-social-science",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.159744"
+        },
+        {
+          "name": "Aberystwyth Regional Scholarship",
+          "amount": "£2,000.00",
+          "eligibility": "Aberystwyth University",
+          "deadline": "31 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7bb05440-a557-4235-a64a-9d84aae6463f/aberystwyth-regional-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.159879"
+        },
+        {
+          "name": "Academi Hywel Teifi Scholarships and Bursaries (for Welsh-Medium Study)",
+          "amount": "£100.00",
+          "eligibility": "Swansea University",
+          "deadline": "16 Oct 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/15187294-ba4b-4d76-b34b-3f4d568ff93b/academi-hywel-teifi-scholarships-and-bursaries-for-welsh-medium-study",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160004"
+        },
+        {
+          "name": "Academic Achievement Award",
+          "amount": "£1,000",
+          "eligibility": "Leeds Trinity University",
+          "deadline": "31 Jul 2027",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1533504370/academic-achievement-award",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160124"
+        },
+        {
+          "name": "Academic Achievement Scholarship",
+          "amount": "£2,000.00",
+          "eligibility": "Bournemouth University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/59da71fb-1fd5-43f1-be67-879fb72e9f55/academic-achievement-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160242"
+        },
+        {
+          "name": "Academic Achievement Scholarship (International)",
+          "amount": "£2,000.00",
+          "eligibility": "Bournemouth University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/99637f04-c9ca-446d-86c7-d1156fb794e4/academic-achievement-scholarship-international",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160364"
+        },
+        {
+          "name": "Academic achievement scholarships",
+          "amount": "Amount not specified",
+          "eligibility": "University of Leeds",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/280c4df6-2b5b-4d04-b4db-f2c2a1616df2/academic-achievement-scholarships",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160505"
+        },
+        {
+          "name": "Academic Excellence",
+          "amount": "£10.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/309eebd3-2995-49bb-bba3-dab54f9838ed/academic-excellence",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160623"
+        },
+        {
+          "name": "Academic Excellence Award",
+          "amount": "£2,000",
+          "eligibility": "Aberystwyth University",
+          "deadline": "01 Sep 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1700496515/academic-excellence-award",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160744"
+        },
+        {
+          "name": "Academic Excellence Scholarship",
+          "amount": "£2,000.00",
+          "eligibility": "Canterbury Christ Church University",
+          "deadline": "30 Jul 2027",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/8a2fc4ba-6d08-49cd-9ccb-9f696e55cf6e/academic-excellence-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160865"
+        },
+        {
+          "name": "Academic Excellence Scholarship",
+          "amount": "£1,000.00",
+          "eligibility": "Liverpool John Moores University",
+          "deadline": "27 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/0499e1a3-4a33-4ca4-beae-81c8a88986c4/academic-excellence-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.160993"
+        },
+        {
+          "name": "Academic Excellence Scholarship (International)",
+          "amount": "£4,500.00",
+          "eligibility": "Bournemouth University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/66c51664-f83c-4219-a1b2-fa720e15ed1d/academic-excellence-scholarship-international",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.161112"
+        },
+        {
+          "name": "Academic Merit Scholarship",
+          "amount": "£1,391.25",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/2ea7994d-95b2-45c3-9736-527bb34565b3/academic-merit-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.161230"
+        },
+        {
+          "name": "Academic Scholarship",
+          "amount": "£1,000.00",
+          "eligibility": "Canterbury Christ Church University",
+          "deadline": "30 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/8615a0ae-9b9e-4411-b621-351565cd986a/academic-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.161349"
+        },
+        {
+          "name": "Access Essex Scholarship",
+          "amount": "100% of tuition fees",
+          "eligibility": "University of Essex",
+          "deadline": "29 Apr 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/5cccec56-68c2-432c-8a97-c288a2697470/access-essex-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.161483"
+        },
+        {
+          "name": "Access Scholarship",
+          "amount": "£300.00",
+          "eligibility": "Lincoln College University Centre",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/6c50e064-3f47-4ead-936c-c99e54016aa8/access-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.161600"
+        },
+        {
+          "name": "Access to Coaching Scholarship – Wembley Campus",
+          "amount": "£1,200.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/df447a04-c885-499d-bf0d-15ccac0d2ed7/access-to-coaching-scholarship-wembley-campus",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.161728"
+        },
+        {
+          "name": "Access to Coaching Scholarship - Manchester Campus",
+          "amount": "£1,200.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/bbb64bf0-3ecc-4b7a-b35f-ad9407a507d5/access-to-coaching-scholarship---manchester-campus",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.161846"
+        },
+        {
+          "name": "Access to Digital Learning Fund",
+          "amount": "Up to £500",
+          "eligibility": "Birkbeck, University of London",
+          "deadline": "31 May 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/dde03ffd-6557-42de-8490-420450825637/access-to-digital-learning-fund",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.161967"
+        },
+        {
+          "name": "Access to HE Scholarship",
+          "amount": "£3,000.00",
+          "eligibility": "De Montfort University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/cc1e2ab5-bbfa-4e7d-8e3a-65c7723de354/access-to-he-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:37.162084"
+        },
+        {
+          "name": "Access to Hope Scholarship",
+          "amount": "£3,000.00",
+          "eligibility": "Liverpool Hope University",
+          "deadline": "30 Apr 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/66abb4a9-edd7-432f-8e08-0c0d98c005c8/access-to-hope-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.743424"
+        },
+        {
+          "name": "Access to Learning Fund",
+          "amount": "£1,000.00",
+          "eligibility": "Nottingham College",
+          "deadline": "25 Jun 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/d5929168-9ebb-4875-b75c-3be332b36222/access-to-learning-fund",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.743555"
+        },
+        {
+          "name": "Access to Sheffield Scholarships",
+          "amount": "£1,000",
+          "eligibility": "University of Sheffield",
+          "deadline": "02 Jun 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/f6b7f83f-b139-449d-8776-c2f008453ff9/access-to-sheffield-scholarships",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.743685"
+        },
+        {
+          "name": "Accommodation Bursary",
+          "amount": "£700",
+          "eligibility": "University of Greenwich",
+          "deadline": "31 Jul 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1698916137/accommodation-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.743805"
+        },
+        {
+          "name": "Accommodation Bursary",
+          "amount": "Amount not specified",
+          "eligibility": "University of Manchester",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/05b72926-f5c1-4f0a-875f-78efd7165193/accommodation-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.743955"
+        },
+        {
+          "name": "Achievement Scholarship*",
+          "amount": "£250.00",
+          "eligibility": "University Centre at the Heart of Yorkshire Education Group (inc Wakefield College & Selby College)",
+          "deadline": "30 Nov 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/14531545-e60d-438a-883c-2cdf770d7dab/achievement-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.744082"
+        },
+        {
+          "name": "Ada Lovelace Excellence Scholarship",
+          "amount": "£2,000.00",
+          "eligibility": "University of Southampton",
+          "deadline": "13 Apr 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/5ee51c3c-cb80-4089-9e3b-883ab7ca0e0e/ada-lovelace-excellence-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.744200"
+        },
+        {
+          "name": "Adam Bell Scholarship",
+          "amount": "£2,000",
+          "eligibility": "Edge Hill University",
+          "deadline": "15 Jun 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1727863241/adam-bell-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.744317"
+        },
+        {
+          "name": "Adrian Stokes Postgraduate Scholarship",
+          "amount": "£750.00",
+          "eligibility": "University of Hertfordshire",
+          "deadline": "30 Mar 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/8c75ce0a-018f-4b20-83f0-34e1f652fe40/adrian-stokes-postgraduate-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.744438"
+        },
+        {
+          "name": "Aldgate and Allhallows Foundation Scholarship",
+          "amount": "£1,250.00",
+          "eligibility": "Queen Mary University of London",
+          "deadline": "01 Nov 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1665135978/aldgate-and-allhallows-foundation-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.744565"
+        },
+        {
+          "name": "Alix Coughlin Professional Development Scholarship",
+          "amount": "£25.00",
+          "eligibility": "Craven College",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/661cf42b-3e28-40a4-8b9f-ffb2793e7b37/alix-coughlin-professional-development-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.744685"
+        },
+        {
+          "name": "All scholarships, bursaries and loans",
+          "amount": "Amount not specified",
+          "eligibility": "City St George's, University of London",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/c09617a2-7775-40fc-aeb2-2d0211dde2d8/all-scholarships-bursaries-and-loans",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.744829"
+        },
+        {
+          "name": "Allen and Nesta Ferguson Charitable Trust",
+          "amount": "£0.00",
+          "eligibility": "Unknown",
+          "deadline": "14 Apr 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/9f76d044-faf4-4bb9-a035-9831132f7e2b/allen-and-nesta-ferguson-charitable-trust",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.744948"
+        },
+        {
+          "name": "Alumni and Family Scholarship 2026/27",
+          "amount": "£1,500.00",
+          "eligibility": "University of Dundee",
+          "deadline": "27 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/39e6919e-d869-4332-bf02-ea7886d25ea2/alumni-and-family-scholarship-2026-27",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.745067"
+        },
+        {
+          "name": "Alumni Award",
+          "amount": "20% tuition fee reduction",
+          "eligibility": "Richmond American University London",
+          "deadline": "31 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7783c951-f182-40a3-997d-cec12aa2749a/alumni-award",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.745199"
+        },
+        {
+          "name": "Alumni Bursary",
+          "amount": "10% tuition fee discount",
+          "eligibility": "Loughborough University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/a92c363f-3382-478a-a84f-afe3db42e557/alumni-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.745327"
+        },
+        {
+          "name": "Alumni Discount",
+          "amount": "£0.00",
+          "eligibility": "Canterbury Christ Church University",
+          "deadline": "30 Jul 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/fd61cf17-d5d1-4364-8539-948498ed6727/alumni-discount",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.745445"
+        },
+        {
+          "name": "Alumni Discount",
+          "amount": "20%",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/8347ccda-cab7-4966-8c69-a4e7b899821f/alumni-discount",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.745572"
+        },
+        {
+          "name": "Alumni discount",
+          "amount": "20%",
+          "eligibility": "Oxford Brookes University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/762ce994-4423-41f9-8741-498e73e294cf/alumni-discount",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.745700"
+        },
+        {
+          "name": "Alumni Discount",
+          "amount": "£10.00",
+          "eligibility": "Kingston University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/2f8bcf46-30d9-4986-8a66-012e59214237/alumni-discount",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:39.745816"
+        },
+        {
+          "name": "Alumni Discount",
+          "amount": "20% off of Tuition fees",
+          "eligibility": "Cardiff Metropolitan University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/2b5f386a-cf90-4b1d-a779-336f7ffa9d55/alumni-discount",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.256298"
+        },
+        {
+          "name": "Alumni Loyalty Scholarship",
+          "amount": "£1,000.00",
+          "eligibility": "Edge Hill University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/93ba0b65-e6aa-4db6-ae7b-4240f51dc071/alumni-loyalty-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.256431"
+        },
+        {
+          "name": "Alumni Loyalty Scholarship",
+          "amount": "10% tuition fee reduction",
+          "eligibility": "Lancaster University",
+          "deadline": "31 Jul 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/76c38bce-434f-401e-888f-78f325351593/alumni-loyalty-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.256568"
+        },
+        {
+          "name": "Alumni PGCE Bursary Award",
+          "amount": "£500.00",
+          "eligibility": "University of Northampton",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/affce2f8-d85d-4397-af03-d3e73a6ac700/alumni-pgce-bursary-award",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.256692"
+        },
+        {
+          "name": "Alumni Postgraduate Loyalty Scheme",
+          "amount": "25% reduction on fees",
+          "eligibility": "University of Suffolk",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/0723c257-f60a-4c02-b8d7-f768789891c0/alumni-postgraduate-loyalty-scheme",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.256824"
+        },
+        {
+          "name": "Alumni Scholarship",
+          "amount": "£2,000.00",
+          "eligibility": "University of Birmingham",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7ab5b31c-902b-4642-947a-82c9b7233ff2/alumni-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.256949"
+        },
+        {
+          "name": "Alumni Scholarship (10% fee discount)",
+          "amount": "£10.00",
+          "eligibility": "York St John University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/429e4a26-3018-4960-81d5-eec0c6c62556/alumni-scholarship-10-fee-discount",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.257072"
+        },
+        {
+          "name": "Alumni Scholarship 2026/27",
+          "amount": "£3,001,500.00",
+          "eligibility": "University of Dundee",
+          "deadline": "27 Aug 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e549046c-ddd6-43c8-8d9d-b0bd89fb9c82/alumni-scholarship-2026-27",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.257191"
+        },
+        {
+          "name": "Alumni Scholarship for Postgraduate Study",
+          "amount": "£10.00",
+          "eligibility": "University of Lincoln",
+          "deadline": "30 Sep 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/dde75743-b39b-4b87-862a-533b120c4d80/alumni-scholarship-for-postgraduate-study",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.257435"
+        },
+        {
+          "name": "Alumni-funded Scholarships",
+          "amount": "£1,000.00",
+          "eligibility": "York St John University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/4f5e2a70-a4a2-4706-9946-2d7d2d6a52f5/alumni-funded-scholarships",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.257591"
+        },
+        {
+          "name": "AMBS Social Responsibility Scholarship",
+          "amount": "£2,000",
+          "eligibility": "University of Manchester",
+          "deadline": "17 Sep 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/6381395b-d5ab-41ff-bcf0-7451f4ed72d0/ambs-social-responsibility-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.257722"
+        },
+        {
+          "name": "Andrew Beacham Awards",
+          "amount": "£1,500.00",
+          "eligibility": "Hartpury University",
+          "deadline": "30 May 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1704271501/andrew-beacham-awards",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.257844"
+        },
+        {
+          "name": "Annie Elizabeth Evans Memorial Scholarship",
+          "amount": "£6,000.00",
+          "eligibility": "Unknown",
+          "deadline": "14 Apr 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/58d98a51-55e2-48d2-a234-97f01af95bc9/annie-elizabeth-evans-memorial-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.257966"
+        },
+        {
+          "name": "Anthony Trower Law Scholarship",
+          "amount": "£1,500.00",
+          "eligibility": "University of Hertfordshire",
+          "deadline": "30 Mar 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/40a801dd-ff45-4b80-8d1f-41ec30162ad6/anthony-trower-law-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.258088"
+        },
+        {
+          "name": "Applicant travel expense bursaries",
+          "amount": "Up to £75",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/b90e30a4-b5bf-4e87-8b15-38a963e558d7/applicant-travel-expense-bursaries",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.258206"
+        },
+        {
+          "name": "Aquaculture Support Scheme",
+          "amount": "£0.00",
+          "eligibility": "University of the Highlands and Islands (UHI)",
+          "deadline": "23 Oct 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/93e277ee-a308-4ed2-9bb9-9de8e97dc088/aquaculture-support-scheme",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.258326"
+        },
+        {
+          "name": "Art and Design scholarship",
+          "amount": "£1,000.00",
+          "eligibility": "Birmingham City University",
+          "deadline": "30 Sep 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/5258a6b4-c200-45f7-95a5-e5dd47019924/art-and-design-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.258447"
+        },
+        {
+          "name": "Art Course Kit Bursary",
+          "amount": "£100.00",
+          "eligibility": "University of South Wales",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/17b6dfd9-4c20-489c-b7d5-5a5c67281f93/art-course-kit-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.258565"
+        },
+        {
+          "name": "Article 26 Scholarships",
+          "amount": "Amount not specified",
+          "eligibility": "University of Manchester",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/38f48186-4e2f-48e1-85fa-2f777208daf6/article-26-scholarships",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.258719"
+        },
+        {
+          "name": "Assist Fund",
+          "amount": "£200.00",
+          "eligibility": "University of Northampton",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e7c3cb04-d8ab-4b04-8f68-f02eec8354c5/assist-fund",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:42.258838"
+        },
+        {
+          "name": "Aston Aspirational Scholarship",
+          "amount": "£500.00",
+          "eligibility": "Aston University, Birmingham",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/5c896a55-6b13-411d-aa12-450258e61931/aston-aspirational-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.965115"
+        },
+        {
+          "name": "Aston Forward Scholarship",
+          "amount": "£1,500",
+          "eligibility": "Aston University, Birmingham",
+          "deadline": "04 Oct 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/22a82700-fdc8-4a7e-b139-96ad4c33c71a/aston-forward-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.965300"
+        },
+        {
+          "name": "Aston Placement Scholarship",
+          "amount": "£1,250",
+          "eligibility": "Aston University, Birmingham",
+          "deadline": "01 Nov 2028",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1509369055/aston-placement-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.965445"
+        },
+        {
+          "name": "Aston Support Scholarship",
+          "amount": "£1,250.00",
+          "eligibility": "Aston University, Birmingham",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/4862b1ab-64a0-4b85-8811-eb0fb7a5fde9/aston-support-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.965640"
+        },
+        {
+          "name": "Asylum Seeker Scholarship",
+          "amount": "£10,000.00",
+          "eligibility": "Buckinghamshire New University",
+          "deadline": "29 Sep 2027",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/72554661-c47f-414e-ae51-ac782526c10f/asylum-seeker-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.965769"
+        },
+        {
+          "name": "AVSH Scholarship",
+          "amount": "£5,0",
+          "eligibility": "Kingston University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7fa51803-2537-4cc0-a5d2-515227dceed7/avsh-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.965901"
+        },
+        {
+          "name": "Aziz Foundation Postgraduate Scholarships",
+          "amount": "Amount not specified",
+          "eligibility": "Birkbeck, University of London",
+          "deadline": "19 Jun 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/bf1a87ec-57b5-441b-b4ec-d9ddf1f4a60c/aziz-foundation-postgraduate-scholarships",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.966094"
+        },
+        {
+          "name": "Aziz Foundation Scholarship",
+          "amount": "The Aziz Foundation Scholarship will cover 100/% of postgraduate tuition fees.",
+          "eligibility": "University of Greenwich",
+          "deadline": "14 May 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/4c5c8412-3af2-4f10-98e2-12cb6e967409/aziz-foundation-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.966304"
+        },
+        {
+          "name": "Bangor Bursary",
+          "amount": "£500.00",
+          "eligibility": "Bangor University",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/d3344642-bfd9-4304-a495-9510fadfb8d7/bangor-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.966469"
+        },
+        {
+          "name": "Barns-Graham Assistance Award",
+          "amount": "£1,000",
+          "eligibility": "University of the Highlands and Islands (UHI)",
+          "deadline": "31 Oct 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1666082743/barns-graham-assistance-award",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.966600"
+        },
+        {
+          "name": "Barns-Graham Travel Scholarship",
+          "amount": "£1,500.00",
+          "eligibility": "University of the Highlands and Islands (UHI)",
+          "deadline": "31 Oct 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/c9388a06-ad57-4e4e-8a0c-2b3df9d0c879/barns-graham-travel-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.966727"
+        },
+        {
+          "name": "BASc Future Leaders Scholarship",
+          "amount": "£50.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/34dfcd95-7089-4c39-a020-b6d0651d905d/basc-future-leaders-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.966856"
+        },
+        {
+          "name": "Basketball Scholarship",
+          "amount": "£250.00",
+          "eligibility": "University of Huddersfield",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/ab5e95ce-38b9-4267-a23e-b5a9fa55cf65/basketball-scholarship",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.966980"
+        },
+        {
+          "name": "Bath International Excellence Scholarships",
+          "amount": "£8,000.00",
+          "eligibility": "University of Bath",
+          "deadline": "24 Jun 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e56e8d7d-3ba0-49bc-aa3b-628e31ea4d4a/bath-international-excellence-scholarships",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.967105"
+        },
+        {
+          "name": "BCNO Adult Carer Bursary",
+          "amount": "£1,000.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/4e1c55b2-ef04-4e9a-8329-3bd627107752/bcno-adult-carer-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.967228"
+        },
+        {
+          "name": "BCNO Care-Experienced Student Bursary",
+          "amount": "£1,000.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/43a19d0f-2ab2-4151-baa2-4e195b9124ed/bcno-care-experienced-student-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.967370"
+        },
+        {
+          "name": "BCNO Estranged Student Bursary",
+          "amount": "£1,000.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/9178c933-1a31-4402-84f2-7a12b17eaf7b/bcno-estranged-student-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.967496"
+        },
+        {
+          "name": "BCNO Free School Meals Bursary",
+          "amount": "£1,000.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/8e5234bb-c94f-4cc7-8263-298e8605baca/bcno-free-school-meals-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.967622"
+        },
+        {
+          "name": "BCNO Low-Income Household Bursary",
+          "amount": "£500.00",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/d1d524bb-d14d-4bd8-bc19-10010762cbbf/bcno-low-income-household-bursary",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.967751"
+        },
+        {
+          "name": "BCU Accelerate",
+          "amount": "£1,000.00",
+          "eligibility": "Birmingham City University",
+          "deadline": "29 Jun 2026",
+          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1700566650/bcu-accelerate",
+          "action": "View Details",
+          "scraped_date": "2026-03-08T14:11:44.967876"
+        }
+      ],
+      "last_updated": "2026-03-08"
+    },
+    "resources": [
+      {
+        "category": "General Databases",
+        "links": [
+          {
+            "name": "Turn2Us",
+            "url": "https://www.turn2us.org.uk",
+            "description": "Search grants and practical support based on personal circumstances."
+          },
+          {
+            "name": "Grants for Individuals",
+            "url": "https://www.grantsforindividuals.org.uk",
+            "description": "Directory of charitable funds for education and hardship support."
+          },
+          {
+            "name": "The Scholarship Hub",
+            "url": "https://www.thescholarshiphub.org.uk",
+            "description": "Scholarship database with opportunities by course and background."
+          },
+          {
+            "name": "Crowd Scholar",
+            "url": "https://crowd.scholar.com",
+            "description": "Alternative scholarship discovery platform for students and applicants."
+          }
+        ]
+      },
+      {
+        "category": "Charity & Specialized Grants",
+        "links": [
+          {
+            "name": "Lawrence Atwell's Charity",
+            "url": "https://www.skinners.org.uk/grants-and-trusts/atwell/",
+            "description": "Funding support for young people facing financial barriers."
+          },
+          {
+            "name": "The Princes Trust",
+            "url": "https://www.princes-trust.org.uk",
+            "description": "Grants and mentoring support for young people in education and work transitions."
+          },
+          {
+            "name": "The Queen's Nursing Institute",
+            "url": "https://www.qni.org.uk/for_nurses/financial_and_personal_assistance/alternative_help",
+            "description": "Financial support signposting for nursing-related needs."
+          },
+          {
+            "name": "Student Health Association",
+            "url": "https://www.studenthealthassociation.org.uk",
+            "description": "Student-focused wellbeing and support information services."
+          },
+          {
+            "name": "RDInfo",
+            "url": "https://www.rdinfo.org.uk",
+            "description": "Specialist guidance and resources for rare disease communities."
+          }
+        ]
+      },
+      {
+        "category": "International Students",
+        "links": [
+          {
+            "name": "UK Council for International Education",
+            "url": "https://www.ukcisa.org.uk",
+            "description": "Official international student advice on fees, funding, and visas."
+          },
+          {
+            "name": "The British Council",
+            "url": "https://www.britishcouncil.org",
+            "description": "Scholarship and study support information for international learners."
+          }
+        ]
+      },
+      {
+        "category": "Advice & Support",
+        "links": [
+          {
+            "name": "Charity Commission Register",
+            "url": "https://www.charitycommission.gov.uk/find-charities/",
+            "description": "Verify legitimate charities and identify potential funders."
+          },
+          {
+            "name": "EGAS (Educational Grants Advisory Service)",
+            "url": "https://www.egas-online.org",
+            "description": "Independent advice service for educational grants and trust funds."
+          },
+          {
+            "name": "Citizens Advice Bureau",
+            "url": "https://www.citizensadvice.org.uk",
+            "description": "Free guidance on student finance, benefits, and hardship options."
+          }
+        ]
+      }
+    ]
+  },
+  "community": {
+    "groups": [
+      {
+        "emoji": "🎓",
+        "title": "University Societies",
+        "description": "Connect with TechSoc, Robotics, and FinTech societies across 5 unis.",
+        "bg_class": "bg-blue-100"
+      },
+      {
+        "emoji": "💬",
+        "title": "Discord & Slack Groups",
+        "description": "Join 3,000+ students in our official developer workspaces.",
+        "bg_class": "bg-indigo-100"
+      }
+    ],
+    "cv": {
+      "title": "Free CV Review",
+      "description": "Get feedback from alumni currently working at FAANG and top startups.",
+      "button": "Get your CV reviewed"
+    },
+    "team_posts": [
+      {
+        "user": "@alex_dev",
+        "time": "2h ago",
+        "text": "Looking for a Backend Developer (Node.js) for the upcoming UCL Hackathon. We already have a designer and frontend!",
+        "tags": [
+          "TypeScript",
+          "Hackathon"
+        ]
+      },
+      {
+        "user": "@sarah_codes",
+        "time": "5h ago",
+        "text": "Starting a Rust study group. Aiming to build a simple CLI tool together. Beginners welcome!",
+        "tags": [
+          "Rust",
+          "Learning"
+        ]
+      },
+      {
+        "user": "@mike_j",
+        "time": "Yesterday",
+        "text": "Need a Machine Learning enthusiast for a Final Year Project collaboration on GANs.",
+        "tags": [
+          "Python",
+          "Research"
+        ]
+      }
+    ]
+  }
+}

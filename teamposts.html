@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StudentStack | Team Posts</title>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  <style>
+    .expandable-text.is-clamped {
+      display: -webkit-box;
+      line-clamp: 3;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans">
+  <nav class="bg-white border-b border-slate-200 sticky top-0 z-30">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <a href="code.html#community" class="font-bold text-blue-700 text-lg">← StudentStack</a>
+      <a href="code.html#community" class="text-sm font-semibold text-blue-700 hover:underline">Back to Community</a>
+    </div>
+  </nav>
+
+  <main class="py-10">
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-8">
+        <div>
+          <h1 class="text-3xl font-bold">All Team Posts</h1>
+          <p class="text-slate-500 mt-1">Browse hackathon, project, and study teammate posts.</p>
+        </div>
+        <div class="flex flex-wrap gap-2" id="team-post-filters">
+          <button class="px-4 py-2 rounded-full text-sm font-semibold bg-blue-700 text-white" data-filter="all" type="button">All</button>
+          <button class="px-4 py-2 rounded-full text-sm font-semibold bg-white border border-slate-200 text-slate-700" data-filter="hackathon" type="button">Hackathon</button>
+          <button class="px-4 py-2 rounded-full text-sm font-semibold bg-white border border-slate-200 text-slate-700" data-filter="project" type="button">Project</button>
+          <button class="px-4 py-2 rounded-full text-sm font-semibold bg-white border border-slate-200 text-slate-700" data-filter="study" type="button">Study</button>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="team-posts-full-container">
+        <div class="md:col-span-2 lg:col-span-3 text-slate-400">Loading posts...</div>
+      </div>
+
+      <div class="mt-8 flex items-center justify-between" id="team-posts-pagination">
+        <button class="px-4 py-2 rounded-lg border border-slate-200 text-slate-700 font-semibold" id="team-posts-prev" type="button">Previous</button>
+        <span class="text-sm text-slate-500" id="team-posts-page-indicator">Page 1</span>
+        <button class="px-4 py-2 rounded-lg border border-slate-200 text-slate-700 font-semibold" id="team-posts-next" type="button">Next</button>
+      </div>
+    </section>
+  </main>
+
+  <div class="fixed inset-0 z-[60] hidden" id="report-team-post-modal">
+    <div class="absolute inset-0 bg-slate-900/50" id="report-team-post-backdrop"></div>
+    <div class="relative min-h-full flex items-center justify-center p-4">
+      <div class="w-full max-w-md bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+        <div class="flex items-start justify-between mb-4">
+          <h3 class="font-bold text-xl text-slate-900">Report Team Post</h3>
+          <button class="text-slate-400 hover:text-slate-700" id="report-team-post-close-btn" type="button">✕</button>
+        </div>
+        <form class="space-y-4" id="report-team-post-form">
+          <div>
+            <label class="block text-sm font-medium text-slate-700 mb-1" for="report-team-post-reason">Reason</label>
+            <select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="report-team-post-reason" required>
+              <option value="">Choose reason</option>
+              <option value="spam">Spam</option>
+              <option value="abuse">Abusive content</option>
+              <option value="misleading">Misleading details</option>
+              <option value="malicious">Malicious link/content</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-sm font-medium text-slate-700 mb-1" for="report-team-post-details">Additional details (optional)</label>
+            <textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="report-team-post-details" rows="4"></textarea>
+          </div>
+          <div class="flex justify-end gap-3">
+            <button class="px-4 py-2 rounded-lg border border-slate-300 text-slate-700 font-semibold hover:bg-slate-50" id="report-team-post-cancel-btn" type="button">Cancel</button>
+            <button class="bg-red-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-red-700" type="submit">Submit Report</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="fixed inset-0 z-[60] hidden" id="remove-content-modal">
+    <div class="absolute inset-0 bg-slate-900/50" id="remove-content-backdrop"></div>
+    <div class="relative min-h-full flex items-center justify-center p-4">
+      <div class="w-full max-w-md bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+        <div class="flex items-start justify-between mb-4">
+          <h3 class="font-bold text-xl text-slate-900">Remove Post</h3>
+          <button class="text-slate-400 hover:text-slate-700" id="remove-content-close-btn" type="button">✕</button>
+        </div>
+        <form class="space-y-4" id="remove-content-form">
+          <div>
+            <label class="block text-sm font-medium text-slate-700 mb-1" for="remove-content-reason">Reason</label>
+            <select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="remove-content-reason" required>
+              <option value="">Choose reason</option>
+              <option value="malicious">Malicious content</option>
+              <option value="spam">Spam</option>
+              <option value="incorrect">Incorrect/misleading</option>
+              <option value="abusive">Abusive content</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-sm font-medium text-slate-700 mb-1" for="remove-content-details">Additional details (optional)</label>
+            <textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="remove-content-details" rows="3"></textarea>
+          </div>
+          <div class="flex justify-end gap-3">
+            <button class="px-4 py-2 rounded-lg border border-slate-300 text-slate-700 font-semibold hover:bg-slate-50" id="remove-content-cancel-btn" type="button">Cancel</button>
+            <button class="bg-red-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-red-700" type="submit">Remove</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="fixed inset-0 z-[60] hidden" id="team-comments-modal">
+    <div class="absolute inset-0 bg-slate-900/50" id="team-comments-backdrop"></div>
+    <div class="relative min-h-full flex items-center justify-center p-4">
+      <div class="w-full max-w-2xl bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+        <div class="flex items-start justify-between mb-4">
+          <h3 class="font-bold text-xl text-slate-900">Comments on <span id="team-comments-post-title">Post</span></h3>
+          <button class="text-slate-400 hover:text-slate-700" id="team-comments-close-btn" type="button">✕</button>
+        </div>
+        <div class="space-y-3 max-h-[320px] overflow-y-auto pr-1 mb-4" id="team-comments-list">
+          <div class="text-slate-400">Loading comments...</div>
+        </div>
+        <form class="space-y-3" id="team-comments-form">
+          <label class="block text-sm font-medium text-slate-700" for="team-comment-input">Add comment</label>
+          <textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-comment-input" placeholder="Share feedback or ask a question..." required rows="3"></textarea>
+          <div class="flex justify-end">
+            <button class="bg-blue-700 text-white px-5 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors" type="submit">Post Comment</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="fixed inset-0 z-[70] hidden" id="expand-content-modal">
+    <div class="absolute inset-0 bg-slate-900/70" id="expand-content-backdrop"></div>
+    <div class="relative min-h-full flex items-center justify-center p-4">
+      <div class="w-full max-w-5xl max-h-[90vh] bg-white rounded-2xl shadow-xl border border-slate-200 p-6 flex flex-col">
+        <div class="flex items-start justify-between mb-4">
+          <h3 class="font-bold text-xl text-slate-900" id="expand-content-title">Expanded content</h3>
+          <button class="text-slate-400 hover:text-slate-700" id="expand-content-close-btn" type="button">✕</button>
+        </div>
+        <div class="overflow-y-auto pr-2 flex-1">
+          <p class="text-base text-slate-700 whitespace-pre-wrap leading-relaxed" id="expand-content-body"></p>
+        </div>
+        <div class="pt-4 flex justify-end">
+          <button class="px-5 py-2 rounded-lg border border-slate-300 text-slate-700 font-semibold hover:bg-slate-50" id="expand-content-close-secondary" type="button">Back to normal</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/teamposts.js" type="module"></script>
+</body>
+</html>

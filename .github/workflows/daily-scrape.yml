@@ -1,0 +1,76 @@
+name: Daily Scrape
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 06:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install scraper dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pandas
+
+      - name: Run Trackr scraper
+        env:
+          TRACKR_SEASON: ${{ vars.TRACKR_SEASON || '2026' }}
+          TRACKR_REGION: ${{ vars.TRACKR_REGION || 'UK' }}
+          TRACKR_INDUSTRY: ${{ vars.TRACKR_INDUSTRY || 'Technology' }}
+          TRACKR_API_URL: ${{ vars.TRACKR_API_URL || 'https://api.the-trackr.com/programmes' }}
+          TRACKR_TIMEOUT_SECONDS: ${{ vars.TRACKR_TIMEOUT_SECONDS || '30' }}
+          TRACKR_REQUEST_INTERVAL_SECONDS: ${{ vars.TRACKR_REQUEST_INTERVAL_SECONDS || '2' }}
+          TRACKR_REFERER: ${{ vars.TRACKR_REFERER || 'https://app.the-trackr.com/uk-technology/summer-internships' }}
+          TRACKR_USER_AGENT: ${{ vars.TRACKR_USER_AGENT || '' }}
+        run: python trackr_scraper_final.py --all --season "${TRACKR_SEASON}"
+
+      - name: Run Luma scraper
+        env:
+          LUMA_API_URL: ${{ vars.LUMA_API_URL || 'https://api2.luma.com/discover/get-paginated-events' }}
+          LUMA_TIMEOUT_SECONDS: ${{ vars.LUMA_TIMEOUT_SECONDS || '30' }}
+          LUMA_REQUEST_INTERVAL_SECONDS: ${{ vars.LUMA_REQUEST_INTERVAL_SECONDS || '1' }}
+          LUMA_LATITUDE: ${{ vars.LUMA_LATITUDE || '51.50853' }}
+          LUMA_LONGITUDE: ${{ vars.LUMA_LONGITUDE || '-0.12574' }}
+          LUMA_PAGE_LIMIT: ${{ vars.LUMA_PAGE_LIMIT || '50' }}
+          LUMA_MAX_PAGES_PER_SLUG: ${{ vars.LUMA_MAX_PAGES_PER_SLUG || '3' }}
+          LUMA_USER_AGENT: ${{ vars.LUMA_USER_AGENT || '' }}
+          LUMA_CLIENT_VERSION: ${{ vars.LUMA_CLIENT_VERSION || '' }}
+          LUMA_WEB_URL: ${{ vars.LUMA_WEB_URL || '' }}
+          LUMA_COOKIES_JSON: ${{ secrets.LUMA_COOKIES_JSON }}
+        run: python luma/luma_api_scraper.py
+
+      - name: Run UCAS scraper
+        env:
+          UCAS_BASE_URL: ${{ vars.UCAS_BASE_URL || 'https://www.ucas.com' }}
+          UCAS_SEARCH_URL: ${{ vars.UCAS_SEARCH_URL || 'https://www.ucas.com/explore/search/scholarships-and-bursaries' }}
+          UCAS_TIMEOUT_SECONDS: ${{ vars.UCAS_TIMEOUT_SECONDS || '30' }}
+          UCAS_REQUEST_INTERVAL_SECONDS: ${{ vars.UCAS_REQUEST_INTERVAL_SECONDS || '2' }}
+          UCAS_PAGES: ${{ vars.UCAS_PAGES || '5' }}
+          UCAS_USER_AGENT: ${{ vars.UCAS_USER_AGENT || '' }}
+        run: python ucas_scraper.py --pages "${UCAS_PAGES}"
+
+      - name: Commit and push updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json data/*.csv || true
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+            exit 0
+          fi
+          git commit -m "chore(data): daily scraper refresh"
+          git push

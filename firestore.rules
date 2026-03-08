@@ -1,0 +1,182 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function userDoc(uid) {
+      return get(/databases/$(database)/documents/users/$(uid));
+    }
+
+    function currentUserData() {
+      return userDoc(request.auth.uid).data;
+    }
+
+    function currentRole() {
+      return isSignedIn() && userDoc(request.auth.uid).exists() ? currentUserData().role : null;
+    }
+
+    function isAdmin() {
+      return currentRole() == 'admin';
+    }
+
+    function isModOrAdmin() {
+      return currentRole() == 'mod' || currentRole() == 'admin';
+    }
+
+    function isBanned() {
+      return isSignedIn() && userDoc(request.auth.uid).exists() && currentUserData().isBanned == true;
+    }
+
+    function hasOnlyUserEditableProfileChanges() {
+      return request.resource.data.diff(resource.data).changedKeys().hasOnly([
+        'displayName',
+        'avatarEmoji',
+        'university',
+        'yearOfStudy',
+        'lastLogin',
+        'notificationPreferences',
+        'notificationMeta',
+        'email'
+      ]);
+    }
+
+    function hasValidUserShape() {
+      return request.resource.data.keys().hasAll([
+        'email',
+        'displayName',
+        'role',
+        'isBanned',
+        'notificationPreferences'
+      ]);
+    }
+
+    function isReportOnlyUpdate() {
+      return request.resource.data.diff(resource.data).changedKeys().hasOnly(['reports', 'reportCount']);
+    }
+
+    function isReactionOnlyUpdate() {
+      return request.resource.data.diff(resource.data).changedKeys().hasOnly([
+        'upvotes',
+        'downvotes',
+        'upvotedBy',
+        'downvotedBy'
+      ]);
+    }
+
+    match /users/{userId} {
+      allow create: if isSignedIn() && request.auth.uid == userId && hasValidUserShape();
+      allow get: if isSignedIn() && (request.auth.uid == userId || isAdmin());
+      allow list: if isSignedIn() && isAdmin();
+
+      allow update: if isSignedIn() && (
+        (request.auth.uid == userId && !isBanned() && hasOnlyUserEditableProfileChanges()) ||
+        isAdmin()
+      );
+
+      allow delete: if isSignedIn() && isAdmin();
+    }
+
+    match /universityNotes/{noteId} {
+      allow read: if true;
+
+      allow create: if isSignedIn() && !isBanned()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.keys().hasAll([
+          'userId',
+          'university',
+          'moduleCode',
+          'moduleName',
+          'year',
+          'title',
+          'content',
+          'verified',
+          'reportCount',
+          'upvotes',
+          'createdAt'
+        ])
+        && (
+          isModOrAdmin() || request.resource.data.verified == false
+        );
+
+      allow update: if isSignedIn() && !isBanned() && (
+        isModOrAdmin() || isReportOnlyUpdate() || isReactionOnlyUpdate()
+      );
+
+      allow delete: if isSignedIn() && isModOrAdmin();
+    }
+
+    match /universityNotes/{noteId}/comments/{commentId} {
+      allow read: if true;
+      allow create: if isSignedIn() && !isBanned()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.keys().hasAll([
+          'userId',
+          'authorName',
+          'content',
+          'createdAt'
+        ]);
+
+      allow update, delete: if isSignedIn() && isModOrAdmin();
+    }
+
+    match /teamPosts/{postId} {
+      allow read: if true;
+
+      allow create: if isSignedIn() && !isBanned()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.keys().hasAll([
+          'userId',
+          'type',
+          'title',
+          'description',
+          'lookingFor',
+          'contactInfo',
+          'reportCount',
+          'createdAt'
+        ]);
+
+      allow update: if isSignedIn() && !isBanned() && (
+        isModOrAdmin() || isReportOnlyUpdate() || isReactionOnlyUpdate()
+      );
+
+      allow delete: if isSignedIn() && isModOrAdmin();
+    }
+
+    match /teamPosts/{postId}/comments/{commentId} {
+      allow read: if true;
+      allow create: if isSignedIn() && !isBanned()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.keys().hasAll([
+          'userId',
+          'authorName',
+          'content',
+          'createdAt'
+        ]);
+
+      allow update, delete: if isSignedIn() && isModOrAdmin();
+    }
+
+    match /moderationLogs/{logId} {
+      allow create, get, list: if isSignedIn() && isModOrAdmin();
+      allow update, delete: if false;
+    }
+
+    match /userNotifications/{notificationId} {
+      allow create: if isSignedIn() && !isBanned()
+        && request.resource.data.keys().hasAll([
+          'userId',
+          'type',
+          'title',
+          'url',
+          'createdAt'
+        ]);
+
+      allow read: if isSignedIn() && (request.auth.uid == resource.data.userId || isAdmin());
+      allow update: if false;
+      allow delete: if isSignedIn() && (request.auth.uid == resource.data.userId || isAdmin());
+    }
+  }
+}

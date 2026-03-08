@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html class="scroll-smooth" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>StudentStack | Admin Dashboard</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#1e3a8a',
+            secondary: '#0d9488',
+            accent: '#f59e0b',
+            background: '#f8fafc',
+          },
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-background text-slate-900 min-h-screen">
+<nav class="w-full bg-white border-b border-slate-200">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+<a class="font-bold text-primary text-xl" href="code.html">StudentStack</a>
+<div class="flex items-center gap-3">
+<span class="text-xs px-2 py-1 rounded bg-red-100 text-red-700 font-semibold">ADMIN</span>
+<button class="bg-slate-100 text-slate-700 px-4 py-2 rounded-lg text-sm font-semibold hover:bg-slate-200 transition-colors" id="admin-signout-btn" type="button">Sign Out</button>
+</div>
+</div>
+</nav>
+
+<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+<section class="hidden bg-white border border-slate-200 rounded-2xl p-8" id="admin-auth-required">
+<h1 class="text-2xl font-bold mb-3">Log in required</h1>
+<p class="text-slate-600 mb-6">Please log in with your admin account.</p>
+<button class="bg-primary text-white px-5 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="admin-go-home-btn" type="button">Go to Home</button>
+</section>
+
+<section class="hidden bg-white border border-slate-200 rounded-2xl p-8" id="admin-access-denied">
+<h1 class="text-2xl font-bold mb-3">Access denied</h1>
+<p class="text-slate-600">Only admin users can access this page.</p>
+</section>
+
+<section class="hidden" id="admin-shell">
+<div class="bg-white border border-slate-200 rounded-2xl p-8 mb-6">
+<h1 class="text-3xl font-bold text-slate-900 mb-2">Admin Dashboard</h1>
+<p class="text-slate-500">Manage users, roles, bans, and review all submitted reports.</p>
+</div>
+
+<div class="hidden px-4 py-3 rounded-lg text-sm mb-4" id="admin-status"></div>
+
+<section class="bg-white border border-slate-200 rounded-2xl p-6 mb-6">
+<div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-4">
+<h2 class="text-xl font-bold text-slate-900">User Management</h2>
+<div class="flex flex-col sm:flex-row gap-3">
+<input class="rounded-lg border border-slate-300 px-3 py-2 text-sm" id="admin-user-search" placeholder="Search by email, name, university" type="text"/>
+<select class="rounded-lg border border-slate-300 px-3 py-2 text-sm" id="admin-role-filter">
+<option value="all">All Roles</option>
+<option value="admin">Admin</option>
+<option value="mod">Mod</option>
+<option value="user">User</option>
+</select>
+</div>
+</div>
+<div class="overflow-x-auto">
+<table class="w-full text-left">
+<thead class="bg-slate-50 border-b border-slate-200">
+<tr>
+<th class="px-4 py-3 text-xs font-bold text-slate-500 uppercase tracking-wider">Email</th>
+<th class="px-4 py-3 text-xs font-bold text-slate-500 uppercase tracking-wider">Name</th>
+<th class="px-4 py-3 text-xs font-bold text-slate-500 uppercase tracking-wider">Role</th>
+<th class="px-4 py-3 text-xs font-bold text-slate-500 uppercase tracking-wider">University</th>
+<th class="px-4 py-3 text-xs font-bold text-slate-500 uppercase tracking-wider">Banned</th>
+<th class="px-4 py-3 text-xs font-bold text-slate-500 uppercase tracking-wider">Actions</th>
+</tr>
+</thead>
+<tbody class="divide-y divide-slate-100" id="admin-users-table-body">
+<tr><td class="px-4 py-6 text-slate-400" colspan="6">Loading users...</td></tr>
+</tbody>
+</table>
+</div>
+</section>
+
+<section class="bg-white border border-slate-200 rounded-2xl p-6">
+<div class="flex items-center justify-between mb-4">
+<h2 class="text-xl font-bold text-slate-900">All Reports</h2>
+<span class="text-sm text-slate-500" id="admin-reports-count">0 reports</span>
+</div>
+<div class="space-y-3" id="admin-reports-list">
+<div class="text-slate-400">Loading reports...</div>
+</div>
+</section>
+</section>
+</main>
+
+<script src="js/admin-dashboard.js" type="module"></script>
+</body>
+</html>

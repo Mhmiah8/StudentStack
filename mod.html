@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html class="scroll-smooth" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>StudentStack | Mod Dashboard</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#1e3a8a',
+            secondary: '#0d9488',
+            accent: '#f59e0b',
+            background: '#f8fafc',
+          },
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-background text-slate-900 min-h-screen">
+<nav class="w-full bg-white border-b border-slate-200">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+<a class="font-bold text-primary text-xl" href="code.html">StudentStack</a>
+<div class="flex items-center gap-3">
+<span class="text-xs px-2 py-1 rounded bg-amber-100 text-amber-700 font-semibold" id="mod-role-badge">MOD</span>
+<button class="bg-slate-100 text-slate-700 px-4 py-2 rounded-lg text-sm font-semibold hover:bg-slate-200 transition-colors" id="mod-signout-btn" type="button">Sign Out</button>
+</div>
+</div>
+</nav>
+
+<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+<section class="hidden bg-white border border-slate-200 rounded-2xl p-8" id="mod-auth-required">
+<h1 class="text-2xl font-bold mb-3">Log in required</h1>
+<p class="text-slate-600 mb-6">Please log in with a moderator/admin account to access moderation tools.</p>
+<button class="bg-primary text-white px-5 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="mod-go-home-btn" type="button">Go to Home</button>
+</section>
+
+<section class="hidden bg-white border border-slate-200 rounded-2xl p-8" id="mod-access-denied">
+<h1 class="text-2xl font-bold mb-3">Access denied</h1>
+<p class="text-slate-600">This page is only available to moderators and admins.</p>
+</section>
+
+<section class="hidden" id="mod-shell">
+<div class="bg-white border border-slate-200 rounded-2xl p-8 mb-6">
+<h1 class="text-3xl font-bold text-slate-900 mb-2">Moderation Dashboard</h1>
+<p class="text-slate-500">Review unverified notes and reported content. Verify or remove with clear reasons.</p>
+</div>
+
+<div class="hidden px-4 py-3 rounded-lg text-sm mb-4" id="mod-status"></div>
+
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+<section class="bg-white border border-slate-200 rounded-2xl p-6">
+<div class="flex items-center justify-between mb-4">
+<h2 class="text-xl font-bold text-slate-900">Unverified Notes</h2>
+<span class="text-sm text-slate-500" id="unverified-count">0</span>
+</div>
+<div class="space-y-3" id="unverified-notes-list">
+<div class="text-slate-400">Loading unverified notes...</div>
+</div>
+</section>
+
+<section class="bg-white border border-slate-200 rounded-2xl p-6">
+<div class="flex items-center justify-between mb-4">
+<h2 class="text-xl font-bold text-slate-900">Reported Content</h2>
+<span class="text-sm text-slate-500" id="reported-count">0</span>
+</div>
+<div class="space-y-3" id="reported-content-list">
+<div class="text-slate-400">Loading reports...</div>
+</div>
+</section>
+</div>
+</section>
+</main>
+
+<div class="fixed inset-0 z-[60] hidden" id="mod-remove-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="mod-remove-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-md bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Remove Content</h3>
+<button class="text-slate-400 hover:text-slate-700" id="mod-remove-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<p class="text-sm text-slate-600 mb-4" id="mod-remove-target-text"></p>
+<form class="space-y-4" id="mod-remove-form">
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="mod-remove-reason">Reason</label>
+<select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="mod-remove-reason" required>
+<option value="">Choose reason</option>
+<option value="malicious">Malicious content</option>
+<option value="spam">Spam</option>
+<option value="incorrect">Incorrect/misleading</option>
+<option value="abusive">Abusive content</option>
+<option value="copyright">Copyright concern</option>
+<option value="other">Other</option>
+</select>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="mod-remove-details">Additional details (optional)</label>
+<textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="mod-remove-details" rows="3"></textarea>
+</div>
+<div class="flex justify-end gap-3">
+<button class="px-4 py-2 rounded-lg border border-slate-300 text-slate-700 font-semibold hover:bg-slate-50" id="mod-remove-cancel-btn" type="button">Cancel</button>
+<button class="bg-red-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-red-700" type="submit">Remove</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<script src="js/mod-dashboard.js" type="module"></script>
+</body>
+</html>

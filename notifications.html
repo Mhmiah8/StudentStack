@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html class="scroll-smooth" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>StudentStack | Notification Settings</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#1e3a8a',
+            secondary: '#0d9488',
+            accent: '#f59e0b',
+            background: '#f8fafc',
+          },
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-background text-slate-900 min-h-screen">
+<nav class="w-full bg-white border-b border-slate-200">
+<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+<a class="font-bold text-primary text-xl" href="code.html">StudentStack</a>
+<button class="bg-slate-100 text-slate-700 px-4 py-2 rounded-lg text-sm font-semibold hover:bg-slate-200 transition-colors" id="notifications-signout-btn" type="button">Sign Out</button>
+</div>
+</nav>
+
+<main class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+<section class="hidden bg-white border border-slate-200 rounded-2xl p-8" id="auth-required">
+<h1 class="text-2xl font-bold mb-3">Log in required</h1>
+<p class="text-slate-600 mb-6">You need to log in to manage your notifications.</p>
+<button class="bg-primary text-white px-5 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="auth-required-login-btn" type="button">Go to Home & Log In</button>
+</section>
+
+<section class="hidden" id="notifications-shell">
+<div class="bg-white border border-slate-200 rounded-2xl p-8 mb-6">
+<h1 class="text-3xl font-bold text-slate-900 mb-2">Notification Preferences</h1>
+<p class="text-slate-500">Choose what updates you want to be notified about.</p>
+<div class="mt-4 flex flex-wrap items-center gap-2 text-sm">
+<span class="px-2 py-1 rounded bg-slate-100 text-slate-700" id="notifications-email"></span>
+<span class="px-2 py-1 rounded bg-blue-100 text-blue-700 font-semibold" id="notifications-role">USER</span>
+</div>
+</div>
+
+<div class="hidden px-4 py-3 rounded-lg text-sm mb-4" id="notifications-status"></div>
+
+<form class="bg-white border border-slate-200 rounded-2xl p-8 space-y-4" id="notifications-form">
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Internships</span>
+<input class="w-5 h-5 text-primary" id="pref-internships" type="checkbox"/>
+</label>
+
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Placements</span>
+<input class="w-5 h-5 text-primary" id="pref-placements" type="checkbox"/>
+</label>
+
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Graduate Programmes</span>
+<input class="w-5 h-5 text-primary" id="pref-graduate" type="checkbox"/>
+</label>
+
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Spring Weeks</span>
+<input class="w-5 h-5 text-primary" id="pref-spring-weeks" type="checkbox"/>
+</label>
+
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Hackathons</span>
+<input class="w-5 h-5 text-primary" id="pref-hackathons" type="checkbox"/>
+</label>
+
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Grants</span>
+<input class="w-5 h-5 text-primary" id="pref-grants" type="checkbox"/>
+</label>
+
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Events</span>
+<input class="w-5 h-5 text-primary" id="pref-events" type="checkbox"/>
+</label>
+
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Bursaries</span>
+<input class="w-5 h-5 text-primary" id="pref-bursaries" type="checkbox"/>
+</label>
+
+<label class="flex items-center justify-between bg-slate-50 border border-slate-200 rounded-xl p-4 cursor-pointer">
+<span class="font-medium">Scholarships</span>
+<input class="w-5 h-5 text-primary" id="pref-scholarships" type="checkbox"/>
+</label>
+
+<div class="flex justify-end pt-2">
+<button class="bg-primary text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="notifications-save-btn" type="submit">Save Preferences</button>
+</div>
+</form>
+</section>
+</main>
+
+<script src="js/notifications-page.js" type="module"></script>
+</body>
+</html>
