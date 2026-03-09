@@ -13,7 +13,7 @@
       "Noam"
     ],
     "attendee_count": 15,
-    "scraped_date": "2026-03-08T15:54:57.451721"
+    "scraped_date": "2026-03-09T06:54:39.151939"
   },
   {
     "name": "Encode AI Series: AI in Marketing",
@@ -29,7 +29,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-08T15:55:01.997986"
+    "scraped_date": "2026-03-09T06:54:43.837147"
   },
   {
     "name": "Based Coworking @ Encode Hub",
@@ -45,7 +45,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-08T15:55:01.998024"
+    "scraped_date": "2026-03-09T06:54:43.837188"
   },
   {
     "name": "London | Claude Code Curious #3",
@@ -62,7 +62,7 @@
       "Shreman Shrestha"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-08T15:55:01.998058"
+    "scraped_date": "2026-03-09T06:54:43.837224"
   },
   {
     "name": "Agentic Commerce, Decoded",
@@ -78,7 +78,7 @@
       "Azoma AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-08T15:55:01.998086"
+    "scraped_date": "2026-03-09T06:54:43.837252"
   },
   {
     "name": "GeoJam: A GeoAI Evening Hackathon",
@@ -94,7 +94,7 @@
       "GeoJam"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-08T15:55:01.998097"
+    "scraped_date": "2026-03-09T06:54:43.837270"
   },
   {
     "name": "How I use Claude Code as a Data PM (London Data & AI Product Management meetup #21)",
@@ -109,8 +109,8 @@
     "hosts": [
       "Nick Zervoudis"
     ],
-    "attendee_count": 48,
-    "scraped_date": "2026-03-08T15:55:01.998108"
+    "attendee_count": 49,
+    "scraped_date": "2026-03-09T06:54:43.837294"
   },
   {
     "name": "Claude & Finance | Claude Builder Club @ Imperial",
@@ -125,8 +125,8 @@
     "hosts": [
       "Bohdan Yermakov"
     ],
-    "attendee_count": 85,
-    "scraped_date": "2026-03-08T15:55:01.998133"
+    "attendee_count": 213,
+    "scraped_date": "2026-03-09T06:54:43.837311"
   },
   {
     "name": "Mozart AI Hack With ElevenLabs & OpenAI",
@@ -144,7 +144,7 @@
       "Fatema"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-08T15:55:01.998163"
+    "scraped_date": "2026-03-09T06:54:43.837338"
   },
   {
     "name": "Zero to Coder: Learn to Code with AI",
@@ -160,7 +160,7 @@
       "Jethro Reeve"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-03-08T15:55:01.998178"
+    "scraped_date": "2026-03-09T06:54:43.837347"
   },
   {
     "name": "ClawClub AI Agents Hackday 🦞 London 15 Mar 2026",
@@ -175,8 +175,8 @@
     "hosts": [
       "sugaroverflow"
     ],
-    "attendee_count": 53,
-    "scraped_date": "2026-03-08T15:55:01.998190"
+    "attendee_count": 54,
+    "scraped_date": "2026-03-09T06:54:43.837361"
   },
   {
     "name": "AI: Who Builds It, Who Benefits, and Who Decides?",
@@ -191,7 +191,39 @@
     "hosts": [
       "Women in Tech UK"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-03-08T15:55:01.998210"
+    "attendee_count": 22,
+    "scraped_date": "2026-03-09T06:54:43.837378"
+  },
+  {
+    "name": "Arize Builders Meetup - London - Boosting Claude Code performance with prompt learning",
+    "date": "2026-03-17T17:30:00.000Z",
+    "end_date": "2026-03-17T20:30:00.000Z",
+    "location": "Fora - Folgate Street, 35-41 Folgate St, London E1 6BX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/gwd1hbzo",
+    "hosts": [
+      "Arize AI"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-09T06:54:43.837397"
+  },
+  {
+    "name": "Building iOS Apps with Agents + Coding Agent Evals 101",
+    "date": "2026-03-17T18:00:00.000Z",
+    "end_date": "2026-03-17T21:00:00.000Z",
+    "location": "Tessl AI Limited, 210 Pentonville Rd, London N1 9JY, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/nik9qra6",
+    "hosts": [
+      "Sam Hepburn"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-09T06:54:43.837408"
   }
 ]
