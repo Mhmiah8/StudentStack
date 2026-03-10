@@ -1,8 +1,3 @@
-Here's a clean, professional README for your StudentStack project:
-
-## 📋 **Copy and paste this into your `README.md` file:**
-
-```markdown
 # StudentStack 🎓
 
 **Your All-in-One Launchpad for Tech Success**
@@ -44,28 +39,6 @@ StudentStack is a comprehensive dashboard for Computer Science students, aggrega
 ## 🚀 **Live Site**
 
 [https://mhmiah8.github.io/StudentStack/code.html](https://mhmiah8.github.io/StudentStack/code.html)
-
-## 📁 **Project Structure**
-
-```
-StudentStack/
-├── code.html              # Main entry point
-├── js/                    # JavaScript modules
-│   ├── firebase-config.js
-│   ├── load-trackr-jobs.js
-│   ├── load-hackathons.js
-│   └── load-site-content.js
-├── data/                  # Daily scraped JSON
-│   ├── jobs_latest.json
-│   ├── hackathons_latest.json
-│   └── scholarships_latest.json
-├── .github/workflows/     # GitHub Actions
-│   └── daily-scrape.yml
-├── trackr_scraper_final.py
-├── luma_api_scraper.py
-├── ucas_scraper.py
-└── firebase.json
-```
 
 ## 🔧 **Local Development**
 
@@ -128,4 +101,3 @@ MIT © StudentStack
 
 - Data sourced from Trackr, Luma, and UCAS
 - Built for CS students, by students
-```
