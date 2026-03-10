@@ -1,21 +1,5 @@
 [
   {
-    "name": "Campaign Lab Spring Hack Night!",
-    "date": "2026-03-09T19:00:00.000Z",
-    "end_date": "2026-03-09T22:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/wbrblers",
-    "hosts": [
-      "Noam"
-    ],
-    "attendee_count": 15,
-    "scraped_date": "2026-03-09T06:54:39.151939"
-  },
-  {
     "name": "Encode AI Series: AI in Marketing",
     "date": "2026-03-10T18:30:00.000Z",
     "end_date": "2026-03-10T20:30:00.000Z",
@@ -29,7 +13,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-09T06:54:43.837147"
+    "scraped_date": "2026-03-10T06:40:34.821162"
   },
   {
     "name": "Based Coworking @ Encode Hub",
@@ -45,7 +29,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-09T06:54:43.837188"
+    "scraped_date": "2026-03-10T06:40:34.821202"
   },
   {
     "name": "London | Claude Code Curious #3",
@@ -62,7 +46,25 @@
       "Shreman Shrestha"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-09T06:54:43.837224"
+    "scraped_date": "2026-03-10T06:40:34.821236"
+  },
+  {
+    "name": "Jumpstart Builder Meetup",
+    "date": "2026-03-11T19:00:00.000Z",
+    "end_date": "2026-03-11T23:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qt4824k9",
+    "hosts": [
+      "Lily",
+      "Patrick De Castro Neuhaus",
+      "Kabir Bali"
+    ],
+    "attendee_count": 21,
+    "scraped_date": "2026-03-10T06:40:29.890822"
   },
   {
     "name": "Agentic Commerce, Decoded",
@@ -78,7 +80,7 @@
       "Azoma AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-09T06:54:43.837252"
+    "scraped_date": "2026-03-10T06:40:34.821257"
   },
   {
     "name": "GeoJam: A GeoAI Evening Hackathon",
@@ -94,7 +96,7 @@
       "GeoJam"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-09T06:54:43.837270"
+    "scraped_date": "2026-03-10T06:40:34.821273"
   },
   {
     "name": "How I use Claude Code as a Data PM (London Data & AI Product Management meetup #21)",
@@ -109,8 +111,8 @@
     "hosts": [
       "Nick Zervoudis"
     ],
-    "attendee_count": 49,
-    "scraped_date": "2026-03-09T06:54:43.837294"
+    "attendee_count": 55,
+    "scraped_date": "2026-03-10T06:40:34.821284"
   },
   {
     "name": "Claude & Finance | Claude Builder Club @ Imperial",
@@ -125,8 +127,8 @@
     "hosts": [
       "Bohdan Yermakov"
     ],
-    "attendee_count": 213,
-    "scraped_date": "2026-03-09T06:54:43.837311"
+    "attendee_count": 336,
+    "scraped_date": "2026-03-10T06:40:34.821301"
   },
   {
     "name": "Mozart AI Hack With ElevenLabs & OpenAI",
@@ -144,7 +146,7 @@
       "Fatema"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-09T06:54:43.837338"
+    "scraped_date": "2026-03-10T06:40:34.821330"
   },
   {
     "name": "Zero to Coder: Learn to Code with AI",
@@ -160,7 +162,7 @@
       "Jethro Reeve"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-03-09T06:54:43.837347"
+    "scraped_date": "2026-03-10T06:40:34.821339"
   },
   {
     "name": "ClawClub AI Agents Hackday 🦞 London 15 Mar 2026",
@@ -175,8 +177,27 @@
     "hosts": [
       "sugaroverflow"
     ],
-    "attendee_count": 54,
-    "scraped_date": "2026-03-09T06:54:43.837361"
+    "attendee_count": 58,
+    "scraped_date": "2026-03-10T06:40:34.821349"
+  },
+  {
+    "name": "LSE BUILD 2026 (LSESU Blockchain x Velocity)",
+    "date": "2026-03-16T17:00:00.000Z",
+    "end_date": "2026-03-16T21:00:00.000Z",
+    "location": "LSE Old Building, Houghton St, London WC2A 2AE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/7fclophn",
+    "hosts": [
+      "LSESU Velocity Society",
+      "Yamin Mushtaq",
+      "Kevin Apetrei",
+      "LSESU Blockchain Society"
+    ],
+    "attendee_count": 5,
+    "scraped_date": "2026-03-10T06:40:34.821369"
   },
   {
     "name": "AI: Who Builds It, Who Benefits, and Who Decides?",
@@ -191,39 +212,23 @@
     "hosts": [
       "Women in Tech UK"
     ],
-    "attendee_count": 22,
-    "scraped_date": "2026-03-09T06:54:43.837378"
+    "attendee_count": 34,
+    "scraped_date": "2026-03-10T06:40:34.821378"
   },
   {
-    "name": "Arize Builders Meetup - London - Boosting Claude Code performance with prompt learning",
-    "date": "2026-03-17T17:30:00.000Z",
-    "end_date": "2026-03-17T20:30:00.000Z",
-    "location": "Fora - Folgate Street, 35-41 Folgate St, London E1 6BX, UK",
+    "name": "Central London | Claude Code for Everyone CCCL #4",
+    "date": "2026-03-16T18:00:00.000Z",
+    "end_date": "2026-03-16T20:30:00.000Z",
+    "location": "",
     "city": "London",
-    "country": "United Kingdom",
+    "country": "",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/gwd1hbzo",
+    "url": "https://lu.ma/claude.code.central.london.4",
     "hosts": [
-      "Arize AI"
+      "Vikram Pawar"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-09T06:54:43.837397"
-  },
-  {
-    "name": "Building iOS Apps with Agents + Coding Agent Evals 101",
-    "date": "2026-03-17T18:00:00.000Z",
-    "end_date": "2026-03-17T21:00:00.000Z",
-    "location": "Tessl AI Limited, 210 Pentonville Rd, London N1 9JY, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/nik9qra6",
-    "hosts": [
-      "Sam Hepburn"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-09T06:54:43.837408"
+    "scraped_date": "2026-03-10T06:40:34.821386"
   }
 ]

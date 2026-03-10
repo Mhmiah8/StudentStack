@@ -14,7 +14,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.745979"
+    "scraped_date": "2026-03-10T06:40:18.065199"
   },
   {
     "id": "49zvbzilax",
@@ -31,7 +31,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746101"
+    "scraped_date": "2026-03-10T06:40:18.065294"
   },
   {
     "id": "4jwgepjmbg",
@@ -48,7 +48,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746109"
+    "scraped_date": "2026-03-10T06:40:18.065301"
   },
   {
     "id": "4r26wqtq4o",
@@ -65,7 +65,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746114"
+    "scraped_date": "2026-03-10T06:40:18.065305"
   },
   {
     "id": "4r8dj0azow",
@@ -82,7 +82,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746118"
+    "scraped_date": "2026-03-10T06:40:18.065309"
   },
   {
     "id": "606qz4gxgd",
@@ -99,7 +99,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746129"
+    "scraped_date": "2026-03-10T06:40:18.065318"
   },
   {
     "id": "6mqa8amik4",
@@ -116,7 +116,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746160"
+    "scraped_date": "2026-03-10T06:40:18.065340"
   },
   {
     "id": "790ws0m0v0",
@@ -133,7 +133,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746184"
+    "scraped_date": "2026-03-10T06:40:18.065358"
   },
   {
     "id": "7hvj7dbb2e",
@@ -150,7 +150,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746188"
+    "scraped_date": "2026-03-10T06:40:18.065361"
   },
   {
     "id": "9kxf3dw0l7",
@@ -167,7 +167,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746236"
+    "scraped_date": "2026-03-10T06:40:18.065399"
   },
   {
     "id": "a45yxc6xnv",
@@ -184,7 +184,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746250"
+    "scraped_date": "2026-03-10T06:40:18.065410"
   },
   {
     "id": "az6g1vz280",
@@ -201,7 +201,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746298"
+    "scraped_date": "2026-03-10T06:40:18.065446"
   },
   {
     "id": "bfv2h0iwo8",
@@ -218,7 +218,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746322"
+    "scraped_date": "2026-03-10T06:40:18.065464"
   },
   {
     "id": "c0prfgrgy7",
@@ -235,7 +235,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746326"
+    "scraped_date": "2026-03-10T06:40:18.065468"
   },
   {
     "id": "chb7ypb11h",
@@ -252,7 +252,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746338"
+    "scraped_date": "2026-03-10T06:40:18.065476"
   },
   {
     "id": "dteg7j9ssq",
@@ -269,7 +269,7 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746375"
+    "scraped_date": "2026-03-10T06:40:18.065507"
   },
   {
     "id": "el2w5s6e39",
@@ -286,7 +286,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746416"
+    "scraped_date": "2026-03-10T06:40:18.065539"
   },
   {
     "id": "g4976lmljy",
@@ -303,7 +303,24 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746451"
+    "scraped_date": "2026-03-10T06:40:18.065567"
+  },
+  {
+    "id": "g9b4w641wy",
+    "company": "Nuveen",
+    "programme": "Cyber Security Summer Intern 2026",
+    "category": "industrial-placements",
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-09T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Nuveen-Cyber-Security-Summer-Intern-2026---based-in-London_R260100372?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-10T06:40:18.065573"
   },
   {
     "id": "jyiyxpn60x",
@@ -320,7 +337,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746592"
+    "scraped_date": "2026-03-10T06:40:18.065666"
   },
   {
     "id": "lpd74yudga",
@@ -337,7 +354,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746628"
+    "scraped_date": "2026-03-10T06:40:18.065693"
   },
   {
     "id": "mlgo8rz0mu",
@@ -354,7 +371,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746639"
+    "scraped_date": "2026-03-10T06:40:18.065701"
   },
   {
     "id": "mpxtfq1cgf",
@@ -371,7 +388,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746650"
+    "scraped_date": "2026-03-10T06:40:18.065710"
   },
   {
     "id": "ntrqpunl86",
@@ -388,7 +405,24 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746663"
+    "scraped_date": "2026-03-10T06:40:18.065718"
+  },
+  {
+    "id": "p1g59c5102",
+    "company": "TÜV SÜD",
+    "programme": "Student Placement",
+    "category": "industrial-placements",
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-09T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://jobs.tuvsud.com/job/Student-Placement/4023-en_US?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-10T06:40:18.065734"
   },
   {
     "id": "q949mnzc5g",
@@ -405,7 +439,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746704"
+    "scraped_date": "2026-03-10T06:40:18.065753"
   },
   {
     "id": "sca0jths8i",
@@ -422,7 +456,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746772"
+    "scraped_date": "2026-03-10T06:40:18.065804"
   },
   {
     "id": "sjxtodk9pf",
@@ -439,7 +473,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746784"
+    "scraped_date": "2026-03-10T06:40:18.065813"
   },
   {
     "id": "szb1ay14ka",
@@ -456,7 +490,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746798"
+    "scraped_date": "2026-03-10T06:40:18.065823"
   },
   {
     "id": "trxo8bvsgs",
@@ -473,7 +507,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746818"
+    "scraped_date": "2026-03-10T06:40:18.065839"
   },
   {
     "id": "uz8o6jvikl",
@@ -490,7 +524,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746829"
+    "scraped_date": "2026-03-10T06:40:18.065847"
   },
   {
     "id": "v8i3si6k4j",
@@ -507,7 +541,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746833"
+    "scraped_date": "2026-03-10T06:40:18.065851"
   },
   {
     "id": "w03wja3z76",
@@ -524,7 +558,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746844"
+    "scraped_date": "2026-03-10T06:40:18.065859"
   },
   {
     "id": "wnsrfs8dzb",
@@ -541,6 +575,6 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-09T06:54:26.746877"
+    "scraped_date": "2026-03-10T06:40:18.065885"
   }
 ]
