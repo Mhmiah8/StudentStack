@@ -1,5 +1,22 @@
 [
   {
+    "id": "16a8uy7o7l",
+    "company": "Acturis",
+    "programme": "2026 Industrial Placement Programme",
+    "category": "industrial-placements",
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-10T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://app.the-trackr.com/programme/acturis-industrial-placement?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-11T06:43:36.023804"
+  },
+  {
     "id": "1bwjo10ae1",
     "company": "Electronic Arts",
     "programme": "Software Engineer Intern (Physics)",
@@ -14,7 +31,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065199"
+    "scraped_date": "2026-03-11T06:43:36.023809"
   },
   {
     "id": "49zvbzilax",
@@ -31,7 +48,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065294"
+    "scraped_date": "2026-03-11T06:43:36.023903"
   },
   {
     "id": "4jwgepjmbg",
@@ -48,7 +65,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065301"
+    "scraped_date": "2026-03-11T06:43:36.023909"
   },
   {
     "id": "4r26wqtq4o",
@@ -65,7 +82,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065305"
+    "scraped_date": "2026-03-11T06:43:36.023912"
   },
   {
     "id": "4r8dj0azow",
@@ -82,7 +99,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065309"
+    "scraped_date": "2026-03-11T06:43:36.023916"
   },
   {
     "id": "606qz4gxgd",
@@ -99,7 +116,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065318"
+    "scraped_date": "2026-03-11T06:43:36.023932"
   },
   {
     "id": "6mqa8amik4",
@@ -116,7 +133,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065340"
+    "scraped_date": "2026-03-11T06:43:36.023951"
   },
   {
     "id": "790ws0m0v0",
@@ -133,7 +150,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065358"
+    "scraped_date": "2026-03-11T06:43:36.023969"
   },
   {
     "id": "7hvj7dbb2e",
@@ -150,7 +167,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065361"
+    "scraped_date": "2026-03-11T06:43:36.023973"
   },
   {
     "id": "9kxf3dw0l7",
@@ -167,7 +184,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065399"
+    "scraped_date": "2026-03-11T06:43:36.024011"
   },
   {
     "id": "a45yxc6xnv",
@@ -184,7 +201,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065410"
+    "scraped_date": "2026-03-11T06:43:36.024022"
   },
   {
     "id": "az6g1vz280",
@@ -201,7 +218,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065446"
+    "scraped_date": "2026-03-11T06:43:36.024057"
   },
   {
     "id": "bfv2h0iwo8",
@@ -218,7 +235,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065464"
+    "scraped_date": "2026-03-11T06:43:36.024075"
   },
   {
     "id": "c0prfgrgy7",
@@ -235,7 +252,24 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065468"
+    "scraped_date": "2026-03-11T06:43:36.024079"
+  },
+  {
+    "id": "c9m1pfy4cd",
+    "company": "Isembard",
+    "programme": "Placement Student (Engineering/Software)",
+    "category": "industrial-placements",
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-10T00:00:00.000Z",
+    "closing_date": null,
+    "url": null,
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-11T06:43:36.024082"
   },
   {
     "id": "chb7ypb11h",
@@ -252,7 +286,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065476"
+    "scraped_date": "2026-03-11T06:43:36.024093"
   },
   {
     "id": "dteg7j9ssq",
@@ -269,7 +303,7 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065507"
+    "scraped_date": "2026-03-11T06:43:36.024121"
   },
   {
     "id": "el2w5s6e39",
@@ -286,7 +320,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065539"
+    "scraped_date": "2026-03-11T06:43:36.024153"
   },
   {
     "id": "g4976lmljy",
@@ -303,7 +337,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065567"
+    "scraped_date": "2026-03-11T06:43:36.024181"
   },
   {
     "id": "g9b4w641wy",
@@ -320,7 +354,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065573"
+    "scraped_date": "2026-03-11T06:43:36.024187"
   },
   {
     "id": "jyiyxpn60x",
@@ -337,7 +371,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065666"
+    "scraped_date": "2026-03-11T06:43:36.024280"
   },
   {
     "id": "lpd74yudga",
@@ -354,7 +388,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065693"
+    "scraped_date": "2026-03-11T06:43:36.024307"
   },
   {
     "id": "mlgo8rz0mu",
@@ -371,7 +405,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065701"
+    "scraped_date": "2026-03-11T06:43:36.024315"
   },
   {
     "id": "mpxtfq1cgf",
@@ -388,7 +422,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065710"
+    "scraped_date": "2026-03-11T06:43:36.024324"
   },
   {
     "id": "ntrqpunl86",
@@ -405,7 +439,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065718"
+    "scraped_date": "2026-03-11T06:43:36.024333"
   },
   {
     "id": "p1g59c5102",
@@ -422,7 +456,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065734"
+    "scraped_date": "2026-03-11T06:43:36.024419"
   },
   {
     "id": "q949mnzc5g",
@@ -439,7 +473,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065753"
+    "scraped_date": "2026-03-11T06:43:36.024437"
   },
   {
     "id": "sca0jths8i",
@@ -456,7 +490,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065804"
+    "scraped_date": "2026-03-11T06:43:36.024488"
   },
   {
     "id": "sjxtodk9pf",
@@ -473,7 +507,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065813"
+    "scraped_date": "2026-03-11T06:43:36.024497"
   },
   {
     "id": "szb1ay14ka",
@@ -490,7 +524,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065823"
+    "scraped_date": "2026-03-11T06:43:36.024508"
   },
   {
     "id": "trxo8bvsgs",
@@ -507,7 +541,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065839"
+    "scraped_date": "2026-03-11T06:43:36.024523"
   },
   {
     "id": "uz8o6jvikl",
@@ -524,7 +558,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065847"
+    "scraped_date": "2026-03-11T06:43:36.024531"
   },
   {
     "id": "v8i3si6k4j",
@@ -541,7 +575,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065851"
+    "scraped_date": "2026-03-11T06:43:36.024535"
   },
   {
     "id": "w03wja3z76",
@@ -558,7 +592,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065859"
+    "scraped_date": "2026-03-11T06:43:36.024544"
   },
   {
     "id": "wnsrfs8dzb",
@@ -575,6 +609,6 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-10T06:40:18.065885"
+    "scraped_date": "2026-03-11T06:43:36.024573"
   }
 ]
