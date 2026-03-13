@@ -14,7 +14,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697393"
+    "scraped_date": "2026-03-13T06:43:08.439696"
   },
   {
     "id": "1bwjo10ae1",
@@ -31,7 +31,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697397"
+    "scraped_date": "2026-03-13T06:43:08.439701"
   },
   {
     "id": "49zvbzilax",
@@ -48,7 +48,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697494"
+    "scraped_date": "2026-03-13T06:43:08.439796"
   },
   {
     "id": "4jwgepjmbg",
@@ -65,7 +65,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697500"
+    "scraped_date": "2026-03-13T06:43:08.439802"
   },
   {
     "id": "4r26wqtq4o",
@@ -82,7 +82,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697507"
+    "scraped_date": "2026-03-13T06:43:08.439806"
   },
   {
     "id": "4r8dj0azow",
@@ -99,7 +99,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697511"
+    "scraped_date": "2026-03-13T06:43:08.439810"
   },
   {
     "id": "606qz4gxgd",
@@ -116,7 +116,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697520"
+    "scraped_date": "2026-03-13T06:43:08.439818"
   },
   {
     "id": "6mqa8amik4",
@@ -133,7 +133,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697539"
+    "scraped_date": "2026-03-13T06:43:08.439841"
   },
   {
     "id": "790ws0m0v0",
@@ -150,7 +150,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697556"
+    "scraped_date": "2026-03-13T06:43:08.439858"
   },
   {
     "id": "7hvj7dbb2e",
@@ -167,7 +167,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697560"
+    "scraped_date": "2026-03-13T06:43:08.439862"
   },
   {
     "id": "9kxf3dw0l7",
@@ -184,7 +184,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697597"
+    "scraped_date": "2026-03-13T06:43:08.439899"
   },
   {
     "id": "a45yxc6xnv",
@@ -201,7 +201,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697608"
+    "scraped_date": "2026-03-13T06:43:08.439910"
   },
   {
     "id": "az6g1vz280",
@@ -218,7 +218,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697644"
+    "scraped_date": "2026-03-13T06:43:08.439945"
   },
   {
     "id": "bfv2h0iwo8",
@@ -235,7 +235,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697665"
+    "scraped_date": "2026-03-13T06:43:08.439963"
   },
   {
     "id": "c0prfgrgy7",
@@ -252,7 +252,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697669"
+    "scraped_date": "2026-03-13T06:43:08.439967"
   },
   {
     "id": "c9m1pfy4cd",
@@ -269,7 +269,24 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697673"
+    "scraped_date": "2026-03-13T06:43:08.440050"
+  },
+  {
+    "id": "cc6carqq80",
+    "company": "P&G",
+    "programme": "Software Development Industrial Placement 2026",
+    "category": "industrial-placements",
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-12T00:00:00.000Z",
+    "closing_date": "2026-04-03T00:00:00.000Z",
+    "url": "https://pg.wd5.myworkdayjobs.com/en-GB/1000/jobs/details/Software-Development-Industrial-Placement-2026_R000147514?q=%22industrial+placement%22&locationCountry=29247e57dbaf46fb855b224e03170bc7&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-13T06:43:08.440055"
   },
   {
     "id": "chb7ypb11h",
@@ -286,7 +303,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697681"
+    "scraped_date": "2026-03-13T06:43:08.440068"
   },
   {
     "id": "dteg7j9ssq",
@@ -303,7 +320,7 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697709"
+    "scraped_date": "2026-03-13T06:43:08.440107"
   },
   {
     "id": "el2w5s6e39",
@@ -320,7 +337,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697741"
+    "scraped_date": "2026-03-13T06:43:08.440139"
   },
   {
     "id": "g4976lmljy",
@@ -337,7 +354,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697769"
+    "scraped_date": "2026-03-13T06:43:08.440166"
   },
   {
     "id": "g9b4w641wy",
@@ -354,7 +371,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697774"
+    "scraped_date": "2026-03-13T06:43:08.440172"
   },
   {
     "id": "jyiyxpn60x",
@@ -371,7 +388,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697866"
+    "scraped_date": "2026-03-13T06:43:08.440263"
   },
   {
     "id": "lpd74yudga",
@@ -388,7 +405,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697893"
+    "scraped_date": "2026-03-13T06:43:08.440290"
   },
   {
     "id": "mlgo8rz0mu",
@@ -405,7 +422,24 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697901"
+    "scraped_date": "2026-03-13T06:43:08.440298"
+  },
+  {
+    "id": "mpugyll47w",
+    "company": "HP",
+    "programme": "Software Engineer Intern",
+    "category": "industrial-placements",
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-11T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/details/Browser-Software-Engineer-Intern_3160410-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr&workerSubType=98cbd30d374e1033353f1fbd0c2452f5&Location_Country=29247e57dbaf46fb855b224e03170bc7",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-13T06:43:08.440306"
   },
   {
     "id": "mpxtfq1cgf",
@@ -422,7 +456,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697911"
+    "scraped_date": "2026-03-13T06:43:08.440310"
   },
   {
     "id": "ntrqpunl86",
@@ -439,7 +473,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.697920"
+    "scraped_date": "2026-03-13T06:43:08.440319"
   },
   {
     "id": "p1g59c5102",
@@ -456,7 +490,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698009"
+    "scraped_date": "2026-03-13T06:43:08.440335"
   },
   {
     "id": "q949mnzc5g",
@@ -473,7 +507,24 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698027"
+    "scraped_date": "2026-03-13T06:43:08.440353"
+  },
+  {
+    "id": "rkvldge0lw",
+    "company": "Barracuda",
+    "programme": "Software Engineering Intern (12 Month Placement)",
+    "category": "industrial-placements",
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-12T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://jobs.jobvite.com/careers/barracuda-networks-inc/job/oLWKzfwK/apply?__jvst=tracker&__jvsd=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-13T06:43:08.440373"
   },
   {
     "id": "sca0jths8i",
@@ -490,7 +541,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698078"
+    "scraped_date": "2026-03-13T06:43:08.440407"
   },
   {
     "id": "sjxtodk9pf",
@@ -507,7 +558,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698086"
+    "scraped_date": "2026-03-13T06:43:08.440416"
   },
   {
     "id": "szb1ay14ka",
@@ -524,7 +575,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698097"
+    "scraped_date": "2026-03-13T06:43:08.440426"
   },
   {
     "id": "trxo8bvsgs",
@@ -541,7 +592,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698112"
+    "scraped_date": "2026-03-13T06:43:08.440442"
   },
   {
     "id": "uz8o6jvikl",
@@ -558,7 +609,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698121"
+    "scraped_date": "2026-03-13T06:43:08.440450"
   },
   {
     "id": "v8i3si6k4j",
@@ -575,7 +626,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698124"
+    "scraped_date": "2026-03-13T06:43:08.440454"
   },
   {
     "id": "w03wja3z76",
@@ -592,7 +643,7 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698147"
+    "scraped_date": "2026-03-13T06:43:08.440466"
   },
   {
     "id": "wnsrfs8dzb",
@@ -609,6 +660,6 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-12T06:45:12.698172"
+    "scraped_date": "2026-03-13T06:43:08.440492"
   }
 ]

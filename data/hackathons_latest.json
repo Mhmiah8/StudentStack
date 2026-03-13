@@ -1,117 +1,5 @@
 [
   {
-    "name": "The Female Founder Code Disrupters - Panel Talk",
-    "date": "2026-03-12T11:00:00.000Z",
-    "end_date": "2026-03-12T13:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/yl8qaef4",
-    "hosts": [
-      "Mumble Forum"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:25.205749"
-  },
-  {
-    "name": "Agentic Commerce, Decoded",
-    "date": "2026-03-12T15:00:00.000Z",
-    "end_date": "2026-03-12T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/3kr44gfd",
-    "hosts": [
-      "Azoma AI"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:30.443792"
-  },
-  {
-    "name": "GeoJam: A GeoAI Evening Hackathon",
-    "date": "2026-03-12T17:00:00.000Z",
-    "end_date": "2026-03-12T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/mc92hprm",
-    "hosts": [
-      "GeoJam"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:30.443819"
-  },
-  {
-    "name": "How I use Claude Code as a Data PM (London Data & AI Product Management meetup #21)",
-    "date": "2026-03-12T17:30:00.000Z",
-    "end_date": "2026-03-12T21:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/yyxw9l54",
-    "hosts": [
-      "Nick Zervoudis"
-    ],
-    "attendee_count": 62,
-    "scraped_date": "2026-03-12T06:45:30.443833"
-  },
-  {
-    "name": "ATTENDANCE CONFIRMATION: Claude & Finance | Claude Builder Club @ Imperial",
-    "date": "2026-03-12T18:00:00.000Z",
-    "end_date": "2026-03-12T19:30:00.000Z",
-    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/qnt7whsw",
-    "hosts": [
-      "Bohdan Yermakov"
-    ],
-    "attendee_count": 165,
-    "scraped_date": "2026-03-12T06:45:30.443850"
-  },
-  {
-    "name": "Claude & Finance | Claude Builder Club @ Imperial",
-    "date": "2026-03-12T18:00:00.000Z",
-    "end_date": "2026-03-12T19:30:00.000Z",
-    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2xz6igg7",
-    "hosts": [
-      "Bohdan Yermakov"
-    ],
-    "attendee_count": 355,
-    "scraped_date": "2026-03-12T06:45:30.443864"
-  },
-  {
-    "name": "How to Hack Female Leadership: Tech & Sustainability",
-    "date": "2026-03-12T18:30:00.000Z",
-    "end_date": "2026-03-12T21:00:00.000Z",
-    "location": "3 Noble St, Barbican, London EC2V 7EE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cb3iign5",
-    "hosts": [
-      "Diana Kocheva"
-    ],
-    "attendee_count": 11,
-    "scraped_date": "2026-03-12T06:45:25.205842"
-  },
-  {
     "name": "Ship and Chips Demos @ Encode Hub (free food and co-working)",
     "date": "2026-03-13T13:30:00.000Z",
     "end_date": "2026-03-13T14:30:00.000Z",
@@ -125,7 +13,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:25.205885"
+    "scraped_date": "2026-03-13T06:43:20.316001"
   },
   {
     "name": "Mozart AI Hack With ElevenLabs & OpenAI",
@@ -143,7 +31,7 @@
       "Fatema"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:30.443921"
+    "scraped_date": "2026-03-13T06:43:25.692915"
   },
   {
     "name": "Zero to Coder: Learn to Code with AI",
@@ -159,7 +47,7 @@
       "Jethro Reeve"
     ],
     "attendee_count": 7,
-    "scraped_date": "2026-03-12T06:45:30.443931"
+    "scraped_date": "2026-03-13T06:43:25.692960"
   },
   {
     "name": "ClawClub AI Agents Hackday 🦞 London 15 Mar 2026",
@@ -174,8 +62,8 @@
     "hosts": [
       "sugaroverflow"
     ],
-    "attendee_count": 63,
-    "scraped_date": "2026-03-12T06:45:30.443943"
+    "attendee_count": 67,
+    "scraped_date": "2026-03-13T06:43:25.692978"
   },
   {
     "name": "LSE BUILD 2026 (LSESU Blockchain x Velocity)",
@@ -193,8 +81,8 @@
       "Kevin Apetrei",
       "LSESU Blockchain Society"
     ],
-    "attendee_count": 46,
-    "scraped_date": "2026-03-12T06:45:30.443962"
+    "attendee_count": 64,
+    "scraped_date": "2026-03-13T06:43:25.692996"
   },
   {
     "name": "AI: Who Builds It, Who Benefits, and Who Decides?",
@@ -209,8 +97,8 @@
     "hosts": [
       "Women in Tech UK"
     ],
-    "attendee_count": 100,
-    "scraped_date": "2026-03-12T06:45:30.443973"
+    "attendee_count": 101,
+    "scraped_date": "2026-03-13T06:43:25.693007"
   },
   {
     "name": "Central London | Claude Code for Everyone CCCL #4",
@@ -226,7 +114,23 @@
       "Vikram Pawar"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:30.443984"
+    "scraped_date": "2026-03-13T06:43:25.693016"
+  },
+  {
+    "name": "Newspeak House Code Club",
+    "date": "2026-03-16T19:00:00.000Z",
+    "end_date": "2026-03-16T22:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/41qr6ccz",
+    "hosts": [
+      "sugaroverflow"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-03-13T06:43:20.316060"
   },
   {
     "name": "Arize Builders Meetup - London - Boosting Claude Code performance with prompt learning",
@@ -242,7 +146,23 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:30.444015"
+    "scraped_date": "2026-03-13T06:43:25.693050"
+  },
+  {
+    "name": "Building the Future of Women’s Health",
+    "date": "2026-03-17T18:00:00.000Z",
+    "end_date": "2026-03-17T20:00:00.000Z",
+    "location": "One Canada Square, Canary Wharf Estate, London E14 5AB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bnk92p7z",
+    "hosts": [
+      "UCL Entrepeneurs"
+    ],
+    "attendee_count": 59,
+    "scraped_date": "2026-03-13T06:43:20.316128"
   },
   {
     "name": "Building iOS Apps with Agents + Coding Agent Evals 101",
@@ -258,23 +178,7 @@
       "Sam Hepburn"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:30.444026"
-  },
-  {
-    "name": "Building the Future of Women’s Health",
-    "date": "2026-03-17T18:00:00.000Z",
-    "end_date": "2026-03-17T20:00:00.000Z",
-    "location": "One Canada Square, Canary Wharf Estate, London E14 5AB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bnk92p7z",
-    "hosts": [
-      "UCL Entrepeneurs"
-    ],
-    "attendee_count": 34,
-    "scraped_date": "2026-03-12T06:45:30.444038"
+    "scraped_date": "2026-03-13T06:43:25.693063"
   },
   {
     "name": "Building Secure Software at Scale",
@@ -292,7 +196,23 @@
       "Ellen Humphreys"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-12T06:45:30.444063"
+    "scraped_date": "2026-03-13T06:43:20.316197"
+  },
+  {
+    "name": "Claude & Venture Capital | Claude Builder Club @ Imperial",
+    "date": "2026-03-18T18:00:00.000Z",
+    "end_date": "2026-03-18T20:00:00.000Z",
+    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8tqjglyc",
+    "hosts": [
+      "Bohdan Yermakov"
+    ],
+    "attendee_count": 116,
+    "scraped_date": "2026-03-13T06:43:25.693162"
   },
   {
     "name": "London Ray Meetup hosted by Balderton Capital: Building and Training Smarter AI with Ray",
@@ -312,7 +232,7 @@
       "Ryan Bashir",
       "Weights & Biases"
     ],
-    "attendee_count": 55,
-    "scraped_date": "2026-03-12T06:45:30.444112"
+    "attendee_count": 60,
+    "scraped_date": "2026-03-13T06:43:25.693177"
   }
 ]
