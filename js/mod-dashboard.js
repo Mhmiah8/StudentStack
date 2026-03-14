@@ -220,7 +220,7 @@ function renderReportedContent() {
                         ? `<button class="px-3 py-1.5 rounded-lg bg-green-600 text-white text-sm font-semibold hover:bg-green-700 verify-note-btn" data-note-id="${item.id}" type="button">Verify</button>`
                         : ''}
                     <button class="px-3 py-1.5 rounded-lg bg-red-600 text-white text-sm font-semibold hover:bg-red-700 remove-generic-btn" data-kind="${item.kind}" data-id="${item.id}" data-title="${item.title.replace(/"/g, '&quot;')}" type="button">Delete</button>
-                    <a class="px-3 py-1.5 rounded-lg border border-slate-300 text-slate-700 text-sm font-semibold hover:bg-slate-50" href="code.html#${item.kind === 'note' ? 'universities' : 'community'}">Open</a>
+                    <a class="px-3 py-1.5 rounded-lg border border-slate-300 text-slate-700 text-sm font-semibold hover:bg-slate-50" href="index.html#${item.kind === 'note' ? 'universities' : 'community'}">Open</a>
                 </div>
             </div>
         `;
@@ -294,12 +294,12 @@ function startListeners() {
 
 document.addEventListener('DOMContentLoaded', () => {
     $('mod-go-home-btn')?.addEventListener('click', () => {
-        window.location.href = 'code.html';
+        window.location.href = 'index.html';
     });
 
     $('mod-signout-btn')?.addEventListener('click', async () => {
         await signOut(auth);
-        window.location.href = 'code.html';
+        window.location.href = 'index.html';
     });
 
     $('mod-remove-close-btn')?.addEventListener('click', closeRemoveModal);

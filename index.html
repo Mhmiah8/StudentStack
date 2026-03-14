@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html class="scroll-smooth" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>StudentStack | Your All-in-One Tech Launchpad</title>
+<meta content="The ultimate dashboard for university students to find jobs, hackathons, notes, and community." name="description"/>
+<link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg"/>
+<link rel="shortcut icon" href="assets/icons/favicon.svg"/>
+<link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png" sizes="180x180"/>
+<link rel="icon" type="image/png" href="assets/icons/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="assets/icons/favicon-16x16.png" sizes="16x16"/>
+<meta name="theme-color" content="#1e3a8a"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#1e3a8a',
+            secondary: '#0d9488',
+            accent: '#f59e0b',
+            background: '#f8fafc',
+          },
+          fontFamily: {
+            sans: ['system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Open Sans', 'Helvetica Neue', 'sans-serif'],
+            heading: ['Inter', 'sans-serif'],
+          },
+        }
+      }
+    }
+  </script>
+<style>
+    @keyframes shimmer {
+      0% { background-position: -1000px 0; }
+      100% { background-position: 1000px 0; }
+    }
+    .skeleton {
+      background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+      background-size: 1000px 100%;
+      animation: shimmer 2s infinite linear;
+    }
+    .glass-nav {
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .card-hover {
+      transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    }
+    .card-hover:hover {
+      transform: scale(1.02);
+      box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    }
+    .user-dropdown-panel {
+      top: calc(100% + 0.5rem);
+      right: 0;
+      max-width: min(16rem, calc(100vw - 1rem));
+      max-height: min(70vh, 28rem);
+      overflow-y: auto;
+    }
+    .expandable-text.is-clamped {
+      display: -webkit-box;
+      line-clamp: 3;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  </style>
+</head>
+<body class="bg-background font-sans text-slate-900">
+<nav class="fixed top-0 w-full z-50 glass-nav border-b border-slate-200" id="main-nav">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex justify-between items-center h-16">
+<div class="flex items-center">
+<a class="flex items-center gap-2 group" href="#">
+<div class="w-8 h-8 bg-primary rounded flex items-center justify-center text-white font-bold text-xl group-hover:rotate-12 transition-transform">S</div>
+<span class="font-heading font-bold text-xl tracking-tight text-primary">StudentStack</span>
+</a>
+<div class="hidden md:ml-10 md:flex space-x-6">
+<a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#jobs">Jobs</a>
+<a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#hackathons">Hackathons</a>
+<a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#universities">Universities</a>
+<a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#grants">Grant Bursaries &amp; Scholarships</a>
+<a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#community">Community</a>
+<button class="hidden items-center gap-2 text-slate-600 hover:text-primary font-medium transition-colors" id="nav-notifications-btn" type="button">
+<span>Notifications</span>
+<span class="hidden min-w-[18px] h-[18px] px-1 text-[10px] font-bold rounded-full bg-red-600 text-white items-center justify-center" id="notification-badge">0</span>
+</button>
+</div>
+</div>
+<div class="flex items-center gap-4">
+<div class="flex items-center gap-3" id="guest-nav">
+<button class="hidden sm:block text-slate-600 font-medium hover:text-primary transition-colors" id="open-login-btn">Log in</button>
+<button class="bg-primary text-white px-5 py-2 rounded-lg font-medium hover:bg-blue-800 transition-colors shadow-sm" id="open-signup-btn">Sign Up</button>
+</div>
+<div class="hidden relative flex items-center gap-2" id="user-nav">
+<a class="w-9 h-9 rounded-full bg-slate-100 flex items-center justify-center text-base hover:bg-slate-200 transition-colors" href="profile.html" id="user-avatar-link" title="Open profile">
+<span id="user-avatar">🙂</span>
+</a>
+<button class="flex items-center gap-2 bg-slate-100 px-3 py-2 rounded-lg text-slate-700 hover:bg-slate-200 transition-colors" id="user-menu-btn" type="button">
+<span class="font-semibold text-sm" id="user-display">Student</span>
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M19 9l-7 7-7-7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</button>
+<div class="hidden absolute w-64 bg-white border border-slate-200 rounded-xl shadow-lg p-4 z-50 user-dropdown-panel" id="user-dropdown">
+<p class="font-semibold text-slate-900 text-sm mb-1" id="user-email"></p>
+<div class="mb-3"><span class="px-2 py-1 rounded text-xs font-bold bg-blue-100 text-blue-700" id="user-role-badge">USER</span></div>
+<div class="space-y-2 mb-3">
+<a class="block text-sm text-slate-700 hover:text-primary" href="profile.html">Profile</a>
+<a class="block text-sm text-slate-700 hover:text-primary" href="notifications.html">Notification Settings</a>
+<a class="hidden block text-sm text-slate-700 hover:text-primary" href="mod.html" id="mod-dashboard-link">Mod Dashboard</a>
+<a class="hidden block text-sm text-slate-700 hover:text-primary" href="admin.html" id="admin-dashboard-link">Admin Dashboard</a>
+</div>
+<button class="w-full bg-slate-100 text-slate-700 py-2 rounded-lg text-sm font-semibold hover:bg-slate-200 transition-colors" id="signout-btn" type="button">Sign Out</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+
+<main class="pt-16">
+<section class="relative py-20 lg:py-32 overflow-hidden bg-white">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center text-center">
+<span class="inline-block px-4 py-1.5 mb-6 text-sm font-semibold tracking-wide text-secondary uppercase bg-teal-50 rounded-full">Beta Access Now Open</span>
+<h1 class="font-heading font-bold text-4xl md:text-6xl text-slate-900 max-w-4xl leading-tight mb-6">
+          Your All-in-One <span class="text-primary">Launchpad</span> for Tech Success
+        </h1>
+<p class="text-xl text-slate-600 max-w-2xl mb-10 leading-relaxed">
+          The ultimate dashboard for CS students. Access internships, verified course notes, hackathons, and funding opportunities in one place.
+        </p>
+<div class="flex flex-col sm:flex-row gap-4 mb-16">
+<a class="px-8 py-4 bg-primary text-white font-semibold rounded-xl hover:bg-blue-800 transition-all shadow-lg hover:shadow-primary/20" href="#jobs">Explore Jobs</a>
+<a class="px-8 py-4 bg-white text-slate-700 border border-slate-200 font-semibold rounded-xl hover:bg-slate-50 transition-all" href="#community">Join Community</a>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-3 gap-8 w-full max-w-4xl border-t border-slate-100 pt-12">
+<div class="flex flex-col items-center">
+<span class="text-3xl font-bold text-primary mb-1" id="opportunities-count">...</span>
+<span class="text-slate-500 font-medium">Opportunities</span>
+</div>
+<div class="flex flex-col items-center">
+<span class="text-3xl font-bold text-secondary mb-1" id="top-universities-count">...</span>
+<span class="text-slate-500 font-medium">UK Universities</span>
+</div>
+<div class="flex flex-col items-center">
+<span class="text-3xl font-bold text-accent mb-1" id="active-students-count">...</span>
+<span class="text-slate-500 font-medium">Active Students</span>
+</div>
+</div>
+</div>
+</section>
+
+<section class="py-20" id="jobs">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex justify-between items-end mb-10">
+<div>
+<h2 class="font-heading font-bold text-3xl text-slate-900 mb-2">Latest Opportunities</h2>
+<p class="text-slate-500">Curated internships and grad roles from top tech firms.</p>
+</div>
+<a class="text-primary font-semibold hover:underline flex items-center gap-1 cursor-pointer" id="toggle-jobs-btn">
+            View All Jobs
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+            </svg>
+</a>
+</div>
+<div class="hidden flex flex-wrap gap-3 mb-8 justify-center" id="filters-container"></div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="jobs-container">
+<div class="col-span-3 text-center py-10">
+<div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-primary"></div>
+<p class="mt-2 text-slate-500">Loading latest opportunities...</p>
+</div>
+</div>
+<div class="hidden text-center mt-10" id="load-more-container"></div>
+</div>
+</section>
+
+<section class="py-20 bg-slate-900 text-white" id="hackathons">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex justify-between items-end mb-10">
+<h2 class="font-heading font-bold text-3xl">Upcoming Hackathons &amp; Events</h2>
+<a class="hidden text-secondary font-semibold hover:underline flex items-center gap-1 cursor-pointer" id="toggle-hackathons-btn">
+            View All Events
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</a>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6" id="hackathons-container">
+<div class="sm:col-span-2 lg:col-span-4 text-center py-10">
+<div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-secondary"></div>
+<p class="mt-2 text-slate-300">Loading latest hackathons...</p>
+</div>
+</div>
+</div>
+</section>
+
+<section class="py-20 bg-white" id="universities">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex justify-between items-end mb-8">
+<div>
+<h2 class="font-heading font-bold text-3xl text-slate-900">University Modules &amp; Notes</h2>
+<p class="text-slate-500 mt-2">Browse live notes from Firestore or upload your own module notes.</p>
+</div>
+<div class="flex items-center gap-4">
+<button class="bg-primary text-white px-5 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="open-upload-note-btn" type="button">Upload Note</button>
+<a class="hidden text-primary font-semibold hover:underline flex items-center gap-1 cursor-pointer" id="toggle-universities-btn">
+            Load More Universities
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</a>
+</div>
+</div>
+<div class="flex justify-center border-b border-slate-200 mb-10 overflow-x-auto whitespace-nowrap" id="universities-tabs">
+<div class="w-full text-center py-4 text-slate-400">Loading universities...</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6" id="universities-modules-container">
+<div class="col-span-4 text-center py-8 text-slate-400">Loading modules...</div>
+</div>
+<div class="mt-10 bg-primary/5 rounded-xl p-6 border border-primary/10 flex flex-col md:flex-row justify-between items-center gap-4">
+<div class="flex items-center gap-4">
+<div class="w-10 h-10 bg-primary/10 rounded-full flex items-center justify-center text-primary">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</div>
+<p class="font-medium text-slate-700" id="universities-cta-text">Loading access details...</p>
+</div>
+<button class="bg-primary text-white px-6 py-2 rounded-lg font-bold hover:bg-blue-800 transition-colors" id="universities-cta-button">Loading...</button>
+</div>
+</div>
+</section>
+
+<section class="py-20 bg-background" id="grants">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<h2 class="font-heading font-bold text-3xl text-slate-900 mb-2" id="grants-title">Grants, Bursaries &amp; Scholarships</h2>
+<p class="text-slate-500 mb-8" id="grants-subtitle">Explore live funding opportunities and trusted support resources.</p>
+<h3 class="font-heading font-bold text-2xl text-slate-900 mb-4" id="grants-live-title">Live Opportunities</h3>
+<div class="flex flex-wrap gap-3 mb-8" id="grants-filters">
+<div class="w-full flex items-center justify-between gap-4">
+<div class="text-slate-400" id="grants-last-updated">Loading latest update...</div>
+<div class="inline-block animate-spin rounded-full h-6 w-6 border-b-2 border-primary"></div>
+</div>
+</div>
+<div class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden">
+<div class="overflow-x-auto">
+<table class="w-full text-left">
+<thead class="bg-slate-50 border-b border-slate-200">
+<tr>
+<th class="px-6 py-4 text-xs font-bold text-slate-500 uppercase tracking-wider">Scheme Name</th>
+<th class="px-6 py-4 text-xs font-bold text-slate-500 uppercase tracking-wider">Amount</th>
+<th class="px-6 py-4 text-xs font-bold text-slate-500 uppercase tracking-wider">Eligibility</th>
+<th class="px-6 py-4 text-xs font-bold text-slate-500 uppercase tracking-wider">Deadline</th>
+<th class="px-6 py-4 text-xs font-bold text-slate-500 uppercase tracking-wider">Action</th>
+</tr>
+</thead>
+<tbody class="divide-y divide-slate-100" id="grants-table-body">
+<tr>
+<td class="px-6 py-8 text-slate-400" colspan="5">
+<div class="flex items-center justify-center gap-3">
+<div class="inline-block animate-spin rounded-full h-6 w-6 border-b-2 border-primary"></div>
+<span>Loading live opportunities...</span>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="hidden text-center mt-8" id="grants-load-more-container">
+<button class="px-8 py-3 bg-primary text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors" id="grants-load-more-btn">
+Load More Opportunities
+</button>
+</div>
+<div class="mt-12">
+<h3 class="font-heading font-bold text-2xl text-slate-900 mb-4" id="grants-resources-title">More Funding Resources</h3>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="grants-resources-container">
+<div class="md:col-span-2 lg:col-span-3 text-center py-6 text-slate-400">
+<div class="inline-block animate-spin rounded-full h-6 w-6 border-b-2 border-primary"></div>
+<p class="mt-2">Loading funding resources...</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="py-20 bg-white" id="community">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
+<div>
+<h2 class="font-heading font-bold text-3xl text-slate-900 mb-8">Tech Communities &amp; Groups</h2>
+<div class="space-y-4" id="community-groups-container">
+<div class="text-slate-400">Loading communities...</div>
+</div>
+<div class="mt-12">
+<h3 class="font-heading font-bold text-2xl text-slate-900 mb-6">CV Resources</h3>
+<div class="bg-slate-900 rounded-2xl p-8 text-white relative overflow-hidden">
+<div class="relative z-10">
+<h4 class="text-xl font-bold mb-2" id="cv-title">Loading...</h4>
+<p class="text-slate-400 mb-6" id="cv-description">Loading CV resources...</p>
+<button class="bg-accent text-slate-900 px-6 py-3 rounded-xl font-bold hover:scale-105 transition-transform" id="cv-button">Loading...</button>
+</div>
+<div class="absolute -right-4 -bottom-4 opacity-20 transform rotate-12">
+<svg class="w-32 h-32" fill="currentColor" viewBox="0 0 20 20"><path d="M9 2a2 2 0 00-2 2v8a2 2 0 002 2h6a2 2 0 002-2V6.414L13.586 3H9z"></path></svg>
+</div>
+</div>
+</div>
+</div>
+
+<div>
+<div class="flex justify-between items-center mb-8">
+<h2 class="font-heading font-bold text-3xl text-slate-900">Find Teammates</h2>
+<button class="text-primary font-bold text-sm" id="open-team-post-btn" type="button">+ Post Opportunity</button>
+</div>
+<div class="space-y-4" id="team-posts-container">
+<div class="text-slate-400">Loading team posts...</div>
+</div>
+<div class="mt-5">
+<a class="inline-flex items-center gap-2 text-primary font-semibold hover:underline" href="teamposts.html" id="view-all-team-posts-link">
+              View All Posts
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+
+<div class="fixed inset-0 z-[60] hidden" id="auth-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="auth-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-md bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900" id="auth-modal-title">Log in to StudentStack</h3>
+<button class="text-slate-400 hover:text-slate-700" id="auth-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</button>
+</div>
+
+<div class="flex gap-2 mb-5">
+<button class="px-4 py-2 rounded-lg bg-primary text-white text-sm font-semibold" id="auth-tab-login" type="button">Log in</button>
+<button class="px-4 py-2 rounded-lg bg-slate-100 text-slate-700 text-sm font-semibold" id="auth-tab-signup" type="button">Sign up</button>
+</div>
+
+<div class="hidden mb-4 text-sm text-red-700 bg-red-50 border border-red-100 rounded-lg px-3 py-2" id="auth-error"></div>
+
+<form class="space-y-4" id="auth-form">
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="auth-email">Email</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-primary focus:ring-primary" id="auth-email" required type="email"/>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="auth-password">Password</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-primary focus:ring-primary" id="auth-password" required type="password"/>
+</div>
+
+<div class="hidden space-y-4" id="signup-fields">
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="auth-display-name">Display Name</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-primary focus:ring-primary" id="auth-display-name" placeholder="Your name" type="text"/>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="auth-university">University</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-primary focus:ring-primary" id="auth-university" placeholder="University name" type="text"/>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="auth-year">Year of Study</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-primary focus:ring-primary" id="auth-year" placeholder="e.g. Year 2" type="text"/>
+</div>
+</div>
+
+<div class="hidden" id="login-fields"></div>
+
+<button class="w-full bg-primary text-white py-2.5 rounded-lg font-semibold hover:bg-blue-800 transition-colors" data-mode="login" id="auth-submit-btn" type="submit">Log in</button>
+</form>
+
+<div class="flex items-center gap-3 my-4">
+<div class="h-px bg-slate-200 flex-1"></div>
+<span class="text-xs text-slate-400 uppercase font-semibold">or</span>
+<div class="h-px bg-slate-200 flex-1"></div>
+</div>
+
+<button class="w-full border border-slate-300 text-slate-700 py-2.5 rounded-lg font-semibold hover:bg-slate-50 transition-colors" id="auth-google-btn" type="button">
+Continue with Google
+</button>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[60] hidden" id="upload-note-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="upload-note-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-2xl bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Upload University Note</h3>
+<button class="text-slate-400 hover:text-slate-700" id="upload-note-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<div class="hidden px-3 py-2 rounded-lg text-sm mb-4" id="upload-note-status"></div>
+<form class="space-y-4" id="upload-note-form">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="upload-note-university">University</label>
+<select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="upload-note-university" required></select>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="upload-note-year">Year</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="upload-note-year" placeholder="e.g. Year 2" required type="text"/>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="upload-note-module-code">Module Code</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="upload-note-module-code" placeholder="e.g. CS2001" required type="text"/>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="upload-note-module-name">Module Name</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="upload-note-module-name" placeholder="e.g. Algorithms" required type="text"/>
+</div>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="upload-note-title">Note Title</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="upload-note-title" placeholder="Concise summary title" required type="text"/>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="upload-note-content">Content</label>
+<textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="upload-note-content" placeholder="Paste key notes, tips, and summary..." required rows="5"></textarea>
+</div>
+<div class="flex justify-end">
+<button class="bg-primary text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="upload-note-submit-btn" type="submit">Upload Note</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[60] hidden" id="report-note-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="report-note-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-md bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Report Note</h3>
+<button class="text-slate-400 hover:text-slate-700" id="report-note-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<form class="space-y-4" id="report-note-form">
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="report-note-reason">Reason</label>
+<select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="report-note-reason" required>
+<option value="">Choose reason</option>
+<option value="spam">Spam</option>
+<option value="incorrect">Incorrect information</option>
+<option value="malicious">Malicious or harmful content</option>
+<option value="copyright">Copyright concern</option>
+<option value="other">Other</option>
+</select>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="report-note-details">Additional details (optional)</label>
+<textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="report-note-details" rows="4"></textarea>
+</div>
+<div class="flex justify-end gap-3">
+<button class="px-4 py-2 rounded-lg border border-slate-300 text-slate-700 font-semibold hover:bg-slate-50" type="button" id="report-note-cancel-btn">Cancel</button>
+<button class="bg-red-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-red-700" type="submit">Submit Report</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[60] hidden" id="team-post-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="team-post-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-2xl bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Post Team Opportunity</h3>
+<button class="text-slate-400 hover:text-slate-700" id="team-post-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<div class="hidden px-3 py-2 rounded-lg text-sm mb-4" id="team-post-status"></div>
+<form class="space-y-4" id="team-post-form">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-type">Type</label>
+<select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-type" required>
+<option value="">Choose type</option>
+<option value="hackathon">Hackathon</option>
+<option value="project">Project</option>
+<option value="study">Study</option>
+</select>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-contact">Contact Info</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-contact" placeholder="Discord/Email/LinkedIn" required type="text"/>
+</div>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-title">Title</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-title" placeholder="Looking for teammates for ..." required type="text"/>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-description">Description</label>
+<textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-description" required rows="4"></textarea>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-looking-for">Looking For (comma separated)</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-looking-for" placeholder="Frontend, UI/UX, ML" type="text"/>
+</div>
+<div class="flex justify-end">
+<button class="bg-primary text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="team-post-submit-btn" type="submit">Post Opportunity</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[60] hidden" id="report-team-post-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="report-team-post-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-md bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Report Team Post</h3>
+<button class="text-slate-400 hover:text-slate-700" id="report-team-post-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<form class="space-y-4" id="report-team-post-form">
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="report-team-post-reason">Reason</label>
+<select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="report-team-post-reason" required>
+<option value="">Choose reason</option>
+<option value="spam">Spam</option>
+<option value="abuse">Abusive content</option>
+<option value="misleading">Misleading details</option>
+<option value="malicious">Malicious link/content</option>
+<option value="other">Other</option>
+</select>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="report-team-post-details">Additional details (optional)</label>
+<textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="report-team-post-details" rows="4"></textarea>
+</div>
+<div class="flex justify-end gap-3">
+<button class="px-4 py-2 rounded-lg border border-slate-300 text-slate-700 font-semibold hover:bg-slate-50" id="report-team-post-cancel-btn" type="button">Cancel</button>
+<button class="bg-red-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-red-700" type="submit">Submit Report</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[60] hidden" id="remove-content-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="remove-content-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-md bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Remove Content</h3>
+<button class="text-slate-400 hover:text-slate-700" id="remove-content-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<form class="space-y-4" id="remove-content-form">
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="remove-content-reason">Reason</label>
+<select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="remove-content-reason" required>
+<option value="">Choose reason</option>
+<option value="malicious">Malicious content</option>
+<option value="spam">Spam</option>
+<option value="incorrect">Incorrect/misleading</option>
+<option value="abusive">Abusive content</option>
+<option value="copyright">Copyright concern</option>
+<option value="other">Other</option>
+</select>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="remove-content-details">Additional details (optional)</label>
+<textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="remove-content-details" rows="3"></textarea>
+</div>
+<div class="flex justify-end gap-3">
+<button class="px-4 py-2 rounded-lg border border-slate-300 text-slate-700 font-semibold hover:bg-slate-50" id="remove-content-cancel-btn" type="button">Cancel</button>
+<button class="bg-red-600 text-white px-4 py-2 rounded-lg font-semibold hover:bg-red-700" type="submit">Remove</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[60] hidden" id="note-comments-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="note-comments-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-2xl bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Comments on <span id="comments-note-title">Note</span></h3>
+<button class="text-slate-400 hover:text-slate-700" id="note-comments-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<div class="space-y-3 max-h-[320px] overflow-y-auto pr-1 mb-4" id="note-comments-list">
+<div class="text-slate-400">Loading comments...</div>
+</div>
+<form class="space-y-3" id="note-comments-form">
+<label class="block text-sm font-medium text-slate-700" for="note-comment-input">Add comment</label>
+<textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="note-comment-input" placeholder="Share feedback or ask a question..." required rows="3"></textarea>
+<div class="flex justify-end">
+<button class="bg-primary text-white px-5 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors" type="submit">Post Comment</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[60] hidden" id="team-comments-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="team-comments-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-2xl bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Comments on <span id="team-comments-post-title">Post</span></h3>
+<button class="text-slate-400 hover:text-slate-700" id="team-comments-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<div class="space-y-3 max-h-[320px] overflow-y-auto pr-1 mb-4" id="team-comments-list">
+<div class="text-slate-400">Loading comments...</div>
+</div>
+<form class="space-y-3" id="team-comments-form">
+<label class="block text-sm font-medium text-slate-700" for="team-comment-input">Add comment</label>
+<textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-comment-input" placeholder="Share feedback or ask a question..." required rows="3"></textarea>
+<div class="flex justify-end">
+<button class="bg-primary text-white px-5 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors" type="submit">Post Comment</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[70] hidden" id="expand-content-modal">
+<div class="absolute inset-0 bg-slate-900/70" id="expand-content-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-5xl max-h-[90vh] bg-white rounded-2xl shadow-xl border border-slate-200 p-6 flex flex-col">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900" id="expand-content-title">Expanded content</h3>
+<button class="text-slate-400 hover:text-slate-700" id="expand-content-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+<div class="overflow-y-auto pr-2 flex-1">
+<p class="text-base text-slate-700 whitespace-pre-wrap leading-relaxed" id="expand-content-body"></p>
+</div>
+<div class="pt-4 flex justify-end">
+<button class="px-5 py-2 rounded-lg border border-slate-300 text-slate-700 font-semibold hover:bg-slate-50" id="expand-content-close-secondary" type="button">Back to normal</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fixed inset-0 z-[60] hidden" id="notifications-modal">
+<div class="absolute inset-0 bg-slate-900/50" id="notifications-backdrop"></div>
+<div class="relative min-h-full flex items-center justify-center p-4">
+<div class="w-full max-w-lg bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="flex items-start justify-between mb-4">
+<h3 class="font-heading font-bold text-xl text-slate-900">Your Notifications</h3>
+<div class="flex items-center gap-3">
+<button class="hidden text-slate-600 text-sm font-semibold hover:underline" id="notifications-undo-btn" type="button">Undo last clear</button>
+<button class="text-primary text-sm font-semibold hover:underline" id="notifications-mark-all-btn" type="button">Mark all as read</button>
+<button class="text-slate-400 hover:text-slate-700" id="notifications-close-btn" type="button">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</button>
+</div>
+</div>
+<div class="space-y-3 max-h-[420px] overflow-y-auto pr-1" id="notifications-summary-list">
+<div class="text-slate-400">No new notifications yet.</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer class="bg-slate-900 text-slate-300 py-16">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
+<div class="col-span-1 md:col-span-1">
+<a class="flex items-center gap-2 mb-6" href="#">
+<div class="w-8 h-8 bg-primary rounded flex items-center justify-center text-white font-bold text-xl">S</div>
+<span class="font-heading font-bold text-xl tracking-tight text-white">StudentStack</span>
+</a>
+<p class="text-sm leading-relaxed mb-6">Built for students, by students. The comprehensive platform for navigating the tech ecosystem during university.</p>
+</div>
+<div>
+<h4 class="font-bold text-white mb-6">Platform</h4>
+<ul class="space-y-4 text-sm">
+<li><a class="hover:text-primary" href="#jobs">Internships 2026</a></li>
+<li><a class="hover:text-primary" href="#jobs">Graduate Schemes</a></li>
+<li><a class="hover:text-primary" href="#hackathons">Hackathon Calendar</a></li>
+<li><a class="hover:text-primary" href="#grants">Resource Library</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-bold text-white mb-6">Support</h4>
+<ul class="space-y-4 text-sm">
+<li><a class="hover:text-primary" href="faq.html">FAQ</a></li>
+<li><a class="hover:text-primary" href="contact.html">Contact Us</a></li>
+<li><a class="hover:text-primary" href="privacy-policy.html">Privacy Policy</a></li>
+<li><a class="hover:text-primary" href="terms-of-service.html">Terms of Service</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-bold text-white mb-6">Newsletter</h4>
+<p class="text-sm mb-4">Get the latest opportunities sent to your inbox weekly.</p>
+<div class="flex">
+<input class="bg-slate-800 border-none rounded-l-lg px-4 py-2 w-full text-sm focus:ring-1 focus:ring-primary" id="newsletter-email" placeholder="email@uni.ac.uk" type="email"/>
+<button class="bg-primary px-4 py-2 rounded-r-lg text-white font-bold text-sm" id="newsletter-join-btn" type="button">Join</button>
+</div>
+</div>
+</div>
+<div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs">
+<p>© <span id="copyright-year"></span> StudentStack. All rights reserved.</p>
+<p>Proudly maintained by the StudentStack Open Source Team.</p>
+</div>
+</div>
+</footer>
+
+<script>
+    window.addEventListener('scroll', () => {
+      const nav = document.getElementById('main-nav');
+      if (window.scrollY > 10) {
+        nav.classList.add('shadow-md');
+      } else {
+        nav.classList.remove('shadow-md');
+      }
+    });
+
+    document.getElementById('newsletter-join-btn')?.addEventListener('click', () => {
+      const input = document.getElementById('newsletter-email');
+      const email = input?.value?.trim();
+
+      if (!email || !email.includes('@')) {
+        alert('Please enter a valid email address.');
+        return;
+      }
+
+      const ownerEmail = 'mmiahhilal1@gmail.com';
+      const subject = encodeURIComponent('StudentStack Newsletter Signup');
+      const body = encodeURIComponent(`Please add this email to the newsletter list:\n\n${email}`);
+      window.location.href = `mailto:${ownerEmail}?subject=${subject}&body=${body}`;
+    });
+</script>
+<script src="js/auth-ui.js" type="module"></script>
+<script src="js/load-trackr-jobs.js"></script>
+<script src="js/load-hackathons.js"></script>
+<script src="js/load-site-content.js" type="module"></script>
+</body>
+</html>

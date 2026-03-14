@@ -147,7 +147,7 @@ async function submitComment(event) {
                 type: 'community',
                 title: `New comment on ${postTitle}`,
                 message: `${currentUserProfile?.displayName || 'Someone'} commented on your teammate post.`,
-                url: 'code.html#community',
+                url: 'index.html#community',
                 createdAt: serverTimestamp()
             });
         }

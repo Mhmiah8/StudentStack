@@ -112,11 +112,11 @@ async function savePreferences(event) {
 document.addEventListener('DOMContentLoaded', () => {
     $('notifications-form')?.addEventListener('submit', savePreferences);
     $('auth-required-login-btn')?.addEventListener('click', () => {
-        window.location.href = 'code.html';
+        window.location.href = 'index.html';
     });
     $('notifications-signout-btn')?.addEventListener('click', async () => {
         await signOut(auth);
-        window.location.href = 'code.html';
+        window.location.href = 'index.html';
     });
 
     waitForAuthenticatedUser(
