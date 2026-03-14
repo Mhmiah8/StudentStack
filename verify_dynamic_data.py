@@ -4,7 +4,7 @@ import json
 ROOT = Path(__file__).resolve().parent
 
 CHECKS = {
-    "code.html": [
+    "index.html": [
         "UCL Hack 2023",
         "AI For Good",
         "CyberDash '23",
@@ -65,10 +65,10 @@ def main():
             if value in content:
                 failures.append(f"Hardcoded value found in {rel_path}: {value}")
 
-    code_html = (ROOT / "code.html").read_text(encoding="utf-8")
+    code_html = (ROOT / "index.html").read_text(encoding="utf-8")
     for required_id in REQUIRED_IDS:
         if required_id not in code_html:
-            failures.append(f"Missing required dynamic container in code.html: {required_id}")
+            failures.append(f"Missing required dynamic container in index.html: {required_id}")
 
     for rel_path in REQUIRED_FILES:
         file_path = ROOT / rel_path

@@ -232,12 +232,12 @@ async function applyUserAction(action, userId) {
 
 function bindEvents() {
     $('admin-go-home-btn')?.addEventListener('click', () => {
-        window.location.href = 'code.html';
+        window.location.href = 'index.html';
     });
 
     $('admin-signout-btn')?.addEventListener('click', async () => {
         await signOut(auth);
-        window.location.href = 'code.html';
+        window.location.href = 'index.html';
     });
 
     $('admin-user-search')?.addEventListener('input', renderUsersTable);

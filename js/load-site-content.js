@@ -712,7 +712,7 @@ async function submitTeamPostComment(event) {
                 type: 'community',
                 title: `New comment on ${postTitle}`,
                 message: `${currentUniversityUserProfile?.displayName || 'Someone'} commented on your teammate post.`,
-                url: 'code.html#community',
+                url: 'index.html#community',
                 createdAt: serverTimestamp()
             });
         }
@@ -760,7 +760,7 @@ async function submitNoteComment(event) {
                 type: 'community',
                 title: `New comment on ${noteTitle}`,
                 message: `${currentUniversityUserProfile?.displayName || 'Someone'} commented on your upload.`,
-                url: 'code.html#universities',
+                url: 'index.html#universities',
                 createdAt: serverTimestamp()
             });
         }
@@ -1994,7 +1994,7 @@ function buildNotificationSummaryByType() {
     const communityItems = communityNotifications.map((item) => ({
         type: 'community',
         title: item.title || item.message || 'New comment on your upload',
-        url: item.url || 'code.html#community',
+        url: item.url || 'index.html#community',
         timestamp: getItemTimestamp(item.createdAt)
     }));
 

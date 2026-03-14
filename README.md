@@ -38,7 +38,7 @@ StudentStack is a comprehensive dashboard for Computer Science students, aggrega
 
 ## 🚀 **Live Site**
 
-[https://mhmiah8.github.io/StudentStack/code.html](https://mhmiah8.github.io/StudentStack/code.html)
+[https://mhmiah8.github.io/StudentStack/index.html](https://mhmiah8.github.io/StudentStack/index.html)
 
 ## 🔧 **Local Development**
 
@@ -55,7 +55,7 @@ StudentStack is a comprehensive dashboard for Computer Science students, aggrega
 3. **Run locally**
    ```bash
    python -m http.server 8000
-   # Visit http://localhost:8000/code.html
+   # Visit http://localhost:8000/index.html
    ```
 
 ## 🤖 **Automated Scrapers**

@@ -122,11 +122,11 @@ async function saveProfile(event) {
 document.addEventListener('DOMContentLoaded', () => {
     $('profile-form')?.addEventListener('submit', saveProfile);
     $('auth-required-login-btn')?.addEventListener('click', () => {
-        window.location.href = 'code.html';
+        window.location.href = 'index.html';
     });
     $('profile-signout-btn')?.addEventListener('click', async () => {
         await signOut(auth);
-        window.location.href = 'code.html';
+        window.location.href = 'index.html';
     });
 
     document.getElementById('profile-avatar-presets')?.addEventListener('click', (event) => {
