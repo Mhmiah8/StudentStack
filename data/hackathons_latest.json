@@ -1,39 +1,5 @@
 [
   {
-    "name": "Mozart AI Hack With ElevenLabs & OpenAI",
-    "date": "2026-03-14T09:00:00.000Z",
-    "end_date": "2026-03-15T14:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/678xcfd4",
-    "hosts": [
-      "Arjun S Khanna",
-      "Oliver Kingshott",
-      "Fatema"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-14T06:38:19.219308"
-  },
-  {
-    "name": "Zero to Coder: Learn to Code with AI",
-    "date": "2026-03-14T13:00:00.000Z",
-    "end_date": "2026-03-14T17:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8r7fm3wj",
-    "hosts": [
-      "Jethro Reeve"
-    ],
-    "attendee_count": 7,
-    "scraped_date": "2026-03-14T06:38:19.219336"
-  },
-  {
     "name": "ClawClub AI Agents Hackday 🦞 London 15 Mar 2026",
     "date": "2026-03-15T14:00:00.000Z",
     "end_date": "2026-03-15T18:00:00.000Z",
@@ -46,8 +12,8 @@
     "hosts": [
       "sugaroverflow"
     ],
-    "attendee_count": 69,
-    "scraped_date": "2026-03-14T06:38:19.219353"
+    "attendee_count": 71,
+    "scraped_date": "2026-03-15T06:49:35.024752"
   },
   {
     "name": "LSE BUILD 2026 (LSESU Blockchain x Velocity)",
@@ -65,8 +31,8 @@
       "Kevin Apetrei",
       "LSESU Blockchain Society"
     ],
-    "attendee_count": 67,
-    "scraped_date": "2026-03-14T06:38:19.219370"
+    "attendee_count": 73,
+    "scraped_date": "2026-03-15T06:49:35.024779"
   },
   {
     "name": "AI: Who Builds It, Who Benefits, and Who Decides?",
@@ -81,8 +47,8 @@
     "hosts": [
       "Women in Tech UK"
     ],
-    "attendee_count": 101,
-    "scraped_date": "2026-03-14T06:38:19.219380"
+    "attendee_count": 100,
+    "scraped_date": "2026-03-15T06:49:35.024791"
   },
   {
     "name": "Central London | Claude Code for Everyone CCCL #4",
@@ -98,7 +64,7 @@
       "Vikram Pawar"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-14T06:38:19.219389"
+    "scraped_date": "2026-03-15T06:49:35.024801"
   },
   {
     "name": "Newspeak House Code Club",
@@ -114,7 +80,7 @@
       "sugaroverflow"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-03-14T06:38:13.783619"
+    "scraped_date": "2026-03-15T06:49:30.005512"
   },
   {
     "name": "Arize Builders Meetup - London - Boosting Claude Code performance with prompt learning",
@@ -130,7 +96,7 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-14T06:38:19.219419"
+    "scraped_date": "2026-03-15T06:49:35.024835"
   },
   {
     "name": "Building the Future of Women’s Health",
@@ -145,8 +111,8 @@
     "hosts": [
       "UCL Entrepeneurs"
     ],
-    "attendee_count": 65,
-    "scraped_date": "2026-03-14T06:38:13.783697"
+    "attendee_count": 75,
+    "scraped_date": "2026-03-15T06:49:30.005597"
   },
   {
     "name": "Building iOS Apps with Agents + Coding Agent Evals 101",
@@ -162,7 +128,7 @@
       "Sam Hepburn"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-14T06:38:19.219433"
+    "scraped_date": "2026-03-15T06:49:35.024849"
   },
   {
     "name": "Building Secure Software at Scale",
@@ -180,7 +146,7 @@
       "Ellen Humphreys"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-14T06:38:13.783746"
+    "scraped_date": "2026-03-15T06:49:30.005647"
   },
   {
     "name": "Claude & Venture Capital | Claude Builder Club @ Imperial",
@@ -195,8 +161,8 @@
     "hosts": [
       "Bohdan Yermakov"
     ],
-    "attendee_count": 129,
-    "scraped_date": "2026-03-14T06:38:19.219494"
+    "attendee_count": 139,
+    "scraped_date": "2026-03-15T06:49:35.024917"
   },
   {
     "name": "London Ray Meetup hosted by Balderton Capital: Building and Training Smarter AI with Ray",
@@ -217,8 +183,8 @@
       "Weights & Biases",
       "Alexandre Bernard"
     ],
-    "attendee_count": 96,
-    "scraped_date": "2026-03-14T06:38:19.219506"
+    "attendee_count": 97,
+    "scraped_date": "2026-03-15T06:49:35.024929"
   },
   {
     "name": "ClawBio Hackathon: Agentic Genomics",
@@ -236,7 +202,23 @@
       "Nathan Skene",
       "Josh Beale"
     ],
-    "attendee_count": 45,
-    "scraped_date": "2026-03-14T06:38:19.219532"
+    "attendee_count": 57,
+    "scraped_date": "2026-03-15T06:49:35.024975"
+  },
+  {
+    "name": "The Future of Community Building: Women Empowering Sustainable Growth",
+    "date": "2026-03-19T17:30:00.000Z",
+    "end_date": "2026-03-19T20:00:00.000Z",
+    "location": "Geovation, F4, Sutton Yard, 65 Goswell Rd., London EC1V 7EN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/3ad0zqqz",
+    "hosts": [
+      "Tessa Beishuizen"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-03-15T06:49:35.025000"
   }
 ]
