@@ -4,6 +4,9 @@
     "company": "Tesco",
     "programme": "Technology Internship",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -14,13 +17,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014778"
+    "scraped_date": "2026-02-19T15:27:56.957210"
   },
   {
     "id": "0s8vxxg4lp",
     "company": "Apple",
     "programme": "Internship",
     "category": "summer-internships",
+    "categories": [
+      "FAANG+"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -31,13 +37,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014814"
+    "scraped_date": "2026-02-19T15:27:56.957290"
   },
   {
     "id": "0zqbnnmxs1",
     "company": "PQShield",
     "programme": "Software Prototype Intern – Post-Quantum Cryptography",
     "category": "summer-internships",
+    "categories": [
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -48,13 +57,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014819"
+    "scraped_date": "2026-02-19T15:27:56.957303"
   },
   {
     "id": "1n2dml5vsf",
     "company": "Cboe Global Markets",
     "programme": "Intern - Data & Analytics",
     "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -65,13 +77,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014846"
+    "scraped_date": "2026-02-19T15:27:56.957384"
   },
   {
     "id": "1npeqij460",
     "company": "Goldman Sachs",
     "programme": "2026 Summer Analyst Programme",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -82,13 +97,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014850"
+    "scraped_date": "2026-02-19T15:27:56.957397"
   },
   {
     "id": "1suk7gz8mh",
     "company": "UnlikelyAI",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -99,13 +117,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014854"
+    "scraped_date": "2026-03-05T17:30:09.005164"
   },
   {
     "id": "1t7hdgwzfz",
     "company": "WTW",
     "programme": "2026 Software Developer Internship",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -116,13 +137,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014859"
+    "scraped_date": "2026-02-19T15:27:56.957409"
   },
   {
     "id": "263k0frrk2",
     "company": "BNY Mellon",
     "programme": "2026 Summer Internship Program",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -133,13 +157,16 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014880"
+    "scraped_date": "2026-02-19T15:27:56.957456"
   },
   {
     "id": "34z4fmv599",
     "company": "Vanguard",
     "programme": "Technology Internship (Summer 2026)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -150,13 +177,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014908"
+    "scraped_date": "2026-02-19T15:27:56.957591"
   },
   {
     "id": "3bjskysf8i",
     "company": "Viasat",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -167,13 +197,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014912"
+    "scraped_date": "2026-03-05T17:30:09.005320"
   },
   {
     "id": "44mvr3xgsk",
     "company": "F5",
     "programme": "Software Engineering & Data Science Internship 2026",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -191,6 +224,9 @@
     "company": "Quantum Dice",
     "programme": "Summer Internship Programme",
     "category": "summer-internships",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -201,13 +237,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014936"
+    "scraped_date": "2026-02-19T15:27:56.957725"
   },
   {
     "id": "4a16ev6irw",
     "company": "Hacktron AI",
     "programme": "Member of Technical Staff Intern",
     "category": "summer-internships",
+    "categories": [
+      "Startups"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -218,13 +257,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014940"
+    "scraped_date": "2026-02-19T15:27:56.957756"
   },
   {
     "id": "5608ionbfi",
     "company": "S&P Global",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -235,13 +277,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014988"
+    "scraped_date": "2026-02-19T15:27:56.957996"
   },
   {
     "id": "57k27ntihv",
     "company": "TPP",
     "programme": "Summer Internship - Software Developer",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -252,13 +297,16 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014991"
+    "scraped_date": "2026-02-19T15:27:56.958018"
   },
   {
     "id": "5i4tavi561",
     "company": "MongoDB",
     "programme": "2026 - Software Engineering Intern, Dublin",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -269,13 +317,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015020"
+    "scraped_date": "2026-02-19T15:27:56.958178"
   },
   {
     "id": "68uvmztoxs",
     "company": "Hudson River Trading",
     "programme": "Software Engineering Internship - Summer 2026",
     "category": "summer-internships",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -286,13 +337,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015049"
+    "scraped_date": "2026-02-19T15:27:56.958319"
   },
   {
     "id": "6cpsdse5kz",
     "company": "Dojo",
     "programme": "Intern, Associate Software Engineer",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -303,13 +357,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015058"
+    "scraped_date": "2026-02-19T15:27:56.958358"
   },
   {
     "id": "6l6qekh9qz",
     "company": "DV Trading",
     "programme": "2026 Summer Internship - Software Development",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -320,13 +377,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015067"
+    "scraped_date": "2026-02-19T15:27:56.958402"
   },
   {
     "id": "70enj3p6o2",
     "company": "Roku",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -337,13 +397,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015072"
+    "scraped_date": "2026-02-19T15:27:56.958464"
   },
   {
     "id": "736z0iivzu",
     "company": "Nannie",
     "programme": "AI Startup Internship",
     "category": "summer-internships",
+    "categories": [
+      "Startups"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -361,6 +424,9 @@
     "company": "Waters Corporation",
     "programme": "Software Engineering Summer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -378,6 +444,9 @@
     "company": "MUFG",
     "programme": "2026 Summer Internship Programme: Technology",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -388,13 +457,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015094"
+    "scraped_date": "2026-02-19T15:27:56.958549"
   },
   {
     "id": "892gng8q1r",
     "company": "Keysight",
     "programme": "Software Engineering Internship",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -405,13 +477,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015127"
+    "scraped_date": "2026-02-19T15:27:56.958765"
   },
   {
     "id": "8qwurl367w",
     "company": "Baker Hughes",
     "programme": "Emerging Talent – Digital Technology Intern 2026",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -422,13 +497,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015145"
+    "scraped_date": "2026-02-19T15:27:56.958846"
   },
   {
     "id": "9ktzuiumme",
     "company": "Google",
     "programme": "Student Researcher, 2026",
     "category": "summer-internships",
+    "categories": [
+      "FAANG+"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -439,13 +517,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015184"
+    "scraped_date": "2026-02-19T15:27:56.959036"
   },
   {
     "id": "9l7628c1a9",
     "company": "Salesforce",
     "programme": "2026 Software Engineering Intern (Dublin)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -456,13 +537,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015187"
+    "scraped_date": "2026-02-19T15:27:56.959056"
   },
   {
     "id": "9ov4yjxh76",
     "company": "MathWorks",
     "programme": "Software Development Internship",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -473,13 +557,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015196"
+    "scraped_date": "2026-02-19T15:27:56.959095"
   },
   {
     "id": "9tz0qnyb53",
     "company": "Qualcomm",
     "programme": "FY26 Intern - Software Engineer",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -490,13 +577,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015214"
+    "scraped_date": "2026-02-19T15:27:56.959228"
   },
   {
     "id": "9ypdt702n3",
     "company": "Moloco",
     "programme": "Machine Learning Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -507,13 +597,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015223"
+    "scraped_date": "2026-02-19T15:27:56.959269"
   },
   {
     "id": "aea1onnc14",
     "company": "GSK",
     "programme": "GSK Summer Internships 2026",
     "category": "summer-internships",
+    "categories": [
+      "Miscellaneous"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -524,13 +617,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015251"
+    "scraped_date": "2026-03-08T13:19:30.265100"
   },
   {
     "id": "ah1ki4lcbx",
     "company": "Cloudflare",
     "programme": "Security Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -541,13 +637,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015257"
+    "scraped_date": "2026-02-19T15:27:56.959449"
   },
   {
     "id": "airf822tkv",
     "company": "Mastercard",
     "programme": "Software Engineering Intern, Summer 2026",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -558,13 +657,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015261"
+    "scraped_date": "2026-02-19T15:27:56.959478"
   },
   {
     "id": "anvcwv9tgd",
     "company": "Deliveroo",
     "programme": "Machine Learning Intern",
     "category": "summer-internships",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -575,13 +677,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015266"
+    "scraped_date": "2026-03-08T13:19:30.265239"
   },
   {
     "id": "c89z27j025",
     "company": "Bending Spoons",
     "programme": "Software Engineer, Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -592,13 +697,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015323"
+    "scraped_date": "2026-02-19T15:27:56.959806"
   },
   {
     "id": "cd48xha4qc",
     "company": "Qube RT",
     "programme": "2026 Internship - Software Engineering",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -609,13 +717,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015326"
+    "scraped_date": "2026-02-19T15:27:56.959825"
   },
   {
     "id": "d4we593cj1",
     "company": "Talos",
     "programme": "Software Engineer Intern, Backend, Trading",
     "category": "summer-internships",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -626,13 +737,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015358"
+    "scraped_date": "2026-02-19T15:27:56.959990"
   },
   {
     "id": "eosj8qz726",
     "company": "Runna",
     "programme": "Data Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -643,13 +757,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015398"
+    "scraped_date": "2026-03-06T15:06:13.894327"
   },
   {
     "id": "eynaojkgpg",
     "company": "UserTesting",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -660,13 +777,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015408"
+    "scraped_date": "2026-03-05T17:30:09.006608"
   },
   {
     "id": "fixry8dhpv",
     "company": "SPAICE",
     "programme": "Computer Vision Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -677,13 +797,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015420"
+    "scraped_date": "2026-02-19T15:27:56.960200"
   },
   {
     "id": "frajgfopue",
     "company": "Cloudflare",
     "programme": "Software Engineer - Intern (Summer 2026)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -694,13 +817,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015429"
+    "scraped_date": "2026-02-19T15:27:56.960232"
   },
   {
     "id": "frm9ak8ton",
     "company": "Moloco",
     "programme": "Data Science Intern",
     "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -711,13 +837,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015433"
+    "scraped_date": "2026-02-19T15:27:56.960244"
   },
   {
     "id": "hb1zqm04gy",
     "company": "MongoDB",
     "programme": "2026 - Security Intern, Dublin",
     "category": "summer-internships",
+    "categories": [
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -728,13 +857,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015479"
+    "scraped_date": "2026-02-19T15:27:56.960383"
   },
   {
     "id": "hkymagx9fz",
     "company": "Motorola Solutions",
     "programme": "Software Engineering Internship",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -745,13 +877,17 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015497"
+    "scraped_date": "2026-03-05T17:30:09.006857"
   },
   {
     "id": "i72n41ud63",
     "company": "Amazon",
     "programme": "2026 Software Dev Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering",
+      "FAANG+"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -762,13 +898,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015518"
+    "scraped_date": "2026-02-19T15:27:56.960488"
   },
   {
     "id": "inxqb9bvoq",
     "company": "Blockchain.com",
     "programme": "Software Engineer Intern (6 months)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -779,13 +918,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015533"
+    "scraped_date": "2026-02-19T15:27:56.960536"
   },
   {
     "id": "jfka74yyhg",
     "company": "Leonardo",
     "programme": "Summer Placement Software Engineer",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -796,13 +938,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015568"
+    "scraped_date": "2026-02-19T15:27:56.960642"
   },
   {
     "id": "jhqdwfmh1s",
     "company": "Palantir",
     "programme": "Software Engineer, Internship",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -813,13 +958,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015571"
+    "scraped_date": "2026-02-19T15:27:56.960654"
   },
   {
     "id": "jztai2yg5y",
     "company": "Marshall Wace",
     "programme": "Technology Intern - 2026",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -830,13 +978,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015585"
+    "scraped_date": "2026-02-19T15:27:56.960689"
   },
   {
     "id": "k1dbvmi04k",
     "company": "IMC Trading",
     "programme": "Software Engineer Intern (2026)",
     "category": "summer-internships",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -847,13 +998,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015589"
+    "scraped_date": "2026-02-19T15:27:56.960701"
   },
   {
     "id": "kwhonff1q1",
     "company": "Thought Machine",
     "programme": "Software Engineering Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -864,13 +1018,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015606"
+    "scraped_date": "2026-02-19T15:27:56.960756"
   },
   {
     "id": "kwil61xbll",
     "company": "Citadel",
     "programme": "Software Engineer - Intern (Europe)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -881,13 +1038,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015611"
+    "scraped_date": "2026-02-19T15:27:56.960773"
   },
   {
     "id": "l31hskc9vn",
     "company": "NatWest Markets",
     "programme": "Engineering - Internship",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -898,13 +1058,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015620"
+    "scraped_date": "2026-02-19T15:27:56.960797"
   },
   {
     "id": "m6kueg5lyx",
     "company": "Jane Street",
     "programme": "Software Engineer Internship",
     "category": "summer-internships",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -915,13 +1078,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015652"
+    "scraped_date": "2026-02-19T15:27:56.960912"
   },
   {
     "id": "mqbs0l3tt5",
     "company": "Runna",
     "programme": "Software Engineering Intern, App",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -932,13 +1098,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015660"
+    "scraped_date": "2026-03-06T15:06:13.894747"
   },
   {
     "id": "nq5h1b0rpm",
     "company": "Udemy",
     "programme": "Software Engineer Intern, Dublin",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -949,13 +1118,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015683"
+    "scraped_date": "2026-03-05T17:30:09.007415"
   },
   {
     "id": "nq8fzv5cxz",
     "company": "Red Bull",
     "programme": "Field Data Intern",
     "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -966,13 +1138,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015687"
+    "scraped_date": "2026-03-05T17:30:09.007445"
   },
   {
     "id": "o5t46wvmid",
     "company": "Squarespace",
     "programme": "Software Engineering Intern - Summer 2026 (Dublin)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -983,13 +1158,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015722"
+    "scraped_date": "2026-02-19T15:27:56.961065"
   },
   {
     "id": "o9mdhv1ztw",
     "company": "Clear-Com",
     "programme": " Software Engineering Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1000,13 +1178,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015726"
+    "scraped_date": "2026-02-19T15:27:56.961077"
   },
   {
     "id": "oo5f8sq8xv",
     "company": "Deliveroo",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1017,13 +1198,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015744"
+    "scraped_date": "2026-03-05T17:30:09.007646"
   },
   {
     "id": "p3dmj4q7kr",
     "company": "Legal & General",
     "programme": "Data Internship 2026",
     "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1041,6 +1225,9 @@
     "company": "Figma",
     "programme": "Software Engineer Intern, Developer Tools (2026)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1051,13 +1238,17 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015773"
+    "scraped_date": "2026-02-19T15:27:56.961223"
   },
   {
     "id": "pcp19r2okz",
     "company": "Houlihan Lokey",
     "programme": "IT Governance, Risk & Cybersecurity Internship - Summer 2026",
     "category": "summer-internships",
+    "categories": [
+      "IT",
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1068,13 +1259,17 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015781"
+    "scraped_date": "2026-02-19T15:27:56.961254"
   },
   {
     "id": "piltkoa6zy",
     "company": "Wincent",
     "programme": "Engineers – Internship 2026",
     "category": "summer-internships",
+    "categories": [
+      "Quant Developer",
+      "Sponsors"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1085,13 +1280,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015785"
+    "scraped_date": "2026-03-05T17:30:09.007826"
   },
   {
     "id": "pjy3lqkqty",
     "company": "Mastercard",
     "programme": "Intern, Technology Risk Management",
     "category": "summer-internships",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1102,13 +1300,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015789"
+    "scraped_date": "2026-02-19T15:27:56.961266"
   },
   {
     "id": "q6m66i9jjf",
     "company": "American Express",
     "programme": "Campus - Technology Operations Engineering Intern",
     "category": "summer-internships",
+    "categories": [
+      "DevOps and Infrastructure"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1119,13 +1320,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015819"
+    "scraped_date": "2026-02-19T15:27:56.961356"
   },
   {
     "id": "qwpq723qcy",
     "company": "Squarepoint Capital",
     "programme": "Intern Software Development - Summer 2026",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1136,13 +1340,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015857"
+    "scraped_date": "2026-02-19T15:27:56.961484"
   },
   {
     "id": "qyxl4sc4sq",
     "company": "TE Connectivity",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1153,13 +1360,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015866"
+    "scraped_date": "2026-02-19T15:27:56.961508"
   },
   {
     "id": "rrc0rpnu9u",
     "company": "Convergent",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1170,13 +1380,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015891"
+    "scraped_date": "2026-02-19T15:27:56.961588"
   },
   {
     "id": "rv512l3fau",
     "company": "UnlikelyAI",
     "programme": "Machine Learning Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1187,13 +1400,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015902"
+    "scraped_date": "2026-03-05T17:30:09.008405"
   },
   {
     "id": "so0cr03lwa",
     "company": "eSourcing Data",
     "programme": "Software Development Intern (Summer)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1204,13 +1420,16 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015925"
+    "scraped_date": "2026-03-05T17:30:09.008517"
   },
   {
     "id": "sphi8670ha",
     "company": "NCR Atleos",
     "programme": "Software Internship - Summer 2026 (12 Weeks)",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1221,13 +1440,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015928"
+    "scraped_date": "2026-02-19T15:27:56.961687"
   },
   {
     "id": "tiqilwm3de",
     "company": "S&P Global",
     "programme": "Data Engineer Summer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1238,13 +1460,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015972"
+    "scraped_date": "2026-02-19T15:27:56.961826"
   },
   {
     "id": "tkfdhh6icq",
     "company": "Point72",
     "programme": "2026 Summer Internship – Data Engineer, Long/Short Equities",
     "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1255,13 +1480,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015976"
+    "scraped_date": "2026-02-19T15:27:56.961839"
   },
   {
     "id": "uo0yhypm9l",
     "company": "Arctic Lake",
     "programme": "Software Engineer Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1272,13 +1500,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.016013"
+    "scraped_date": "2026-03-05T17:30:09.009072"
   },
   {
     "id": "wgaeplnaj7",
     "company": "Parexel",
     "programme": "AI Summer Intern ",
     "category": "summer-internships",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1289,13 +1520,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.016063"
+    "scraped_date": "2026-03-05T17:30:09.009300"
   },
   {
     "id": "xy8143v0l5",
     "company": "British Business Bank",
     "programme": "Summer Internship Programme 2026",
     "category": "summer-internships",
+    "categories": [
+      "Miscellaneous"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1306,13 +1540,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.016107"
+    "scraped_date": "2026-02-19T15:27:56.962228"
   },
   {
     "id": "xzvnnd00g9",
     "company": "Cboe Global Markets",
     "programme": "Intern - DPE (Data Pipeline Engineering)",
     "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1323,13 +1560,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.016111"
+    "scraped_date": "2026-03-08T13:19:30.269295"
   },
   {
     "id": "y7sqfvcfbt",
     "company": "Aize",
     "programme": "Software Engineering Intern",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1340,13 +1580,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.016123"
+    "scraped_date": "2026-03-05T17:30:09.009560"
   },
   {
     "id": "z32aktj60a",
     "company": "Tencent",
     "programme": "Various Tech Internships",
     "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1357,6 +1600,6 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.016159"
+    "scraped_date": "2026-02-19T15:27:56.962354"
   }
 ]

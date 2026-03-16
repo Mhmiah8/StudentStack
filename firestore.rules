@@ -18,12 +18,16 @@ service cloud.firestore {
       return isSignedIn() && userDoc(request.auth.uid).exists() ? currentUserData().role : null;
     }
 
+    function normalizedCurrentRole() {
+      return currentRole() is string ? lower(currentRole()) : null;
+    }
+
     function isAdmin() {
-      return currentRole() == 'admin';
+      return normalizedCurrentRole() == 'admin';
     }
 
     function isModOrAdmin() {
-      return currentRole() == 'mod' || currentRole() == 'admin';
+      return normalizedCurrentRole() == 'mod' || normalizedCurrentRole() == 'admin';
     }
 
     function isBanned() {

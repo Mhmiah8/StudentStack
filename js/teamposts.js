@@ -237,10 +237,41 @@ function formatDate(timestamp) {
 function formatType(type) {
     const labels = {
         hackathon: 'Hackathon',
+        job: 'Job',
         project: 'Project',
         study: 'Study'
     };
     return labels[type] || 'Team';
+}
+
+function normalizeExternalUrl(value) {
+    const raw = String(value || '').trim();
+    if (!raw) return '';
+
+    const candidate = /^https?:\/\//i.test(raw) ? raw : `https://${raw}`;
+    try {
+        const url = new URL(candidate);
+        if (url.protocol !== 'http:' && url.protocol !== 'https:') return '';
+        return url.toString();
+    } catch {
+        return '';
+    }
+}
+
+function getTeamPostCta(post) {
+    const type = String(post?.type || '').toLowerCase();
+    const url = normalizeExternalUrl(post?.postUrl || post?.url || '');
+    if (!url) return '';
+
+    if (type === 'job') {
+        return `<a href="${escapeSiteText(url)}" target="_blank" rel="noopener noreferrer" class="text-blue-700 hover:underline text-sm font-semibold">Quick Apply</a>`;
+    }
+
+    if (type === 'hackathon') {
+        return `<a href="${escapeSiteText(url)}" target="_blank" rel="noopener noreferrer" class="text-blue-700 hover:underline text-sm font-semibold">Quick Register</a>`;
+    }
+
+    return `<a href="${escapeSiteText(url)}" target="_blank" rel="noopener noreferrer" class="text-blue-700 hover:underline text-sm font-semibold">Open Link</a>`;
 }
 
 function isModeratorOrAdmin(profile) {
@@ -280,6 +311,7 @@ function createTeamPostCard(post) {
     const lookingFor = Array.isArray(post.lookingFor) ? post.lookingFor : [];
     const reportCount = Number(post.reportCount || 0);
     const showRemove = isModeratorOrAdmin(currentUserProfile);
+    const quickAction = getTeamPostCta(post);
 
     return `
         <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
@@ -304,6 +336,7 @@ function createTeamPostCard(post) {
             <div class="flex flex-wrap items-center justify-between gap-3">
                 <span class="text-xs text-slate-400">${reportCount > 0 ? `${reportCount} reports` : 'No reports'}</span>
                 <div class="flex flex-wrap items-center gap-3 justify-end ml-auto">
+                    ${quickAction}
                     <button class="text-slate-600 hover:text-blue-700 text-sm font-semibold team-react-btn" data-post-id="${escapeSiteText(post.id)}" data-reaction="up" type="button">👍 <span>${Number(post.upvotes || 0)}</span></button>
                     <button class="text-slate-600 hover:text-blue-700 text-sm font-semibold team-react-btn" data-post-id="${escapeSiteText(post.id)}" data-reaction="down" type="button">👎 <span>${Number(post.downvotes || 0)}</span></button>
                     <button class="text-slate-600 hover:underline text-sm font-semibold view-team-comments-btn" data-post-id="${escapeSiteText(post.id)}" data-post-title="${escapeSiteText(post.title || 'Untitled post')}" type="button">View comments</button>
