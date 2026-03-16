@@ -4,6 +4,9 @@
     "company": "Mastercard",
     "programme": "Software Engineer, Launch Graduate Program 2026",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -14,13 +17,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685840"
+    "scraped_date": "2026-02-19T15:28:05.434908"
   },
   {
     "id": "0sx5ko1v0f",
     "company": "Urban Jungle",
     "programme": "Software Engineer (Full Stack)",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -38,6 +44,12 @@
     "company": "Qube RT",
     "programme": "2026 - Internship/Graduate",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer",
+      "Software Engineering",
+      "Data Science",
+      "DevOps and Infrastructure"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -48,13 +60,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685865"
+    "scraped_date": "2026-02-19T15:28:05.434969"
   },
   {
     "id": "1faevfvrd2",
     "company": "Palantir",
     "programme": "Software Engineer, New Grad",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -65,13 +80,17 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685872"
+    "scraped_date": "2026-02-19T15:28:05.435004"
   },
   {
     "id": "1z11jbqx8l",
     "company": "Graphcore",
     "programme": "2026 Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering",
+      "DevOps and Infrastructure"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -82,13 +101,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685891"
+    "scraped_date": "2026-02-19T15:28:05.435061"
   },
   {
     "id": "283d6wfkza",
     "company": "Cambridge Consultants",
     "programme": "Graduate Electronics & Software Engineer (2026 start)",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -99,13 +121,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685901"
+    "scraped_date": "2026-02-19T15:28:05.435089"
   },
   {
     "id": "2emgkl2wp0",
     "company": "mthree",
     "programme": "Junior Software Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -116,13 +141,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685905"
+    "scraped_date": "2026-02-19T15:28:05.435100"
   },
   {
     "id": "40k5f8umbh",
     "company": "Bank of England",
     "programme": "2026 Graduate Development Programme - Data/Risk",
     "category": "graduate-programmes",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -133,13 +161,17 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685931"
+    "scraped_date": "2026-02-19T15:28:05.435161"
   },
   {
     "id": "4f06tevok9",
     "company": "PwC",
     "programme": "Graduate - Technology (Data/CyberSec)",
     "category": "graduate-programmes",
+    "categories": [
+      "Data Science",
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -150,13 +182,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685945"
+    "scraped_date": "2026-02-19T15:28:05.435194"
   },
   {
     "id": "58zpuldbxk",
     "company": "RELX",
     "programme": "Tech Accelerate Graduate Program - Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -167,13 +202,36 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.685983"
+    "scraped_date": "2026-02-19T15:28:05.435289"
+  },
+  {
+    "id": "60d0qcf8q8",
+    "company": "Capula Investment Management",
+    "programme": "Technology Graduate Analyst",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-16T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://apply.workable.com/capula-investment-management-ltd/j/88F2A24444/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-16T16:55:18.561853"
   },
   {
     "id": "6cknqu8lkv",
     "company": "Titanbay",
     "programme": "Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -184,13 +242,36 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686006"
+    "scraped_date": "2026-02-19T15:28:05.435347"
+  },
+  {
+    "id": "6ous93is0r",
+    "company": "Longshot Systems",
+    "programme": "Graduate Machine Learning Researcher",
+    "category": "graduate-programmes",
+    "categories": [
+      "AI and Machine Learning"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-16T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://apply.workable.com/longshot-systems-ltd/j/CDC0152ADC/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-16T16:55:18.561936"
   },
   {
     "id": "7eb6nvxpoz",
     "company": "Motorola Solutions",
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -201,13 +282,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686034"
+    "scraped_date": "2026-02-19T15:28:05.435469"
   },
   {
     "id": "7s2wbs3d8d",
     "company": "Da Vinci Trading",
     "programme": "Graduate Quant Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -218,13 +302,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686045"
+    "scraped_date": "2026-02-19T15:28:05.435512"
   },
   {
     "id": "8sxdlzp0xf",
     "company": "Xantium",
     "programme": "Quantitative Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -235,13 +322,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686070"
+    "scraped_date": "2026-02-19T15:28:05.435584"
   },
   {
     "id": "8wesna0vaa",
     "company": "Cambridge Consultants",
     "programme": "Graduate AI Engineer (2026 start)",
     "category": "graduate-programmes",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -252,13 +342,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686074"
+    "scraped_date": "2026-02-19T15:28:05.435596"
   },
   {
     "id": "9s1cas6d1j",
     "company": "Lloyds Banking Group",
     "programme": "Technology Engineering Graduate Scheme",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -269,13 +362,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686092"
+    "scraped_date": "2026-02-19T15:28:05.435639"
   },
   {
     "id": "amrln5mzml",
     "company": "Currys",
     "programme": "Technology, Transformation and AI & Monetisation - Graduate",
     "category": "graduate-programmes",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -286,13 +382,37 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686171"
+    "scraped_date": "2026-02-19T15:28:05.435885"
+  },
+  {
+    "id": "cjf1ebcjl2",
+    "company": "VINCI Construction",
+    "programme": "Information Technology Graduate",
+    "category": "graduate-programmes",
+    "categories": [
+      "IT",
+      "Cyber Security"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-16T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.linkedin.com/jobs/search-results/?currentJobId=4384028321&keywords=%22Information+Technology+Graduate%22&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=3R0fUWn4SjU41fOTnhRizA%3D%3D&f_C=3169308&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-16T16:55:18.563784"
   },
   {
     "id": "cmxqkf3706",
     "company": "Deliveroo",
     "programme": "Software Engineer, New Grad",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -303,13 +423,37 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686239"
+    "scraped_date": "2026-03-05T17:30:15.331843"
+  },
+  {
+    "id": "cqalm8i8ui",
+    "company": "AlphaSights",
+    "programme": "Graduate Software Engineer",
+    "category": "graduate-programmes",
+    "categories": [
+      "Sponsors",
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-16T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://grnh.se/5syf9wuy1us",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-16T16:55:18.563931"
   },
   {
     "id": "d65xrdgd03",
     "company": "Katalyze Data",
     "programme": "Graduate Programmer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -320,13 +464,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686262"
+    "scraped_date": "2026-02-19T15:28:05.436086"
   },
   {
     "id": "dhraplaw2q",
     "company": "Crédit Agricole",
     "programme": "12 Month Internship - Information Security",
     "category": "graduate-programmes",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -337,13 +484,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686266"
+    "scraped_date": "2026-02-19T15:28:05.436097"
   },
   {
     "id": "e1zb8j91pm",
     "company": "Arctic Lake",
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -354,13 +504,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686284"
+    "scraped_date": "2026-03-05T17:30:15.331966"
   },
   {
     "id": "ebje461tgo",
     "company": "Leonardo",
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -371,13 +524,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686293"
+    "scraped_date": "2026-02-19T15:28:05.436158"
   },
   {
     "id": "engmwqe1vw",
     "company": "Midsummer Energy",
     "programme": "Graduate Web Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -395,6 +551,9 @@
     "company": "KEYENCE",
     "programme": "IT Graduate Scheme",
     "category": "graduate-programmes",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -405,13 +564,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686315"
+    "scraped_date": "2026-02-19T15:28:05.436201"
   },
   {
     "id": "g56mddyeyp",
     "company": "Langham Hall",
     "programme": "Junior Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "DevOps and Infrastructure"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -422,13 +584,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686335"
+    "scraped_date": "2026-02-19T15:28:05.436259"
   },
   {
     "id": "gg1g8vx0wl",
     "company": "SPAICE",
     "programme": "Computer Vision Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -439,13 +604,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686346"
+    "scraped_date": "2026-02-19T15:28:05.436292"
   },
   {
     "id": "gglt3wji6n",
     "company": "MongoDB",
     "programme": "Software Engineer Graduate",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -456,13 +624,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686350"
+    "scraped_date": "2026-03-05T17:30:15.332163"
   },
   {
     "id": "gjxv8zsfuk",
     "company": "Peregrine",
     "programme": "Junior Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -473,13 +644,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686354"
+    "scraped_date": "2026-02-19T15:28:05.436303"
   },
   {
     "id": "govlrkcsty",
     "company": "Five Rings",
     "programme": "Full Time 2026 - Software Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -490,13 +664,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686367"
+    "scraped_date": "2026-02-19T15:28:05.436342"
   },
   {
     "id": "gpj3oquug3",
     "company": "Framestore",
     "programme": "Junior Cloud Engineer - Launchpad Internship 2026",
     "category": "graduate-programmes",
+    "categories": [
+      "DevOps and Infrastructure"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -507,13 +684,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686371"
+    "scraped_date": "2026-02-19T15:28:05.436353"
   },
   {
     "id": "jgwd86cquh",
     "company": "NCR Atleos",
     "programme": "Graduate Software Engineer - June 2026 Start",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -524,13 +704,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686446"
+    "scraped_date": "2026-02-19T15:28:05.436534"
   },
   {
     "id": "k9iov04k51",
     "company": "Flow Traders",
     "programme": "Graduate Software Engineer - C++",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -541,13 +724,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686454"
+    "scraped_date": "2026-02-19T15:28:05.436556"
   },
   {
     "id": "kolqnqu196",
     "company": "B2C2",
     "programme": "Graduate Quant Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -558,13 +744,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686478"
+    "scraped_date": "2026-03-05T17:30:15.332624"
   },
   {
     "id": "laeodbq5js",
     "company": "Squarepoint Capital",
     "programme": "Graduate Software Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -575,13 +764,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686491"
+    "scraped_date": "2026-02-19T15:28:05.436628"
   },
   {
     "id": "muuwphcilz",
     "company": "GSA Capital",
     "programme": "Software Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -592,13 +784,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686551"
+    "scraped_date": "2026-02-19T15:28:05.436829"
   },
   {
     "id": "mux5y2ck00",
     "company": "Framestore",
     "programme": "Junior ML Ops Engineer - Launchpad Internship 2026",
     "category": "graduate-programmes",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -609,13 +804,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686555"
+    "scraped_date": "2026-02-19T15:28:05.436839"
   },
   {
     "id": "mvdo5num2u",
     "company": "Persimmon Homes",
     "programme": "Graduate AI and Digital Innovation Associate",
     "category": "graduate-programmes",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -633,6 +831,9 @@
     "company": "Susquehanna International Group",
     "programme": "Software Developer Graduate: 2026",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -643,13 +844,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686563"
+    "scraped_date": "2026-02-19T15:28:05.436858"
   },
   {
     "id": "nvuxbzgqjx",
     "company": "Actica Consulting",
     "programme": "Graduate Cyber Security Consultant",
     "category": "graduate-programmes",
+    "categories": [
+      "Tech Consulting"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -660,13 +864,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686584"
+    "scraped_date": "2026-02-19T15:28:05.436913"
   },
   {
     "id": "o7gndmqhn6",
     "company": "Marshall Wace",
     "programme": "Technology Graduate Scheme 2026",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -677,13 +884,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686592"
+    "scraped_date": "2026-02-19T15:28:05.436934"
   },
   {
     "id": "ogneu3d6zw",
     "company": "Dorset Software",
     "programme": "Software Graduate Programme",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -694,13 +904,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686606"
+    "scraped_date": "2026-02-19T15:28:05.436973"
   },
   {
     "id": "oxassn8c4k",
     "company": "Jane Street",
     "programme": "Software Engineer New Grad",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -711,13 +924,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686609"
+    "scraped_date": "2026-02-19T15:28:05.436984"
   },
   {
     "id": "p68lh8mjrm",
     "company": "Bluesmith",
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -728,13 +944,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686625"
+    "scraped_date": "2026-02-19T15:28:05.437027"
   },
   {
     "id": "phapidqi7e",
     "company": "Hudson River Trading",
     "programme": "Software Engineer - 2026 Grads",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -745,13 +964,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686629"
+    "scraped_date": "2026-02-19T15:28:05.437042"
   },
   {
     "id": "q000oxfwdt",
     "company": "Accenture",
     "programme": "Graduate Programme 2026 - 2027",
     "category": "graduate-programmes",
+    "categories": [
+      "Tech Consulting"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -762,13 +984,16 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686652"
+    "scraped_date": "2026-02-19T15:28:05.437122"
   },
   {
     "id": "qpp5a684a5",
     "company": "Fever",
     "programme": "Fever Software Engineering Fellowship",
     "category": "graduate-programmes",
+    "categories": [
+      "Startups"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -779,13 +1004,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686670"
+    "scraped_date": "2026-02-19T15:28:05.437211"
   },
   {
     "id": "s70j5899ip",
     "company": "BNY Mellon",
     "programme": "2026 Analyst Program",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -796,13 +1024,18 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686730"
+    "scraped_date": "2026-02-19T15:28:05.437326"
   },
   {
     "id": "tb70ckgi3i",
     "company": "Acturis",
     "programme": "2026 Graduate Programme",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering",
+      "DevOps and Infrastructure",
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -820,6 +1053,9 @@
     "company": "Dare",
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -830,13 +1066,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686781"
+    "scraped_date": "2026-02-19T15:28:05.437437"
   },
   {
     "id": "tkvbws9qwt",
     "company": "Baringa",
     "programme": "Summer 2026 Internship - AI",
     "category": "graduate-programmes",
+    "categories": [
+      "AI and Machine Learning"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -847,13 +1086,18 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686785"
+    "scraped_date": "2026-02-19T15:28:05.437448"
   },
   {
     "id": "ukfi1v2pqd",
     "company": "Low Carbon Contracts Company",
     "programme": "Technology Net Zero Graduate Scheme",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering",
+      "Data Science",
+      "DevOps and Infrastructure"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -871,6 +1115,9 @@
     "company": "KKR",
     "programme": "2026 Software Engineering Graduate Analyst - Dublin",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -881,13 +1128,18 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686818"
+    "scraped_date": "2026-02-19T15:28:05.437521"
   },
   {
     "id": "v1kzfds8m3",
     "company": "Southern Water",
     "programme": "Graduate Development Programme - Digital",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering",
+      "Data Science",
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -898,13 +1150,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686827"
+    "scraped_date": "2026-03-05T17:30:15.333623"
   },
   {
     "id": "var81zurcy",
     "company": "Kingspan",
     "programme": "Junior Software Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -915,13 +1170,16 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686839"
+    "scraped_date": "2026-03-05T17:30:15.333658"
   },
   {
     "id": "vhshrfylgt",
     "company": "Isembard",
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -939,6 +1197,9 @@
     "company": "Bastion Trading",
     "programme": "IT Development Full Time 2026",
     "category": "graduate-programmes",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -949,13 +1210,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686890"
+    "scraped_date": "2026-02-19T15:28:05.437703"
   },
   {
     "id": "xiyq6glegj",
     "company": "Bending Spoons",
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -966,13 +1230,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686906"
+    "scraped_date": "2026-02-19T15:28:05.437758"
   },
   {
     "id": "y0idy3tqud",
     "company": "TPP",
     "programme": "Graduate Software Developer",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -983,13 +1250,16 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686920"
+    "scraped_date": "2026-02-19T15:28:05.437817"
   },
   {
     "id": "zfj1dbfww3",
     "company": "IMC Trading",
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1000,13 +1270,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686957"
+    "scraped_date": "2026-02-19T15:28:05.437968"
   },
   {
     "id": "zmexpzh0sj",
     "company": "Man Group",
     "programme": "2026 Technology Graduate Programme",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1017,13 +1290,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686980"
+    "scraped_date": "2026-02-19T15:28:05.438021"
   },
   {
     "id": "zty1osulg3",
     "company": "Sigma Labs",
     "programme": "Graduate Technology Consultant Programme",
     "category": "graduate-programmes",
+    "categories": [
+      "Tech Consulting"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1034,13 +1310,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686998"
+    "scraped_date": "2026-02-19T15:28:05.438110"
   },
   {
     "id": "zv3hzxfjic",
     "company": "MediaTek",
     "programme": "Graduate Software Engineer 2026",
     "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -1051,6 +1330,6 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.687002"
+    "scraped_date": "2026-02-19T15:28:05.438133"
   }
 ]

@@ -4,6 +4,7 @@ import json
 from datetime import datetime, timezone
 import time
 import os
+import glob
 import pandas as pd
 import sys
 import io
@@ -181,11 +182,52 @@ class TrackrScraper:
             'Accept': 'application/json',
             'Referer': env_str('TRACKR_REFERER', 'https://app.the-trackr.com/uk-technology/summer-internships')
         }
+
+    def get_existing_scraped_dates(self):
+        """Load previously seen scraped_date values by job ID so NEW means newly discovered."""
+        data_files = ['data/jobs_latest.json'] + sorted(glob.glob('data/trackr_jobs_*.json'))
+        if not any(os.path.exists(path) for path in data_files):
+            return {}
+
+        existing_dates = {}
+
+        try:
+            for path in data_files:
+                if not os.path.exists(path):
+                    continue
+
+                with open(path, 'r', encoding='utf-8') as f:
+                    existing_jobs = json.load(f)
+                if not isinstance(existing_jobs, list):
+                    continue
+
+                for item in existing_jobs:
+                    if not isinstance(item, dict):
+                        continue
+                    job_id = item.get('id')
+                    scraped_date = item.get('scraped_date')
+                    if not job_id or not scraped_date:
+                        continue
+
+                    previous = existing_dates.get(job_id)
+                    if not previous:
+                        existing_dates[job_id] = scraped_date
+                        continue
+
+                    previous_dt = parse_trackr_date(previous)
+                    candidate_dt = parse_trackr_date(scraped_date)
+                    if previous_dt and candidate_dt and candidate_dt < previous_dt:
+                        existing_dates[job_id] = scraped_date
+
+            return existing_dates
+        except Exception:
+            return {}
         
-    def fetch_category(self, category_type, season="2026"):
+    def fetch_category(self, category_type, season="2026", existing_scraped_dates=None):
         """Fetch jobs for a specific category"""
 
         reference_time = get_utc_now_naive()
+        existing_scraped_dates = existing_scraped_dates or {}
         
         params = {
             "region": self.region,
@@ -223,6 +265,7 @@ class TrackrScraper:
                         'company': company_name,
                         'programme': job.get('name', ''),
                         'category': category_type,
+                        'categories': [item for item in (job.get('categories') or []) if isinstance(item, str) and item.strip()],
                         'season': season,
                         'region': job.get('region', 'UK'),
                         'locations': ', '.join(job.get('locations', [])) if job.get('locations') else 'UK',
@@ -233,7 +276,7 @@ class TrackrScraper:
                         'eligibility': job.get('eligibility', ''),
                         'cv_required': 'Yes' if job.get('cv') else 'No',
                         'rolling': job.get('rolling', False),
-                        'scraped_date': datetime.now().isoformat()
+                        'scraped_date': existing_scraped_dates.get(job.get('id')) or datetime.now().isoformat()
                     }
                     
                     # Only add if we have essential data and the role is currently open
@@ -254,7 +297,7 @@ class TrackrScraper:
             print(f"Error: {e}")
             return []
     
-    def fetch_all_categories(self, season="2026"):
+    def fetch_all_categories(self, season="2026", existing_scraped_dates=None):
         """Fetch all job categories"""
         
         categories = [
@@ -267,7 +310,7 @@ class TrackrScraper:
         all_jobs = []
         
         for category in categories:
-            jobs = self.fetch_category(category, season)
+            jobs = self.fetch_category(category, season, existing_scraped_dates)
             all_jobs.extend(jobs)
             
             # Be polite to the server - wait between requests
@@ -347,6 +390,7 @@ def main():
     print("=" * 60)
     
     scraper = TrackrScraper()
+    existing_scraped_dates = scraper.get_existing_scraped_dates()
     
     season = (args.season or env_str("TRACKR_SEASON", "2026")).strip() or "2026"
 
@@ -364,15 +408,15 @@ def main():
         choice = input("\nSelect option (1-5): ").strip()
     
     if choice == "1":
-        jobs = scraper.fetch_all_categories(season)
+        jobs = scraper.fetch_all_categories(season, existing_scraped_dates)
     elif choice == "2":
-        jobs = scraper.fetch_category("summer-internships", season)
+        jobs = scraper.fetch_category("summer-internships", season, existing_scraped_dates)
     elif choice == "3":
-        jobs = scraper.fetch_category("industrial-placements", season)
+        jobs = scraper.fetch_category("industrial-placements", season, existing_scraped_dates)
     elif choice == "4":
-        jobs = scraper.fetch_category("graduate-programmes", season)
+        jobs = scraper.fetch_category("graduate-programmes", season, existing_scraped_dates)
     elif choice == "5":
-        jobs = scraper.fetch_category("spring-weeks", season)
+        jobs = scraper.fetch_category("spring-weeks", season, existing_scraped_dates)
     else:
         print("Invalid choice")
         return

@@ -11,6 +11,53 @@ function formatHackathonDate(dateString) {
     });
 }
 
+function parseHackathonDateSafe(dateString) {
+    if (!dateString || dateString === 'TBA') return null;
+    const parsedDate = new Date(dateString);
+    return Number.isNaN(parsedDate.getTime()) ? null : parsedDate;
+}
+
+function isHackathonNew(dateString) {
+    const parsedDate = parseHackathonDateSafe(dateString);
+    if (!parsedDate) return false;
+
+    const ageMs = Date.now() - parsedDate.getTime();
+    return ageMs >= 0 && ageMs <= 24 * 60 * 60 * 1000;
+}
+
+function getHackathonDaysUntil(dateString) {
+    const parsedDate = parseHackathonDateSafe(dateString);
+    if (!parsedDate) return null;
+    return (parsedDate.getTime() - Date.now()) / (24 * 60 * 60 * 1000);
+}
+
+function getClosingSoonHackathons(limit = 4) {
+    return allHackathons
+        .filter(hackathon => {
+            const daysUntil = getHackathonDaysUntil(hackathon.date);
+            return daysUntil !== null && daysUntil >= 0 && daysUntil <= 7;
+        })
+        .sort((a, b) => {
+            const aDate = parseHackathonDateSafe(a.date);
+            const bDate = parseHackathonDateSafe(b.date);
+            return (aDate?.getTime() || 0) - (bDate?.getTime() || 0);
+        })
+        .slice(0, limit);
+}
+
+function renderClosingSoonHackathons() {
+    const container = document.getElementById('closing-soon-hackathons-container');
+    if (!container) return;
+
+    const closingSoonEvents = getClosingSoonHackathons();
+    if (closingSoonEvents.length === 0) {
+        container.innerHTML = '<div class="sm:col-span-2 lg:col-span-4 text-sm text-slate-500">No hackathons or events in the next 7 days.</div>';
+        return;
+    }
+
+    container.innerHTML = closingSoonEvents.map(createHackathonCard).join('');
+}
+
 let allHackathons = [];
 let showingAllHackathons = false;
 
@@ -56,6 +103,10 @@ function createHackathonCard(hackathon) {
     const url = hackathon.url && typeof hackathon.url === 'string' ? hackathon.url : '#';
     const disabledClass = url === '#' ? 'opacity-50 cursor-not-allowed' : '';
     const eventEmoji = getHackathonEmoji(hackathon);
+    const showNewBadge = isHackathonNew(hackathon.scraped_date);
+    const newBadgeMarkup = showNewBadge
+        ? '<span class="ml-2 px-2 py-1 bg-emerald-100 text-emerald-700 text-[11px] font-bold rounded-full uppercase">NEW</span>'
+        : '';
 
     return `
         <div class="bg-slate-800 rounded-xl overflow-hidden border border-slate-700 hover:border-secondary transition-all group">
@@ -63,7 +114,7 @@ function createHackathonCard(hackathon) {
                 <span class="text-4xl">${eventEmoji}</span>
             </div>
             <div class="p-5">
-                <h3 class="font-bold text-lg group-hover:text-secondary transition-colors text-white mb-2">${eventName}</h3>
+                <h3 class="font-bold text-lg group-hover:text-secondary transition-colors text-white mb-2">${eventName}${newBadgeMarkup}</h3>
                 <p class="text-slate-400 text-sm mb-4">${host}</p>
                 <div class="space-y-2 mb-6">
                     <div class="flex items-center text-xs text-slate-300">
@@ -183,6 +234,7 @@ async function loadRecentHackathons() {
 
         if (!Array.isArray(hackathons) || hackathons.length === 0) {
             renderHackathonEmptyState(container);
+            renderClosingSoonHackathons();
             return;
         }
 
@@ -190,6 +242,7 @@ async function loadRecentHackathons() {
         showingAllHackathons = false;
         renderHackathons();
         updateHackathonsToggleButton();
+        renderClosingSoonHackathons();
 
         if (toggleButton) {
             toggleButton.onclick = toggleHackathonsView;
@@ -197,6 +250,7 @@ async function loadRecentHackathons() {
     } catch (error) {
         console.error('Error loading hackathons:', error);
         renderHackathonError(container);
+        renderClosingSoonHackathons();
     }
 }
 

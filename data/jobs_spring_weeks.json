@@ -4,6 +4,7 @@
     "company": "IMC Trading",
     "programme": "Launchpad Programme – Technology",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -14,13 +15,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320069"
+    "scraped_date": "2026-02-19T15:28:11.274444"
   },
   {
     "id": "djeelkz6j0",
     "company": "Treefera",
     "programme": "Treefera Internship Programme",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -31,13 +33,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320132"
+    "scraped_date": "2026-02-19T15:28:11.274731"
   },
   {
     "id": "e3a77pqsbv",
     "company": "Roku",
     "programme": "Software Engineer Intern",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -48,13 +51,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320136"
+    "scraped_date": "2026-02-19T15:28:11.274748"
   },
   {
     "id": "k8s56pnq38",
     "company": "GSA Capital",
     "programme": "Women in Technology Insight Programme",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -65,13 +69,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320165"
+    "scraped_date": "2026-02-19T15:28:11.274874"
   },
   {
     "id": "kpox69e9hd",
     "company": "Barclays",
     "programme": "Technology Discovery Programme 2026",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -82,13 +87,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320174"
+    "scraped_date": "2026-02-19T15:28:11.274923"
   },
   {
     "id": "qvhhb82c42",
     "company": "Bank of America",
     "programme": "SWE Insight Programme 2026 - Dublin",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -99,13 +105,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320208"
+    "scraped_date": "2026-02-19T15:28:11.275053"
   },
   {
     "id": "rgukxxn79l",
     "company": "Convergent",
     "programme": "Software Engineer Intern",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -116,13 +123,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320217"
+    "scraped_date": "2026-02-19T15:28:11.275100"
   },
   {
     "id": "rvz1mc53h6",
     "company": "Morgan Stanley",
     "programme": "2026 Technology Spring Insight (Glasgow)",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -133,13 +141,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320221"
+    "scraped_date": "2026-02-19T15:28:11.275118"
   },
   {
     "id": "sdm5qmnr7j",
     "company": "MongoDB",
     "programme": "2026 - Women in Tech, EMEA",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -150,13 +159,14 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320228"
+    "scraped_date": "2026-02-19T15:28:11.275155"
   },
   {
     "id": "t2nshc2r7a",
     "company": "Marshall Wace",
     "programme": "Technology Intern - Summer 2026",
     "category": "spring-weeks",
+    "categories": [],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -167,6 +177,6 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:48.320232"
+    "scraped_date": "2026-02-19T15:28:11.275174"
   }
 ]

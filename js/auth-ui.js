@@ -225,7 +225,35 @@ function toggleUserDropdown() {
     dropdown.classList.toggle('hidden');
 }
 
+function setMobileMenuState(isOpen) {
+    const mobileMenu = $('mobile-nav-menu');
+    const menuButton = $('mobile-menu-btn');
+    if (!mobileMenu || !menuButton) return;
+
+    mobileMenu.classList.toggle('hidden', !isOpen);
+    menuButton.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+}
+
+function toggleMobileMenu() {
+    const mobileMenu = $('mobile-nav-menu');
+    if (!mobileMenu) return;
+    const isOpen = mobileMenu.classList.contains('hidden');
+    setMobileMenuState(isOpen);
+}
+
+function closeMobileMenuIfOutside(event) {
+    const mobileMenu = $('mobile-nav-menu');
+    const menuButton = $('mobile-menu-btn');
+    if (!mobileMenu || !menuButton || mobileMenu.classList.contains('hidden')) return;
+
+    if (!mobileMenu.contains(event.target) && !menuButton.contains(event.target)) {
+        setMobileMenuState(false);
+    }
+}
+
 function closeDropdownIfOutside(event) {
+    closeMobileMenuIfOutside(event);
+
     const dropdown = $('user-dropdown');
     const menuBtn = $('user-menu-btn');
     if (!dropdown || !menuBtn) return;
@@ -249,6 +277,12 @@ function bindAuthUiEvents() {
     $('auth-google-btn')?.addEventListener('click', handleGoogleSignIn);
 
     $('user-menu-btn')?.addEventListener('click', toggleUserDropdown);
+    $('mobile-menu-btn')?.addEventListener('click', toggleMobileMenu);
+
+    document.querySelectorAll('#mobile-nav-menu a').forEach(link => {
+        link.addEventListener('click', () => setMobileMenuState(false));
+    });
+
     $('signout-btn')?.addEventListener('click', async () => {
         await signOut(auth);
     });
@@ -258,6 +292,7 @@ function bindAuthUiEvents() {
         if (event.key === 'Escape') {
             closeAuthModal();
             $('user-dropdown')?.classList.add('hidden');
+            setMobileMenuState(false);
         }
     });
 }

@@ -86,7 +86,7 @@
 <a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#hackathons">Hackathons</a>
 <a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#universities">Universities</a>
 <a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#grants">Grant Bursaries &amp; Scholarships</a>
-<a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#community">Community</a>
+<a class="text-slate-600 hover:text-primary font-medium transition-colors" href="#community">Community (Find teammates)</a>
 <button class="hidden items-center gap-2 text-slate-600 hover:text-primary font-medium transition-colors" id="nav-notifications-btn" type="button">
 <span>Notifications</span>
 <span class="hidden min-w-[18px] h-[18px] px-1 text-[10px] font-bold rounded-full bg-red-600 text-white items-center justify-center" id="notification-badge">0</span>
@@ -94,6 +94,12 @@
 </div>
 </div>
 <div class="flex items-center gap-4">
+<button aria-controls="mobile-nav-menu" aria-expanded="false" class="md:hidden inline-flex items-center justify-center w-10 h-10 rounded-lg border border-slate-200 text-slate-700 hover:text-primary hover:border-primary transition-colors" id="mobile-menu-btn" type="button">
+<span class="sr-only">Toggle navigation menu</span>
+<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+<path d="M4 6h16M4 12h16M4 18h16" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg>
+</button>
 <div class="flex items-center gap-3" id="guest-nav">
 <button class="hidden sm:block text-slate-600 font-medium hover:text-primary transition-colors" id="open-login-btn">Log in</button>
 <button class="bg-primary text-white px-5 py-2 rounded-lg font-medium hover:bg-blue-800 transition-colors shadow-sm" id="open-signup-btn">Sign Up</button>
@@ -120,6 +126,15 @@
 <button class="w-full bg-slate-100 text-slate-700 py-2 rounded-lg text-sm font-semibold hover:bg-slate-200 transition-colors" id="signout-btn" type="button">Sign Out</button>
 </div>
 </div>
+</div>
+</div>
+<div class="hidden border-t border-slate-200 py-4 md:hidden" id="mobile-nav-menu">
+<div class="flex flex-col gap-1">
+<a class="px-3 py-2 rounded-lg text-slate-700 font-medium hover:bg-slate-50 hover:text-primary transition-colors" href="#jobs">Jobs</a>
+<a class="px-3 py-2 rounded-lg text-slate-700 font-medium hover:bg-slate-50 hover:text-primary transition-colors" href="#hackathons">Hackathons</a>
+<a class="px-3 py-2 rounded-lg text-slate-700 font-medium hover:bg-slate-50 hover:text-primary transition-colors" href="#universities">Universities</a>
+<a class="px-3 py-2 rounded-lg text-slate-700 font-medium hover:bg-slate-50 hover:text-primary transition-colors" href="#grants">Grant Bursaries &amp; Scholarships</a>
+<a class="px-3 py-2 rounded-lg text-slate-700 font-medium hover:bg-slate-50 hover:text-primary transition-colors" href="#community">Community (Find teammates)</a>
 </div>
 </div>
 </div>
@@ -153,6 +168,32 @@
 <span class="text-slate-500 font-medium">Active Students</span>
 </div>
 </div>
+<p class="mt-6 text-xs font-semibold tracking-wide uppercase text-slate-500 bg-slate-100 px-3 py-1.5 rounded-full" id="updated-daily-stats">Updated daily</p>
+</div>
+</section>
+
+<section class="pb-6" id="closing-soon">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="rounded-2xl border border-amber-200 bg-amber-50/60 p-6">
+<div class="flex items-center justify-between mb-4 gap-3">
+<h2 class="font-heading font-bold text-2xl text-slate-900">Closing Soon</h2>
+<span class="text-xs font-semibold uppercase tracking-wide text-amber-700 bg-amber-100 px-3 py-1 rounded-full">Within 7 days</span>
+</div>
+<div class="space-y-8">
+<div>
+<h3 class="text-sm font-bold uppercase tracking-wide text-slate-600 mb-3">Jobs</h3>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="closing-soon-jobs-container">
+<div class="md:col-span-2 lg:col-span-3 text-slate-500 text-sm">Loading closing soon jobs...</div>
+</div>
+</div>
+<div>
+<h3 class="text-sm font-bold uppercase tracking-wide text-slate-600 mb-3">Hackathons &amp; Events</h3>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6" id="closing-soon-hackathons-container">
+<div class="sm:col-span-2 lg:col-span-4 text-slate-500 text-sm">Loading closing soon events...</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </section>
 
@@ -162,13 +203,17 @@
 <div>
 <h2 class="font-heading font-bold text-3xl text-slate-900 mb-2">Latest Opportunities</h2>
 <p class="text-slate-500">Curated internships and grad roles from top tech firms.</p>
+<p class="mt-2 text-xs font-semibold tracking-wide uppercase text-slate-500" id="updated-daily-jobs">Updated daily</p>
 </div>
+<div class="flex items-center gap-4">
+<button class="bg-primary text-white px-5 py-2 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="open-upload-job-btn" type="button">Upload Job</button>
 <a class="text-primary font-semibold hover:underline flex items-center gap-1 cursor-pointer" id="toggle-jobs-btn">
             View All Jobs
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
             </svg>
 </a>
+</div>
 </div>
 <div class="hidden flex flex-wrap gap-3 mb-8 justify-center" id="filters-container"></div>
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="jobs-container">
@@ -185,12 +230,15 @@
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 <div class="flex justify-between items-end mb-10">
 <h2 class="font-heading font-bold text-3xl">Upcoming Hackathons &amp; Events</h2>
+<div class="flex items-center gap-4">
+<button class="bg-secondary text-slate-900 px-5 py-2 rounded-lg font-semibold hover:bg-teal-300 transition-colors" id="open-upload-hackathon-btn" type="button">Upload Hackathon</button>
 <a class="hidden text-secondary font-semibold hover:underline flex items-center gap-1 cursor-pointer" id="toggle-hackathons-btn">
             View All Events
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 <path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
 </svg>
 </a>
+</div>
 </div>
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6" id="hackathons-container">
 <div class="sm:col-span-2 lg:col-span-4 text-center py-10">
@@ -315,7 +363,7 @@ Load More Opportunities
 <div>
 <div class="flex justify-between items-center mb-8">
 <h2 class="font-heading font-bold text-3xl text-slate-900">Find Teammates</h2>
-<button class="text-primary font-bold text-sm" id="open-team-post-btn" type="button">+ Post Opportunity</button>
+<button class="text-primary font-bold text-sm" id="open-team-post-btn" type="button">+ Post Teammate Request</button>
 </div>
 <div class="space-y-4" id="team-posts-container">
 <div class="text-slate-400">Loading team posts...</div>
@@ -400,7 +448,7 @@ Continue with Google
 <div class="fixed inset-0 z-[60] hidden" id="upload-note-modal">
 <div class="absolute inset-0 bg-slate-900/50" id="upload-note-backdrop"></div>
 <div class="relative min-h-full flex items-center justify-center p-4">
-<div class="w-full max-w-2xl bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="w-full max-w-2xl max-h-[85vh] overflow-y-auto bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
 <div class="flex items-start justify-between mb-4">
 <h3 class="font-heading font-bold text-xl text-slate-900">Upload University Note</h3>
 <button class="text-slate-400 hover:text-slate-700" id="upload-note-close-btn" type="button">
@@ -478,32 +526,50 @@ Continue with Google
 </div>
 </div>
 
-<div class="fixed inset-0 z-[60] hidden" id="team-post-modal">
+<div class="fixed inset-0 z-[60] hidden overflow-y-auto" id="team-post-modal">
 <div class="absolute inset-0 bg-slate-900/50" id="team-post-backdrop"></div>
-<div class="relative min-h-full flex items-center justify-center p-4">
-<div class="w-full max-w-2xl bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
+<div class="relative min-h-full flex items-start justify-center p-4 sm:p-6">
+<div class="w-full max-w-2xl max-h-[90vh] overflow-y-auto bg-white rounded-2xl shadow-xl border border-slate-200 p-6">
 <div class="flex items-start justify-between mb-4">
-<h3 class="font-heading font-bold text-xl text-slate-900">Post Team Opportunity</h3>
+<h3 class="font-heading font-bold text-xl text-slate-900" id="team-post-modal-title">Post Team Opportunity</h3>
 <button class="text-slate-400 hover:text-slate-700" id="team-post-close-btn" type="button">
 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
 </button>
 </div>
+<p class="text-sm text-slate-500 mb-4" id="team-post-modal-help">Logged-in users can upload Job and Hackathon posts. These are unverified community posts.</p>
 <div class="hidden px-3 py-2 rounded-lg text-sm mb-4" id="team-post-status"></div>
 <form class="space-y-4" id="team-post-form">
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-<div>
+<div id="team-post-type-field">
 <label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-type">Type</label>
 <select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-type" required>
 <option value="">Choose type</option>
 <option value="hackathon">Hackathon</option>
+<option value="job">Job</option>
 <option value="project">Project</option>
 <option value="study">Study</option>
 </select>
 </div>
-<div>
+<div id="team-post-contact-field">
 <label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-contact">Contact Info</label>
 <input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-contact" placeholder="Discord/Email/LinkedIn" required type="text"/>
 </div>
+</div>
+<div class="hidden" id="team-post-job-category-row">
+<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-job-category">Job Type</label>
+<select class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-job-category">
+<option value="">Choose job type</option>
+<option value="internship">Internship</option>
+<option value="graduate">Graduate Programme</option>
+<option value="placement">Industrial Placement</option>
+<option value="spring-week">Spring Week</option>
+<option value="other">Other</option>
+</select>
+</div>
+<div>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-link">Application/Registration Link</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-link" placeholder="https://..." type="url"/>
+<p class="mt-1 text-xs text-slate-500">Required for Job and Hackathon posts. Used by Quick Apply/Quick Register.</p>
 </div>
 <div>
 <label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-title">Title</label>
@@ -514,11 +580,20 @@ Continue with Google
 <textarea class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-description" required rows="4"></textarea>
 </div>
 <div>
-<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-looking-for">Looking For (comma separated)</label>
-<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-looking-for" placeholder="Frontend, UI/UX, ML" type="text"/>
+<label class="block text-sm font-medium text-slate-700 mb-1" for="team-post-looking-for" id="team-post-looking-for-label">Looking For (comma separated)</label>
+<input class="w-full rounded-lg border border-slate-300 px-3 py-2 text-sm" id="team-post-looking-for" list="team-post-looking-for-suggestions" placeholder="Frontend, UI/UX, ML" type="text"/>
+<datalist id="team-post-looking-for-suggestions">
+<option value="FAANG+"></option>
+<option value="IT"></option>
+<option value="Cyber Security"></option>
+<option value="Software Engineering"></option>
+<option value="Data Science"></option>
+<option value="AI and Machine Learning"></option>
+<option value="DevOps and Infrastructure"></option>
+</datalist>
 </div>
 <div class="flex justify-end">
-<button class="bg-primary text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="team-post-submit-btn" type="submit">Post Opportunity</button>
+<button class="bg-primary text-white px-6 py-2.5 rounded-lg font-semibold hover:bg-blue-800 transition-colors" id="team-post-submit-btn" type="submit">Upload Job/Hackathon or Post</button>
 </div>
 </form>
 </div>

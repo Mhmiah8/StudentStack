@@ -79,6 +79,7 @@ let grantsSourceUrl = '';
 let grantsResultCount = '';
 let currentGrantTypeFilter = '';
 const teamPostsPreviewCount = 3;
+let teamPostModalMode = 'community';
 
 function bindExpandableText(root) {
     if (!root) return;
@@ -1243,6 +1244,7 @@ function initUniversityAuthState() {
         }
 
         updateUploadNoteButtonState();
+        syncTeamPostTypeOptions();
         renderUniversitiesListPreview();
         renderTeamPostsList();
         refreshNotificationsUi();
@@ -1390,10 +1392,116 @@ function renderGrants(grants, universities = []) {
 function formatTeamPostType(type) {
     const labels = {
         hackathon: 'Hackathon',
+        job: 'Job',
         project: 'Project',
         study: 'Study'
     };
     return labels[type] || 'Team';
+}
+
+function normalizeExternalUrl(value) {
+    const raw = String(value || '').trim();
+    if (!raw) return '';
+
+    const candidate = /^https?:\/\//i.test(raw) ? raw : `https://${raw}`;
+    try {
+        const url = new URL(candidate);
+        if (url.protocol !== 'http:' && url.protocol !== 'https:') return '';
+        return url.toString();
+    } catch {
+        return '';
+    }
+}
+
+function getTeamPostCta(post) {
+    const type = String(post?.type || '').toLowerCase();
+    const url = normalizeExternalUrl(post?.postUrl || post?.url || '');
+    if (!url) return '';
+
+    if (type === 'job') {
+        return `<a href="${escapeSiteText(url)}" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline text-sm font-semibold">Quick Apply</a>`;
+    }
+
+    if (type === 'hackathon') {
+        return `<a href="${escapeSiteText(url)}" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline text-sm font-semibold">Quick Register</a>`;
+    }
+
+    return `<a href="${escapeSiteText(url)}" target="_blank" rel="noopener noreferrer" class="text-primary hover:underline text-sm font-semibold">Open Link</a>`;
+}
+
+function syncTeamPostTypeOptions() {
+    const typeSelect = document.getElementById('team-post-type');
+    if (!typeSelect) return;
+
+    const restrictedTypes = [
+        { value: 'hackathon', label: 'Hackathon' },
+        { value: 'job', label: 'Job' }
+    ];
+
+    restrictedTypes.forEach(({ value, label }) => {
+        const option = typeSelect.querySelector(`option[value="${value}"]`);
+        if (!option) return;
+        option.disabled = false;
+        option.textContent = label;
+    });
+}
+
+function configureTeamPostModal(mode = 'community', preselectedType = '') {
+    teamPostModalMode = mode;
+
+    const titleNode = document.getElementById('team-post-modal-title');
+    const helpNode = document.getElementById('team-post-modal-help');
+    const typeField = document.getElementById('team-post-type-field');
+    const typeSelect = document.getElementById('team-post-type');
+    const contactField = document.getElementById('team-post-contact-field');
+    const contactInput = document.getElementById('team-post-contact');
+    const jobCategoryRow = document.getElementById('team-post-job-category-row');
+    const lookingForLabel = document.getElementById('team-post-looking-for-label');
+    const lookingForInput = document.getElementById('team-post-looking-for');
+    const submitButton = document.getElementById('team-post-submit-btn');
+
+    if (!typeSelect || !contactInput) return;
+
+    typeField?.classList.remove('hidden');
+    contactField?.classList.remove('hidden');
+    contactInput.required = true;
+    jobCategoryRow?.classList.add('hidden');
+
+    if (mode === 'job-upload') {
+        titleNode && (titleNode.textContent = 'Upload Job');
+        helpNode && (helpNode.textContent = 'Upload an unverified community job post. Add the job type and application link.');
+        typeField?.classList.add('hidden');
+        typeSelect.value = 'job';
+        contactField?.classList.add('hidden');
+        contactInput.required = false;
+        jobCategoryRow?.classList.remove('hidden');
+        lookingForLabel && (lookingForLabel.textContent = 'Tags (comma separated)');
+        lookingForInput && (lookingForInput.placeholder = 'FAANG+, IT, Cyber Security, Software Engineering');
+        submitButton && (submitButton.textContent = 'Upload Job');
+        return;
+    }
+
+    if (mode === 'hackathon-upload') {
+        titleNode && (titleNode.textContent = 'Upload Hackathon');
+        helpNode && (helpNode.textContent = 'Upload an unverified community hackathon post with a registration link.');
+        typeField?.classList.add('hidden');
+        typeSelect.value = 'hackathon';
+        contactField?.classList.add('hidden');
+        contactInput.required = false;
+        lookingForLabel && (lookingForLabel.textContent = 'Tags (comma separated)');
+        lookingForInput && (lookingForInput.placeholder = 'Hackathon, AI, FinTech, Software Engineering');
+        submitButton && (submitButton.textContent = 'Upload Hackathon');
+        return;
+    }
+
+    titleNode && (titleNode.textContent = 'Post Team Opportunity');
+    helpNode && (helpNode.textContent = 'Logged-in users can upload Job and Hackathon posts. These are unverified community posts.');
+    if (preselectedType) {
+        typeSelect.value = preselectedType;
+    }
+    lookingForLabel && (lookingForLabel.textContent = 'Looking For (comma separated)');
+    lookingForInput && (lookingForInput.placeholder = 'Frontend, UI/UX, ML');
+    submitButton && (submitButton.textContent = 'Upload Job/Hackathon or Post');
 }
 
 function createTeamPostCard(post) {
@@ -1401,6 +1509,7 @@ function createTeamPostCard(post) {
     const lookingFor = Array.isArray(post.lookingFor) ? post.lookingFor : [];
     const created = formatNoteDate(post.createdAt);
     const typeLabel = formatTeamPostType(post.type);
+    const quickAction = getTeamPostCta(post);
 
     const showRemove = isModeratorOrAdmin(currentUniversityUserProfile);
     const removeButton = showRemove
@@ -1430,6 +1539,7 @@ function createTeamPostCard(post) {
             <div class="flex flex-wrap items-center justify-between gap-3">
                 <span class="text-xs text-slate-400">${reportCount > 0 ? `${reportCount} reports` : 'No reports'}</span>
                 <div class="flex flex-wrap items-center gap-3 justify-end ml-auto">
+                    ${quickAction}
                     <button class="text-slate-600 hover:text-primary text-sm font-semibold team-react-btn" data-post-id="${escapeSiteText(post.id)}" data-reaction="up" type="button">👍 <span>${Number(post.upvotes || 0)}</span></button>
                     <button class="text-slate-600 hover:text-primary text-sm font-semibold team-react-btn" data-post-id="${escapeSiteText(post.id)}" data-reaction="down" type="button">👎 <span>${Number(post.downvotes || 0)}</span></button>
                     <button class="text-slate-600 hover:underline text-sm font-semibold view-team-comments-btn" data-post-id="${escapeSiteText(post.id)}" data-post-title="${escapeSiteText(post.title || 'Untitled post')}" type="button">View comments</button>
@@ -1475,7 +1585,7 @@ function setTeamPostStatus(message, isError = false) {
     statusNode.classList.add('border', isError ? 'text-red-700' : 'text-green-700', isError ? 'bg-red-50' : 'bg-green-50', isError ? 'border-red-100' : 'border-green-100');
 }
 
-function openTeamPostModal() {
+function openTeamPostModal(mode = 'community', preselectedType = '') {
     if (!currentUniversityUser) {
         document.getElementById('auth-modal')?.classList.remove('hidden');
         return;
@@ -1483,6 +1593,8 @@ function openTeamPostModal() {
 
     const modal = document.getElementById('team-post-modal');
     if (!modal) return;
+    syncTeamPostTypeOptions();
+    configureTeamPostModal(mode, preselectedType);
     setTeamPostStatus('');
     modal.classList.remove('hidden');
     document.body.classList.add('overflow-hidden');
@@ -1494,6 +1606,7 @@ function closeTeamPostModal() {
     modal.classList.add('hidden');
     document.body.classList.remove('overflow-hidden');
     document.getElementById('team-post-form')?.reset();
+    teamPostModalMode = 'community';
     setTeamPostStatus('');
 }
 
@@ -1513,9 +1626,23 @@ async function submitTeamPost(event) {
         const description = document.getElementById('team-post-description')?.value?.trim() || '';
         const lookingForRaw = document.getElementById('team-post-looking-for')?.value || '';
         const contactInfo = document.getElementById('team-post-contact')?.value?.trim() || '';
+        const jobCategory = document.getElementById('team-post-job-category')?.value || '';
+        const postUrlRaw = document.getElementById('team-post-link')?.value?.trim() || '';
+        const postUrl = normalizeExternalUrl(postUrlRaw);
+        const isSectionUploadMode = teamPostModalMode === 'job-upload' || teamPostModalMode === 'hackathon-upload';
 
-        if (!type || !title || !description || !contactInfo) {
+        if (!type || !title || !description || (!isSectionUploadMode && !contactInfo)) {
             setTeamPostStatus('Please complete all required fields.', true);
+            return;
+        }
+
+        if (type === 'job' && !jobCategory) {
+            setTeamPostStatus('Please choose a job type (Internship, Graduate, etc.).', true);
+            return;
+        }
+
+        if ((type === 'job' || type === 'hackathon') && !postUrl) {
+            setTeamPostStatus('Please add a valid application/registration link for Job or Hackathon posts.', true);
             return;
         }
 
@@ -1536,7 +1663,9 @@ async function submitTeamPost(event) {
             title,
             description,
             lookingFor,
-            contactInfo,
+            contactInfo: contactInfo || '',
+            jobCategory,
+            postUrl,
             upvotes: 0,
             downvotes: 0,
             upvotedBy: [],
@@ -1621,7 +1750,9 @@ function startTeamPostsListener() {
 }
 
 function bindCommunityPhase4Events() {
-    document.getElementById('open-team-post-btn')?.addEventListener('click', openTeamPostModal);
+    document.getElementById('open-team-post-btn')?.addEventListener('click', () => openTeamPostModal('community'));
+    document.getElementById('open-upload-job-btn')?.addEventListener('click', () => openTeamPostModal('job-upload', 'job'));
+    document.getElementById('open-upload-hackathon-btn')?.addEventListener('click', () => openTeamPostModal('hackathon-upload', 'hackathon'));
     document.getElementById('team-post-close-btn')?.addEventListener('click', closeTeamPostModal);
     document.getElementById('team-post-backdrop')?.addEventListener('click', closeTeamPostModal);
     document.getElementById('team-post-form')?.addEventListener('submit', submitTeamPost);

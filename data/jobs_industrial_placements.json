@@ -4,6 +4,9 @@
     "company": "Acturis",
     "programme": "2026 Industrial Placement Programme",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -21,6 +24,9 @@
     "company": "Electronic Arts",
     "programme": "Software Engineer Intern (Physics)",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -31,13 +37,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866769"
+    "scraped_date": "2026-02-19T15:28:01.354914"
   },
   {
     "id": "49zvbzilax",
     "company": "Hubspot",
     "programme": "Software Engineer Industrial Placement Program",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -48,13 +57,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866863"
+    "scraped_date": "2026-02-19T15:28:01.355358"
   },
   {
     "id": "4jwgepjmbg",
     "company": "Agilent",
     "programme": "Data Scientist Internship - 12-month Placement",
     "category": "industrial-placements",
+    "categories": [
+      "Data Science"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -65,13 +77,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866869"
+    "scraped_date": "2026-02-19T15:28:01.355392"
   },
   {
     "id": "4r26wqtq4o",
     "company": "Crux",
     "programme": "Placement Embedded Software & Electronics Engineer",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -82,13 +97,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866877"
+    "scraped_date": "2026-02-19T15:28:01.355423"
   },
   {
     "id": "4r8dj0azow",
     "company": "Visa",
     "programme": "Software Engineer - 12 Months Placement Student",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -99,13 +117,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866881"
+    "scraped_date": "2026-02-19T15:28:01.355442"
   },
   {
     "id": "606qz4gxgd",
     "company": "Apollo Fire Detectors",
     "programme": "Student Software Engineer",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -116,13 +137,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866890"
+    "scraped_date": "2026-02-19T15:28:01.355474"
   },
   {
     "id": "6mqa8amik4",
     "company": "Bending Spoons",
     "programme": "Software engineer, industry placement",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -133,13 +157,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866909"
+    "scraped_date": "2026-02-19T15:28:01.355539"
   },
   {
     "id": "790ws0m0v0",
     "company": "PayPal",
     "programme": "Cybersecurity Risk Intern",
     "category": "industrial-placements",
+    "categories": [
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -150,13 +177,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866928"
+    "scraped_date": "2026-02-19T15:28:01.355612"
   },
   {
     "id": "9kxf3dw0l7",
     "company": "Agilent",
     "programme": "Software Engineer Internship - 12-month Industrial Placement",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -167,13 +197,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866968"
+    "scraped_date": "2026-02-19T15:28:01.355721"
   },
   {
     "id": "a45yxc6xnv",
     "company": "KEYENCE",
     "programme": "IT Placement - July 2026",
     "category": "industrial-placements",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -184,13 +217,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.866979"
+    "scraped_date": "2026-02-19T15:28:01.355757"
   },
   {
     "id": "az6g1vz280",
     "company": "Kadence",
     "programme": "Intern Software Engineer (Placement)",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -201,13 +237,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867014"
+    "scraped_date": "2026-02-19T15:28:01.355866"
   },
   {
     "id": "bfv2h0iwo8",
     "company": "Leonardo",
     "programme": "Industrial Placement Software Engineer",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -218,13 +257,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867033"
+    "scraped_date": "2026-02-19T15:28:01.355912"
   },
   {
     "id": "c0prfgrgy7",
     "company": "Airbus",
     "programme": "Cyber Security Research Placement (12.5 months)",
     "category": "industrial-placements",
+    "categories": [
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -235,13 +277,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867036"
+    "scraped_date": "2026-02-19T15:28:01.355924"
   },
   {
     "id": "c9m1pfy4cd",
     "company": "Isembard",
     "programme": "Placement Student (Engineering/Software)",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -259,6 +304,9 @@
     "company": "P&G",
     "programme": "Software Development Industrial Placement 2026",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -276,6 +324,9 @@
     "company": "Expedera",
     "programme": "13-Month Fixed-Term Placement - Software",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -286,13 +337,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867125"
+    "scraped_date": "2026-02-19T15:28:01.355947"
   },
   {
     "id": "dteg7j9ssq",
     "company": "TPP",
     "programme": "Technical Engineer Placement Year",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -303,13 +357,16 @@
     "eligibility": null,
     "cv_required": "No",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867154"
+    "scraped_date": "2026-02-19T15:28:01.356034"
   },
   {
     "id": "el2w5s6e39",
     "company": "Autodesk",
     "programme": "Intern, Software Engineer (C++/.NET) - 12 months",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -320,13 +377,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867187"
+    "scraped_date": "2026-02-19T15:28:01.356125"
   },
   {
     "id": "g4976lmljy",
     "company": "Verisk",
     "programme": "2026 | Year Long Internship Program | DA Engineer",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -337,13 +397,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867215"
+    "scraped_date": "2026-02-19T15:28:01.356212"
   },
   {
     "id": "g9b4w641wy",
     "company": "Nuveen",
     "programme": "Cyber Security Summer Intern 2026",
     "category": "industrial-placements",
+    "categories": [
+      "Cyber Security"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -361,6 +424,9 @@
     "company": "Synopsys",
     "programme": "Year in industry - Software Engineering Placement C#",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -371,13 +437,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867313"
+    "scraped_date": "2026-03-05T17:30:12.148775"
   },
   {
     "id": "lpd74yudga",
     "company": "Howdens",
     "programme": "IT Placement Programme",
     "category": "industrial-placements",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -388,13 +457,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867340"
+    "scraped_date": "2026-03-05T17:30:12.148846"
   },
   {
     "id": "mlgo8rz0mu",
     "company": "Visa",
     "programme": "Software Engineer - 12 Months Placement Student",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -405,13 +477,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867352"
+    "scraped_date": "2026-02-19T15:28:01.356550"
   },
   {
     "id": "mpugyll47w",
     "company": "HP",
     "programme": "Software Engineer Intern",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -429,6 +504,9 @@
     "company": "Mattel",
     "programme": "IT Undergraduate Industrial Placement",
     "category": "industrial-placements",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -439,13 +517,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867364"
+    "scraped_date": "2026-03-05T17:30:12.148908"
   },
   {
     "id": "ntrqpunl86",
     "company": "PCC",
     "programme": "IT Technician Placement",
     "category": "industrial-placements",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -456,13 +537,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867373"
+    "scraped_date": "2026-02-19T15:28:01.356569"
   },
   {
     "id": "p1g59c5102",
     "company": "TÜV SÜD",
     "programme": "Student Placement",
     "category": "industrial-placements",
+    "categories": [
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -480,6 +564,9 @@
     "company": "Taylor Hobson",
     "programme": "Student Placement - Software Engineer",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -490,13 +577,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867407"
+    "scraped_date": "2026-02-19T15:28:01.356622"
   },
   {
     "id": "rkvldge0lw",
     "company": "Barracuda",
     "programme": "Software Engineering Intern (12 Month Placement)",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -514,6 +604,9 @@
     "company": "Sports Interactive",
     "programme": "Junior Software Engineer Intern (12-month FTC)",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -524,13 +617,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867461"
+    "scraped_date": "2026-02-19T15:28:01.356712"
   },
   {
     "id": "sjxtodk9pf",
     "company": "Oracle",
     "programme": "Internship - 12 Months",
     "category": "industrial-placements",
+    "categories": [
+      "DevOps and Infrastructure"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -541,13 +637,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867469"
+    "scraped_date": "2026-02-19T15:28:01.356726"
   },
   {
     "id": "szb1ay14ka",
     "company": "Abbott",
     "programme": "Software Engineering Internship - Year in Industry",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -558,13 +657,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867480"
+    "scraped_date": "2026-02-19T15:28:01.356745"
   },
   {
     "id": "trxo8bvsgs",
     "company": "MediaTek",
     "programme": "Software Development & AI Internship 2026",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -575,13 +677,17 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867498"
+    "scraped_date": "2026-02-19T15:28:01.356774"
   },
   {
     "id": "uz8o6jvikl",
     "company": "D.E. Shaw",
     "programme": "Systems Administrator Industry Placement Year (London)",
     "category": "industrial-placements",
+    "categories": [
+      "Sponsors",
+      "IT"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -592,13 +698,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867507"
+    "scraped_date": "2026-02-19T15:28:01.356788"
   },
   {
     "id": "v8i3si6k4j",
     "company": "Abaco Systems",
     "programme": "Software Engineering Intern (12 Months)",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -609,13 +718,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867510"
+    "scraped_date": "2026-02-19T15:28:01.356795"
   },
   {
     "id": "w03wja3z76",
     "company": "HME",
     "programme": "Software Engineering Intern, 12-month placement",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -626,13 +738,16 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867519"
+    "scraped_date": "2026-02-19T15:28:01.356811"
   },
   {
     "id": "wnsrfs8dzb",
     "company": "Marshall Wace",
     "programme": "Technology Placement Year",
     "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -643,13 +758,17 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867545"
+    "scraped_date": "2026-02-19T15:28:01.356875"
   },
   {
     "id": "x9k4ltubh0",
     "company": "SLB",
     "programme": "Software Engineer Intern (12 months)",
     "category": "industrial-placements",
+    "categories": [
+      "DevOps and Infrastructure",
+      "Software Engineering"
+    ],
     "season": "2026",
     "region": "UK",
     "locations": "UK",
@@ -660,6 +779,6 @@
     "eligibility": null,
     "cv_required": "Yes",
     "rolling": null,
-    "scraped_date": "2026-03-16T07:08:42.867553"
+    "scraped_date": "2026-02-19T15:28:01.356897"
   }
 ]

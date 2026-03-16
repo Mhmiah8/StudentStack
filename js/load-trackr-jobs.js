@@ -6,7 +6,22 @@ let currentFilter = 'all';
 let currentPage = 0;
 const jobsPerPage = 12;
 let categoryCounts = {};
+let trackrCategoryCounts = {};
 const recentPreviewLimit = 3;
+
+const TRACKR_CATEGORY_STYLES = {
+    'faang': 'bg-rose-100 text-rose-700',
+    'quant developer': 'bg-indigo-100 text-indigo-700',
+    'cyber': 'bg-emerald-100 text-emerald-700',
+    'it': 'bg-sky-100 text-sky-700',
+    'startup': 'bg-orange-100 text-orange-700',
+    'tech consulting': 'bg-violet-100 text-violet-700',
+    'software engineering': 'bg-blue-100 text-blue-700',
+    'data science': 'bg-cyan-100 text-cyan-700',
+    'ai/ml': 'bg-fuchsia-100 text-fuchsia-700',
+    'devops': 'bg-teal-100 text-teal-700',
+    'misc': 'bg-slate-100 text-slate-700'
+};
 
 function buildDataUrl(relativePath) {
     return new URL(relativePath, window.location.href).toString();
@@ -76,8 +91,20 @@ async function ensureAllJobsDataLoaded() {
     allJobs.sort((a, b) => getRecencyTimestamp(b) - getRecencyTimestamp(a));
 
     categoryCounts = {};
+    trackrCategoryCounts = {};
     allJobs.forEach(job => {
         categoryCounts[job.category] = (categoryCounts[job.category] || 0) + 1;
+
+        getTrackrCategories(job).forEach(trackrCategory => {
+            const normalized = normalizeTrackrCategory(trackrCategory);
+            if (!normalized) return;
+
+            if (!trackrCategoryCounts[normalized]) {
+                trackrCategoryCounts[normalized] = { count: 0, label: trackrCategory };
+            }
+
+            trackrCategoryCounts[normalized].count += 1;
+        });
     });
 }
 
@@ -138,6 +165,126 @@ function formatDate(dateString) {
     }
 }
 
+function parseDateSafe(dateString) {
+    if (!dateString || dateString === 'TBA') return null;
+    const parsed = new Date(dateString);
+    return Number.isNaN(parsed.getTime()) ? null : parsed;
+}
+
+function isWithinLast24Hours(dateString) {
+    const parsed = parseDateSafe(dateString);
+    if (!parsed) return false;
+
+    const ageMs = Date.now() - parsed.getTime();
+    return ageMs >= 0 && ageMs <= 24 * 60 * 60 * 1000;
+}
+
+function getDaysUntil(dateString) {
+    const parsed = parseDateSafe(dateString);
+    if (!parsed) return null;
+    return (parsed.getTime() - Date.now()) / (24 * 60 * 60 * 1000);
+}
+
+function normalizeTrackrCategory(value) {
+    return String(value || '').trim().toLowerCase();
+}
+
+function formatTrackrCategory(value) {
+    const label = String(value || '').trim();
+    if (!label) return '';
+
+    const normalized = normalizeTrackrCategory(label)
+        .replace(/\+/g, '')
+        .replace(/\s+/g, ' ');
+
+    const aliases = {
+        'faang': 'FAANG',
+        'faang+': 'FAANG',
+        'cyber security': 'Cyber',
+        'it': 'IT',
+        'startups': 'Startup',
+        'startup': 'Startup',
+        'tech consulting': 'Tech Consulting',
+        'quant developer': 'Quant Developer',
+        'software engineering': 'Software Engineering',
+        'data science': 'Data Science',
+        'ai and machine learning': 'AI/ML',
+        'devops and infrastructure': 'DevOps',
+        'miscellaneous': 'Misc'
+    };
+
+    return aliases[normalized] || label;
+}
+
+function getTrackrCategories(job) {
+    if (!Array.isArray(job?.categories)) {
+        return [];
+    }
+
+    const seen = new Set();
+    return job.categories
+        .map(formatTrackrCategory)
+        .filter(Boolean)
+        .filter(category => {
+            const key = normalizeTrackrCategory(category);
+            if (seen.has(key)) return false;
+            seen.add(key);
+            return true;
+        });
+}
+
+function getTrackrCategoryColor(category) {
+    const normalized = normalizeTrackrCategory(category);
+    return TRACKR_CATEGORY_STYLES[normalized] || 'bg-slate-100 text-slate-700';
+}
+
+function updateDailyIndicators(jobs) {
+    const jobsHeaderIndicator = document.getElementById('updated-daily-jobs');
+    const statsIndicator = document.getElementById('updated-daily-stats');
+    const targets = [jobsHeaderIndicator, statsIndicator].filter(Boolean);
+    if (targets.length === 0) return;
+
+    const latestScrape = (Array.isArray(jobs) ? jobs : [])
+        .map(job => parseDateSafe(job.scraped_date))
+        .filter(Boolean)
+        .sort((a, b) => b.getTime() - a.getTime())[0];
+
+    const label = latestScrape
+        ? `Updated daily · Last sync ${latestScrape.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}`
+        : 'Updated daily';
+
+    targets.forEach(target => {
+        target.textContent = label;
+    });
+}
+
+function getClosingSoonJobs(limit = 6) {
+    return allJobs
+        .filter(job => {
+            const daysUntil = getDaysUntil(job.closing_date);
+            return daysUntil !== null && daysUntil >= 0 && daysUntil <= 7;
+        })
+        .sort((a, b) => {
+            const aDate = parseDateSafe(a.closing_date);
+            const bDate = parseDateSafe(b.closing_date);
+            return (aDate?.getTime() || 0) - (bDate?.getTime() || 0);
+        })
+        .slice(0, limit);
+}
+
+function renderClosingSoonJobs() {
+    const container = document.getElementById('closing-soon-jobs-container');
+    if (!container) return;
+
+    const closingSoonJobs = getClosingSoonJobs();
+    if (closingSoonJobs.length === 0) {
+        container.innerHTML = '<div class="md:col-span-2 lg:col-span-3 text-sm text-slate-500">No jobs closing in the next 7 days.</div>';
+        return;
+    }
+
+    container.innerHTML = closingSoonJobs.map(createJobCard).join('');
+}
+
 function getRecencyTimestamp(job) {
     const opening = job.opening_date ? new Date(job.opening_date) : null;
     if (opening && !isNaN(opening.getTime())) {
@@ -178,18 +325,39 @@ function createJobCard(job) {
     const categoryName = formatCategory(job.category);
     const openingDate = formatDate(job.opening_date);
     const closingDate = formatDate(job.closing_date);
+    const isNew = isWithinLast24Hours(job.scraped_date);
+    const trackrCategories = getTrackrCategories(job);
+    const visibleTrackrCategories = trackrCategories.slice(0, 3);
+    const hiddenTrackrCount = Math.max(0, trackrCategories.length - visibleTrackrCategories.length);
     const applyUrl = job.url || '#';
     const applyDisabled = !job.url ? 'opacity-50 cursor-not-allowed' : '';
+
+    const trackrBadgesMarkup = visibleTrackrCategories.map(trackrCategory => {
+        const trackrColor = getTrackrCategoryColor(trackrCategory);
+        return `<span class="px-2 py-1 ${trackrColor} text-[11px] font-semibold rounded-full">${trackrCategory}</span>`;
+    }).join('');
+
+    const newBadgeMarkup = isNew
+        ? '<span class="px-2 py-1 bg-emerald-100 text-emerald-700 text-[11px] font-bold rounded-full uppercase">NEW</span>'
+        : '';
+
+    const extraTrackrBadgeMarkup = hiddenTrackrCount > 0
+        ? `<span class="px-2 py-1 bg-slate-100 text-slate-600 text-[11px] font-semibold rounded-full">+${hiddenTrackrCount}</span>`
+        : '';
 
     return `
         <div class="bg-white p-6 rounded-2xl border border-slate-200 card-hover flex flex-col justify-between">
             <div>
                 <div class="flex justify-between items-start mb-4">
                     <div class="w-12 h-12 bg-slate-100 rounded-lg flex items-center justify-center font-bold text-slate-400">${companyInitial}</div>
-                    <span class="px-3 py-1 ${categoryColor} text-xs font-bold rounded-full uppercase">${categoryName}</span>
+                    <div class="flex items-center gap-2 flex-wrap justify-end">
+                        <span class="px-3 py-1 ${categoryColor} text-xs font-bold rounded-full uppercase">${categoryName}</span>
+                        ${newBadgeMarkup}
+                    </div>
                 </div>
                 <h3 class="font-bold text-lg mb-1">${job.programme || 'Unknown Position'}</h3>
                 <p class="text-slate-500 mb-4">${job.company || 'Unknown Company'} • ${job.locations || 'UK'}</p>
+                ${trackrBadgesMarkup || extraTrackrBadgeMarkup ? `<div class="flex flex-wrap gap-2 mb-4">${trackrBadgesMarkup}${extraTrackrBadgeMarkup}</div>` : ''}
                 <div class="text-sm text-slate-500 mb-6 space-y-1">
                     <div class="flex items-center">
                         <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -281,6 +449,8 @@ async function tryRenderRecentFromAllJobs() {
         totalJobs: allJobs.length
     });
     renderRecentJobs(fallbackRecent);
+    updateDailyIndicators(allJobs);
+    renderClosingSoonJobs();
     showingAll = false;
     setJobsToggleButton(false);
     setPreviewControlsVisibility();
@@ -330,9 +500,22 @@ function createFilterButtons() {
         { key: 'spring-weeks', label: 'Spring Weeks', count: categoryCounts['spring-weeks'] || 0 }
     ];
 
-    filtersContainer.innerHTML = categories.map(cat => {
+    const dynamicTrackrFilters = Object.entries(trackrCategoryCounts)
+        .sort((a, b) => b[1].count - a[1].count)
+        .map(([normalized, meta]) => ({
+            key: `trackr:${normalized}`,
+            label: meta.label,
+            count: meta.count,
+            isTrackr: true
+        }));
+
+    const allFilters = categories.concat(dynamicTrackrFilters);
+
+    filtersContainer.innerHTML = allFilters.map(cat => {
         const isActive = currentFilter === cat.key;
-        const activeClass = isActive ? 'bg-primary text-white' : 'bg-white text-slate-600 border border-slate-200 hover:border-primary';
+        const activeClass = isActive
+            ? (cat.isTrackr ? 'bg-secondary text-white' : 'bg-primary text-white')
+            : 'bg-white text-slate-600 border border-slate-200 hover:border-primary';
         return `<button class="px-5 py-2 ${activeClass} rounded-full text-sm font-semibold filter-btn" data-filter="${cat.key}">${cat.label} (${cat.count})</button>`;
     }).join('');
 
@@ -368,6 +551,9 @@ function filterJobs(category) {
     currentFilter = category;
     if (category === 'all') {
         filteredJobs = [...allJobs];
+    } else if (category.startsWith('trackr:')) {
+        const trackrCategory = category.replace('trackr:', '').trim();
+        filteredJobs = allJobs.filter(job => getTrackrCategories(job).some(item => normalizeTrackrCategory(item) === trackrCategory));
     } else {
         filteredJobs = allJobs.filter(job => job.category === category);
     }
@@ -419,6 +605,7 @@ async function loadRecentJobs() {
         }
 
         renderRecentJobs(recentJobs);
+        updateDailyIndicators(recentJobs);
         setPreviewControlsVisibility();
 
         setJobsToggleButton(false);
@@ -431,6 +618,8 @@ async function loadRecentJobs() {
 
         ensureAllJobsDataLoaded()
             .then(() => {
+                updateDailyIndicators(allJobs);
+                renderClosingSoonJobs();
                 const updatedFiltersContainer = document.getElementById('filters-container');
                 if (updatedFiltersContainer && !showingAll) {
                     updatedFiltersContainer.classList.remove('hidden');
@@ -498,6 +687,8 @@ async function loadAllJobs() {
         }
 
         updateLoadMoreButton();
+        updateDailyIndicators(allJobs);
+        renderClosingSoonJobs();
 
         setJobsToggleButton(true);
 

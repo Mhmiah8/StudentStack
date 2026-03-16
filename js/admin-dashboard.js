@@ -264,6 +264,18 @@ function startDataListeners() {
     unsubscribeUsers = onSnapshot(query(collection(db, 'users')), (snapshot) => {
         usersData = snapshot.docs.map((docSnap) => ({ id: docSnap.id, ...docSnap.data() }));
         renderUsersTable();
+        setStatus(`Loaded ${usersData.length} user account(s).`, 'success');
+    }, (error) => {
+        usersData = [];
+        renderUsersTable();
+
+        const code = String(error?.code || 'unknown');
+        if (code.includes('permission-denied')) {
+            setStatus('Cannot load all users: Firestore rules are denying users list. Deploy the latest firestore.rules and refresh this page.', 'error');
+            return;
+        }
+
+        setStatus('Unable to load users right now. Please refresh and try again.', 'error');
     });
 
     unsubscribeNotes = onSnapshot(query(collection(db, 'universityNotes')), (snapshot) => {
