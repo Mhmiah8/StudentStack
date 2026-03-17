@@ -6,32 +6,36 @@ service cloud.firestore {
       return request.auth != null;
     }
 
+    function userDocPath(uid) {
+      return /databases/$(database)/documents/users/$(uid);
+    }
+
     function userDoc(uid) {
-      return get(/databases/$(database)/documents/users/$(uid));
+      return get(userDocPath(uid));
+    }
+
+    function currentUserExists() {
+      return isSignedIn() && exists(userDocPath(request.auth.uid));
     }
 
     function currentUserData() {
-      return userDoc(request.auth.uid).data;
+      return currentUserExists() ? userDoc(request.auth.uid).data : null;
     }
 
     function currentRole() {
-      return isSignedIn() && userDoc(request.auth.uid).exists() ? currentUserData().role : null;
-    }
-
-    function normalizedCurrentRole() {
-      return currentRole() is string ? lower(currentRole()) : null;
+      return currentUserData() != null && currentUserData().role is string ? currentUserData().role : null;
     }
 
     function isAdmin() {
-      return normalizedCurrentRole() == 'admin';
+      return currentRole() is string && currentRole().matches('(?i)^admin$');
     }
 
     function isModOrAdmin() {
-      return normalizedCurrentRole() == 'mod' || normalizedCurrentRole() == 'admin';
+      return currentRole() is string && currentRole().matches('(?i)^(mod|admin)$');
     }
 
     function isBanned() {
-      return isSignedIn() && userDoc(request.auth.uid).exists() && currentUserData().isBanned == true;
+      return currentUserExists() && currentUserData().isBanned == true;
     }
 
     function hasOnlyUserEditableProfileChanges() {

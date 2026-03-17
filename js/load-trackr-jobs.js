@@ -244,14 +244,8 @@ function updateDailyIndicators(jobs) {
     const targets = [jobsHeaderIndicator, statsIndicator].filter(Boolean);
     if (targets.length === 0) return;
 
-    const latestScrape = (Array.isArray(jobs) ? jobs : [])
-        .map(job => parseDateSafe(job.scraped_date))
-        .filter(Boolean)
-        .sort((a, b) => b.getTime() - a.getTime())[0];
-
-    const label = latestScrape
-        ? `Updated daily · Last sync ${latestScrape.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}`
-        : 'Updated daily';
+    const today = new Date();
+    const label = `Updated daily · Last sync ${today.toLocaleDateString('en-GB', { day: 'numeric', month: 'short' })}`;
 
     targets.forEach(target => {
         target.textContent = label;
