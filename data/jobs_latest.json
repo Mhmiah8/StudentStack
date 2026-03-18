@@ -2650,6 +2650,26 @@
     "scraped_date": "2026-03-16T16:55:18.561936"
   },
   {
+    "id": "7dvzjmj1ru",
+    "company": "Volcore",
+    "programme": "Junior Software Engineer 2026",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-17T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.volcore.co.uk/junior-software-engineer-2026?channel=trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-18T06:55:20.859235"
+  },
+  {
     "id": "7eb6nvxpoz",
     "company": "Motorola Solutions",
     "programme": "Graduate Software Engineer",
@@ -2950,6 +2970,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.436201"
+  },
+  {
+    "id": "fi8fivdlsd",
+    "company": "Volcore",
+    "programme": "Junior Quantitative Developer 2026",
+    "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-17T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.volcore.co.uk/junior-quantitative-developer?channel=trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-18T06:55:20.859529"
   },
   {
     "id": "g56mddyeyp",
@@ -3538,6 +3578,26 @@
     "scraped_date": "2026-03-05T17:30:15.333623"
   },
   {
+    "id": "v8m8xjjdr7",
+    "company": "Tower Peak Partners",
+    "programme": "Summer Internship - AI‑Native Data Platform Engineering",
+    "category": "graduate-programmes",
+    "categories": [
+      "AI and Machine Learning"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-17T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://job-boards.eu.greenhouse.io/towerpeak/jobs/4808077101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-18T06:55:20.860071"
+  },
+  {
     "id": "var81zurcy",
     "company": "Kingspan",
     "programme": "Junior Software Developer",
@@ -3716,6 +3776,26 @@
     "cv_required": "No",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.438133"
+  },
+  {
+    "id": "zxrmb0q78k",
+    "company": "Volcore",
+    "programme": "Junior Data Scientist 2026",
+    "category": "graduate-programmes",
+    "categories": [
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-17T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.volcore.co.uk/junior-data-scientist?channel=trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-18T06:55:20.860215"
   },
   {
     "id": "08gsjtjb30",
