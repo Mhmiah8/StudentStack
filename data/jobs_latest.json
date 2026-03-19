@@ -1443,6 +1443,27 @@
     "scraped_date": "2026-02-19T15:27:56.961687"
   },
   {
+    "id": "swfqp09awx",
+    "company": "Hiscox",
+    "programme": "2026 Summer Intern",
+    "category": "summer-internships",
+    "categories": [
+      "Software Engineering",
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-18T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://hiscox.wd3.myworkdayjobs.com/en-US/Hiscox_External_Site/jobs?q=data&workerSubType=c56dbe26655f109123eba640f6d1a3b0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-19T06:50:55.191411"
+  },
+  {
     "id": "tiqilwm3de",
     "company": "S&P Global",
     "programme": "Data Engineer Summer Intern",
@@ -2570,6 +2591,26 @@
     "scraped_date": "2026-02-19T15:28:05.435194"
   },
   {
+    "id": "4rkfr91a84",
+    "company": "Konrad",
+    "programme": "Software Developer (Entry Level)",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-18T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.konrad.com/careers/job/software-developer-entry-level_7669159003?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-19T06:51:00.587434"
+  },
+  {
     "id": "58zpuldbxk",
     "company": "RELX",
     "programme": "Tech Accelerate Graduate Program - Software Engineer",
@@ -2788,6 +2829,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.435885"
+  },
+  {
+    "id": "cgve3y0rdc",
+    "company": "Howden",
+    "programme": "Data Graduate",
+    "category": "graduate-programmes",
+    "categories": [
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-17T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://hyperiongrp.wd3.myworkdayjobs.com/en-US/Hyperion_External/job/Data-Graduate_R0016594-1?locationCountry=29247e57dbaf46fb855b224e03170bc7&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-19T06:51:00.587733"
   },
   {
     "id": "cjf1ebcjl2",
@@ -3192,6 +3253,26 @@
     "scraped_date": "2026-02-19T15:28:05.436628"
   },
   {
+    "id": "lg3tcedqpa",
+    "company": "Dirac Trading Group",
+    "programme": "Junior Software Engineer",
+    "category": "graduate-programmes",
+    "categories": [
+      "Quant Developer"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-18T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://form.typeform.com/to/lACl9upq?typeform-source=www.the-trackr.com#link_source=trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-19T06:51:00.588049"
+  },
+  {
     "id": "muuwphcilz",
     "company": "GSA Capital",
     "programme": "Software Developer",
@@ -3330,6 +3411,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.436973"
+  },
+  {
+    "id": "ot2dj4nq8d",
+    "company": "ThreatAware",
+    "programme": "Graduate AI Engineer",
+    "category": "graduate-programmes",
+    "categories": [
+      "AI and Machine Learning"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-18T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://threataware.com/careers/job?id=51a822b7-03b7-4f04-a780-2b7f80476494&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-19T06:51:00.588181"
   },
   {
     "id": "oxassn8c4k",
@@ -3922,24 +4023,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:11.275100"
-  },
-  {
-    "id": "rvz1mc53h6",
-    "company": "Morgan Stanley",
-    "programme": "2026 Technology Spring Insight (Glasgow)",
-    "category": "spring-weeks",
-    "categories": [],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-01-21T00:00:00.000Z",
-    "closing_date": "2026-03-19T00:00:00.000Z",
-    "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-f6544c574964/candidate/so/pm/1/pl/2/opp/21023-2026-Technology-Spring-Insight-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:28:11.275118"
   },
   {
     "id": "sdm5qmnr7j",

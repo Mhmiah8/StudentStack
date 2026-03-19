@@ -1,11 +1,11 @@
 {
-  "total_jobs": 199,
+  "total_jobs": 203,
   "categories": {
-    "summer-internships": 80,
+    "summer-internships": 81,
     "industrial-placements": 39,
-    "graduate-programmes": 70,
-    "spring-weeks": 10
+    "graduate-programmes": 74,
+    "spring-weeks": 9
   },
   "season": "2026",
-  "last_scraped": "2026-03-18T06:55:25.504722"
+  "last_scraped": "2026-03-19T06:51:05.075797"
 }

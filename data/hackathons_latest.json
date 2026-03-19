@@ -1,45 +1,5 @@
 [
   {
-    "name": "Claude & Venture Capital | Claude Builder Club @ Imperial",
-    "date": "2026-03-18T18:00:00.000Z",
-    "end_date": "2026-03-18T20:00:00.000Z",
-    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8tqjglyc",
-    "hosts": [
-      "Bohdan Yermakov"
-    ],
-    "attendee_count": 250,
-    "scraped_date": "2026-03-18T06:55:34.906220"
-  },
-  {
-    "name": "London Ray Meetup hosted by Balderton Capital: Building and Training Smarter AI with Ray",
-    "date": "2026-03-18T18:00:00.000Z",
-    "end_date": "2026-03-18T20:00:00.000Z",
-    "location": "Balderton Capital, The Stables, 28 Britannia St, London WC1X 9JF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ee8k9dq9",
-    "hosts": [
-      "Christina Zhu",
-      "Alex Whyte",
-      "Balderton Capital",
-      "Damon Robinson",
-      "Ryan Bashir",
-      "Weights & Biases",
-      "Alexandre Bernard",
-      "Hugh Killingbeck-Jones",
-      "Chris Blair"
-    ],
-    "attendee_count": 154,
-    "scraped_date": "2026-03-18T06:55:34.906250"
-  },
-  {
     "name": "ClawBio Hackathon: Agentic Genomics",
     "date": "2026-03-19T12:00:00.000Z",
     "end_date": "2026-03-19T19:00:00.000Z",
@@ -55,8 +15,8 @@
       "Nathan Skene",
       "Josh Beale"
     ],
-    "attendee_count": 93,
-    "scraped_date": "2026-03-18T06:55:34.906295"
+    "attendee_count": 103,
+    "scraped_date": "2026-03-19T06:51:14.455826"
   },
   {
     "name": "The Future of Community Building: Women Empowering Sustainable Growth",
@@ -72,7 +32,7 @@
       "Tessa Beishuizen"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-03-18T06:55:34.906324"
+    "scraped_date": "2026-03-19T06:51:14.455884"
   },
   {
     "name": "🧠 Building Local RAG Systems: Give Your AI a Private Brain",
@@ -88,7 +48,29 @@
       "Gary Rutland"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-03-18T06:55:34.906343"
+    "scraped_date": "2026-03-19T06:51:14.455905"
+  },
+  {
+    "name": "Project Europe: How to Build a Unicorn in Your 20s",
+    "date": "2026-03-19T18:15:00.000Z",
+    "end_date": "2026-03-19T21:15:00.000Z",
+    "location": "City & Guilds Building, Kensington, South Kensington, London SW7 2BX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/1wd9ffmi",
+    "hosts": [
+      "Imperial Entrepreneurs",
+      "Natalie Chan",
+      "Maksim H",
+      "Maks Rokosz",
+      "Hela Hałas",
+      "Ian Zhelezniak",
+      "Ryaan S"
+    ],
+    "attendee_count": 120,
+    "scraped_date": "2026-03-19T06:51:09.434452"
   },
   {
     "name": "AI London Hackathon & Conference",
@@ -104,7 +86,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-18T06:55:34.906406"
+    "scraped_date": "2026-03-19T06:51:14.455979"
   },
   {
     "name": "Notion London Hackathon: Build, Ship, Scale AI Custom Agents with Notion, Google Cloud and Gemini",
@@ -120,7 +102,7 @@
       "Shervin Mashayekh"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-18T06:55:34.906417"
+    "scraped_date": "2026-03-19T06:51:14.455993"
   },
   {
     "name": "Defeating Entropy Hackathon",
@@ -137,7 +119,7 @@
       "London Longevity"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-18T06:55:34.906440"
+    "scraped_date": "2026-03-19T06:51:09.434509"
   },
   {
     "name": "🦀 Claude Code(ing) Co-Working Club",
@@ -152,7 +134,55 @@
     "hosts": [
       "Andy Tyler"
     ],
-    "attendee_count": 19,
-    "scraped_date": "2026-03-18T06:55:34.906459"
+    "attendee_count": 26,
+    "scraped_date": "2026-03-19T06:51:14.456034"
+  },
+  {
+    "name": "Forward Deployed Engineers: Code & Commercial Impact",
+    "date": "2026-03-23T18:30:00.000Z",
+    "end_date": "2026-03-23T22:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dex_fde",
+    "hosts": [
+      "Kemi Odusan"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-19T06:51:14.456048"
+  },
+  {
+    "name": "Claude Hackathon at Imperial College London | Claude Builder Club @ Imperial",
+    "date": "2026-03-24T16:00:00.000Z",
+    "end_date": "2026-03-24T20:00:00.000Z",
+    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/3gl81s7c",
+    "hosts": [
+      "Bohdan Yermakov"
+    ],
+    "attendee_count": 314,
+    "scraped_date": "2026-03-19T06:51:14.456069"
+  },
+  {
+    "name": "London | Claude Code Curious: Cutting Edge",
+    "date": "2026-03-24T18:00:00.000Z",
+    "end_date": "2026-03-24T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ccc-cutting-edge-1",
+    "hosts": [
+      "Max Tatton-Brown"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-19T06:51:14.456093"
   }
 ]

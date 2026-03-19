@@ -1443,6 +1443,27 @@
     "scraped_date": "2026-02-19T15:27:56.961687"
   },
   {
+    "id": "swfqp09awx",
+    "company": "Hiscox",
+    "programme": "2026 Summer Intern",
+    "category": "summer-internships",
+    "categories": [
+      "Software Engineering",
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-18T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://hiscox.wd3.myworkdayjobs.com/en-US/Hiscox_External_Site/jobs?q=data&workerSubType=c56dbe26655f109123eba640f6d1a3b0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-19T06:50:55.191411"
+  },
+  {
     "id": "tiqilwm3de",
     "company": "S&P Global",
     "programme": "Data Engineer Summer Intern",
