@@ -1,94 +1,5 @@
 [
   {
-    "name": "ClawBio Hackathon: Agentic Genomics",
-    "date": "2026-03-19T12:00:00.000Z",
-    "end_date": "2026-03-19T19:00:00.000Z",
-    "location": "Sir Michael Uren Hub, Imperial College, 86 Wood Ln, London W12 0BZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/kolhdoi9",
-    "hosts": [
-      "Jay Moore",
-      "Manuel Corpas",
-      "Nathan Skene",
-      "Josh Beale"
-    ],
-    "attendee_count": 103,
-    "scraped_date": "2026-03-19T06:51:14.455826"
-  },
-  {
-    "name": "The Future of Community Building: Women Empowering Sustainable Growth",
-    "date": "2026-03-19T17:30:00.000Z",
-    "end_date": "2026-03-19T20:00:00.000Z",
-    "location": "Geovation, F4, Sutton Yard, 65 Goswell Rd., London EC1V 7EN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/3ad0zqqz",
-    "hosts": [
-      "Tessa Beishuizen"
-    ],
-    "attendee_count": 3,
-    "scraped_date": "2026-03-19T06:51:14.455884"
-  },
-  {
-    "name": "🧠 Building Local RAG Systems: Give Your AI a Private Brain",
-    "date": "2026-03-19T18:00:00.000Z",
-    "end_date": "2026-03-19T20:30:00.000Z",
-    "location": "Daemon, Studio C, 21 Conduit Pl, Tyburnia, London W2 1HS, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ra57h94t",
-    "hosts": [
-      "Gary Rutland"
-    ],
-    "attendee_count": 14,
-    "scraped_date": "2026-03-19T06:51:14.455905"
-  },
-  {
-    "name": "Project Europe: How to Build a Unicorn in Your 20s",
-    "date": "2026-03-19T18:15:00.000Z",
-    "end_date": "2026-03-19T21:15:00.000Z",
-    "location": "City & Guilds Building, Kensington, South Kensington, London SW7 2BX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1wd9ffmi",
-    "hosts": [
-      "Imperial Entrepreneurs",
-      "Natalie Chan",
-      "Maksim H",
-      "Maks Rokosz",
-      "Hela Hałas",
-      "Ian Zhelezniak",
-      "Ryaan S"
-    ],
-    "attendee_count": 120,
-    "scraped_date": "2026-03-19T06:51:09.434452"
-  },
-  {
-    "name": "AI London Hackathon & Conference",
-    "date": "2026-03-20T10:00:00.000Z",
-    "end_date": "2026-03-22T16:30:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/gttihhxt",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-19T06:51:14.455979"
-  },
-  {
     "name": "Notion London Hackathon: Build, Ship, Scale AI Custom Agents with Notion, Google Cloud and Gemini",
     "date": "2026-03-20T10:00:00.000Z",
     "end_date": "2026-03-20T18:00:00.000Z",
@@ -102,7 +13,23 @@
       "Shervin Mashayekh"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-19T06:51:14.455993"
+    "scraped_date": "2026-03-20T06:46:00.862127"
+  },
+  {
+    "name": "AI London Hackathon & Conference",
+    "date": "2026-03-20T11:00:00.000Z",
+    "end_date": "2026-03-22T16:30:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/gttihhxt",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-20T06:46:00.862147"
   },
   {
     "name": "Defeating Entropy Hackathon",
@@ -119,7 +46,7 @@
       "London Longevity"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-19T06:51:09.434509"
+    "scraped_date": "2026-03-20T06:45:54.931525"
   },
   {
     "name": "🦀 Claude Code(ing) Co-Working Club",
@@ -134,8 +61,8 @@
     "hosts": [
       "Andy Tyler"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-03-19T06:51:14.456034"
+    "attendee_count": 33,
+    "scraped_date": "2026-03-20T06:46:00.862187"
   },
   {
     "name": "Forward Deployed Engineers: Code & Commercial Impact",
@@ -151,7 +78,23 @@
       "Kemi Odusan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-19T06:51:14.456048"
+    "scraped_date": "2026-03-20T06:46:00.862202"
+  },
+  {
+    "name": "Campaign Lab Spring Hack Night!",
+    "date": "2026-03-23T19:00:00.000Z",
+    "end_date": "2026-03-23T22:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/aj2qdgmu",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 12,
+    "scraped_date": "2026-03-20T06:45:54.931582"
   },
   {
     "name": "Claude Hackathon at Imperial College London | Claude Builder Club @ Imperial",
@@ -166,8 +109,8 @@
     "hosts": [
       "Bohdan Yermakov"
     ],
-    "attendee_count": 314,
-    "scraped_date": "2026-03-19T06:51:14.456069"
+    "attendee_count": 332,
+    "scraped_date": "2026-03-20T06:46:00.862232"
   },
   {
     "name": "London | Claude Code Curious: Cutting Edge",
@@ -183,6 +126,72 @@
       "Max Tatton-Brown"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-19T06:51:14.456093"
+    "scraped_date": "2026-03-20T06:46:00.862251"
+  },
+  {
+    "name": "Building into Africa from the UK: Lunch. Workshop. Mixer.",
+    "date": "2026-03-25T13:00:00.000Z",
+    "end_date": "2026-03-25T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/583xiwm2",
+    "hosts": [
+      "Itana"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-20T06:45:54.931629"
+  },
+  {
+    "name": "🌉 TLA Taiwan × TLA Smart Cities Build Jam. AIoT and Smart Cities",
+    "date": "2026-03-25T17:00:00.000Z",
+    "end_date": "2026-03-25T20:30:00.000Z",
+    "location": "Gravita, Aldgate Tower, 2 Leman St, London E1 8FA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/nk9hrqc6",
+    "hosts": [
+      "Tech London Advocates - Taiwan Working Group"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-20T06:46:00.862271"
+  },
+  {
+    "name": "freeCodeCamp x Encode | AI - Workshop: Breaking Down OpenClaw (From Minimal Mode to Advanced Mode w/ Skills)",
+    "date": "2026-03-25T18:00:00.000Z",
+    "end_date": "2026-03-25T21:30:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/it7a6h53",
+    "hosts": [
+      "freeCodeCampLondon",
+      "Encode Club"
+    ],
+    "attendee_count": 49,
+    "scraped_date": "2026-03-20T06:46:00.862286"
+  },
+  {
+    "name": "Build Human Relationships in an AI World",
+    "date": "2026-03-26T16:00:00.000Z",
+    "end_date": "2026-03-26T18:00:00.000Z",
+    "location": "The May Fair Bar, Stratton St, London W1J 8LT, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ylnfefkf",
+    "hosts": [
+      "David Connors",
+      "Jason Kirby"
+    ],
+    "attendee_count": 31,
+    "scraped_date": "2026-03-20T06:46:00.862319"
   }
 ]
