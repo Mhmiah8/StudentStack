@@ -164,6 +164,26 @@
     "scraped_date": "2026-02-19T15:28:05.435161"
   },
   {
+    "id": "48cbtq99rq",
+    "company": "TGW Logistics",
+    "programme": "Graduate Software Tester",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-20T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.tgw-group.com/en/career/jobs/detail/graduate-software-tester-1300/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-21T06:35:10.706670"
+  },
+  {
     "id": "4f06tevok9",
     "company": "PwC",
     "programme": "Graduate - Technology (Data/CyberSec)",

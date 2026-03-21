@@ -1263,6 +1263,26 @@
     "scraped_date": "2026-02-19T15:27:56.961266"
   },
   {
+    "id": "ptnwt5589h",
+    "company": "Ithaca Energy",
+    "programme": "Data Science Intern",
+    "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-20T00:00:00.000Z",
+    "closing_date": "2026-03-30T00:00:00.000Z",
+    "url": "https://ithacaenergyuklimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=a1b88b5e-a8de-47ad-81e0-5f9c97f01c96&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-21T06:35:05.004331"
+  },
+  {
     "id": "q6m66i9jjf",
     "company": "American Express",
     "programme": "Campus - Technology Operations Engineering Intern",
@@ -2508,6 +2528,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.435161"
+  },
+  {
+    "id": "48cbtq99rq",
+    "company": "TGW Logistics",
+    "programme": "Graduate Software Tester",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-20T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.tgw-group.com/en/career/jobs/detail/graduate-software-tester-1300/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-21T06:35:10.706670"
   },
   {
     "id": "4f06tevok9",
@@ -3837,24 +3877,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-03-18T06:55:20.860215"
-  },
-  {
-    "id": "08gsjtjb30",
-    "company": "IMC Trading",
-    "programme": "Launchpad Programme – Technology",
-    "category": "spring-weeks",
-    "categories": [],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-01-16T00:00:00.000Z",
-    "closing_date": "2026-03-21T00:00:00.000Z",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4697250101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:28:11.274444"
   },
   {
     "id": "djeelkz6j0",

@@ -1,37 +1,5 @@
 [
   {
-    "name": "Notion London Hackathon: Build, Ship, Scale AI Custom Agents with Notion, Google Cloud and Gemini",
-    "date": "2026-03-20T10:00:00.000Z",
-    "end_date": "2026-03-20T18:00:00.000Z",
-    "location": "BrainStation, 55-57 Rivington St, London EC2A 3QA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/wngjilg9",
-    "hosts": [
-      "Shervin Mashayekh"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-20T06:46:00.862127"
-  },
-  {
-    "name": "AI London Hackathon & Conference",
-    "date": "2026-03-20T11:00:00.000Z",
-    "end_date": "2026-03-22T16:30:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/gttihhxt",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-20T06:46:00.862147"
-  },
-  {
     "name": "Defeating Entropy Hackathon",
     "date": "2026-03-21T09:00:00.000Z",
     "end_date": "2026-03-22T19:00:00.000Z",
@@ -46,7 +14,7 @@
       "London Longevity"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-20T06:45:54.931525"
+    "scraped_date": "2026-03-21T06:35:19.714392"
   },
   {
     "name": "🦀 Claude Code(ing) Co-Working Club",
@@ -61,8 +29,8 @@
     "hosts": [
       "Andy Tyler"
     ],
-    "attendee_count": 33,
-    "scraped_date": "2026-03-20T06:46:00.862187"
+    "attendee_count": 37,
+    "scraped_date": "2026-03-21T06:35:24.961746"
   },
   {
     "name": "Forward Deployed Engineers: Code & Commercial Impact",
@@ -78,7 +46,7 @@
       "Kemi Odusan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-20T06:46:00.862202"
+    "scraped_date": "2026-03-21T06:35:24.961771"
   },
   {
     "name": "Campaign Lab Spring Hack Night!",
@@ -93,8 +61,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-03-20T06:45:54.931582"
+    "attendee_count": 16,
+    "scraped_date": "2026-03-21T06:35:19.714498"
   },
   {
     "name": "Claude Hackathon at Imperial College London | Claude Builder Club @ Imperial",
@@ -109,8 +77,8 @@
     "hosts": [
       "Bohdan Yermakov"
     ],
-    "attendee_count": 332,
-    "scraped_date": "2026-03-20T06:46:00.862232"
+    "attendee_count": 348,
+    "scraped_date": "2026-03-21T06:35:24.961814"
   },
   {
     "name": "London | Claude Code Curious: Cutting Edge",
@@ -126,7 +94,7 @@
       "Max Tatton-Brown"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-20T06:46:00.862251"
+    "scraped_date": "2026-03-21T06:35:24.961844"
   },
   {
     "name": "Building into Africa from the UK: Lunch. Workshop. Mixer.",
@@ -142,7 +110,7 @@
       "Itana"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-20T06:45:54.931629"
+    "scraped_date": "2026-03-21T06:35:19.714589"
   },
   {
     "name": "🌉 TLA Taiwan × TLA Smart Cities Build Jam. AIoT and Smart Cities",
@@ -158,7 +126,7 @@
       "Tech London Advocates - Taiwan Working Group"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-20T06:46:00.862271"
+    "scraped_date": "2026-03-21T06:35:24.961875"
   },
   {
     "name": "freeCodeCamp x Encode | AI - Workshop: Breaking Down OpenClaw (From Minimal Mode to Advanced Mode w/ Skills)",
@@ -174,8 +142,8 @@
       "freeCodeCampLondon",
       "Encode Club"
     ],
-    "attendee_count": 49,
-    "scraped_date": "2026-03-20T06:46:00.862286"
+    "attendee_count": 52,
+    "scraped_date": "2026-03-21T06:35:24.961897"
   },
   {
     "name": "Build Human Relationships in an AI World",
@@ -191,7 +159,7 @@
       "David Connors",
       "Jason Kirby"
     ],
-    "attendee_count": 31,
-    "scraped_date": "2026-03-20T06:46:00.862319"
+    "attendee_count": 32,
+    "scraped_date": "2026-03-21T06:35:24.961944"
   }
 ]
