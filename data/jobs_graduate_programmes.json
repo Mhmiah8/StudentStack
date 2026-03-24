@@ -1147,6 +1147,26 @@
     "scraped_date": "2026-02-19T15:28:05.437211"
   },
   {
+    "id": "rylme4n6qy",
+    "company": "American Express",
+    "programme": "Software Engineer Graduate",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-23T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://aexp.eightfold.ai/careers/job/40809990?hl=en-GB&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-24T06:57:23.943734"
+  },
+  {
     "id": "s70j5899ip",
     "company": "BNY Mellon",
     "programme": "2026 Analyst Program",

@@ -1363,6 +1363,26 @@
     "scraped_date": "2026-02-19T15:27:56.961588"
   },
   {
+    "id": "s7eaybjhu6",
+    "company": "Julius Baer",
+    "programme": "Data Analytics & Business Management Intern",
+    "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-16T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/jobs?q=data+intern&Location_Country=29247e57dbaf46fb855b224e03170bc7&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-24T06:57:18.614631"
+  },
+  {
     "id": "so0cr03lwa",
     "company": "eSourcing Data",
     "programme": "Software Development Intern (Summer)",
@@ -1762,6 +1782,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:01.355612"
+  },
+  {
+    "id": "8x18133cht",
+    "company": "Ciena",
+    "programme": "Network Engineer Intern (12 Months)",
+    "category": "industrial-placements",
+    "categories": [
+      "DevOps and Infrastructure"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-23T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Network-Engineer-Intern--12-Months-_R030434?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-24T06:57:21.273107"
   },
   {
     "id": "9kxf3dw0l7",
@@ -3511,6 +3551,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.437211"
+  },
+  {
+    "id": "rylme4n6qy",
+    "company": "American Express",
+    "programme": "Software Engineer Graduate",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-23T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://aexp.eightfold.ai/careers/job/40809990?hl=en-GB&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-24T06:57:23.943734"
   },
   {
     "id": "s70j5899ip",

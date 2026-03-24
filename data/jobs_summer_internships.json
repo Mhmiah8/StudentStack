@@ -1363,6 +1363,26 @@
     "scraped_date": "2026-02-19T15:27:56.961588"
   },
   {
+    "id": "s7eaybjhu6",
+    "company": "Julius Baer",
+    "programme": "Data Analytics & Business Management Intern",
+    "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-16T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://juliusbaer.wd3.myworkdayjobs.com/en-US/External/jobs?q=data+intern&Location_Country=29247e57dbaf46fb855b224e03170bc7&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-24T06:57:18.614631"
+  },
+  {
     "id": "so0cr03lwa",
     "company": "eSourcing Data",
     "programme": "Software Development Intern (Summer)",
