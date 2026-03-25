@@ -400,26 +400,6 @@
     "scraped_date": "2026-03-16T07:08:40.015078"
   },
   {
-    "id": "77d5lxi2ws",
-    "company": "Waters Corporation",
-    "programme": "Software Engineering Summer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-13T00:00:00.000Z",
-    "closing_date": "2026-03-27T00:00:00.000Z",
-    "url": "https://internationalcareers-waters.icims.com/jobs/25672/software-engineering-summer-intern/job?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&iis=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.015089"
-  },
-  {
     "id": "78m3bgm4a4",
     "company": "MUFG",
     "programme": "2026 Summer Internship Programme: Technology",
@@ -718,6 +698,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.959990"
+  },
+  {
+    "id": "e5h9goc8nk",
+    "company": "Ciena",
+    "programme": "Data Science/Analyst Intern",
+    "category": "summer-internships",
+    "categories": [
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-23T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Data-Science-Analyst-Intern--Summer-2026-_R030463?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-25T06:55:44.439280"
   },
   {
     "id": "eosj8qz726",
