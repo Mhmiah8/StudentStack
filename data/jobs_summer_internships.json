@@ -140,6 +140,26 @@
     "scraped_date": "2026-02-19T15:27:56.957456"
   },
   {
+    "id": "26shrenfe6",
+    "company": "Legal & General",
+    "programme": "OneTech Services Intern 2026",
+    "category": "summer-internships",
+    "categories": [
+      "DevOps and Infrastructure"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-25T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000116439216-intern-onetech-services-brighton-hove-2026?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&trid=Trackr&dcr_ci=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-26T07:00:58.082067"
+  },
+  {
     "id": "34z4fmv599",
     "company": "Vanguard",
     "programme": "Technology Internship (Summer 2026)",
@@ -1199,6 +1219,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.961223"
+  },
+  {
+    "id": "p4c55znzx5",
+    "company": "Binome",
+    "programme": "AI Engineer Intern",
+    "category": "summer-internships",
+    "categories": [
+      "Startups"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-25T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.linkedin.com/jobs/view/4389755714/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-26T07:00:58.083023"
   },
   {
     "id": "pcp19r2okz",

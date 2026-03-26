@@ -140,6 +140,26 @@
     "scraped_date": "2026-02-19T15:27:56.957456"
   },
   {
+    "id": "26shrenfe6",
+    "company": "Legal & General",
+    "programme": "OneTech Services Intern 2026",
+    "category": "summer-internships",
+    "categories": [
+      "DevOps and Infrastructure"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-25T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000116439216-intern-onetech-services-brighton-hove-2026?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&trid=Trackr&dcr_ci=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-26T07:00:58.082067"
+  },
+  {
     "id": "34z4fmv599",
     "company": "Vanguard",
     "programme": "Technology Internship (Summer 2026)",
@@ -1199,6 +1219,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.961223"
+  },
+  {
+    "id": "p4c55znzx5",
+    "company": "Binome",
+    "programme": "AI Engineer Intern",
+    "category": "summer-internships",
+    "categories": [
+      "Startups"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-25T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.linkedin.com/jobs/view/4389755714/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-26T07:00:58.083023"
   },
   {
     "id": "pcp19r2okz",
@@ -2446,6 +2486,26 @@
     "scraped_date": "2026-03-16T07:08:45.685862"
   },
   {
+    "id": "0ttnx3gajz",
+    "company": "AVEVA",
+    "programme": "Software Developer Graduate",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-25T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Software-Developer-Graduate_R011705?spotlightJob=dc7503d8446c11de98360015c5e6daf6&locationCountry=29247e57dbaf46fb855b224e03170bc7&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-26T07:01:04.074682"
+  },
+  {
     "id": "17enfp9hi9",
     "company": "Qube RT",
     "programme": "2026 - Internship/Graduate",
@@ -3655,28 +3715,6 @@
     "scraped_date": "2026-02-19T15:28:05.437448"
   },
   {
-    "id": "ukfi1v2pqd",
-    "company": "Low Carbon Contracts Company",
-    "programme": "Technology Net Zero Graduate Scheme",
-    "category": "graduate-programmes",
-    "categories": [
-      "Software Engineering",
-      "Data Science",
-      "DevOps and Infrastructure"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-11T00:00:00.000Z",
-    "closing_date": "2026-03-26T00:00:00.000Z",
-    "url": "https://careers.lowcarboncontracts.uk/en/postings/f36e7783-89b8-4f86-9513-6bfa899a8b78?src=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-16T07:08:45.686799"
-  },
-  {
     "id": "uy2q6wa54b",
     "company": "KKR",
     "programme": "2026 Software Engineering Graduate Analyst - Dublin",
@@ -4081,5 +4119,23 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:11.275174"
+  },
+  {
+    "id": "uwtffv7hor",
+    "company": "Binome",
+    "programme": "AI Engineer Intern",
+    "category": "spring-weeks",
+    "categories": [],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-25T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.linkedin.com/jobs/view/4389755714?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-26T07:01:06.721993"
   }
 ]
