@@ -1,57 +1,5 @@
 [
   {
-    "name": "Build Human Relationships in an AI World",
-    "date": "2026-03-26T16:00:00.000Z",
-    "end_date": "2026-03-26T18:00:00.000Z",
-    "location": "The May Fair Bar, Stratton St, London W1J 8LT, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ylnfefkf",
-    "hosts": [
-      "David Connors",
-      "Jason Kirby"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-26T07:01:13.053735"
-  },
-  {
-    "name": "Harnessing Blended Finance as a Catalyst for Impactful Markets",
-    "date": "2026-03-26T17:30:00.000Z",
-    "end_date": "2026-03-26T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/925nhnrh",
-    "hosts": [
-      "Ian Povey-Hall"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-26T07:01:13.053791"
-  },
-  {
-    "name": "Building Voice AI Agents: London Enterprise Builders Meetup",
-    "date": "2026-03-26T18:00:00.000Z",
-    "end_date": "2026-03-26T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tensquza",
-    "hosts": [
-      "Rasa",
-      "Rod Rivera",
-      "Edgar",
-      "Maria Anastasiou"
-    ],
-    "attendee_count": 126,
-    "scraped_date": "2026-03-26T07:01:18.156869"
-  },
-  {
     "name": "Women’s History Month: London Founders x Builders Coworking & Networking",
     "date": "2026-03-27T10:30:00.000Z",
     "end_date": "2026-03-27T19:00:00.000Z",
@@ -66,8 +14,24 @@
       "Pranamika Pandey",
       "Sienna Leung"
     ],
-    "attendee_count": 19,
-    "scraped_date": "2026-03-26T07:01:13.053864"
+    "attendee_count": 20,
+    "scraped_date": "2026-03-27T06:59:55.329512"
+  },
+  {
+    "name": "Encode Social Football",
+    "date": "2026-03-27T12:20:00.000Z",
+    "end_date": "2026-03-27T13:00:00.000Z",
+    "location": "Powerleague Shoreditch, Braithwaite Street Opposite Shoreditch High Street, Station, London E1 6GJ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bcgmnkrs",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-27T06:59:55.329561"
   },
   {
     "name": "London | Claude Code for Voice",
@@ -85,7 +49,7 @@
       "Joséphine Parquet"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-26T07:01:18.156936"
+    "scraped_date": "2026-03-27T07:00:01.089268"
   },
   {
     "name": "BSmAI hosts Vivienne Ming:  When Machines Have All The Answers, Build Better People",
@@ -105,7 +69,7 @@
       "Victoria Tan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-26T07:01:18.156956"
+    "scraped_date": "2026-03-27T07:00:01.089303"
   },
   {
     "name": "QuantiHack 2026 Finals Day",
@@ -119,10 +83,10 @@
     "url": "https://lu.ma/59z9hoit",
     "hosts": [
       "Michael Domarkas",
-      "Mahmudur"
+      "Mahmudur Rahman"
     ],
-    "attendee_count": 59,
-    "scraped_date": "2026-03-26T07:01:18.156968"
+    "attendee_count": 70,
+    "scraped_date": "2026-03-27T07:00:01.089323"
   },
   {
     "name": "AI Safety Fieldbuilding Hackathon",
@@ -135,10 +99,11 @@
     "is_virtual": false,
     "url": "https://lu.ma/aistoolhack",
     "hosts": [
-      "Joshua Landes"
+      "Joshua Landes",
+      "Mick Zijdel"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-26T07:01:18.156979"
+    "scraped_date": "2026-03-27T07:00:01.089337"
   },
   {
     "name": "Build with TRAE @ London",
@@ -156,7 +121,7 @@
       "HuangRita"
     ],
     "attendee_count": 66,
-    "scraped_date": "2026-03-26T07:01:18.156993"
+    "scraped_date": "2026-03-27T07:00:01.089352"
   },
   {
     "name": "HackWimbledon March 2026 #2",
@@ -172,7 +137,7 @@
       "Andy Piper"
     ],
     "attendee_count": 25,
-    "scraped_date": "2026-03-26T07:01:13.053915"
+    "scraped_date": "2026-03-27T06:59:55.329615"
   },
   {
     "name": "Build an Autonomous Agent - Unicorn Mafia x Techbible Hack Night",
@@ -189,8 +154,8 @@
       "Fatema",
       "Oliver Kingshott"
     ],
-    "attendee_count": 96,
-    "scraped_date": "2026-03-26T07:01:18.157012"
+    "attendee_count": 101,
+    "scraped_date": "2026-03-27T07:00:01.089374"
   },
   {
     "name": "MakeAlong: Build an AI agent you can trust",
@@ -208,7 +173,7 @@
       "Blue Precision Technologies"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-26T07:01:18.157028"
+    "scraped_date": "2026-03-27T07:00:01.089420"
   },
   {
     "name": "Women in Marketing: AI Hackathon",
@@ -224,7 +189,94 @@
       "Grace Greer",
       "Lisa Vecchio"
     ],
-    "attendee_count": 112,
-    "scraped_date": "2026-03-26T07:01:18.157039"
+    "attendee_count": 115,
+    "scraped_date": "2026-03-27T07:00:01.089431"
+  },
+  {
+    "name": "Source Code — London meetup for journalists and technologists",
+    "date": "2026-03-31T17:00:00.000Z",
+    "end_date": "2026-03-31T20:00:00.000Z",
+    "location": "The Sir Christopher Hatton, 4 Leather Ln, Greater, London EC1N 7RA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/6hkl73t8",
+    "hosts": [
+      "Tristan Werkmeister",
+      "Marcela Kunova",
+      "Jacob Granger"
+    ],
+    "attendee_count": 124,
+    "scraped_date": "2026-03-27T07:00:01.089456"
+  },
+  {
+    "name": "London | Claude Code for Designers | Thinking Forward #01",
+    "date": "2026-04-01T17:00:00.000Z",
+    "end_date": "2026-04-01T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/so5bgpqs",
+    "hosts": [
+      "Olivier Alterhq.com",
+      "Eleanor Cranfield",
+      "Sandra",
+      "Wilfred Kasekende"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-27T07:00:01.089486"
+  },
+  {
+    "name": "Open Code #4",
+    "date": "2026-04-01T17:30:00.000Z",
+    "end_date": "2026-04-01T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/q9u9w4z4",
+    "hosts": [
+      "LocalGlobe",
+      "Ziv Reichert"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-27T06:59:55.329693"
+  },
+  {
+    "name": "The Business of Creativity: Building global reach for creative agencies and contractors",
+    "date": "2026-04-01T18:00:00.000Z",
+    "end_date": "2026-04-01T21:00:00.000Z",
+    "location": "Future Stores, 95 Oxford St, London W1D 2AD, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/nay22kn8",
+    "hosts": [
+      "Wise Business"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-27T06:59:55.329706"
+  },
+  {
+    "name": "Cursor London Evening Hackathon",
+    "date": "2026-04-02T16:15:00.000Z",
+    "end_date": "2026-04-02T21:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/1ufgfhvv",
+    "hosts": [
+      "Francisco Terpolilli",
+      "David Gelberg"
+    ],
+    "attendee_count": 96,
+    "scraped_date": "2026-03-27T07:00:01.089501"
   }
 ]
