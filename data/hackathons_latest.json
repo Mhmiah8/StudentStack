@@ -1,77 +1,5 @@
 [
   {
-    "name": "Women’s History Month: London Founders x Builders Coworking & Networking",
-    "date": "2026-03-27T10:30:00.000Z",
-    "end_date": "2026-03-27T19:00:00.000Z",
-    "location": "The Ministry, Borough | Workspace & Members' Club | South London, 79-81 Borough Rd, London SE1 1DN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bu2ybtgz",
-    "hosts": [
-      "anna nguyen",
-      "Pranamika Pandey",
-      "Sienna Leung"
-    ],
-    "attendee_count": 20,
-    "scraped_date": "2026-03-27T06:59:55.329512"
-  },
-  {
-    "name": "Encode Social Football",
-    "date": "2026-03-27T12:20:00.000Z",
-    "end_date": "2026-03-27T13:00:00.000Z",
-    "location": "Powerleague Shoreditch, Braithwaite Street Opposite Shoreditch High Street, Station, London E1 6GJ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bcgmnkrs",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-27T06:59:55.329561"
-  },
-  {
-    "name": "London | Claude Code for Voice",
-    "date": "2026-03-27T18:00:00.000Z",
-    "end_date": "2026-03-27T22:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/k24hdger",
-    "hosts": [
-      "Olivier Alterhq.com",
-      "Wilfred Kasekende",
-      "Joséphine Parquet"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-27T07:00:01.089268"
-  },
-  {
-    "name": "BSmAI hosts Vivienne Ming:  When Machines Have All The Answers, Build Better People",
-    "date": "2026-03-27T18:30:00.000Z",
-    "end_date": "2026-03-27T22:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/zzb349h3",
-    "hosts": [
-      "Jason Nguyen",
-      "Encode Club",
-      "Nayanika Chakraborty",
-      "Fendi Tsim",
-      "Victoria Tan"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-27T07:00:01.089303"
-  },
-  {
     "name": "QuantiHack 2026 Finals Day",
     "date": "2026-03-28T10:00:00.000Z",
     "end_date": "2026-03-28T21:00:00.000Z",
@@ -85,8 +13,8 @@
       "Michael Domarkas",
       "Mahmudur Rahman"
     ],
-    "attendee_count": 70,
-    "scraped_date": "2026-03-27T07:00:01.089323"
+    "attendee_count": 0,
+    "scraped_date": "2026-03-28T06:51:39.016658"
   },
   {
     "name": "AI Safety Fieldbuilding Hackathon",
@@ -100,10 +28,11 @@
     "url": "https://lu.ma/aistoolhack",
     "hosts": [
       "Joshua Landes",
-      "Mick Zijdel"
+      "Mick Zijdel",
+      "Jess Bergs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-27T07:00:01.089337"
+    "scraped_date": "2026-03-28T06:51:39.016684"
   },
   {
     "name": "Build with TRAE @ London",
@@ -120,8 +49,8 @@
       "LiLea",
       "HuangRita"
     ],
-    "attendee_count": 66,
-    "scraped_date": "2026-03-27T07:00:01.089352"
+    "attendee_count": 76,
+    "scraped_date": "2026-03-28T06:51:39.016702"
   },
   {
     "name": "HackWimbledon March 2026 #2",
@@ -137,7 +66,7 @@
       "Andy Piper"
     ],
     "attendee_count": 25,
-    "scraped_date": "2026-03-27T06:59:55.329615"
+    "scraped_date": "2026-03-28T06:51:34.008897"
   },
   {
     "name": "Build an Autonomous Agent - Unicorn Mafia x Techbible Hack Night",
@@ -154,8 +83,8 @@
       "Fatema",
       "Oliver Kingshott"
     ],
-    "attendee_count": 101,
-    "scraped_date": "2026-03-27T07:00:01.089374"
+    "attendee_count": 108,
+    "scraped_date": "2026-03-28T06:51:39.016727"
   },
   {
     "name": "MakeAlong: Build an AI agent you can trust",
@@ -173,7 +102,7 @@
       "Blue Precision Technologies"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-27T07:00:01.089420"
+    "scraped_date": "2026-03-28T06:51:39.016745"
   },
   {
     "name": "Women in Marketing: AI Hackathon",
@@ -189,8 +118,8 @@
       "Grace Greer",
       "Lisa Vecchio"
     ],
-    "attendee_count": 115,
-    "scraped_date": "2026-03-27T07:00:01.089431"
+    "attendee_count": 120,
+    "scraped_date": "2026-03-28T06:51:39.016784"
   },
   {
     "name": "Source Code — London meetup for journalists and technologists",
@@ -207,8 +136,8 @@
       "Marcela Kunova",
       "Jacob Granger"
     ],
-    "attendee_count": 124,
-    "scraped_date": "2026-03-27T07:00:01.089456"
+    "attendee_count": 131,
+    "scraped_date": "2026-03-28T06:51:39.016811"
   },
   {
     "name": "London | Claude Code for Designers | Thinking Forward #01",
@@ -227,7 +156,7 @@
       "Wilfred Kasekende"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-27T07:00:01.089486"
+    "scraped_date": "2026-03-28T06:51:39.016854"
   },
   {
     "name": "Open Code #4",
@@ -244,7 +173,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-27T06:59:55.329693"
+    "scraped_date": "2026-03-28T06:51:34.009000"
   },
   {
     "name": "The Business of Creativity: Building global reach for creative agencies and contractors",
@@ -260,7 +189,7 @@
       "Wise Business"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-27T06:59:55.329706"
+    "scraped_date": "2026-03-28T06:51:34.009023"
   },
   {
     "name": "Cursor London Evening Hackathon",
@@ -276,7 +205,74 @@
       "Francisco Terpolilli",
       "David Gelberg"
     ],
-    "attendee_count": 96,
-    "scraped_date": "2026-03-27T07:00:01.089501"
+    "attendee_count": 110,
+    "scraped_date": "2026-03-28T06:51:39.016874"
+  },
+  {
+    "name": "Builder's Brew: Q1 Wrapped",
+    "date": "2026-04-02T18:00:00.000Z",
+    "end_date": "2026-04-02T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2vaayj3e",
+    "hosts": [
+      "Cosmin Calugaru",
+      "Lee Fernandes",
+      "Alvis"
+    ],
+    "attendee_count": 11,
+    "scraped_date": "2026-03-28T06:51:34.009064"
+  },
+  {
+    "name": "Campaign Lab Spring Hack Night!",
+    "date": "2026-04-06T18:00:00.000Z",
+    "end_date": "2026-04-06T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/t6n5x8pu",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 6,
+    "scraped_date": "2026-03-28T06:51:34.009082"
+  },
+  {
+    "name": "Agents building systems. Humans orchestrating them.",
+    "date": "2026-04-08T17:00:00.000Z",
+    "end_date": "2026-04-08T19:30:00.000Z",
+    "location": "Mindspace Liverpool Street, 9 Appold St, London EC2A 2AP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zqx555uo",
+    "hosts": [
+      "Nearform Ltd.",
+      "Nearform"
+    ],
+    "attendee_count": 65,
+    "scraped_date": "2026-03-28T06:51:39.016926"
+  },
+  {
+    "name": "AIE Europe: AI Builders Happy Hour",
+    "date": "2026-04-08T17:00:00.000Z",
+    "end_date": "2026-04-08T19:00:00.000Z",
+    "location": "The Ivy Victoria, 66 Victoria St, London SW1E 6SQ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/aie-europe-arize",
+    "hosts": [
+      "Arize AI"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-28T06:51:39.016936"
   }
 ]
