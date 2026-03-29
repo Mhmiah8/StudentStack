@@ -1289,28 +1289,6 @@
     "scraped_date": "2026-02-19T15:28:05.437521"
   },
   {
-    "id": "v1kzfds8m3",
-    "company": "Southern Water",
-    "programme": "Graduate Development Programme - Digital",
-    "category": "graduate-programmes",
-    "categories": [
-      "Software Engineering",
-      "Data Science",
-      "Cyber Security"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-03T00:00:00.000Z",
-    "closing_date": "2026-03-29T00:00:00.000Z",
-    "url": "https://amrjobs.adecco.co.uk/members/modules/job/detail.php?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&record=451+",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-05T17:30:15.333623"
-  },
-  {
     "id": "v8m8xjjdr7",
     "company": "Tower Peak Partners",
     "programme": "Summer Internship - AI‑Native Data Platform Engineering",
