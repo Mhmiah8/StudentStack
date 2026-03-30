@@ -1,21 +1,5 @@
 [
   {
-    "name": "HackWimbledon March 2026 #2",
-    "date": "2026-03-29T11:00:00.000Z",
-    "end_date": "2026-03-29T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ao2b7ovs",
-    "hosts": [
-      "Andy Piper"
-    ],
-    "attendee_count": 21,
-    "scraped_date": "2026-03-29T06:56:47.851301"
-  },
-  {
     "name": "Build an Autonomous Agent - Unicorn Mafia x Techbible Hack Night",
     "date": "2026-03-30T17:00:00.000Z",
     "end_date": "2026-03-30T20:00:00.000Z",
@@ -30,8 +14,8 @@
       "Fatema",
       "Oliver Kingshott"
     ],
-    "attendee_count": 110,
-    "scraped_date": "2026-03-29T06:56:52.462014"
+    "attendee_count": 106,
+    "scraped_date": "2026-03-30T07:19:52.585690"
   },
   {
     "name": "MakeAlong: Build an AI agent you can trust",
@@ -48,7 +32,7 @@
       "Sriya Varada"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-29T06:56:52.462051"
+    "scraped_date": "2026-03-30T07:19:52.585724"
   },
   {
     "name": "Women in Marketing: AI Hackathon",
@@ -65,7 +49,7 @@
       "Lisa Vecchio"
     ],
     "attendee_count": 120,
-    "scraped_date": "2026-03-29T06:56:52.462065"
+    "scraped_date": "2026-03-30T07:19:52.585743"
   },
   {
     "name": "Source Code — London meetup for journalists and technologists",
@@ -82,8 +66,8 @@
       "Marcela Kunova",
       "Jacob Granger"
     ],
-    "attendee_count": 133,
-    "scraped_date": "2026-03-29T06:56:52.462095"
+    "attendee_count": 135,
+    "scraped_date": "2026-03-30T07:19:52.585774"
   },
   {
     "name": "London | Claude Code for Designers | Thinking Forward #01",
@@ -102,7 +86,7 @@
       "Wilfred Kasekende"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-29T06:56:52.462135"
+    "scraped_date": "2026-03-30T07:19:52.585813"
   },
   {
     "name": "Open Code #4",
@@ -119,7 +103,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-29T06:56:47.851433"
+    "scraped_date": "2026-03-30T07:19:47.373837"
   },
   {
     "name": "The Business of Creativity: Building global reach for creative agencies and contractors",
@@ -135,7 +119,7 @@
       "Wise Business"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-29T06:56:47.851448"
+    "scraped_date": "2026-03-30T07:19:47.373901"
   },
   {
     "name": "Cursor London Evening Hackathon",
@@ -149,10 +133,11 @@
     "url": "https://lu.ma/1ufgfhvv",
     "hosts": [
       "Francisco Terpolilli",
-      "David Gelberg"
+      "David Gelberg",
+      "Oliver Kingshott"
     ],
-    "attendee_count": 118,
-    "scraped_date": "2026-03-29T06:56:52.462154"
+    "attendee_count": 0,
+    "scraped_date": "2026-03-30T07:19:52.585830"
   },
   {
     "name": "Builder's Brew: Q1 Wrapped",
@@ -170,7 +155,7 @@
       "Alvis"
     ],
     "attendee_count": 11,
-    "scraped_date": "2026-03-29T06:56:47.851495"
+    "scraped_date": "2026-03-30T07:19:47.373952"
   },
   {
     "name": "Campaign Lab Spring Hack Night!",
@@ -186,7 +171,7 @@
       "Noam"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-03-29T06:56:47.851516"
+    "scraped_date": "2026-03-30T07:19:47.373969"
   },
   {
     "name": "Agents building systems. Humans orchestrating them.",
@@ -202,8 +187,8 @@
       "Nearform Ltd.",
       "Nearform"
     ],
-    "attendee_count": 66,
-    "scraped_date": "2026-03-29T06:56:52.462218"
+    "attendee_count": 69,
+    "scraped_date": "2026-03-30T07:19:52.585917"
   },
   {
     "name": "AIE Europe: AI Builders Happy Hour",
@@ -219,7 +204,7 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-29T06:56:52.462228"
+    "scraped_date": "2026-03-30T07:19:52.585929"
   },
   {
     "name": "How to build AI agents with Fyxer and Jack & Jill",
@@ -236,6 +221,6 @@
       "Saaras Mehan"
     ],
     "attendee_count": 12,
-    "scraped_date": "2026-03-29T06:56:52.462255"
+    "scraped_date": "2026-03-30T07:19:52.585955"
   }
 ]

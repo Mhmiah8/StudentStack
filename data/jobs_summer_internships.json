@@ -820,6 +820,26 @@
     "scraped_date": "2026-02-19T15:27:56.960244"
   },
   {
+    "id": "g3ny5kg2et",
+    "company": "Precisely",
+    "programme": "Cloud Engineering Intern",
+    "category": "summer-internships",
+    "categories": [
+      "DevOps and Infrastructure"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-03-06T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.precisely.com/careers-and-culture/international-jobs/job/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_jid=4669817005&gh_src=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-03-30T07:19:32.212990"
+  },
+  {
     "id": "hb1zqm04gy",
     "company": "MongoDB",
     "programme": "2026 - Security Intern, Dublin",
@@ -1261,26 +1281,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.961266"
-  },
-  {
-    "id": "ptnwt5589h",
-    "company": "Ithaca Energy",
-    "programme": "Data Science Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Data Science"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-20T00:00:00.000Z",
-    "closing_date": "2026-03-30T00:00:00.000Z",
-    "url": "https://ithacaenergyuklimited.peoplehr.net/Pages/JobBoard/Opening.aspx?v=a1b88b5e-a8de-47ad-81e0-5f9c97f01c96&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-21T06:35:05.004331"
   },
   {
     "id": "q6m66i9jjf",
