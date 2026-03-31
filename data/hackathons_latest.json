@@ -1,40 +1,5 @@
 [
   {
-    "name": "Build an Autonomous Agent - Unicorn Mafia x Techbible Hack Night",
-    "date": "2026-03-30T17:00:00.000Z",
-    "end_date": "2026-03-30T20:00:00.000Z",
-    "location": "Halkin - Monument, 10 Lower Thames St, London EC3R 6AF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/etljlw2n",
-    "hosts": [
-      "Ghita El Haitmy",
-      "Fatema",
-      "Oliver Kingshott"
-    ],
-    "attendee_count": 106,
-    "scraped_date": "2026-03-30T07:19:52.585690"
-  },
-  {
-    "name": "MakeAlong: Build an AI agent you can trust",
-    "date": "2026-03-30T17:30:00.000Z",
-    "end_date": "2026-03-30T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2j2iiy29",
-    "hosts": [
-      "Make",
-      "Sriya Varada"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-03-30T07:19:52.585724"
-  },
-  {
     "name": "Women in Marketing: AI Hackathon",
     "date": "2026-03-31T14:00:00.000Z",
     "end_date": "2026-03-31T20:00:00.000Z",
@@ -48,8 +13,8 @@
       "Grace Greer",
       "Lisa Vecchio"
     ],
-    "attendee_count": 120,
-    "scraped_date": "2026-03-30T07:19:52.585743"
+    "attendee_count": 141,
+    "scraped_date": "2026-03-31T07:06:02.806993"
   },
   {
     "name": "Source Code — London meetup for journalists and technologists",
@@ -66,8 +31,8 @@
       "Marcela Kunova",
       "Jacob Granger"
     ],
-    "attendee_count": 135,
-    "scraped_date": "2026-03-30T07:19:52.585774"
+    "attendee_count": 142,
+    "scraped_date": "2026-03-31T07:06:02.807043"
   },
   {
     "name": "London | Claude Code for Designers | Thinking Forward #01",
@@ -86,7 +51,7 @@
       "Wilfred Kasekende"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-30T07:19:52.585813"
+    "scraped_date": "2026-03-31T07:06:02.807086"
   },
   {
     "name": "Open Code #4",
@@ -103,7 +68,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-30T07:19:47.373837"
+    "scraped_date": "2026-03-31T07:05:57.707486"
   },
   {
     "name": "The Business of Creativity: Building global reach for creative agencies and contractors",
@@ -119,7 +84,7 @@
       "Wise Business"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-30T07:19:47.373901"
+    "scraped_date": "2026-03-31T07:05:57.707513"
   },
   {
     "name": "Cursor London Evening Hackathon",
@@ -137,7 +102,7 @@
       "Oliver Kingshott"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-30T07:19:52.585830"
+    "scraped_date": "2026-03-31T07:06:02.807105"
   },
   {
     "name": "Builder's Brew: Q1 Wrapped",
@@ -154,8 +119,28 @@
       "Lee Fernandes",
       "Alvis"
     ],
-    "attendee_count": 11,
-    "scraped_date": "2026-03-30T07:19:47.373952"
+    "attendee_count": 12,
+    "scraped_date": "2026-03-31T07:05:57.707608"
+  },
+  {
+    "name": "Build Your Next Promotion with AI-in one afternoon!",
+    "date": "2026-04-06T13:00:00.000Z",
+    "end_date": "2026-04-06T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/fk8wgf6x",
+    "hosts": [
+      "Fotor",
+      "Nora Chen",
+      "Peiyao",
+      "Jade Jiang",
+      "Prime intelligence production"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-31T07:06:02.807127"
   },
   {
     "name": "Campaign Lab Spring Hack Night!",
@@ -171,7 +156,21 @@
       "Noam"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-03-30T07:19:47.373969"
+    "scraped_date": "2026-03-31T07:05:57.707629"
+  },
+  {
+    "name": "Future Labs, AWS & Rail Data Marketplace: Hack the Rail Experience",
+    "date": "2026-04-08T09:00:00.000Z",
+    "end_date": "2026-04-08T15:00:00.000Z",
+    "location": "Amazon Corporate Office LHR16, 1 Principal Pl, London EC2A 2FA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/5dgsgepe",
+    "hosts": [],
+    "attendee_count": 0,
+    "scraped_date": "2026-03-31T07:05:57.707655"
   },
   {
     "name": "Agents building systems. Humans orchestrating them.",
@@ -187,8 +186,8 @@
       "Nearform Ltd.",
       "Nearform"
     ],
-    "attendee_count": 69,
-    "scraped_date": "2026-03-30T07:19:52.585917"
+    "attendee_count": 93,
+    "scraped_date": "2026-03-31T07:06:02.807194"
   },
   {
     "name": "AIE Europe: AI Builders Happy Hour",
@@ -204,7 +203,7 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-30T07:19:52.585929"
+    "scraped_date": "2026-03-31T07:06:02.807204"
   },
   {
     "name": "How to build AI agents with Fyxer and Jack & Jill",
@@ -220,7 +219,7 @@
       "Andrew Richardson ",
       "Saaras Mehan"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-03-30T07:19:52.585955"
+    "attendee_count": 13,
+    "scraped_date": "2026-03-31T07:06:02.807230"
   }
 ]
