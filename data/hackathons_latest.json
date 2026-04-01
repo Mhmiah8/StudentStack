@@ -1,40 +1,5 @@
 [
   {
-    "name": "Women in Marketing: AI Hackathon",
-    "date": "2026-03-31T14:00:00.000Z",
-    "end_date": "2026-03-31T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/4vim1bby",
-    "hosts": [
-      "Grace Greer",
-      "Lisa Vecchio"
-    ],
-    "attendee_count": 141,
-    "scraped_date": "2026-03-31T07:06:02.806993"
-  },
-  {
-    "name": "Source Code — London meetup for journalists and technologists",
-    "date": "2026-03-31T17:00:00.000Z",
-    "end_date": "2026-03-31T20:00:00.000Z",
-    "location": "The Sir Christopher Hatton, 4 Leather Ln, Greater, London EC1N 7RA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/6hkl73t8",
-    "hosts": [
-      "Tristan Werkmeister",
-      "Marcela Kunova",
-      "Jacob Granger"
-    ],
-    "attendee_count": 142,
-    "scraped_date": "2026-03-31T07:06:02.807043"
-  },
-  {
     "name": "London | Claude Code for Designers | Thinking Forward #01",
     "date": "2026-04-01T17:00:00.000Z",
     "end_date": "2026-04-01T20:00:00.000Z",
@@ -51,7 +16,7 @@
       "Wilfred Kasekende"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-31T07:06:02.807086"
+    "scraped_date": "2026-04-01T07:12:24.151751"
   },
   {
     "name": "Open Code #4",
@@ -68,7 +33,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-31T07:05:57.707486"
+    "scraped_date": "2026-04-01T07:12:19.629609"
   },
   {
     "name": "The Business of Creativity: Building global reach for creative agencies and contractors",
@@ -84,7 +49,7 @@
       "Wise Business"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-31T07:05:57.707513"
+    "scraped_date": "2026-04-01T07:12:19.629637"
   },
   {
     "name": "Cursor London Evening Hackathon",
@@ -102,7 +67,7 @@
       "Oliver Kingshott"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-31T07:06:02.807105"
+    "scraped_date": "2026-04-01T07:12:24.151786"
   },
   {
     "name": "Builder's Brew: Q1 Wrapped",
@@ -119,8 +84,8 @@
       "Lee Fernandes",
       "Alvis"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-03-31T07:05:57.707608"
+    "attendee_count": 14,
+    "scraped_date": "2026-04-01T07:12:19.629693"
   },
   {
     "name": "Build Your Next Promotion with AI-in one afternoon!",
@@ -140,7 +105,7 @@
       "Prime intelligence production"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-31T07:06:02.807127"
+    "scraped_date": "2026-04-01T07:12:24.151812"
   },
   {
     "name": "Campaign Lab Spring Hack Night!",
@@ -155,8 +120,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-03-31T07:05:57.707629"
+    "attendee_count": 8,
+    "scraped_date": "2026-04-01T07:12:19.629713"
   },
   {
     "name": "Future Labs, AWS & Rail Data Marketplace: Hack the Rail Experience",
@@ -170,7 +135,7 @@
     "url": "https://lu.ma/5dgsgepe",
     "hosts": [],
     "attendee_count": 0,
-    "scraped_date": "2026-03-31T07:05:57.707655"
+    "scraped_date": "2026-04-01T07:12:19.629752"
   },
   {
     "name": "Agents building systems. Humans orchestrating them.",
@@ -186,8 +151,8 @@
       "Nearform Ltd.",
       "Nearform"
     ],
-    "attendee_count": 93,
-    "scraped_date": "2026-03-31T07:06:02.807194"
+    "attendee_count": 112,
+    "scraped_date": "2026-04-01T07:12:24.151884"
   },
   {
     "name": "AIE Europe: AI Builders Happy Hour",
@@ -203,7 +168,24 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-03-31T07:06:02.807204"
+    "scraped_date": "2026-04-01T07:12:24.151896"
+  },
+  {
+    "name": "Open Code #5",
+    "date": "2026-04-08T17:30:00.000Z",
+    "end_date": "2026-04-08T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/urmulvjb",
+    "hosts": [
+      "LocalGlobe",
+      "Ziv Reichert"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-01T07:12:19.629783"
   },
   {
     "name": "How to build AI agents with Fyxer and Jack & Jill",
@@ -217,9 +199,95 @@
     "url": "https://lu.ma/1ftjx0ch",
     "hosts": [
       "Andrew Richardson ",
-      "Saaras Mehan"
+      "Saaras Mehan",
+      "Matthew Wilson"
     ],
-    "attendee_count": 13,
-    "scraped_date": "2026-03-31T07:06:02.807230"
+    "attendee_count": 14,
+    "scraped_date": "2026-04-01T07:12:24.151932"
+  },
+  {
+    "name": "Building the UK Cyber Flywheel: Round 2",
+    "date": "2026-04-09T08:00:00.000Z",
+    "end_date": "2026-04-09T18:00:00.000Z",
+    "location": "Queen Elizabeth II Centre, Broad Sanctuary, London SW1P 3EE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/9iqzayxq",
+    "hosts": [
+      "Mariana Padilla",
+      "Alastair Paterson"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-01T07:12:19.629809"
+  },
+  {
+    "name": "Ecosystem Builders Meetup @Level39 (Canary Wharf)",
+    "date": "2026-04-09T08:30:00.000Z",
+    "end_date": "2026-04-09T10:00:00.000Z",
+    "location": "Level39, 39th Floor, One, Canada Square, Canary Wharf Estate, London E14 5AB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/t9v2nfor",
+    "hosts": [
+      "The Entrepreneurs Network",
+      "Level39"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-01T07:12:19.629829"
+  },
+  {
+    "name": "AI Lovable x Eventify Hackathon",
+    "date": "2026-04-09T08:30:00.000Z",
+    "end_date": "2026-04-09T16:00:00.000Z",
+    "location": "Vonage, 15 Bonhill St, London EC2A 4DN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/eventify-hackathon",
+    "hosts": [
+      "Francisco Opazo"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-01T07:12:24.151946"
+  },
+  {
+    "name": "The Code Fixathon with TurinTech AI and Google Cloud",
+    "date": "2026-04-09T16:30:00.000Z",
+    "end_date": "2026-04-09T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/20pvyvpn",
+    "hosts": [
+      "Roxana Dragomir",
+      "Anne Madariaga"
+    ],
+    "attendee_count": 37,
+    "scraped_date": "2026-04-01T07:12:24.152058"
+  },
+  {
+    "name": "AI Builders Monthly London",
+    "date": "2026-04-09T17:00:00.000Z",
+    "end_date": "2026-04-09T20:15:00.000Z",
+    "location": "beyond The Bower, 207 Old St, London EC1V 9NR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lnd-apr9",
+    "hosts": [
+      "AI Builders",
+      "Dan",
+      "Flo *"
+    ],
+    "attendee_count": 6,
+    "scraped_date": "2026-04-01T07:12:24.152070"
   }
 ]
