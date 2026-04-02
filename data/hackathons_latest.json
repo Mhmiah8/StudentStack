@@ -1,57 +1,5 @@
 [
   {
-    "name": "London | Claude Code for Designers | Thinking Forward #01",
-    "date": "2026-04-01T17:00:00.000Z",
-    "end_date": "2026-04-01T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/so5bgpqs",
-    "hosts": [
-      "Olivier Alterhq.com",
-      "Eleanor Cranfield",
-      "Sandra",
-      "Wilfred Kasekende"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:24.151751"
-  },
-  {
-    "name": "Open Code #4",
-    "date": "2026-04-01T17:30:00.000Z",
-    "end_date": "2026-04-01T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/q9u9w4z4",
-    "hosts": [
-      "LocalGlobe",
-      "Ziv Reichert"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:19.629609"
-  },
-  {
-    "name": "The Business of Creativity: Building global reach for creative agencies and contractors",
-    "date": "2026-04-01T18:00:00.000Z",
-    "end_date": "2026-04-01T21:00:00.000Z",
-    "location": "Future Stores, 95 Oxford St, London W1D 2AD, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/nay22kn8",
-    "hosts": [
-      "Wise Business"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:19.629637"
-  },
-  {
     "name": "Cursor London Evening Hackathon",
     "date": "2026-04-02T16:15:00.000Z",
     "end_date": "2026-04-02T21:30:00.000Z",
@@ -67,7 +15,7 @@
       "Oliver Kingshott"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:24.151786"
+    "scraped_date": "2026-04-02T07:04:41.468029"
   },
   {
     "name": "Builder's Brew: Q1 Wrapped",
@@ -84,8 +32,8 @@
       "Lee Fernandes",
       "Alvis"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-04-01T07:12:19.629693"
+    "attendee_count": 21,
+    "scraped_date": "2026-04-02T07:04:36.121413"
   },
   {
     "name": "Build Your Next Promotion with AI-in one afternoon!",
@@ -105,7 +53,7 @@
       "Prime intelligence production"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:24.151812"
+    "scraped_date": "2026-04-02T07:04:41.468065"
   },
   {
     "name": "Campaign Lab Spring Hack Night!",
@@ -120,8 +68,24 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 8,
-    "scraped_date": "2026-04-01T07:12:19.629713"
+    "attendee_count": 10,
+    "scraped_date": "2026-04-02T07:04:36.121470"
+  },
+  {
+    "name": "Central London | CCCL #5 — Claude Code for Everyone",
+    "date": "2026-04-07T17:00:00.000Z",
+    "end_date": "2026-04-07T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cccl.5",
+    "hosts": [
+      "Vikram Pawar"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-02T07:04:41.468098"
   },
   {
     "name": "Future Labs, AWS & Rail Data Marketplace: Hack the Rail Experience",
@@ -135,7 +99,7 @@
     "url": "https://lu.ma/5dgsgepe",
     "hosts": [],
     "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:19.629752"
+    "scraped_date": "2026-04-02T07:04:36.121504"
   },
   {
     "name": "Agents building systems. Humans orchestrating them.",
@@ -151,8 +115,8 @@
       "Nearform Ltd.",
       "Nearform"
     ],
-    "attendee_count": 112,
-    "scraped_date": "2026-04-01T07:12:24.151884"
+    "attendee_count": 134,
+    "scraped_date": "2026-04-02T07:04:41.468163"
   },
   {
     "name": "AIE Europe: AI Builders Happy Hour",
@@ -168,7 +132,7 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:24.151896"
+    "scraped_date": "2026-04-02T07:04:41.468173"
   },
   {
     "name": "Open Code #5",
@@ -185,7 +149,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:19.629783"
+    "scraped_date": "2026-04-02T07:04:36.121536"
   },
   {
     "name": "How to build AI agents with Fyxer and Jack & Jill",
@@ -202,8 +166,8 @@
       "Saaras Mehan",
       "Matthew Wilson"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-04-01T07:12:24.151932"
+    "attendee_count": 0,
+    "scraped_date": "2026-04-02T07:04:41.468204"
   },
   {
     "name": "Building the UK Cyber Flywheel: Round 2",
@@ -220,7 +184,7 @@
       "Alastair Paterson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:19.629809"
+    "scraped_date": "2026-04-02T07:04:36.121561"
   },
   {
     "name": "Ecosystem Builders Meetup @Level39 (Canary Wharf)",
@@ -237,7 +201,7 @@
       "Level39"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:19.629829"
+    "scraped_date": "2026-04-02T07:04:36.121575"
   },
   {
     "name": "AI Lovable x Eventify Hackathon",
@@ -253,7 +217,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-01T07:12:24.151946"
+    "scraped_date": "2026-04-02T07:04:41.468221"
   },
   {
     "name": "The Code Fixathon with TurinTech AI and Google Cloud",
@@ -270,7 +234,7 @@
       "Anne Madariaga"
     ],
     "attendee_count": 37,
-    "scraped_date": "2026-04-01T07:12:24.152058"
+    "scraped_date": "2026-04-02T07:04:41.468237"
   },
   {
     "name": "AI Builders Monthly London",
@@ -288,6 +252,6 @@
       "Flo *"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-04-01T07:12:24.152070"
+    "scraped_date": "2026-04-02T07:04:41.468250"
   }
 ]
