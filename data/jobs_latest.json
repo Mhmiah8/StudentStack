@@ -1524,6 +1524,26 @@
     "scraped_date": "2026-03-05T17:30:09.009072"
   },
   {
+    "id": "vmlf8d7fub",
+    "company": "Snap",
+    "programme": "Machine Learning Engineering Intern",
+    "category": "summer-internships",
+    "categories": [
+      "AI and Machine Learning"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-03T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/Machine-Learning-Engineering-Intern_R0045123?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-04T06:52:43.829091"
+  },
+  {
     "id": "wgaeplnaj7",
     "company": "Parexel",
     "programme": "AI Summer Intern ",
