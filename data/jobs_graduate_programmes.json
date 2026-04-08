@@ -204,6 +204,26 @@
     "scraped_date": "2026-03-21T06:35:10.706670"
   },
   {
+    "id": "4dxzcb6y3a",
+    "company": "UnderwriteMe",
+    "programme": "Software Engineering Graduate Programme",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-07T00:00:00.000Z",
+    "closing_date": "2026-05-27T00:00:00.000Z",
+    "url": "https://acrobat.pinpointhq.com/postings/f3378c74-2cb8-4c3b-b773-1581194d3d56?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-08T07:10:20.247509"
+  },
+  {
     "id": "4f06tevok9",
     "company": "PwC",
     "programme": "Graduate - Technology (Data/CyberSec)",
@@ -805,6 +825,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.436353"
+  },
+  {
+    "id": "j9xv5cyi3l",
+    "company": "Softwire",
+    "programme": "Graduate Consultant Software Engineer 2026",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-07T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://online.softwire.com/apply/form?vacancyCode=k8EXJr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "No",
+    "rolling": null,
+    "scraped_date": "2026-04-08T07:10:20.248031"
   },
   {
     "id": "jgwd86cquh",
