@@ -1,57 +1,5 @@
 [
   {
-    "name": "{Tech: Europe} London AI Hackathon",
-    "date": "2026-04-11T09:00:00.000Z",
-    "end_date": "2026-04-11T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/london-hackathon",
-    "hosts": [
-      "{Tech: Europe}"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:14.640444"
-  },
-  {
-    "name": "Agentic Society: Panels by Day, Hackathon by Night",
-    "date": "2026-04-11T11:00:00.000Z",
-    "end_date": "2026-04-12T11:00:00.000Z",
-    "location": "LSE LIFE, Ground Floor, LSE Library, 10 Portugal St, London WC2A 2HB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/by89oryb",
-    "hosts": [
-      "Hedera",
-      "Redwood Founders",
-      "uncookedjobs.com"
-    ],
-    "attendee_count": 255,
-    "scraped_date": "2026-04-11T06:54:14.640475"
-  },
-  {
-    "name": "Make Music with Sonura: Live Session @ Encode Hub",
-    "date": "2026-04-11T11:00:00.000Z",
-    "end_date": "2026-04-11T20:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/gtv0u1af",
-    "hosts": [
-      "Kindred Salway",
-      "Encode Club",
-      "Blue Bookhard"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:14.640487"
-  },
-  {
     "name": "HackWimbledon April 2026 #1",
     "date": "2026-04-12T11:00:00.000Z",
     "end_date": "2026-04-12T15:00:00.000Z",
@@ -65,8 +13,8 @@
       "Bazza",
       "Andy Piper"
     ],
-    "attendee_count": 11,
-    "scraped_date": "2026-04-11T06:54:09.746749"
+    "attendee_count": 13,
+    "scraped_date": "2026-04-12T07:06:31.791346"
   },
   {
     "name": "From vision to viral: building the product your customers want",
@@ -82,7 +30,7 @@
       "Wise Business"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:09.746784"
+    "scraped_date": "2026-04-12T07:06:31.791400"
   },
   {
     "name": "Capital session. Building companies that take longer, and still win capital.",
@@ -99,7 +47,7 @@
       "Landmark Space"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:09.746820"
+    "scraped_date": "2026-04-12T07:06:31.791460"
   },
   {
     "name": "AI x Web3 Hackathon: Build a Working Prototype in One Afternoon",
@@ -115,7 +63,7 @@
       "Applied Blockchain"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:14.640504"
+    "scraped_date": "2026-04-12T07:06:36.254861"
   },
   {
     "name": "The Fintech Loop - Market Dynamics & Building Conviction Fast",
@@ -131,7 +79,7 @@
       "IANUA Market"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:09.746830"
+    "scraped_date": "2026-04-12T07:06:31.791476"
   },
   {
     "name": "Phoenix Film Networking Group - is proud to be supported by Showbizy.ai . A media community building Ai app.",
@@ -147,8 +95,8 @@
       "Adam Richards",
       "Balbir Judge +447575434666 VENTURE CAPITALIST"
     ],
-    "attendee_count": 460,
-    "scraped_date": "2026-04-11T06:54:14.640516"
+    "attendee_count": 472,
+    "scraped_date": "2026-04-12T07:06:36.254884"
   },
   {
     "name": "London | Claude Code Curious #4",
@@ -164,24 +112,7 @@
       "Max Tatton-Brown"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:14.640534"
-  },
-  {
-    "name": "Claude Code for GTM (ABM focus)",
-    "date": "2026-04-14T17:30:00.000Z",
-    "end_date": "2026-04-14T20:30:00.000Z",
-    "location": "VEED, 17-18 Clere St, London EC2A 4LJ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/nns7qhb9",
-    "hosts": [
-      "MJ",
-      "Grace Greer"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:14.640544"
+    "scraped_date": "2026-04-12T07:06:36.254909"
   },
   {
     "name": "Understanding Customer & Market Needs When Building With Geo Data: OS Expert Session for Founders",
@@ -198,7 +129,7 @@
       "Geovation Events"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-04-11T06:54:09.746900"
+    "scraped_date": "2026-04-12T07:06:31.791544"
   },
   {
     "name": "ATProto London Hacknight",
@@ -216,7 +147,7 @@
       "alice (@__justplaying)"
     ],
     "attendee_count": 23,
-    "scraped_date": "2026-04-11T06:54:09.746910"
+    "scraped_date": "2026-04-12T07:06:31.791559"
   },
   {
     "name": "Ecosystem Builders Meetup",
@@ -233,7 +164,7 @@
       "Amal"
     ],
     "attendee_count": 20,
-    "scraped_date": "2026-04-11T06:54:09.746923"
+    "scraped_date": "2026-04-12T07:06:31.791573"
   },
   {
     "name": "How To Build A Zero Risk Startup",
@@ -249,7 +180,7 @@
       "LSE Generate"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:09.746940"
+    "scraped_date": "2026-04-12T07:06:31.791595"
   },
   {
     "name": "Open Code #6",
@@ -266,7 +197,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:09.746961"
+    "scraped_date": "2026-04-12T07:06:31.791620"
   },
   {
     "name": "AI x GTM: Prompting Hackathon",
@@ -282,7 +213,7 @@
       "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-11T06:54:14.640604"
+    "scraped_date": "2026-04-12T07:06:36.254981"
   },
   {
     "name": "AI Signals #30: Building a Real-Time Voice Agent",
@@ -297,7 +228,80 @@
     "hosts": [
       "AI Signals Admin"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-04-11T06:54:14.640655"
+    "attendee_count": 13,
+    "scraped_date": "2026-04-12T07:06:36.255051"
+  },
+  {
+    "name": "🚀 AI Agent Build Day: \"Delete\" Your Monday (No Code)",
+    "date": "2026-04-18T09:00:00.000Z",
+    "end_date": "2026-04-18T16:00:00.000Z",
+    "location": "Dyson School of Design Engineering, Imperial College London, Imperial College Rd, South Kensington, London SW7 2DB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/82b5wfyb",
+    "hosts": [
+      "EpicConnector",
+      "Tiannan Zhao",
+      "Shuzhi Huang"
+    ],
+    "attendee_count": 27,
+    "scraped_date": "2026-04-12T07:06:36.255074"
+  },
+  {
+    "name": "Voice AI Hack 🤘",
+    "date": "2026-04-18T09:00:00.000Z",
+    "end_date": "2026-04-18T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/voiceaihack",
+    "hosts": [
+      "Voice AI Space Events",
+      "Yuvan Chikka",
+      "Shaurya Hemrajani"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-12T07:06:36.255092"
+  },
+  {
+    "name": "Zenith Forum: The Next Economy for Founders, Investors & Builders",
+    "date": "2026-04-18T09:00:00.000Z",
+    "end_date": "2026-04-18T15:00:00.000Z",
+    "location": "LSE Centre Building (CBG), Houghton St, London WC2A 2AE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/g8y6d265",
+    "hosts": [
+      "LSE Entrepreneurs"
+    ],
+    "attendee_count": 130,
+    "scraped_date": "2026-04-12T07:06:36.255103"
+  },
+  {
+    "name": "Watcha Global Hackathon LONDON",
+    "date": "2026-04-18T10:00:00.000Z",
+    "end_date": "2026-04-19T17:00:00.000Z",
+    "location": "UCL Institute of Archaeology, 31-34 Gordon Sq, London WC1H 0PY, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/pp9vh9ig",
+    "hosts": [
+      "Watcha",
+      "CUI ZHERUI",
+      "z.ai",
+      "EpicConnector",
+      "Demo Inn London",
+      "ShallWe Tech"
+    ],
+    "attendee_count": 56,
+    "scraped_date": "2026-04-12T07:06:36.255114"
   }
 ]
