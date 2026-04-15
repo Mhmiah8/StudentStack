@@ -1,87 +1,5 @@
 [
   {
-    "name": "Capital session. Building companies that take longer, and still win capital.",
-    "date": "2026-04-14T09:00:00.000Z",
-    "end_date": "2026-04-14T11:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dcfym8w4",
-    "hosts": [
-      "sclr labs",
-      "Landmark Space"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-14T07:22:14.226937"
-  },
-  {
-    "name": "AI x Web3 Hackathon: Build a Working Prototype in One Afternoon",
-    "date": "2026-04-14T13:00:00.000Z",
-    "end_date": "2026-04-14T19:00:00.000Z",
-    "location": "Level39, 39th Floor, One, Canada Square, Canary Wharf Estate, London E14 5AB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/5m9c16x4",
-    "hosts": [
-      "Applied Blockchain"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-14T07:22:19.517125"
-  },
-  {
-    "name": "The Fintech Loop - Market Dynamics & Building Conviction Fast",
-    "date": "2026-04-14T15:00:00.000Z",
-    "end_date": "2026-04-14T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/xa58d4b5",
-    "hosts": [
-      "IANUA Market"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-14T07:22:14.226966"
-  },
-  {
-    "name": "Phoenix Film Networking Group - is proud to be supported by Showbizy.ai . A media community building Ai app.",
-    "date": "2026-04-14T15:00:00.000Z",
-    "end_date": "2026-04-14T21:00:00.000Z",
-    "location": "Mercato Mayfair, St. Mark's Church, 13A N Audley St, London W1K 6ZA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/zdyu1v1k",
-    "hosts": [
-      "Adam Richards",
-      "Balbir Judge +447575434666 VENTURE CAPITALIST"
-    ],
-    "attendee_count": 536,
-    "scraped_date": "2026-04-14T07:22:19.517152"
-  },
-  {
-    "name": "London | Claude Code Curious #4",
-    "date": "2026-04-14T17:00:00.000Z",
-    "end_date": "2026-04-14T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/claude-code-curious-4",
-    "hosts": [
-      "Max Tatton-Brown"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-14T07:22:19.517179"
-  },
-  {
     "name": "Understanding Customer & Market Needs When Building With Geo Data: OS Expert Session for Founders",
     "date": "2026-04-15T16:30:00.000Z",
     "end_date": "2026-04-15T18:30:00.000Z",
@@ -95,8 +13,8 @@
       "Tessa Beishuizen",
       "Geovation Events"
     ],
-    "attendee_count": 13,
-    "scraped_date": "2026-04-14T07:22:14.227054"
+    "attendee_count": 14,
+    "scraped_date": "2026-04-15T07:22:32.341179"
   },
   {
     "name": "ATProto London Hacknight",
@@ -114,7 +32,7 @@
       "alice (@__justplaying)"
     ],
     "attendee_count": 23,
-    "scraped_date": "2026-04-14T07:22:14.227069"
+    "scraped_date": "2026-04-15T07:22:32.341207"
   },
   {
     "name": "Ecosystem Builders Meetup",
@@ -130,8 +48,8 @@
       "Amal boumoussa",
       "Amal"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-04-14T07:22:14.227085"
+    "attendee_count": 25,
+    "scraped_date": "2026-04-15T07:22:32.341256"
   },
   {
     "name": "How To Build A Zero Risk Startup",
@@ -147,7 +65,7 @@
       "LSE Generate"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-14T07:22:14.227102"
+    "scraped_date": "2026-04-15T07:22:32.341274"
   },
   {
     "name": "Open Code #6",
@@ -164,7 +82,23 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-14T07:22:14.227125"
+    "scraped_date": "2026-04-15T07:22:32.341298"
+  },
+  {
+    "name": "Build our Community Hub with CraftZen",
+    "date": "2026-04-16T11:00:00.000Z",
+    "end_date": "2026-04-16T15:00:00.000Z",
+    "location": "University of East London, University Way, London E16 2RD, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bmwn3d8j",
+    "hosts": [
+      "Royal Docks Centre for Sustainability"
+    ],
+    "attendee_count": 5,
+    "scraped_date": "2026-04-15T07:22:32.341359"
   },
   {
     "name": "AI x GTM: Prompting Hackathon",
@@ -180,7 +114,23 @@
       "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-14T07:22:19.517246"
+    "scraped_date": "2026-04-15T07:22:32.341394"
+  },
+  {
+    "name": "How to Build a £1M Pitch",
+    "date": "2026-04-16T17:30:00.000Z",
+    "end_date": "2026-04-16T20:30:00.000Z",
+    "location": "Shoreditch Exchange with Oneder, Gorsuch Pl, London E2 8JF, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8w11n85m",
+    "hosts": [
+      "Oliver Yonchev"
+    ],
+    "attendee_count": 133,
+    "scraped_date": "2026-04-15T07:22:32.341437"
   },
   {
     "name": "AI Automation Hackathon: For Fractional Finance Leaders",
@@ -198,8 +148,24 @@
       "Pac O'Shea",
       "Aditi Mishra"
     ],
-    "attendee_count": 76,
-    "scraped_date": "2026-04-14T07:22:19.517296"
+    "attendee_count": 72,
+    "scraped_date": "2026-04-15T07:22:37.449051"
+  },
+  {
+    "name": "Co-Hack Fridays : London Chapter",
+    "date": "2026-04-17T09:00:00.000Z",
+    "end_date": "2026-04-17T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/london-apr-17",
+    "hosts": [
+      "Superteam UK"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-15T07:22:37.449071"
   },
   {
     "name": "AI Signals #30: Building a Real-Time Voice Agent",
@@ -214,8 +180,8 @@
     "hosts": [
       "AI Signals Admin"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-04-14T07:22:19.517327"
+    "attendee_count": 18,
+    "scraped_date": "2026-04-15T07:22:37.449083"
   },
   {
     "name": "Voice AI Hack 🤘",
@@ -233,7 +199,7 @@
       "Shaurya Hemrajani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-14T07:22:19.517348"
+    "scraped_date": "2026-04-15T07:22:37.449107"
   },
   {
     "name": "Zenith Forum: The Next Economy for Founders, Investors & Builders",
@@ -248,8 +214,8 @@
     "hosts": [
       "LSE Entrepreneurs"
     ],
-    "attendee_count": 148,
-    "scraped_date": "2026-04-14T07:22:19.517363"
+    "attendee_count": 153,
+    "scraped_date": "2026-04-15T07:22:37.449120"
   },
   {
     "name": "🚀 AI Agent Build Day: \"Delete\" Your Monday (No Code)",
@@ -266,8 +232,8 @@
       "Tiannan Zhao",
       "Shuzhi Huang"
     ],
-    "attendee_count": 35,
-    "scraped_date": "2026-04-14T07:22:19.517374"
+    "attendee_count": 37,
+    "scraped_date": "2026-04-15T07:22:37.449147"
   },
   {
     "name": "London. Building What Matters👩‍💻 Products, Culture & Growth in the Age of AI",
@@ -283,8 +249,8 @@
       "Oleksa Senyk",
       "Projector Institute"
     ],
-    "attendee_count": 9,
-    "scraped_date": "2026-04-14T07:22:19.517387"
+    "attendee_count": 10,
+    "scraped_date": "2026-04-15T07:22:37.449164"
   },
   {
     "name": "Watcha Global Hackathon LONDON",
@@ -304,7 +270,7 @@
       "Demo Inn London",
       "ShallWe Tech"
     ],
-    "attendee_count": 79,
-    "scraped_date": "2026-04-14T07:22:19.517397"
+    "attendee_count": 88,
+    "scraped_date": "2026-04-15T07:22:37.449177"
   }
 ]
