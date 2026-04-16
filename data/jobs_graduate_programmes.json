@@ -687,6 +687,26 @@
     "scraped_date": "2026-03-16T07:08:45.686297"
   },
   {
+    "id": "f3tn63fulb",
+    "company": "C-Centric",
+    "programme": "Graduate Software Developer",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-15T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.gradcracker.com/hub/1374/c-centric/graduate-job/80669/graduate-software-developer?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-16T07:23:06.753471"
+  },
+  {
     "id": "fab2rqq644",
     "company": "KEYENCE",
     "programme": "IT Graduate Scheme",

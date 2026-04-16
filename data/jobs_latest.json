@@ -840,6 +840,26 @@
     "scraped_date": "2026-02-19T15:27:56.960244"
   },
   {
+    "id": "g1g9b4djnr",
+    "company": "Gallagher",
+    "programme": "Cyber Security Internship - 8-Week Summer Placement",
+    "category": "summer-internships",
+    "categories": [
+      "Cyber Security"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-15T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://ukjobs-ajg.icims.com/jobs/50785/cyber-security-internship-8-week-summer-placement/job?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&iis=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-16T07:23:00.003216"
+  },
+  {
     "id": "g3ny5kg2et",
     "company": "Precisely",
     "programme": "Cloud Engineering Intern",
@@ -3171,6 +3191,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-03-16T07:08:45.686297"
+  },
+  {
+    "id": "f3tn63fulb",
+    "company": "C-Centric",
+    "programme": "Graduate Software Developer",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-15T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.gradcracker.com/hub/1374/c-centric/graduate-job/80669/graduate-software-developer?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-16T07:23:06.753471"
   },
   {
     "id": "fab2rqq644",
