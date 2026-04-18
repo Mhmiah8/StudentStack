@@ -1,106 +1,5 @@
 [
   {
-    "name": "Founder Nation: Co-working Day - London - Come Build Together",
-    "date": "2026-04-17T08:00:00.000Z",
-    "end_date": "2026-04-17T16:00:00.000Z",
-    "location": "Work.Life Old Street - East London Office Space & Coworking, 82 Great Eastern St, London EC2A 3JF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cm694w5u",
-    "hosts": [
-      "Andrew Browning",
-      "jules robertson"
-    ],
-    "attendee_count": 31,
-    "scraped_date": "2026-04-17T07:24:09.796776"
-  },
-  {
-    "name": "AI Automation Hackathon: For Fractional Finance Leaders",
-    "date": "2026-04-17T08:00:00.000Z",
-    "end_date": "2026-04-17T14:00:00.000Z",
-    "location": "Second Home Spitalfields, 68-80 Hanbury St, London E1 5JL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/n9s4pjqg",
-    "hosts": [
-      "Jed Roberts",
-      "Gregory Wellman",
-      "Pac O'Shea",
-      "Aditi Mishra"
-    ],
-    "attendee_count": 72,
-    "scraped_date": "2026-04-17T07:24:14.994555"
-  },
-  {
-    "name": "Co-Hack Fridays : London Chapter",
-    "date": "2026-04-17T09:00:00.000Z",
-    "end_date": "2026-04-17T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/london-apr-17",
-    "hosts": [
-      "Superteam UK"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-17T07:24:14.994590"
-  },
-  {
-    "name": "Claude Code Lock-In with Index",
-    "date": "2026-04-17T16:30:00.000Z",
-    "end_date": "2026-04-17T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/5sr1umwp",
-    "hosts": [
-      "Stephan von Perger",
-      "Khalehla Nuzum"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-17T07:24:14.994605"
-  },
-  {
-    "name": "AI Build Night - Twickenham",
-    "date": "2026-04-17T17:00:00.000Z",
-    "end_date": "2026-04-17T20:00:00.000Z",
-    "location": "Allied House, London Rd, Twickenham TW1 3SZ, UK",
-    "city": "Twickenham",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/02do71au",
-    "hosts": [
-      "Prasad Kulkarni"
-    ],
-    "attendee_count": 3,
-    "scraped_date": "2026-04-17T07:24:14.994617"
-  },
-  {
-    "name": "AI Signals #30: Building a Real-Time Voice Agent",
-    "date": "2026-04-17T17:00:00.000Z",
-    "end_date": "2026-04-17T20:00:00.000Z",
-    "location": "BrainStation, 55-57 Rivington St, London EC2A 3QA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/rwwjsa5z",
-    "hosts": [
-      "AI Signals Admin"
-    ],
-    "attendee_count": 25,
-    "scraped_date": "2026-04-17T07:24:14.994662"
-  },
-  {
     "name": "Business Builder Workshop",
     "date": "2026-04-18T09:00:00.000Z",
     "end_date": "2026-04-18T14:00:00.000Z",
@@ -113,8 +12,8 @@
     "hosts": [
       "Samuel Iremiren"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-04-17T07:24:09.796874"
+    "attendee_count": 14,
+    "scraped_date": "2026-04-18T06:59:55.811848"
   },
   {
     "name": "Voice AI Hack 🤘",
@@ -132,7 +31,7 @@
       "Shaurya Hemrajani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-17T07:24:14.994691"
+    "scraped_date": "2026-04-18T07:00:00.934348"
   },
   {
     "name": "Zenith Forum: The Next Economy for Founders, Investors & Builders",
@@ -147,8 +46,8 @@
     "hosts": [
       "LSE Entrepreneurs"
     ],
-    "attendee_count": 173,
-    "scraped_date": "2026-04-17T07:24:14.994708"
+    "attendee_count": 190,
+    "scraped_date": "2026-04-18T07:00:00.934382"
   },
   {
     "name": "🚀 AI Agent Build Day: \"Delete\" Your Monday (No Code)",
@@ -165,8 +64,8 @@
       "Tiannan Zhao",
       "Shuzhi Huang"
     ],
-    "attendee_count": 42,
-    "scraped_date": "2026-04-17T07:24:14.994728"
+    "attendee_count": 41,
+    "scraped_date": "2026-04-18T07:00:00.934398"
   },
   {
     "name": "Global HackTour LONDON",
@@ -186,8 +85,8 @@
       "Demo Inn London",
       "ShallWe Tech"
     ],
-    "attendee_count": 179,
-    "scraped_date": "2026-04-17T07:24:14.994741"
+    "attendee_count": 202,
+    "scraped_date": "2026-04-18T07:00:00.934412"
   },
   {
     "name": "London. Building What Matters👩‍💻 Products, Culture & Growth in the Age of AI",
@@ -205,8 +104,8 @@
       "Olja Klishch",
       "Natalia Bulbuk"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-04-17T07:24:14.994755"
+    "attendee_count": 13,
+    "scraped_date": "2026-04-18T07:00:00.934427"
   },
   {
     "name": "HackWimbledon April 2026 #2",
@@ -223,7 +122,7 @@
       "Andy Piper"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-04-17T07:24:09.796901"
+    "scraped_date": "2026-04-18T06:59:55.811899"
   },
   {
     "name": "Sisters Who Build",
@@ -236,8 +135,8 @@
     "is_virtual": false,
     "url": "https://lu.ma/zjz6o8i9",
     "hosts": [],
-    "attendee_count": 7,
-    "scraped_date": "2026-04-17T07:24:09.796917"
+    "attendee_count": 8,
+    "scraped_date": "2026-04-18T06:59:55.811913"
   },
   {
     "name": "Campaign Lab Spring Hack Night!",
@@ -252,8 +151,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 13,
-    "scraped_date": "2026-04-17T07:24:09.796956"
+    "attendee_count": 15,
+    "scraped_date": "2026-04-18T06:59:55.811957"
   },
   {
     "name": "Hacking the Human Element: Applying Behavioural Science in the Modern Workplace",
@@ -273,7 +172,7 @@
       "Giulia Magnani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-17T07:24:09.796997"
+    "scraped_date": "2026-04-18T06:59:55.811999"
   },
   {
     "name": "Product For Learning: Building responsible products for children with Laura Kirsop, CPTO at Raspberry Pi Foundation",
@@ -289,8 +188,8 @@
       "Matt Walton",
       "Hege Tollerud - Brighteye"
     ],
-    "attendee_count": 31,
-    "scraped_date": "2026-04-17T07:24:09.797015"
+    "attendee_count": 39,
+    "scraped_date": "2026-04-18T06:59:55.812018"
   },
   {
     "name": "From NVIDIA GPUs to AWS GTM: An AI Builders' Breakfast",
@@ -306,7 +205,7 @@
       "Jamila Jamilova"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-17T07:24:14.994826"
+    "scraped_date": "2026-04-18T07:00:00.934499"
   },
   {
     "name": "Power, Property & Protocols - Ownership in the Age of Digital Assets & Emerging Tech - From Consumer to Builder",
@@ -322,7 +221,7 @@
       "Lavinia"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-17T07:24:14.994844"
+    "scraped_date": "2026-04-18T07:00:00.934518"
   },
   {
     "name": "Building AI-Ready Financial Systems: How Singapore is Preparing for the AI Era",
@@ -338,7 +237,7 @@
       "CFTE Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-17T07:24:14.994860"
+    "scraped_date": "2026-04-18T07:00:00.934534"
   },
   {
     "name": "Claude Code For The Rest Of Us",
@@ -354,6 +253,45 @@
       "Hannah Foxwell"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-17T07:24:14.994869"
+    "scraped_date": "2026-04-18T07:00:00.934544"
+  },
+  {
+    "name": "AI Agents for Health: ClawBio Hackathon",
+    "date": "2026-04-23T11:00:00.000Z",
+    "end_date": "2026-04-23T18:00:00.000Z",
+    "location": "115 New Cavendish St, London W1W 6UW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8qtu0xaz",
+    "hosts": [
+      "Manuel Corpas",
+      "Jay Moore",
+      "Nathan Skene",
+      "Doruk Ustay"
+    ],
+    "attendee_count": 82,
+    "scraped_date": "2026-04-18T07:00:00.934581"
+  },
+  {
+    "name": "🇬🇧 When the Funnel Breaks: Building Brands in the AI Era - London Edition",
+    "date": "2026-04-23T14:00:00.000Z",
+    "end_date": "2026-04-23T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ns0e4soj",
+    "hosts": [
+      "Caroline",
+      "Diana Florescu",
+      "mediaforgrowth (MFG)",
+      "Luca Zaccagnino",
+      "Douglas Cajas"
+    ],
+    "attendee_count": 55,
+    "scraped_date": "2026-04-18T07:00:00.934601"
   }
 ]
