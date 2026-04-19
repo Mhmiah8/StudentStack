@@ -154,184 +154,13 @@
       ],
       "items": [
         {
-          "name": "Rest of UK (RUK) Bursary 2026-27",
-          "amount": "£2,000.00",
-          "eligibility": "University of Dundee",
-          "deadline": "28 Aug 2026",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/a891b5d3-a1b5-4e41-9918-42194074c320/rest-of-uk-ruk-bursary-2026-27",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.337898"
-        },
-        {
-          "name": "(RUK) Academic Excellence Bursary - 2026-27",
-          "amount": "£3,000.00",
-          "eligibility": "University of Dundee",
-          "deadline": "28 Aug 2026",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/ce1a2b61-07bc-42bb-9e0b-083836dd04bc/ruk-academic-excellence-bursary---2026-27",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.338071"
-        },
-        {
-          "name": "1st Formations Business Scholarship",
-          "amount": "£500.00",
-          "eligibility": "Unknown",
-          "deadline": "31 Jan 2027",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/cd52aca0-c2f6-4c79-9ba3-c93ce689d0f9/1st-formations-business-scholarship",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.338196"
-        },
-        {
-          "name": "2025-26 Business Scholarships",
-          "amount": "Between £2,000 to £3,500",
-          "eligibility": "Hartpury University",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7a22ce6f-6060-4770-a578-601cb0f2c433/2025-26-business-scholarships",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.338308"
-        },
-        {
-          "name": "2025-26 Postgraduate Country Scholarship",
-          "amount": "Up to £5,000",
-          "eligibility": "Hartpury University",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/b8426e54-11f6-40a8-9e7c-2241c35c4ba5/2025-26-postgraduate-country-scholarship",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.338418"
-        },
-        {
-          "name": "2026-27 Alumni Discount",
-          "amount": "20%",
-          "eligibility": "Northumbria University, Newcastle",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/2cd28e1e-b20e-429f-a98f-87eefdd51cca/2026-27-alumni-discount",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.338987"
-        },
-        {
-          "name": "2026-27 PGT International Scholarship for Nigerian Applicants",
-          "amount": "£6,000.00",
-          "eligibility": "Northumbria University, Newcastle",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/0e3b9390-34de-4176-963d-bf6c1280e8fe/2026-27-pgt-international-scholarship-for-nigerian-applicants",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339130"
-        },
-        {
-          "name": "2026-27 PGT International Scholarships for South Asian Applicants",
-          "amount": "£3,000.00",
-          "eligibility": "Northumbria University, Newcastle",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e1e01814-1f06-43da-ba1c-8bad32c9719d/2026-27-pgt-international-scholarships-for-south-asian-applicants",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339244"
-        },
-        {
-          "name": "2026-27 UG International Scholarships",
-          "amount": "£3000",
-          "eligibility": "Northumbria University, Newcastle",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/feaddc38-2dc2-49ce-8681-4ef22e70cabc/2026-27-ug-international-scholarships",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339354"
-        },
-        {
-          "name": "2026/27 Postgraduate International Scholarship",
-          "amount": "£3,000.00",
-          "eligibility": "Northumbria University, Newcastle",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/76b487e3-2cef-4e97-a5af-c5e13b37919d/2026-27-postgraduate-international-scholarship",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339464"
-        },
-        {
-          "name": "2026/27 UG International Scholarship for Nigerian Applicants",
-          "amount": "£6000",
-          "eligibility": "Northumbria University, Newcastle",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/522dd965-1128-4229-9214-e4660d0f9f98/2026-27-ug-international-scholarship-for-nigerian-applicants",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339573"
-        },
-        {
-          "name": "2026/27 UG International Scholarship for South Asian Applicants",
-          "amount": "£4000",
-          "eligibility": "Northumbria University, Newcastle",
-          "deadline": "None",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/fda7f0a7-6e67-401d-82ae-ff2680d342f4/2026-27-ug-international-scholarship-for-south-asian-applicants",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339679"
-        },
-        {
-          "name": "24+ Scholarship",
-          "amount": "£4,000.00",
-          "eligibility": "SGS (South Gloucestershire and Stroud College)",
-          "deadline": "01 Sep 2026",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/9d2f6a79-800d-4293-8f8a-76cf05ef3893/24-scholarship",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339783"
-        },
-        {
-          "name": "60th Anniversary Scholarship",
-          "amount": "£1,000.00",
-          "eligibility": "University of East Anglia UEA",
-          "deadline": "18 May 2026",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1727949394/60th-anniversary-scholarship",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339887"
-        },
-        {
-          "name": "AberCares Bursary (for Care Leavers, Young Adult Carers, Refugees and Estranged Students)",
-          "amount": "£1,250.00",
-          "eligibility": "Aberystwyth University",
-          "deadline": "01 Sep 2026",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e41831f0-cd84-4b8d-81b2-a8219bb60216/abercares-bursary-for-care-leavers-young-adult-carers-refugees-and-estranged-students",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.339996"
-        },
-        {
-          "name": "Aberdeen Global Scholarship - Postgraduate",
-          "amount": "£8,000.00",
-          "eligibility": "University of Aberdeen",
-          "deadline": "31 Jan 2027",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/6feb67c6-d36b-4a53-ae84-e05b8351ce21/aberdeen-global-scholarship---postgraduate",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.340110"
-        },
-        {
-          "name": "Aberdeen Global Scholarship - Undergraduate and PGDE",
-          "amount": "£6,000.00",
-          "eligibility": "University of Aberdeen",
-          "deadline": "08 Oct 2026",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1703241566/aberdeen-global-scholarship---undergraduate-and-pgde",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.340214"
-        },
-        {
-          "name": "Abertay IB30+ Scholarship",
-          "amount": "£7,000.00",
-          "eligibility": "Abertay University",
-          "deadline": "31 Aug 2027",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e77c7fbc-dd0e-4e08-9f34-cd79cfa652a9/abertay-ib30-scholarship",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.340316"
-        },
-        {
-          "name": "Abertay International Scholarship",
-          "amount": "£3,000.00",
-          "eligibility": "Abertay University",
-          "deadline": "31 Aug 2027",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1662476298/abertay-international-scholarship",
-          "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.340420"
-        },
-        {
-          "name": "Abertay RUK Games Computing Cyber Scholarship",
+          "name": "Unknown",
           "amount": "Amount not specified",
-          "eligibility": "Abertay University",
-          "deadline": "31 Dec 2026",
-          "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1695046783/abertay-ruk-games-computing-cyber-scholarship",
+          "eligibility": "Unknown",
+          "deadline": "None",
+          "url": "#",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:03.340544"
+          "scraped_date": "2026-04-19T07:10:52.903175"
         },
         {
           "name": "Abertay RUK Scholarship: Business",
@@ -340,7 +169,7 @@
           "deadline": "31 Dec 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1695046384/abertay-ruk-scholarship-business",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309013"
+          "scraped_date": "2026-04-19T07:10:55.764519"
         },
         {
           "name": "Abertay RUK Scholarship: Science and Social Science",
@@ -349,7 +178,7 @@
           "deadline": "31 Dec 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/21f1e2fe-2e8b-4af8-b7c3-fafdf73ae92a/abertay-ruk-scholarship-science-and-social-science",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309168"
+          "scraped_date": "2026-04-19T07:10:55.764643"
         },
         {
           "name": "Aberystwyth Regional Scholarship",
@@ -358,7 +187,7 @@
           "deadline": "01 Sep 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7bb05440-a557-4235-a64a-9d84aae6463f/aberystwyth-regional-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309278"
+          "scraped_date": "2026-04-19T07:10:55.764738"
         },
         {
           "name": "Academi Hywel Teifi Scholarships and Bursaries (for Welsh-Medium Study)",
@@ -367,7 +196,7 @@
           "deadline": "16 Oct 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/15187294-ba4b-4d76-b34b-3f4d568ff93b/academi-hywel-teifi-scholarships-and-bursaries-for-welsh-medium-study",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309389"
+          "scraped_date": "2026-04-19T07:10:55.764826"
         },
         {
           "name": "Academic Achievement Award",
@@ -376,7 +205,7 @@
           "deadline": "31 Jul 2027",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1533504370/academic-achievement-award",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309495"
+          "scraped_date": "2026-04-19T07:10:55.764913"
         },
         {
           "name": "Academic Achievement Scholarship",
@@ -385,7 +214,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/59da71fb-1fd5-43f1-be67-879fb72e9f55/academic-achievement-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309597"
+          "scraped_date": "2026-04-19T07:10:55.764995"
         },
         {
           "name": "Academic Achievement Scholarship (International)",
@@ -394,7 +223,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/99637f04-c9ca-446d-86c7-d1156fb794e4/academic-achievement-scholarship-international",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309697"
+          "scraped_date": "2026-04-19T07:10:55.765077"
         },
         {
           "name": "Academic achievement scholarships",
@@ -403,7 +232,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/280c4df6-2b5b-4d04-b4db-f2c2a1616df2/academic-achievement-scholarships",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309819"
+          "scraped_date": "2026-04-19T07:10:55.765174"
         },
         {
           "name": "Academic Excellence",
@@ -412,7 +241,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/309eebd3-2995-49bb-bba3-dab54f9838ed/academic-excellence",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.309921"
+          "scraped_date": "2026-04-19T07:10:55.765254"
         },
         {
           "name": "Academic Excellence Award",
@@ -421,7 +250,7 @@
           "deadline": "01 Sep 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1700496515/academic-excellence-award",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310034"
+          "scraped_date": "2026-04-19T07:10:55.765339"
         },
         {
           "name": "Academic Excellence Scholarship",
@@ -430,7 +259,7 @@
           "deadline": "31 Jul 2027",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/8a2fc4ba-6d08-49cd-9ccb-9f696e55cf6e/academic-excellence-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310137"
+          "scraped_date": "2026-04-19T07:10:55.765421"
         },
         {
           "name": "Academic Excellence Scholarship",
@@ -439,7 +268,7 @@
           "deadline": "28 Aug 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/0499e1a3-4a33-4ca4-beae-81c8a88986c4/academic-excellence-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310237"
+          "scraped_date": "2026-04-19T07:10:55.765509"
         },
         {
           "name": "Academic Excellence Scholarship (International)",
@@ -448,7 +277,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/66c51664-f83c-4219-a1b2-fa720e15ed1d/academic-excellence-scholarship-international",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310336"
+          "scraped_date": "2026-04-19T07:10:55.765591"
         },
         {
           "name": "Academic Merit Scholarship",
@@ -457,7 +286,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/2ea7994d-95b2-45c3-9736-527bb34565b3/academic-merit-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310441"
+          "scraped_date": "2026-04-19T07:10:55.765672"
         },
         {
           "name": "Access Essex Scholarship",
@@ -466,7 +295,7 @@
           "deadline": "30 Apr 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/5cccec56-68c2-432c-8a97-c288a2697470/access-essex-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310553"
+          "scraped_date": "2026-04-19T07:10:55.765758"
         },
         {
           "name": "Access Scholarship",
@@ -475,7 +304,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/6c50e064-3f47-4ead-936c-c99e54016aa8/access-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310651"
+          "scraped_date": "2026-04-19T07:10:55.765836"
         },
         {
           "name": "Access to Coaching Scholarship – Wembley Campus",
@@ -484,7 +313,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/df447a04-c885-499d-bf0d-15ccac0d2ed7/access-to-coaching-scholarship-wembley-campus",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310754"
+          "scraped_date": "2026-04-19T07:10:55.765919"
         },
         {
           "name": "Access to Coaching Scholarship - Manchester Campus",
@@ -493,7 +322,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/bbb64bf0-3ecc-4b7a-b35f-ad9407a507d5/access-to-coaching-scholarship---manchester-campus",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310855"
+          "scraped_date": "2026-04-19T07:10:55.765998"
         },
         {
           "name": "Access to Digital Learning Fund",
@@ -502,7 +331,7 @@
           "deadline": "01 Jun 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/dde03ffd-6557-42de-8490-420450825637/access-to-digital-learning-fund",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.310957"
+          "scraped_date": "2026-04-19T07:10:55.766078"
         },
         {
           "name": "Access to HE Scholarship",
@@ -511,7 +340,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/cc1e2ab5-bbfa-4e7d-8e3a-65c7723de354/access-to-he-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:06.311070"
+          "scraped_date": "2026-04-19T07:10:55.766154"
         },
         {
           "name": "Access to Hope Scholarship",
@@ -520,7 +349,7 @@
           "deadline": "01 May 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/66abb4a9-edd7-432f-8e08-0c0d98c005c8/access-to-hope-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.337222"
+          "scraped_date": "2026-04-19T07:10:58.789403"
         },
         {
           "name": "Access to Learning Fund",
@@ -529,7 +358,7 @@
           "deadline": "26 Jun 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/d5929168-9ebb-4875-b75c-3be332b36222/access-to-learning-fund",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.337348"
+          "scraped_date": "2026-04-19T07:10:58.789513"
         },
         {
           "name": "Access to Sheffield Scholarships",
@@ -538,7 +367,7 @@
           "deadline": "03 Jun 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/f6b7f83f-b139-449d-8776-c2f008453ff9/access-to-sheffield-scholarships",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.337467"
+          "scraped_date": "2026-04-19T07:10:58.789604"
         },
         {
           "name": "Accommodation Bursary",
@@ -547,7 +376,7 @@
           "deadline": "31 Jul 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1698916137/accommodation-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.337573"
+          "scraped_date": "2026-04-19T07:10:58.789685"
         },
         {
           "name": "Accommodation support for care leavers",
@@ -556,7 +385,7 @@
           "deadline": "29 Sep 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1a08ecb7-2c59-4fb9-98a3-92f4cec76caf/accommodation-support-for-care-leavers",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.337678"
+          "scraped_date": "2026-04-19T07:10:58.789766"
         },
         {
           "name": "Achievement Scholarship*",
@@ -565,7 +394,7 @@
           "deadline": "30 Nov 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/14531545-e60d-438a-883c-2cdf770d7dab/achievement-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.337784"
+          "scraped_date": "2026-04-19T07:10:58.789856"
         },
         {
           "name": "Adam Bell Scholarship",
@@ -574,7 +403,7 @@
           "deadline": "15 Jun 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1727863241/adam-bell-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.337890"
+          "scraped_date": "2026-04-19T07:10:58.789939"
         },
         {
           "name": "Aldgate and Allhallows Foundation Scholarship",
@@ -583,7 +412,7 @@
           "deadline": "01 Nov 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1665135978/aldgate-and-allhallows-foundation-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.337993"
+          "scraped_date": "2026-04-19T07:10:58.790022"
         },
         {
           "name": "Alix Coughlin Professional Development Scholarship",
@@ -592,7 +421,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/661cf42b-3e28-40a4-8b9f-ffb2793e7b37/alix-coughlin-professional-development-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.338109"
+          "scraped_date": "2026-04-19T07:10:58.790101"
         },
         {
           "name": "All scholarships, bursaries and loans",
@@ -601,7 +430,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/c09617a2-7775-40fc-aeb2-2d0211dde2d8/all-scholarships-bursaries-and-loans",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.338250"
+          "scraped_date": "2026-04-19T07:10:58.790209"
         },
         {
           "name": "Alumni and Family Scholarship 2026/27",
@@ -610,7 +439,7 @@
           "deadline": "28 Aug 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/39e6919e-d869-4332-bf02-ea7886d25ea2/alumni-and-family-scholarship-2026-27",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.338356"
+          "scraped_date": "2026-04-19T07:10:58.790294"
         },
         {
           "name": "Alumni Award",
@@ -619,7 +448,7 @@
           "deadline": "01 Sep 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7783c951-f182-40a3-997d-cec12aa2749a/alumni-award",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.338475"
+          "scraped_date": "2026-04-19T07:10:58.790386"
         },
         {
           "name": "Alumni Bursary",
@@ -628,7 +457,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/a92c363f-3382-478a-a84f-afe3db42e557/alumni-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.338589"
+          "scraped_date": "2026-04-19T07:10:58.790481"
         },
         {
           "name": "Alumni Discount",
@@ -637,7 +466,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/8347ccda-cab7-4966-8c69-a4e7b899821f/alumni-discount",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.338698"
+          "scraped_date": "2026-04-19T07:10:58.790568"
         },
         {
           "name": "Alumni discount",
@@ -646,7 +475,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/762ce994-4423-41f9-8741-498e73e294cf/alumni-discount",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.338806"
+          "scraped_date": "2026-04-19T07:10:58.790652"
         },
         {
           "name": "Alumni Discount",
@@ -655,7 +484,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/2f8bcf46-30d9-4986-8a66-012e59214237/alumni-discount",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.338908"
+          "scraped_date": "2026-04-19T07:10:58.790730"
         },
         {
           "name": "Alumni Discount",
@@ -664,7 +493,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/2b5f386a-cf90-4b1d-a779-336f7ffa9d55/alumni-discount",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.339016"
+          "scraped_date": "2026-04-19T07:10:58.790817"
         },
         {
           "name": "Alumni Loyalty Scholarship",
@@ -673,7 +502,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/93ba0b65-e6aa-4db6-ae7b-4240f51dc071/alumni-loyalty-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.339126"
+          "scraped_date": "2026-04-19T07:10:58.790895"
         },
         {
           "name": "Alumni Loyalty Scholarship",
@@ -682,7 +511,7 @@
           "deadline": "01 Aug 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/76c38bce-434f-401e-888f-78f325351593/alumni-loyalty-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.339239"
+          "scraped_date": "2026-04-19T07:10:58.790983"
         },
         {
           "name": "Alumni PGCE Bursary Award",
@@ -691,7 +520,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/affce2f8-d85d-4397-af03-d3e73a6ac700/alumni-pgce-bursary-award",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:09.339342"
+          "scraped_date": "2026-04-19T07:10:58.791061"
         },
         {
           "name": "Alumni Postgraduate Loyalty Scheme",
@@ -700,7 +529,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/0723c257-f60a-4c02-b8d7-f768789891c0/alumni-postgraduate-loyalty-scheme",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.212309"
+          "scraped_date": "2026-04-19T07:11:01.631411"
         },
         {
           "name": "Alumni Scholarship",
@@ -709,7 +538,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7ab5b31c-902b-4642-947a-82c9b7233ff2/alumni-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.212434"
+          "scraped_date": "2026-04-19T07:11:01.631525"
         },
         {
           "name": "Alumni Scholarship (10% fee discount)",
@@ -718,7 +547,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/429e4a26-3018-4960-81d5-eec0c6c62556/alumni-scholarship-10-fee-discount",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.212554"
+          "scraped_date": "2026-04-19T07:11:01.631611"
         },
         {
           "name": "Alumni Scholarship 2026/27",
@@ -727,7 +556,7 @@
           "deadline": "28 Aug 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e549046c-ddd6-43c8-8d9d-b0bd89fb9c82/alumni-scholarship-2026-27",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.212662"
+          "scraped_date": "2026-04-19T07:11:01.631695"
         },
         {
           "name": "Alumni Scholarship for Postgraduate Study",
@@ -736,7 +565,7 @@
           "deadline": "01 Oct 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/dde75743-b39b-4b87-862a-533b120c4d80/alumni-scholarship-for-postgraduate-study",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.212827"
+          "scraped_date": "2026-04-19T07:11:01.631778"
         },
         {
           "name": "Alumni-funded Scholarships",
@@ -745,7 +574,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/4f5e2a70-a4a2-4706-9946-2d7d2d6a52f5/alumni-funded-scholarships",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.212933"
+          "scraped_date": "2026-04-19T07:11:01.631859"
         },
         {
           "name": "AMBS Social Responsibility Scholarship",
@@ -754,7 +583,7 @@
           "deadline": "18 Sep 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/6381395b-d5ab-41ff-bcf0-7451f4ed72d0/ambs-social-responsibility-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213060"
+          "scraped_date": "2026-04-19T07:11:01.631947"
         },
         {
           "name": "Andrew Beacham Awards",
@@ -763,7 +592,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1704271501/andrew-beacham-awards",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213162"
+          "scraped_date": "2026-04-19T07:11:01.632027"
         },
         {
           "name": "Applicant travel expense bursaries",
@@ -772,7 +601,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/b90e30a4-b5bf-4e87-8b15-38a963e558d7/applicant-travel-expense-bursaries",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213268"
+          "scraped_date": "2026-04-19T07:11:01.632106"
         },
         {
           "name": "Aquaculture Support Scheme",
@@ -781,7 +610,7 @@
           "deadline": "23 Oct 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/93e277ee-a308-4ed2-9bb9-9de8e97dc088/aquaculture-support-scheme",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213373"
+          "scraped_date": "2026-04-19T07:11:01.632190"
         },
         {
           "name": "Art and Design scholarship",
@@ -790,7 +619,7 @@
           "deadline": "30 Sep 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/5258a6b4-c200-45f7-95a5-e5dd47019924/art-and-design-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213480"
+          "scraped_date": "2026-04-19T07:11:01.632270"
         },
         {
           "name": "Art Course Kit Bursary",
@@ -799,7 +628,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/17b6dfd9-4c20-489c-b7d5-5a5c67281f93/art-course-kit-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213578"
+          "scraped_date": "2026-04-19T07:11:01.632349"
         },
         {
           "name": "Assist Fund",
@@ -808,7 +637,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e7c3cb04-d8ab-4b04-8f68-f02eec8354c5/assist-fund",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213678"
+          "scraped_date": "2026-04-19T07:11:01.632427"
         },
         {
           "name": "Aston Aspirational Scholarship",
@@ -817,7 +646,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/5c896a55-6b13-411d-aa12-450258e61931/aston-aspirational-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213777"
+          "scraped_date": "2026-04-19T07:11:01.632512"
         },
         {
           "name": "Aston Forward Scholarship",
@@ -826,7 +655,7 @@
           "deadline": "05 Oct 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/22a82700-fdc8-4a7e-b139-96ad4c33c71a/aston-forward-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213886"
+          "scraped_date": "2026-04-19T07:11:01.632595"
         },
         {
           "name": "Aston Placement Scholarship",
@@ -835,7 +664,7 @@
           "deadline": "01 Nov 2028",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1509369055/aston-placement-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.213986"
+          "scraped_date": "2026-04-19T07:11:01.632673"
         },
         {
           "name": "Aston Support Scholarship",
@@ -844,7 +673,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/4862b1ab-64a0-4b85-8811-eb0fb7a5fde9/aston-support-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.214100"
+          "scraped_date": "2026-04-19T07:11:01.632750"
         },
         {
           "name": "Asylum Seeker Scholarship",
@@ -853,7 +682,7 @@
           "deadline": "30 Sep 2027",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/72554661-c47f-414e-ae51-ac782526c10f/asylum-seeker-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.214205"
+          "scraped_date": "2026-04-19T07:11:01.632828"
         },
         {
           "name": "Autonomous Futures Bursary",
@@ -862,7 +691,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/124eaaad-8980-4dd0-ace7-030671c25d02/autonomous-futures-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.214307"
+          "scraped_date": "2026-04-19T07:11:01.632909"
         },
         {
           "name": "AVSH Scholarship",
@@ -871,7 +700,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/7fa51803-2537-4cc0-a5d2-515227dceed7/avsh-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:12.214424"
+          "scraped_date": "2026-04-19T07:11:01.632997"
         },
         {
           "name": "Aziz Foundation Postgraduate Scholarships",
@@ -880,7 +709,7 @@
           "deadline": "20 Jun 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/bf1a87ec-57b5-441b-b4ec-d9ddf1f4a60c/aziz-foundation-postgraduate-scholarships",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.028257"
+          "scraped_date": "2026-04-19T07:11:04.554739"
         },
         {
           "name": "Aziz Foundation Scholarship",
@@ -889,7 +718,7 @@
           "deadline": "15 May 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/4c5c8412-3af2-4f10-98e2-12cb6e967409/aziz-foundation-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.028403"
+          "scraped_date": "2026-04-19T07:11:04.554860"
         },
         {
           "name": "Bangor Bursary",
@@ -898,7 +727,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/d3344642-bfd9-4304-a495-9510fadfb8d7/bangor-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.028516"
+          "scraped_date": "2026-04-19T07:11:04.554948"
         },
         {
           "name": "Barns-Graham Assistance Award",
@@ -907,7 +736,7 @@
           "deadline": "31 Oct 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1666082743/barns-graham-assistance-award",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.028624"
+          "scraped_date": "2026-04-19T07:11:04.555035"
         },
         {
           "name": "Barns-Graham Travel Scholarship",
@@ -916,7 +745,7 @@
           "deadline": "31 Oct 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/c9388a06-ad57-4e4e-8a0c-2b3df9d0c879/barns-graham-travel-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.028732"
+          "scraped_date": "2026-04-19T07:11:04.555163"
         },
         {
           "name": "BASc Future Leaders Scholarship",
@@ -925,7 +754,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/34dfcd95-7089-4c39-a020-b6d0651d905d/basc-future-leaders-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.028837"
+          "scraped_date": "2026-04-19T07:11:04.555249"
         },
         {
           "name": "Basketball Scholarship",
@@ -934,7 +763,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/ab5e95ce-38b9-4267-a23e-b5a9fa55cf65/basketball-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.028940"
+          "scraped_date": "2026-04-19T07:11:04.555331"
         },
         {
           "name": "Bath International Excellence Scholarships",
@@ -943,7 +772,7 @@
           "deadline": "25 Jun 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/e56e8d7d-3ba0-49bc-aa3b-628e31ea4d4a/bath-international-excellence-scholarships",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029057"
+          "scraped_date": "2026-04-19T07:11:04.555409"
         },
         {
           "name": "BCNO Adult Carer Bursary",
@@ -952,7 +781,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/4e1c55b2-ef04-4e9a-8329-3bd627107752/bcno-adult-carer-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029160"
+          "scraped_date": "2026-04-19T07:11:04.555498"
         },
         {
           "name": "BCNO Care-Experienced Student Bursary",
@@ -961,7 +790,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/43a19d0f-2ab2-4151-baa2-4e195b9124ed/bcno-care-experienced-student-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029261"
+          "scraped_date": "2026-04-19T07:11:04.555583"
         },
         {
           "name": "BCNO Estranged Student Bursary",
@@ -970,7 +799,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/9178c933-1a31-4402-84f2-7a12b17eaf7b/bcno-estranged-student-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029368"
+          "scraped_date": "2026-04-19T07:11:04.555662"
         },
         {
           "name": "BCNO Free School Meals Bursary",
@@ -979,7 +808,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/8e5234bb-c94f-4cc7-8263-298e8605baca/bcno-free-school-meals-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029471"
+          "scraped_date": "2026-04-19T07:11:04.555739"
         },
         {
           "name": "BCNO Low-Income Household Bursary",
@@ -988,7 +817,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/d1d524bb-d14d-4bd8-bc19-10010762cbbf/bcno-low-income-household-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029573"
+          "scraped_date": "2026-04-19T07:11:04.555820"
         },
         {
           "name": "BCU Accelerate",
@@ -997,7 +826,7 @@
           "deadline": "30 Jun 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1700566650/bcu-accelerate",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029674"
+          "scraped_date": "2026-04-19T07:11:04.555897"
         },
         {
           "name": "Beat The Odds",
@@ -1006,7 +835,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/24d1286e-5657-4794-b8a3-57dd82e63524/beat-the-odds",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029772"
+          "scraped_date": "2026-04-19T07:11:04.555973"
         },
         {
           "name": "Bell Scholarship",
@@ -1015,7 +844,7 @@
           "deadline": "01 Sep 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/16c95633-e7d2-4da1-b284-dd542cc76a25/bell-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029871"
+          "scraped_date": "2026-04-19T07:11:04.556049"
         },
         {
           "name": "Birkbeck Access to Postgraduate Study Scholarship",
@@ -1024,7 +853,7 @@
           "deadline": "31 Jul 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/0271b6a8-808c-439a-ac7f-a5674a37a035/birkbeck-access-to-postgraduate-study-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.029982"
+          "scraped_date": "2026-04-19T07:11:04.556133"
         },
         {
           "name": "Birkbeck Foundation Year Success Bursary",
@@ -1033,7 +862,7 @@
           "deadline": "31 Jul 2026",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/84fcefca-6c23-41b5-a837-7c7e268439ea/birkbeck-foundation-year-success-bursary",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.030094"
+          "scraped_date": "2026-04-19T07:11:04.556211"
         },
         {
           "name": "Birkbeck Global Futures Scholarship",
@@ -1042,7 +871,7 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/329751c9-e6fe-4bb2-9e18-b6ed83793115/birkbeck-global-futures-scholarship",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.030222"
+          "scraped_date": "2026-04-19T07:11:04.556312"
         },
         {
           "name": "Birkbeck Hardship Fund",
@@ -1051,10 +880,10 @@
           "deadline": "None",
           "url": "https://www.ucas.com/explore/scholarships-and-bursaries/1517488212/birkbeck-hardship-fund",
           "action": "View Details",
-          "scraped_date": "2026-04-18T07:00:15.030325"
+          "scraped_date": "2026-04-19T07:11:04.556394"
         }
       ],
-      "last_updated": "2026-04-18"
+      "last_updated": "2026-04-19"
     },
     "resources": [
       {

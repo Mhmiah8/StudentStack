@@ -1101,6 +1101,26 @@
     "scraped_date": "2026-02-19T15:27:56.960912"
   },
   {
+    "id": "mzw58zdkii",
+    "company": "Trackr",
+    "programme": "Content Video Editor",
+    "category": "summer-internships",
+    "categories": [
+      "Trackr Exclusive"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-18T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://app.the-trackr.com/programme/trackr-content-video-editor?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "No",
+    "rolling": null,
+    "scraped_date": "2026-04-19T07:10:19.814228"
+  },
+  {
     "id": "nq5h1b0rpm",
     "company": "Udemy",
     "programme": "Software Engineer Intern, Dublin",
