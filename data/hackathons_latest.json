@@ -1,22 +1,5 @@
 [
   {
-    "name": "HackWimbledon April 2026 #2",
-    "date": "2026-04-19T11:00:00.000Z",
-    "end_date": "2026-04-19T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/mywacaxv",
-    "hosts": [
-      "Bazza",
-      "Andy Piper"
-    ],
-    "attendee_count": 4,
-    "scraped_date": "2026-04-19T07:10:36.127011"
-  },
-  {
     "name": "Campaign Lab Spring Hack Night!",
     "date": "2026-04-20T18:00:00.000Z",
     "end_date": "2026-04-20T21:00:00.000Z",
@@ -29,8 +12,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-04-19T07:10:36.127080"
+    "attendee_count": 17,
+    "scraped_date": "2026-04-20T07:56:24.787149"
   },
   {
     "name": "Hacking the Human Element: Applying Behavioural Science in the Modern Workplace",
@@ -50,7 +33,7 @@
       "Giulia Magnani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:36.127114"
+    "scraped_date": "2026-04-20T07:56:24.787201"
   },
   {
     "name": "Product For Learning: Building responsible products for children with Laura Kirsop, CPTO at Raspberry Pi Foundation",
@@ -67,7 +50,7 @@
       "Hege Tollerud - Brighteye"
     ],
     "attendee_count": 39,
-    "scraped_date": "2026-04-19T07:10:36.127127"
+    "scraped_date": "2026-04-20T07:56:24.787217"
   },
   {
     "name": "From NVIDIA GPUs to AWS GTM: An AI Builders' Breakfast",
@@ -83,7 +66,7 @@
       "Jamila Jamilova"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:41.009287"
+    "scraped_date": "2026-04-20T07:56:30.158243"
   },
   {
     "name": "Power, Property & Protocols - Ownership in the Age of Digital Assets & Emerging Tech - From Consumer to Builder",
@@ -99,7 +82,7 @@
       "Lavinia"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:41.009302"
+    "scraped_date": "2026-04-20T07:56:30.158263"
   },
   {
     "name": "Building AI-Ready Financial Systems: How Singapore is Preparing for the AI Era",
@@ -115,7 +98,7 @@
       "CFTE Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:41.009315"
+    "scraped_date": "2026-04-20T07:56:30.158279"
   },
   {
     "name": "Claude Code For The Rest Of Us",
@@ -131,7 +114,7 @@
       "Hannah Foxwell"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:41.009324"
+    "scraped_date": "2026-04-20T07:56:30.158289"
   },
   {
     "name": "Building Europe’s Next Wave of Unicorns with Seb Johnson",
@@ -148,7 +131,7 @@
       "Stephen Wilks"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:36.127177"
+    "scraped_date": "2026-04-20T07:56:24.787286"
   },
   {
     "name": "Early Builders Circle",
@@ -164,7 +147,7 @@
       "Jabir nur"
     ],
     "attendee_count": 19,
-    "scraped_date": "2026-04-19T07:10:36.127192"
+    "scraped_date": "2026-04-20T07:56:24.787304"
   },
   {
     "name": "Open Code #7",
@@ -181,7 +164,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:36.127202"
+    "scraped_date": "2026-04-20T07:56:24.787318"
   },
   {
     "name": "AI Agents for Health: ClawBio Hackathon",
@@ -199,8 +182,8 @@
       "Nathan Skene",
       "Doruk Ustay"
     ],
-    "attendee_count": 81,
-    "scraped_date": "2026-04-19T07:10:41.009357"
+    "attendee_count": 83,
+    "scraped_date": "2026-04-20T07:56:30.158328"
   },
   {
     "name": "🇬🇧 When the Funnel Breaks: Building Brands in the AI Era - London Edition",
@@ -220,7 +203,7 @@
       "Douglas Cajas"
     ],
     "attendee_count": 55,
-    "scraped_date": "2026-04-19T07:10:41.009375"
+    "scraped_date": "2026-04-20T07:56:30.158352"
   },
   {
     "name": "GeoCyclone: The Modern Hacker - 23 April 26 (General Sign-Up)",
@@ -236,7 +219,23 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:41.009393"
+    "scraped_date": "2026-04-20T07:56:30.158426"
+  },
+  {
+    "name": "GeoCyclone: The Modern Hacker - 23 April 26 (Student Sign-Up)",
+    "date": "2026-04-23T17:00:00.000Z",
+    "end_date": "2026-04-23T21:00:00.000Z",
+    "location": "Balls Brothers Minster Court, Mincing Ln., London EC3R 7PP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ywldg9kk",
+    "hosts": [
+      "Dr Craig Jarvis"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-20T07:56:30.158438"
   },
   {
     "name": "SDR Leaders of EMEA Hack Night - London Powered by Replit + Clay",
@@ -255,6 +254,6 @@
       "Alastair Chamberlin"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-19T07:10:41.009403"
+    "scraped_date": "2026-04-20T07:56:30.158451"
   }
 ]
