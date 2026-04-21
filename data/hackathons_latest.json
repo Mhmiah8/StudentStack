@@ -1,21 +1,5 @@
 [
   {
-    "name": "Campaign Lab Spring Hack Night!",
-    "date": "2026-04-20T18:00:00.000Z",
-    "end_date": "2026-04-20T21:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/as13upsk",
-    "hosts": [
-      "Noam"
-    ],
-    "attendee_count": 17,
-    "scraped_date": "2026-04-20T07:56:24.787149"
-  },
-  {
     "name": "Hacking the Human Element: Applying Behavioural Science in the Modern Workplace",
     "date": "2026-04-21T17:00:00.000Z",
     "end_date": "2026-04-21T19:30:00.000Z",
@@ -33,24 +17,7 @@
       "Giulia Magnani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:24.787201"
-  },
-  {
-    "name": "Product For Learning: Building responsible products for children with Laura Kirsop, CPTO at Raspberry Pi Foundation",
-    "date": "2026-04-21T17:00:00.000Z",
-    "end_date": "2026-04-21T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bfq16qcy",
-    "hosts": [
-      "Matt Walton",
-      "Hege Tollerud - Brighteye"
-    ],
-    "attendee_count": 39,
-    "scraped_date": "2026-04-20T07:56:24.787217"
+    "scraped_date": "2026-04-21T07:26:04.157693"
   },
   {
     "name": "From NVIDIA GPUs to AWS GTM: An AI Builders' Breakfast",
@@ -66,7 +33,7 @@
       "Jamila Jamilova"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:30.158243"
+    "scraped_date": "2026-04-21T07:26:08.630291"
   },
   {
     "name": "Power, Property & Protocols - Ownership in the Age of Digital Assets & Emerging Tech - From Consumer to Builder",
@@ -82,11 +49,11 @@
       "Lavinia"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:30.158263"
+    "scraped_date": "2026-04-21T07:26:08.630312"
   },
   {
     "name": "Building AI-Ready Financial Systems: How Singapore is Preparing for the AI Era",
-    "date": "2026-04-22T17:00:00.000Z",
+    "date": "2026-04-22T16:00:00.000Z",
     "end_date": "2026-04-22T20:00:00.000Z",
     "location": "",
     "city": "London",
@@ -98,7 +65,7 @@
       "CFTE Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:30.158279"
+    "scraped_date": "2026-04-21T07:26:08.630324"
   },
   {
     "name": "Claude Code For The Rest Of Us",
@@ -114,7 +81,7 @@
       "Hannah Foxwell"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:30.158289"
+    "scraped_date": "2026-04-21T07:26:08.630341"
   },
   {
     "name": "Building Europe’s Next Wave of Unicorns with Seb Johnson",
@@ -131,7 +98,7 @@
       "Stephen Wilks"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:24.787286"
+    "scraped_date": "2026-04-21T07:26:04.157794"
   },
   {
     "name": "Early Builders Circle",
@@ -147,7 +114,7 @@
       "Jabir nur"
     ],
     "attendee_count": 19,
-    "scraped_date": "2026-04-20T07:56:24.787304"
+    "scraped_date": "2026-04-21T07:26:04.157812"
   },
   {
     "name": "Open Code #7",
@@ -164,7 +131,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:24.787318"
+    "scraped_date": "2026-04-21T07:26:04.157827"
   },
   {
     "name": "AI Agents for Health: ClawBio Hackathon",
@@ -182,8 +149,28 @@
       "Nathan Skene",
       "Doruk Ustay"
     ],
-    "attendee_count": 83,
-    "scraped_date": "2026-04-20T07:56:30.158328"
+    "attendee_count": 85,
+    "scraped_date": "2026-04-21T07:26:08.630464"
+  },
+  {
+    "name": "We Build Better Together: A Working Session for Retail's Leaders and Allies",
+    "date": "2026-04-23T13:30:00.000Z",
+    "end_date": "2026-04-23T14:30:00.000Z",
+    "location": "Excel London, Royal Victoria Dock, 1 Western Gateway, London E16 1XL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zvgsxcfv",
+    "hosts": [
+      "RWIT",
+      "The Social Exective Network",
+      "Brittany Baumgarten",
+      "Linda Johansen-James",
+      "Renee Hartmann"
+    ],
+    "attendee_count": 9,
+    "scraped_date": "2026-04-21T07:26:04.157867"
   },
   {
     "name": "🇬🇧 When the Funnel Breaks: Building Brands in the AI Era - London Edition",
@@ -202,8 +189,25 @@
       "Luca Zaccagnino",
       "Douglas Cajas"
     ],
-    "attendee_count": 55,
-    "scraped_date": "2026-04-20T07:56:30.158352"
+    "attendee_count": 56,
+    "scraped_date": "2026-04-21T07:26:04.157883"
+  },
+  {
+    "name": "A Better Way to Build Agents: Workflows",
+    "date": "2026-04-23T16:30:00.000Z",
+    "end_date": "2026-04-23T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/vercel-workflows-london",
+    "hosts": [
+      "Vercel Events",
+      "Maya Avendaño"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-21T07:26:04.157905"
   },
   {
     "name": "GeoCyclone: The Modern Hacker - 23 April 26 (General Sign-Up)",
@@ -219,7 +223,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:30.158426"
+    "scraped_date": "2026-04-21T07:26:08.630556"
   },
   {
     "name": "GeoCyclone: The Modern Hacker - 23 April 26 (Student Sign-Up)",
@@ -235,7 +239,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:30.158438"
+    "scraped_date": "2026-04-21T07:26:08.630565"
   },
   {
     "name": "SDR Leaders of EMEA Hack Night - London Powered by Replit + Clay",
@@ -254,6 +258,24 @@
       "Alastair Chamberlin"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-20T07:56:30.158451"
+    "scraped_date": "2026-04-21T07:26:08.630579"
+  },
+  {
+    "name": "Structured Data, Human Judgment: Building the Right Foundation for AI in Product Marketing",
+    "date": "2026-04-23T17:00:00.000Z",
+    "end_date": "2026-04-23T19:00:00.000Z",
+    "location": "Bantof, 31 Great Windmill St, London W1D 7LW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/5v95t9qf",
+    "hosts": [
+      "Alexandra Barca",
+      "Tamara Grominsky",
+      "Edward Woolley"
+    ],
+    "attendee_count": 45,
+    "scraped_date": "2026-04-21T07:26:08.630588"
   }
 ]
