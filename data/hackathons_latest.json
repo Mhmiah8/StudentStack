@@ -1,41 +1,5 @@
 [
   {
-    "name": "Hacking the Human Element: Applying Behavioural Science in the Modern Workplace",
-    "date": "2026-04-21T17:00:00.000Z",
-    "end_date": "2026-04-21T19:30:00.000Z",
-    "location": "Cowry Consulting, 66 Berners St, London W1T 3NL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1lsc86ji",
-    "hosts": [
-      "Bescy Events",
-      "Jadin Meurer",
-      "Scott Young",
-      "Jez Groom",
-      "Giulia Magnani"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:04.157693"
-  },
-  {
-    "name": "From NVIDIA GPUs to AWS GTM: An AI Builders' Breakfast",
-    "date": "2026-04-22T07:00:00.000Z",
-    "end_date": "2026-04-22T09:00:00.000Z",
-    "location": "The Fox, Excel, Warehouse K, 2 Western Gateway, London E16 1DR, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/o11p6a44",
-    "hosts": [
-      "Jamila Jamilova"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:08.630291"
-  },
-  {
     "name": "Power, Property & Protocols - Ownership in the Age of Digital Assets & Emerging Tech - From Consumer to Builder",
     "date": "2026-04-22T15:30:00.000Z",
     "end_date": "2026-04-22T19:30:00.000Z",
@@ -49,7 +13,7 @@
       "Lavinia"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:08.630312"
+    "scraped_date": "2026-04-22T07:23:54.835886"
   },
   {
     "name": "Building AI-Ready Financial Systems: How Singapore is Preparing for the AI Era",
@@ -65,7 +29,7 @@
       "CFTE Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:08.630324"
+    "scraped_date": "2026-04-22T07:23:54.835909"
   },
   {
     "name": "Claude Code For The Rest Of Us",
@@ -81,7 +45,7 @@
       "Hannah Foxwell"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:08.630341"
+    "scraped_date": "2026-04-22T07:23:54.835928"
   },
   {
     "name": "Building Europe’s Next Wave of Unicorns with Seb Johnson",
@@ -98,7 +62,7 @@
       "Stephen Wilks"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:04.157794"
+    "scraped_date": "2026-04-22T07:23:49.842804"
   },
   {
     "name": "Early Builders Circle",
@@ -114,7 +78,7 @@
       "Jabir nur"
     ],
     "attendee_count": 19,
-    "scraped_date": "2026-04-21T07:26:04.157812"
+    "scraped_date": "2026-04-22T07:23:49.842834"
   },
   {
     "name": "Open Code #7",
@@ -131,7 +95,7 @@
       "Ziv Reichert"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:04.157827"
+    "scraped_date": "2026-04-22T07:23:49.842853"
   },
   {
     "name": "AI Agents for Health: ClawBio Hackathon",
@@ -149,8 +113,8 @@
       "Nathan Skene",
       "Doruk Ustay"
     ],
-    "attendee_count": 85,
-    "scraped_date": "2026-04-21T07:26:08.630464"
+    "attendee_count": 88,
+    "scraped_date": "2026-04-22T07:23:54.835968"
   },
   {
     "name": "We Build Better Together: A Working Session for Retail's Leaders and Allies",
@@ -170,7 +134,7 @@
       "Renee Hartmann"
     ],
     "attendee_count": 9,
-    "scraped_date": "2026-04-21T07:26:04.157867"
+    "scraped_date": "2026-04-22T07:23:49.842898"
   },
   {
     "name": "🇬🇧 When the Funnel Breaks: Building Brands in the AI Era - London Edition",
@@ -189,8 +153,8 @@
       "Luca Zaccagnino",
       "Douglas Cajas"
     ],
-    "attendee_count": 56,
-    "scraped_date": "2026-04-21T07:26:04.157883"
+    "attendee_count": 58,
+    "scraped_date": "2026-04-22T07:23:49.842915"
   },
   {
     "name": "A Better Way to Build Agents: Workflows",
@@ -207,7 +171,7 @@
       "Maya Avendaño"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:04.157905"
+    "scraped_date": "2026-04-22T07:23:49.842933"
   },
   {
     "name": "GeoCyclone: The Modern Hacker - 23 April 26 (General Sign-Up)",
@@ -223,7 +187,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:08.630556"
+    "scraped_date": "2026-04-22T07:23:49.842953"
   },
   {
     "name": "GeoCyclone: The Modern Hacker - 23 April 26 (Student Sign-Up)",
@@ -239,43 +203,170 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:08.630565"
+    "scraped_date": "2026-04-22T07:23:49.842967"
   },
   {
-    "name": "SDR Leaders of EMEA Hack Night - London Powered by Replit + Clay",
-    "date": "2026-04-23T17:00:00.000Z",
-    "end_date": "2026-04-23T20:00:00.000Z",
+    "name": "Build Your AI Second Brain (Workshop)",
+    "date": "2026-04-24T08:30:00.000Z",
+    "end_date": "2026-04-24T15:00:00.000Z",
     "location": "",
     "city": "London",
     "country": "",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/ssedwu83",
+    "url": "https://lu.ma/z4p64otx",
     "hosts": [
-      "David Wilkins",
-      "Roxy Brierley",
-      "Phil Woolley",
-      "Alastair Chamberlin"
+      "Sunny Gill | Silver Mountain"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-21T07:26:08.630579"
+    "attendee_count": 7,
+    "scraped_date": "2026-04-22T07:23:54.836113"
   },
   {
-    "name": "Structured Data, Human Judgment: Building the Right Foundation for AI in Product Marketing",
-    "date": "2026-04-23T17:00:00.000Z",
-    "end_date": "2026-04-23T19:00:00.000Z",
-    "location": "Bantof, 31 Great Windmill St, London W1D 7LW, UK",
+    "name": "Co-Hack Fridays : London Chapter",
+    "date": "2026-04-24T09:00:00.000Z",
+    "end_date": "2026-04-24T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/london-apr-24",
+    "hosts": [
+      "Superteam UK"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-22T07:23:54.836123"
+  },
+  {
+    "name": "Build a Neobank from a USB - Somerset House Workshop Featuring ColdStar",
+    "date": "2026-04-24T12:00:00.000Z",
+    "end_date": "2026-04-24T14:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ColdStar-London",
+    "hosts": [
+      "Superteam UK",
+      "Coldstar.dev"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-22T07:23:54.836137"
+  },
+  {
+    "name": "04. Fireside | founder x builder edition",
+    "date": "2026-04-24T17:00:00.000Z",
+    "end_date": "2026-04-24T22:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/7wrwc91r",
+    "hosts": [
+      "Faraz Ahmad",
+      "Encode Club",
+      "Wail Abu Ghazaleh"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-22T07:23:54.836152"
+  },
+  {
+    "name": "London | Claude Code for Everyone",
+    "date": "2026-04-24T17:00:00.000Z",
+    "end_date": "2026-04-24T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/z20tnrv8",
+    "hosts": [
+      "Claude Community",
+      "Olivier Alterhq.com",
+      "Wilfred Kasekende"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-22T07:23:54.836165"
+  },
+  {
+    "name": "HackLondon - Winner gets a guaranteed YC interview",
+    "date": "2026-04-24T17:30:00.000Z",
+    "end_date": "2026-04-25T19:00:00.000Z",
+    "location": "Bloom Nine Elms, 55 Nine Elms Ln, Nine Elms, London SW11 7DS, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/5v95t9qf",
+    "url": "https://lu.ma/vy4bnkom",
     "hosts": [
-      "Alexandra Barca",
-      "Tamara Grominsky",
-      "Edward Woolley"
+      "Ismail Jeilani",
+      "Anthony D'Angelo",
+      "Elias",
+      "Jad Ashkar",
+      "Ryder Kemper"
     ],
-    "attendee_count": 45,
-    "scraped_date": "2026-04-21T07:26:08.630588"
+    "attendee_count": 30,
+    "scraped_date": "2026-04-22T07:23:54.836180"
+  },
+  {
+    "name": "Encode Club x Tison.io Content Creation Hackathon April",
+    "date": "2026-04-25T08:00:00.000Z",
+    "end_date": "2026-04-25T17:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8c1twnm8",
+    "hosts": [
+      "Simon Sällström",
+      "Encode Club"
+    ],
+    "attendee_count": 73,
+    "scraped_date": "2026-04-22T07:23:54.836193"
+  },
+  {
+    "name": "To The Americas! - Hackathon by the Unicorn Mafia",
+    "date": "2026-04-25T08:30:00.000Z",
+    "end_date": "2026-04-26T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/umhack",
+    "hosts": [
+      "Fatema",
+      "Fergus McKenzie-Wilson",
+      "Charlie Cheesman",
+      "Jiaqi Chen",
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-22T07:23:54.836205"
+  },
+  {
+    "name": "AI x Bio Hackathon",
+    "date": "2026-04-25T09:00:00.000Z",
+    "end_date": "2026-04-26T19:00:00.000Z",
+    "location": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/aixbio-london",
+    "hosts": [
+      "Joshua Landes",
+      "James Montavon",
+      "Grace Braithwaite",
+      "Sophie Toura ",
+      "Will",
+      "BlueDot Impact",
+      "Apart Research"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-22T07:23:54.836215"
   }
 ]
