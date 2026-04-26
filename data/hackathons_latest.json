@@ -1,64 +1,5 @@
 [
   {
-    "name": "Encode Club x Tison.io Content Creation Hackathon April",
-    "date": "2026-04-25T08:00:00.000Z",
-    "end_date": "2026-04-25T17:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8c1twnm8",
-    "hosts": [
-      "Simon Sällström",
-      "Encode Club"
-    ],
-    "attendee_count": 86,
-    "scraped_date": "2026-04-25T07:06:23.013015"
-  },
-  {
-    "name": "To The Americas! - Hackathon by the Unicorn Mafia",
-    "date": "2026-04-25T08:30:00.000Z",
-    "end_date": "2026-04-26T16:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/umhack",
-    "hosts": [
-      "Fatema",
-      "Fergus McKenzie-Wilson",
-      "Charlie Cheesman",
-      "Jiaqi Chen",
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:23.013089"
-  },
-  {
-    "name": "AI x Bio Hackathon",
-    "date": "2026-04-25T09:00:00.000Z",
-    "end_date": "2026-04-26T19:00:00.000Z",
-    "location": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/aixbio-london",
-    "hosts": [
-      "Joshua Landes",
-      "James Montavon",
-      "Grace Braithwaite",
-      "Sophie Toura ",
-      "Kate Daw",
-      "BlueDot Impact",
-      "Apart Research"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:28.439503"
-  },
-  {
     "name": "Breaking Barriers & Building Influence: From IC to Strategic Leader",
     "date": "2026-04-27T17:00:00.000Z",
     "end_date": "2026-04-27T19:00:00.000Z",
@@ -73,7 +14,7 @@
       "Tochi"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:23.013147"
+    "scraped_date": "2026-04-26T07:20:24.777668"
   },
   {
     "name": "Talent x Industry meet: Building Brand Worlds",
@@ -88,8 +29,8 @@
     "hosts": [
       "Always Create"
     ],
-    "attendee_count": 37,
-    "scraped_date": "2026-04-25T07:06:23.013172"
+    "attendee_count": 38,
+    "scraped_date": "2026-04-26T07:20:24.777708"
   },
   {
     "name": "Claude Code | Workshop (In-person)",
@@ -104,8 +45,8 @@
     "hosts": [
       "Jose RazGuzman"
     ],
-    "attendee_count": 3,
-    "scraped_date": "2026-04-25T07:06:28.439532"
+    "attendee_count": 5,
+    "scraped_date": "2026-04-26T07:20:29.262381"
   },
   {
     "name": "ClawClub - OpenClaw + AI Agents Hack Night 🦞 London - 27 Apr 2026",
@@ -121,8 +62,8 @@
       "Fatima Sarah Khalid",
       "Aadi Kulkarni"
     ],
-    "attendee_count": 25,
-    "scraped_date": "2026-04-25T07:06:28.439554"
+    "attendee_count": 27,
+    "scraped_date": "2026-04-26T07:20:29.262414"
   },
   {
     "name": "Building Breakout Companies: Plural X Callosum",
@@ -138,7 +79,7 @@
       "Entrepreneurs First"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:23.013239"
+    "scraped_date": "2026-04-26T07:20:24.777769"
   },
   {
     "name": "Shake, Stir, Sell: Building a Drinks Brand",
@@ -154,7 +95,7 @@
       "LSE Generate"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:23.013263"
+    "scraped_date": "2026-04-26T07:20:24.777796"
   },
   {
     "name": "AI Socratic — Claude Code vs Codex",
@@ -171,7 +112,7 @@
       "Roberto Stagi"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:28.439590"
+    "scraped_date": "2026-04-26T07:20:29.262452"
   },
   {
     "name": "Building Sustainable Services",
@@ -187,7 +128,7 @@
       "Edward Saperia"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-04-25T07:06:23.013283"
+    "scraped_date": "2026-04-26T07:20:24.777824"
   },
   {
     "name": "Build with Vapi x Speechmatics — Workshop + Happy Hour",
@@ -205,7 +146,7 @@
       "Maria Anastasiou"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:28.439644"
+    "scraped_date": "2026-04-26T07:20:29.262522"
   },
   {
     "name": "Structured Data, Human Judgment: Building the Right Foundation for AI in Product Marketing",
@@ -222,8 +163,8 @@
       "Tamara Grominsky",
       "Edward Woolley"
     ],
-    "attendee_count": 43,
-    "scraped_date": "2026-04-25T07:06:28.439657"
+    "attendee_count": 44,
+    "scraped_date": "2026-04-26T07:20:29.262539"
   },
   {
     "name": "Going Global - Building Expansion & GTM Engines",
@@ -240,7 +181,7 @@
       "Michelangelo Pagliara"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:28.439675"
+    "scraped_date": "2026-04-26T07:20:29.262558"
   },
   {
     "name": "Building your CoS Personal OS",
@@ -256,7 +197,7 @@
       "Jo Barrow"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:28.439689"
+    "scraped_date": "2026-04-26T07:20:29.262575"
   },
   {
     "name": "Learn to Build an AI Agent for Senior HR",
@@ -272,7 +213,7 @@
       "Culture Consultancy"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-25T07:06:28.439708"
+    "scraped_date": "2026-04-26T07:20:29.262591"
   },
   {
     "name": "Cursor x Briefcase: FinTech London Hackathon",
@@ -290,8 +231,8 @@
       "Oliver Kingshott",
       "Jan Stehlik "
     ],
-    "attendee_count": 107,
-    "scraped_date": "2026-04-25T07:06:28.439726"
+    "attendee_count": 115,
+    "scraped_date": "2026-04-26T07:20:29.262614"
   },
   {
     "name": "Open Claw 101: Build-An-Agent Workshop",
@@ -307,6 +248,6 @@
       "PLUGGED"
     ],
     "attendee_count": 17,
-    "scraped_date": "2026-04-25T07:06:28.439748"
+    "scraped_date": "2026-04-26T07:20:29.262640"
   }
 ]
