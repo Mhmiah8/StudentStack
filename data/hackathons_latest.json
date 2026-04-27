@@ -14,7 +14,7 @@
       "Tochi"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-26T07:20:24.777668"
+    "scraped_date": "2026-04-27T08:11:07.265126"
   },
   {
     "name": "Talent x Industry meet: Building Brand Worlds",
@@ -29,8 +29,8 @@
     "hosts": [
       "Always Create"
     ],
-    "attendee_count": 38,
-    "scraped_date": "2026-04-26T07:20:24.777708"
+    "attendee_count": 40,
+    "scraped_date": "2026-04-27T08:11:07.265164"
   },
   {
     "name": "Claude Code | Workshop (In-person)",
@@ -46,7 +46,7 @@
       "Jose RazGuzman"
     ],
     "attendee_count": 5,
-    "scraped_date": "2026-04-26T07:20:29.262381"
+    "scraped_date": "2026-04-27T08:11:11.949355"
   },
   {
     "name": "ClawClub - OpenClaw + AI Agents Hack Night 🦞 London - 27 Apr 2026",
@@ -62,8 +62,8 @@
       "Fatima Sarah Khalid",
       "Aadi Kulkarni"
     ],
-    "attendee_count": 27,
-    "scraped_date": "2026-04-26T07:20:29.262414"
+    "attendee_count": 31,
+    "scraped_date": "2026-04-27T08:11:11.949390"
   },
   {
     "name": "Building Breakout Companies: Plural X Callosum",
@@ -79,7 +79,7 @@
       "Entrepreneurs First"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-26T07:20:24.777769"
+    "scraped_date": "2026-04-27T08:11:07.265214"
   },
   {
     "name": "Shake, Stir, Sell: Building a Drinks Brand",
@@ -95,7 +95,7 @@
       "LSE Generate"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-26T07:20:24.777796"
+    "scraped_date": "2026-04-27T08:11:07.265236"
   },
   {
     "name": "AI Socratic — Claude Code vs Codex",
@@ -112,7 +112,7 @@
       "Roberto Stagi"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-26T07:20:29.262452"
+    "scraped_date": "2026-04-27T08:11:11.949430"
   },
   {
     "name": "Building Sustainable Services",
@@ -127,8 +127,25 @@
     "hosts": [
       "Edward Saperia"
     ],
-    "attendee_count": 3,
-    "scraped_date": "2026-04-26T07:20:24.777824"
+    "attendee_count": 4,
+    "scraped_date": "2026-04-27T08:11:07.265250"
+  },
+  {
+    "name": "ATOMS AM: hardware builder coffee",
+    "date": "2026-04-29T07:00:00.000Z",
+    "end_date": "2026-04-29T09:00:00.000Z",
+    "location": "WatchHouse Somerset House, Somerset House East Wing, London WC2R 1LA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/s8zohig2",
+    "hosts": [
+      "Lachlan Chavasse",
+      "Vicky Regan"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-27T08:11:07.265269"
   },
   {
     "name": "Build with Vapi x Speechmatics — Workshop + Happy Hour",
@@ -146,7 +163,7 @@
       "Maria Anastasiou"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-26T07:20:29.262522"
+    "scraped_date": "2026-04-27T08:11:11.949500"
   },
   {
     "name": "Structured Data, Human Judgment: Building the Right Foundation for AI in Product Marketing",
@@ -163,8 +180,8 @@
       "Tamara Grominsky",
       "Edward Woolley"
     ],
-    "attendee_count": 44,
-    "scraped_date": "2026-04-26T07:20:29.262539"
+    "attendee_count": 45,
+    "scraped_date": "2026-04-27T08:11:11.949522"
   },
   {
     "name": "Going Global - Building Expansion & GTM Engines",
@@ -181,7 +198,7 @@
       "Michelangelo Pagliara"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-26T07:20:29.262558"
+    "scraped_date": "2026-04-27T08:11:11.949540"
   },
   {
     "name": "Building your CoS Personal OS",
@@ -197,7 +214,7 @@
       "Jo Barrow"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-26T07:20:29.262575"
+    "scraped_date": "2026-04-27T08:11:11.949556"
   },
   {
     "name": "Learn to Build an AI Agent for Senior HR",
@@ -213,7 +230,7 @@
       "Culture Consultancy"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-26T07:20:29.262591"
+    "scraped_date": "2026-04-27T08:11:11.949572"
   },
   {
     "name": "Cursor x Briefcase: FinTech London Hackathon",
@@ -231,8 +248,8 @@
       "Oliver Kingshott",
       "Jan Stehlik "
     ],
-    "attendee_count": 115,
-    "scraped_date": "2026-04-26T07:20:29.262614"
+    "attendee_count": 125,
+    "scraped_date": "2026-04-27T08:11:11.949593"
   },
   {
     "name": "Open Claw 101: Build-An-Agent Workshop",
@@ -247,7 +264,7 @@
     "hosts": [
       "PLUGGED"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-04-26T07:20:29.262640"
+    "attendee_count": 18,
+    "scraped_date": "2026-04-27T08:11:11.949615"
   }
 ]
