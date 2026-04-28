@@ -140,6 +140,26 @@
     "scraped_date": "2026-02-19T15:28:01.355442"
   },
   {
+    "id": "5p90fhy3j7",
+    "company": "Keysight",
+    "programme": "Software Development Placement",
+    "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-27T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://jobs.keysight.com/external/jobs/51347?lang=en-us&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-28T08:12:48.976133"
+  },
+  {
     "id": "606qz4gxgd",
     "company": "Apollo Fire Detectors",
     "programme": "Student Software Engineer",
@@ -800,5 +820,25 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:01.356897"
+  },
+  {
+    "id": "xq50sn5jip",
+    "company": "Harwin",
+    "programme": "Intern – Software Engineer",
+    "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-27T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://harwin.careers.adp.com/vacancy/5b27b41f-0f6a-4718-9073-462a537c1e5b?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-28T08:12:48.976807"
   }
 ]
