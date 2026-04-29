@@ -160,6 +160,26 @@
     "scraped_date": "2026-03-26T07:00:58.082067"
   },
   {
+    "id": "2h4s84czyp",
+    "company": "G-P",
+    "programme": "Software Engineering, Internship",
+    "category": "summer-internships",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-28T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.linkedin.com/jobs/view/4405164998/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-29T08:05:59.297912"
+  },
+  {
     "id": "34z4fmv599",
     "company": "Vanguard",
     "programme": "Technology Internship (Summer 2026)",

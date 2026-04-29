@@ -445,6 +445,26 @@
     "scraped_date": "2026-02-19T15:28:05.435584"
   },
   {
+    "id": "8tgetf3hb6",
+    "company": "TSG",
+    "programme": "Graduate AI Developer",
+    "category": "graduate-programmes",
+    "categories": [
+      "AI and Machine Learning"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-27T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://careers.tsg.com/job/graduate-ai-developer-345.aspx?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-29T08:06:05.308730"
+  },
+  {
     "id": "8wesna0vaa",
     "company": "Cambridge Consultants",
     "programme": "Graduate AI Engineer (2026 start)",
@@ -463,6 +483,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.435596"
+  },
+  {
+    "id": "920gsemma9",
+    "company": "Tekever",
+    "programme": "Graduate Cyber Security Engineer",
+    "category": "graduate-programmes",
+    "categories": [
+      "Cyber Security"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-28T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://careers.tekever.com/jobs?split_view=true&query=%22graduate+cyber+security%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-29T08:06:05.308750"
   },
   {
     "id": "9s1cas6d1j",
@@ -987,6 +1027,26 @@
     "scraped_date": "2026-02-19T15:28:05.436556"
   },
   {
+    "id": "kdar1svocq",
+    "company": "Starlizard",
+    "programme": "IT Support Graduate",
+    "category": "graduate-programmes",
+    "categories": [
+      "IT"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-28T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://starlizard.com/jobs/1st-line-it-support-analyst/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-04-29T08:06:05.309163"
+  },
+  {
     "id": "kolqnqu196",
     "company": "B2C2",
     "programme": "Graduate Quant Developer",
@@ -1470,26 +1530,6 @@
     "scraped_date": "2026-04-02T07:04:26.971783"
   },
   {
-    "id": "utkag6l0i0",
-    "company": "Catapult",
-    "programme": "Graduate Software Engineer",
-    "category": "graduate-programmes",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-04-22T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://job-boards.greenhouse.io/catapultsports/jobs/7821130?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-04-22T07:23:40.917406"
-  },
-  {
     "id": "uy2q6wa54b",
     "company": "KKR",
     "programme": "2026 Software Engineering Graduate Analyst - Dublin",
@@ -1628,26 +1668,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.437758"
-  },
-  {
-    "id": "xw1fehqsr7",
-    "company": "Joveo AI",
-    "programme": "Graduate Software Engineer",
-    "category": "graduate-programmes",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-04-23T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.linkedin.com/jobs/view/4405638117?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-04-24T07:52:39.718991"
   },
   {
     "id": "y0idy3tqud",

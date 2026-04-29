@@ -1,87 +1,5 @@
 [
   {
-    "name": "Building Breakout Companies: Plural X Callosum",
-    "date": "2026-04-28T17:00:00.000Z",
-    "end_date": "2026-04-28T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tavyh2eu",
-    "hosts": [
-      "Entrepreneurs First"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:01.144627"
-  },
-  {
-    "name": "Shake, Stir, Sell: Building a Drinks Brand",
-    "date": "2026-04-28T17:00:00.000Z",
-    "end_date": "2026-04-28T18:30:00.000Z",
-    "location": "LSE Generate, The GenDen, Clare Market, London WC2A 2AB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ly8tpfli",
-    "hosts": [
-      "LSE Generate"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:01.144664"
-  },
-  {
-    "name": "AI Socratic — Claude Code vs Codex",
-    "date": "2026-04-28T17:00:00.000Z",
-    "end_date": "2026-04-28T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ai-london-1.0",
-    "hosts": [
-      "Federico Ulfo",
-      "Roberto Stagi"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:06.375613"
-  },
-  {
-    "name": "Building Sustainable Services",
-    "date": "2026-04-28T17:30:00.000Z",
-    "end_date": "2026-04-28T19:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/766jusav",
-    "hosts": [
-      "Edward Saperia"
-    ],
-    "attendee_count": 4,
-    "scraped_date": "2026-04-28T08:13:01.144688"
-  },
-  {
-    "name": "ATOMS AM: hardware builder coffee",
-    "date": "2026-04-29T07:00:00.000Z",
-    "end_date": "2026-04-29T09:00:00.000Z",
-    "location": "WatchHouse Somerset House, Somerset House East Wing, London WC2R 1LA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/s8zohig2",
-    "hosts": [
-      "Lachlan Chavasse",
-      "Vicky Regan"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:01.144710"
-  },
-  {
     "name": "Build with Vapi x Speechmatics — Workshop + Happy Hour",
     "date": "2026-04-29T17:00:00.000Z",
     "end_date": "2026-04-29T20:00:00.000Z",
@@ -97,7 +15,7 @@
       "Maria Anastasiou"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:06.375684"
+    "scraped_date": "2026-04-29T08:06:20.135812"
   },
   {
     "name": "Structured Data, Human Judgment: Building the Right Foundation for AI in Product Marketing",
@@ -114,25 +32,8 @@
       "Tamara Grominsky",
       "Edward Woolley"
     ],
-    "attendee_count": 44,
-    "scraped_date": "2026-04-28T08:13:06.375699"
-  },
-  {
-    "name": "Open Code #8",
-    "date": "2026-04-29T17:30:00.000Z",
-    "end_date": "2026-04-29T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2hb4eyne",
-    "hosts": [
-      "LocalGlobe",
-      "Ziv Reichert"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:01.144783"
+    "attendee_count": 49,
+    "scraped_date": "2026-04-29T08:06:20.135878"
   },
   {
     "name": "Going Global - Building Expansion & GTM Engines",
@@ -149,7 +50,24 @@
       "Michelangelo Pagliara"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:06.375717"
+    "scraped_date": "2026-04-29T08:06:14.102071"
+  },
+  {
+    "name": "Open Code #8",
+    "date": "2026-04-29T17:30:00.000Z",
+    "end_date": "2026-04-29T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2hb4eyne",
+    "hosts": [
+      "LocalGlobe",
+      "Ziv Reichert"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-29T08:06:14.102104"
   },
   {
     "name": "Building your CoS Personal OS",
@@ -165,7 +83,7 @@
       "Jo Barrow"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:06.375731"
+    "scraped_date": "2026-04-29T08:06:20.135920"
   },
   {
     "name": "Learn to Build an AI Agent for Senior HR",
@@ -181,7 +99,25 @@
       "Culture Consultancy"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:06.375747"
+    "scraped_date": "2026-04-29T08:06:20.135951"
+  },
+  {
+    "name": "The Trustek Audit Launch Event - Building Success, One Audit At A Time",
+    "date": "2026-04-30T15:00:00.000Z",
+    "end_date": "2026-04-30T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/1bbt01kv",
+    "hosts": [
+      "Jane Lang",
+      "Charlotte",
+      "Ben Clemson"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-29T08:06:14.102187"
   },
   {
     "name": "Cursor x Briefcase: FinTech London Hackathon",
@@ -199,8 +135,8 @@
       "Oliver Kingshott",
       "Jan Stehlik "
     ],
-    "attendee_count": 161,
-    "scraped_date": "2026-04-28T08:13:06.375777"
+    "attendee_count": 169,
+    "scraped_date": "2026-04-29T08:06:20.135975"
   },
   {
     "name": "Open Claw 101: Build-An-Agent Workshop",
@@ -215,8 +151,8 @@
     "hosts": [
       "PLUGGED"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-04-28T08:13:06.375798"
+    "attendee_count": 22,
+    "scraped_date": "2026-04-29T08:06:20.136000"
   },
   {
     "name": "Build 2036",
@@ -233,6 +169,39 @@
       "Sasha D."
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-28T08:13:06.375828"
+    "scraped_date": "2026-04-29T08:06:20.136033"
+  },
+  {
+    "name": "The MongoDB Agentic Evolution Hackathon | Co-hosted with LangChain, NVIDIA, Emergent Labs, and more",
+    "date": "2026-05-02T08:00:00.000Z",
+    "end_date": "2026-05-02T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/gnz8wtny",
+    "hosts": [
+      "MongoDB"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-04-29T08:06:20.136056"
+  },
+  {
+    "name": "Phoenix Film Networking Group - is proud to be supported by Showbizy.ai . A media community building Ai app.",
+    "date": "2026-05-05T15:00:00.000Z",
+    "end_date": "2026-05-05T21:00:00.000Z",
+    "location": "Mercato Mayfair, St. Mark's Church, 13A N Audley St, London W1K 6ZA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zdyu1v1k",
+    "hosts": [
+      "Adam Richards",
+      "Balbir Judge +447575434666 VENTURE CAPITALIST"
+    ],
+    "attendee_count": 684,
+    "scraped_date": "2026-04-29T08:06:20.136079"
   }
 ]
