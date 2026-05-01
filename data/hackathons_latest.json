@@ -1,107 +1,5 @@
 [
   {
-    "name": "Learn to Build an AI Agent for Senior HR",
-    "date": "2026-04-30T08:30:00.000Z",
-    "end_date": "2026-04-30T12:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/d8u0d1rq",
-    "hosts": [
-      "Culture Consultancy"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:43.929310"
-  },
-  {
-    "name": "The Trustek Audit Launch Event - Building Success, One Audit At A Time",
-    "date": "2026-04-30T15:00:00.000Z",
-    "end_date": "2026-04-30T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1bbt01kv",
-    "hosts": [
-      "Jane Lang",
-      "Charlotte",
-      "Ben Clemson"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:37.534224"
-  },
-  {
-    "name": "Cursor x Briefcase: FinTech London Hackathon",
-    "date": "2026-04-30T16:15:00.000Z",
-    "end_date": "2026-04-30T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2ohizf10",
-    "hosts": [
-      "Francisco Terpolilli",
-      "Reuben Steenkamp",
-      "Oliver Kingshott",
-      "Jan Stehlik "
-    ],
-    "attendee_count": 175,
-    "scraped_date": "2026-04-30T08:09:43.929345"
-  },
-  {
-    "name": "Open Claw 101: Build-An-Agent Workshop",
-    "date": "2026-04-30T17:00:00.000Z",
-    "end_date": "2026-04-30T20:30:00.000Z",
-    "location": "Shoreditch Exchange with Oneder, Gorsuch Pl, London E2 8JF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/g02ixk1f",
-    "hosts": [
-      "PLUGGED"
-    ],
-    "attendee_count": 23,
-    "scraped_date": "2026-04-30T08:09:43.929375"
-  },
-  {
-    "name": "Encode Hub Games Night",
-    "date": "2026-04-30T17:30:00.000Z",
-    "end_date": "2026-04-30T19:30:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/xbrn4dkq",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:37.534319"
-  },
-  {
-    "name": "Build 2036",
-    "date": "2026-04-30T18:00:00.000Z",
-    "end_date": "2026-04-30T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/y1j4g4ug",
-    "hosts": [
-      "Entrepreneurs First",
-      "Sasha D."
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:43.929411"
-  },
-  {
     "name": "The MongoDB Agentic Evolution Hackathon | Co-hosted with LangChain, NVIDIA, Emergent Labs, and more",
     "date": "2026-05-02T08:00:00.000Z",
     "end_date": "2026-05-02T20:00:00.000Z",
@@ -115,7 +13,7 @@
       "MongoDB"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:43.929437"
+    "scraped_date": "2026-05-01T08:05:23.537060"
   },
   {
     "name": "HackWimbledon May 2026 #1",
@@ -132,7 +30,7 @@
       "Andy Piper"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-04-30T08:09:37.534360"
+    "scraped_date": "2026-05-01T08:05:18.472369"
   },
   {
     "name": "Campaign Lab Spring Hack Night!",
@@ -147,8 +45,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 7,
-    "scraped_date": "2026-04-30T08:09:37.534382"
+    "attendee_count": 8,
+    "scraped_date": "2026-05-01T08:05:18.472397"
   },
   {
     "name": "Building with ARIA: Unlocking an Innovation Ecosystem",
@@ -166,7 +64,7 @@
       "Nucleate Luma"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:37.534400"
+    "scraped_date": "2026-05-01T08:05:18.472423"
   },
   {
     "name": "SDR Leaders of EMEA Hack Night - London Powered by Replit + Clay & Roamr",
@@ -185,7 +83,7 @@
       "Alastair Chamberlin"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:43.929498"
+    "scraped_date": "2026-05-01T08:05:23.537164"
   },
   {
     "name": "Encode AI Demo Night 2.0",
@@ -202,7 +100,7 @@
       "Daniel Colaianni"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:43.929509"
+    "scraped_date": "2026-05-01T08:05:23.537182"
   },
   {
     "name": "Open Code #9",
@@ -218,7 +116,23 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:43.929522"
+    "scraped_date": "2026-05-01T08:05:23.537196"
+  },
+  {
+    "name": "Digital and Cyber Resiliency: Beyond Compliance and Building a Resilience Culture",
+    "date": "2026-05-07T08:00:00.000Z",
+    "end_date": "2026-05-07T14:30:00.000Z",
+    "location": "Exponential-e, 100 Leman St, London E1 8EU, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/trdj6aof",
+    "hosts": [
+      "Future Water Association"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-01T08:05:18.472472"
   },
   {
     "name": "MongoDB.local London: For Founders Building What’s Next",
@@ -233,8 +147,8 @@
     "hosts": [
       "MongoDB"
     ],
-    "attendee_count": 421,
-    "scraped_date": "2026-04-30T08:09:43.929542"
+    "attendee_count": 440,
+    "scraped_date": "2026-05-01T08:05:23.537217"
   },
   {
     "name": "GeoJam: A GeoAI Evening Hackathon",
@@ -251,6 +165,72 @@
       "Juan G"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-04-30T08:09:43.929557"
+    "scraped_date": "2026-05-01T08:05:23.537232"
+  },
+  {
+    "name": "LSE Generate x Lovable: Access by Design Hackathon",
+    "date": "2026-05-08T09:00:00.000Z",
+    "end_date": "2026-05-08T18:30:00.000Z",
+    "location": "LSE Generate, The GenDen, Clare Market, London WC2A 2AB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/mwzjx2wz",
+    "hosts": [
+      "LSE Generate"
+    ],
+    "attendee_count": 57,
+    "scraped_date": "2026-05-01T08:05:23.537266"
+  },
+  {
+    "name": "Encode Hub 1 Year Birthday Party!",
+    "date": "2026-05-08T17:30:00.000Z",
+    "end_date": "2026-05-08T21:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/keswgm5f",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 132,
+    "scraped_date": "2026-05-01T08:05:18.472528"
+  },
+  {
+    "name": "AI for the Real World Hack",
+    "date": "2026-05-09T09:00:00.000Z",
+    "end_date": "2026-05-09T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ai-real-world-hack",
+    "hosts": [
+      "Juhana Peltomaa",
+      "Michelangelo Pagliara",
+      "David Pacák"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-01T08:05:23.537284"
+  },
+  {
+    "name": "Build an AI Agent IRL [Female Founders]",
+    "date": "2026-05-11T17:00:00.000Z",
+    "end_date": "2026-05-11T19:30:00.000Z",
+    "location": "The Ministry, Borough | Workspace & Members' Club | South London, 79-81 Borough Rd, London SE1 1DN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ymqnh05w",
+    "hosts": [
+      "Emmie and Team FFR"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-01T08:05:23.537307"
   }
 ]
