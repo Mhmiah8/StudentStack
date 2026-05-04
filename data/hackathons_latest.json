@@ -1,22 +1,5 @@
 [
   {
-    "name": "HackWimbledon May 2026 #1",
-    "date": "2026-05-03T11:00:00.000Z",
-    "end_date": "2026-05-03T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ca25ewm3",
-    "hosts": [
-      "Bazza",
-      "Andy Piper"
-    ],
-    "attendee_count": 7,
-    "scraped_date": "2026-05-03T07:52:34.100704"
-  },
-  {
     "name": "Campaign Lab Spring Hack Night!",
     "date": "2026-05-04T18:00:00.000Z",
     "end_date": "2026-05-04T21:00:00.000Z",
@@ -30,7 +13,7 @@
       "Noam"
     ],
     "attendee_count": 10,
-    "scraped_date": "2026-05-03T07:52:34.100731"
+    "scraped_date": "2026-05-04T08:21:58.579715"
   },
   {
     "name": "Building with ARIA: Unlocking an Innovation Ecosystem",
@@ -48,7 +31,7 @@
       "Nucleate Luma"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:34.100770"
+    "scraped_date": "2026-05-04T08:21:58.579780"
   },
   {
     "name": "SDR Leaders of EMEA Hack Night - London Powered by Replit + Clay & Roamr",
@@ -67,7 +50,7 @@
       "Alastair Chamberlin"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:40.378093"
+    "scraped_date": "2026-05-04T08:22:03.567035"
   },
   {
     "name": "Encode AI Demo Night 2.0",
@@ -84,7 +67,7 @@
       "Daniel Colaianni"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:40.378122"
+    "scraped_date": "2026-05-04T08:22:03.567060"
   },
   {
     "name": "Open Code #9",
@@ -100,7 +83,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:40.378135"
+    "scraped_date": "2026-05-04T08:22:03.567073"
   },
   {
     "name": "Digital and Cyber Resiliency: Beyond Compliance and Building a Resilience Culture",
@@ -116,7 +99,7 @@
       "Future Water Association"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:34.100823"
+    "scraped_date": "2026-05-04T08:21:58.579848"
   },
   {
     "name": "MongoDB.local London: For Founders Building What’s Next",
@@ -131,8 +114,8 @@
     "hosts": [
       "MongoDB"
     ],
-    "attendee_count": 469,
-    "scraped_date": "2026-05-03T07:52:40.378158"
+    "attendee_count": 482,
+    "scraped_date": "2026-05-04T08:22:03.567099"
   },
   {
     "name": "GeoJam: A GeoAI Evening Hackathon",
@@ -149,7 +132,26 @@
       "Juan G"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:40.378176"
+    "scraped_date": "2026-05-04T08:22:03.567116"
+  },
+  {
+    "name": "Operators & Founders Dinner: Building in SF with Cactus (YC25)",
+    "date": "2026-05-07T17:30:00.000Z",
+    "end_date": "2026-05-07T21:30:00.000Z",
+    "location": "57 Bermondsey St, London SE1 3XF, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/36vlt1o3",
+    "hosts": [
+      "Seyi Oluwasanmi",
+      "Kofi siaw",
+      "Toyosi Ogedengbe",
+      "Yvonne Bajela"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-04T08:21:58.579883"
   },
   {
     "name": "LSE Generate x Lovable: Access by Design Hackathon",
@@ -164,8 +166,8 @@
     "hosts": [
       "LSE Generate"
     ],
-    "attendee_count": 66,
-    "scraped_date": "2026-05-03T07:52:40.378210"
+    "attendee_count": 69,
+    "scraped_date": "2026-05-04T08:22:03.567155"
   },
   {
     "name": "Encode Hub 1 Year Birthday Party!",
@@ -180,8 +182,8 @@
     "hosts": [
       "Encode Club"
     ],
-    "attendee_count": 158,
-    "scraped_date": "2026-05-03T07:52:34.100866"
+    "attendee_count": 161,
+    "scraped_date": "2026-05-04T08:21:58.579916"
   },
   {
     "name": "Future Founders Hackathon - AWS",
@@ -198,7 +200,7 @@
       "Sunjana Ramana"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:40.378228"
+    "scraped_date": "2026-05-04T08:22:03.567174"
   },
   {
     "name": "AI for the Real World Hack",
@@ -216,7 +218,7 @@
       "David Pacák"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:40.378239"
+    "scraped_date": "2026-05-04T08:22:03.567186"
   },
   {
     "name": "Build an AI Agent IRL [Female Founders]",
@@ -232,7 +234,7 @@
       "Emmie and Team FFR"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-03T07:52:40.378262"
+    "scraped_date": "2026-05-04T08:22:03.567212"
   },
   {
     "name": "The Live AI Strategy Build: watch us build one, learn how to build yours",
@@ -247,7 +249,7 @@
     "hosts": [
       "Oneder"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-05-03T07:52:40.378280"
+    "attendee_count": 15,
+    "scraped_date": "2026-05-04T08:22:03.567231"
   }
 ]
