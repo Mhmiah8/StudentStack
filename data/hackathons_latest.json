@@ -1,23 +1,5 @@
 [
   {
-    "name": "Building with ARIA: Unlocking an Innovation Ecosystem",
-    "date": "2026-05-05T17:00:00.000Z",
-    "end_date": "2026-05-05T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/114nkfj1",
-    "hosts": [
-      "Nucleate UK",
-      "Stefan Dienstag",
-      "Nucleate Luma"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:28.849237"
-  },
-  {
     "name": "SDR Leaders of EMEA Hack Night - London Powered by Replit + Clay & Roamr",
     "date": "2026-05-06T17:00:00.000Z",
     "end_date": "2026-05-06T20:00:00.000Z",
@@ -34,7 +16,7 @@
       "Alastair Chamberlin"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:33.850980"
+    "scraped_date": "2026-05-06T08:13:34.550929"
   },
   {
     "name": "Encode AI Demo Night 2.0",
@@ -51,7 +33,7 @@
       "Daniel Colaianni"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:33.851003"
+    "scraped_date": "2026-05-06T08:13:34.550947"
   },
   {
     "name": "Open Code #9",
@@ -67,7 +49,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:33.851014"
+    "scraped_date": "2026-05-06T08:13:34.550957"
   },
   {
     "name": "Digital and Cyber Resiliency: Beyond Compliance and Building a Resilience Culture",
@@ -83,7 +65,7 @@
       "Future Water Association"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:28.849315"
+    "scraped_date": "2026-05-06T08:13:29.771664"
   },
   {
     "name": "MongoDB.local London: For Founders Building What’s Next",
@@ -98,8 +80,8 @@
     "hosts": [
       "MongoDB"
     ],
-    "attendee_count": 534,
-    "scraped_date": "2026-05-05T07:59:33.851039"
+    "attendee_count": 580,
+    "scraped_date": "2026-05-06T08:13:34.550974"
   },
   {
     "name": "GeoJam: A GeoAI Evening Hackathon",
@@ -116,7 +98,7 @@
       "Juan G"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:33.851055"
+    "scraped_date": "2026-05-06T08:13:34.550988"
   },
   {
     "name": "Operators & Founders Dinner: Building in SF with Cactus (YC25)",
@@ -135,7 +117,7 @@
       "Yvonne Bajela"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:28.849346"
+    "scraped_date": "2026-05-06T08:13:29.771884"
   },
   {
     "name": "LSE Generate x Lovable: Access by Design Hackathon",
@@ -150,8 +132,8 @@
     "hosts": [
       "LSE Generate"
     ],
-    "attendee_count": 72,
-    "scraped_date": "2026-05-05T07:59:33.851087"
+    "attendee_count": 74,
+    "scraped_date": "2026-05-06T08:13:34.551027"
   },
   {
     "name": "Encode Hub 1 Year Birthday Party!",
@@ -166,8 +148,8 @@
     "hosts": [
       "Encode Club"
     ],
-    "attendee_count": 163,
-    "scraped_date": "2026-05-05T07:59:28.849387"
+    "attendee_count": 172,
+    "scraped_date": "2026-05-06T08:13:29.771990"
   },
   {
     "name": "Future Founders Hackathon - AWS",
@@ -184,7 +166,7 @@
       "Sunjana Ramana"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:33.851104"
+    "scraped_date": "2026-05-06T08:13:34.551041"
   },
   {
     "name": "AI for the Real World Hack",
@@ -202,7 +184,7 @@
       "David Pacák"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:33.851113"
+    "scraped_date": "2026-05-06T08:13:34.551052"
   },
   {
     "name": "Build an AI Agent IRL [Founders]",
@@ -218,12 +200,12 @@
       "Emmie and Team FFR"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-05T07:59:33.851134"
+    "scraped_date": "2026-05-06T08:13:34.551073"
   },
   {
     "name": "The Live AI Strategy Build: watch us build one, learn how to build yours",
     "date": "2026-05-12T09:00:00.000Z",
-    "end_date": "2026-05-12T15:00:00.000Z",
+    "end_date": "2026-05-12T13:00:00.000Z",
     "location": "Kindling with Oneder, Mediaworks, Ground Floor, 191 Wood Ln, London W12 7FP, UK",
     "city": "London",
     "country": "United Kingdom",
@@ -233,7 +215,26 @@
     "hosts": [
       "Oneder"
     ],
-    "attendee_count": 16,
-    "scraped_date": "2026-05-05T07:59:33.851150"
+    "attendee_count": 18,
+    "scraped_date": "2026-05-06T08:13:34.551088"
+  },
+  {
+    "name": "Builders Collective w/ AWS - 10x Dev Roundtable",
+    "date": "2026-05-13T14:00:00.000Z",
+    "end_date": "2026-05-13T19:30:00.000Z",
+    "location": "60 Holborn Viaduct, London EC1A 2FD, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/n2fricxg",
+    "hosts": [
+      "Siddharth",
+      "Marco Muttoni",
+      "Abhinath Kumar",
+      "Camillo Anania"
+    ],
+    "attendee_count": 15,
+    "scraped_date": "2026-05-06T08:13:34.551106"
   }
 ]
