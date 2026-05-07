@@ -1,89 +1,5 @@
 [
   {
-    "name": "SDR Leaders of EMEA Hack Night - London Powered by Replit + Clay & Roamr",
-    "date": "2026-05-06T17:00:00.000Z",
-    "end_date": "2026-05-06T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ssedwu83",
-    "hosts": [
-      "David Wilkins",
-      "Roxy Brierley",
-      "Phil Woolley",
-      "Alastair Chamberlin"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:34.550929"
-  },
-  {
-    "name": "Encode AI Demo Night 2.0",
-    "date": "2026-05-06T17:30:00.000Z",
-    "end_date": "2026-05-06T19:30:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/d906m04t",
-    "hosts": [
-      "Encode Club",
-      "Daniel Colaianni"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:34.550947"
-  },
-  {
-    "name": "Open Code #9",
-    "date": "2026-05-06T17:30:00.000Z",
-    "end_date": "2026-05-06T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/g9vnnpt6",
-    "hosts": [
-      "LocalGlobe"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:34.550957"
-  },
-  {
-    "name": "Digital and Cyber Resiliency: Beyond Compliance and Building a Resilience Culture",
-    "date": "2026-05-07T08:00:00.000Z",
-    "end_date": "2026-05-07T14:30:00.000Z",
-    "location": "Exponential-e, 100 Leman St, London E1 8EU, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/trdj6aof",
-    "hosts": [
-      "Future Water Association"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:29.771664"
-  },
-  {
-    "name": "MongoDB.local London: For Founders Building What’s Next",
-    "date": "2026-05-07T08:00:00.000Z",
-    "end_date": "2026-05-07T15:00:00.000Z",
-    "location": "1 Old Billingsgate Walk (Riverside, 16 Lower Thames St, London EC3R 6DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/17mpuzyj",
-    "hosts": [
-      "MongoDB"
-    ],
-    "attendee_count": 580,
-    "scraped_date": "2026-05-06T08:13:34.550974"
-  },
-  {
     "name": "GeoJam: A GeoAI Evening Hackathon",
     "date": "2026-05-07T16:30:00.000Z",
     "end_date": "2026-05-07T19:00:00.000Z",
@@ -98,7 +14,7 @@
       "Juan G"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:34.550988"
+    "scraped_date": "2026-05-07T08:23:57.182458"
   },
   {
     "name": "Operators & Founders Dinner: Building in SF with Cactus (YC25)",
@@ -117,7 +33,7 @@
       "Yvonne Bajela"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:29.771884"
+    "scraped_date": "2026-05-07T08:23:51.846735"
   },
   {
     "name": "LSE Generate x Lovable: Access by Design Hackathon",
@@ -132,8 +48,8 @@
     "hosts": [
       "LSE Generate"
     ],
-    "attendee_count": 74,
-    "scraped_date": "2026-05-06T08:13:34.551027"
+    "attendee_count": 75,
+    "scraped_date": "2026-05-07T08:23:57.182504"
   },
   {
     "name": "Encode Hub 1 Year Birthday Party!",
@@ -148,8 +64,8 @@
     "hosts": [
       "Encode Club"
     ],
-    "attendee_count": 172,
-    "scraped_date": "2026-05-06T08:13:29.771990"
+    "attendee_count": 236,
+    "scraped_date": "2026-05-07T08:23:51.846782"
   },
   {
     "name": "Future Founders Hackathon - AWS",
@@ -166,7 +82,7 @@
       "Sunjana Ramana"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:34.551041"
+    "scraped_date": "2026-05-07T08:23:57.182523"
   },
   {
     "name": "AI for the Real World Hack",
@@ -184,7 +100,7 @@
       "David Pacák"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:34.551052"
+    "scraped_date": "2026-05-07T08:23:57.182537"
   },
   {
     "name": "Build an AI Agent IRL [Founders]",
@@ -200,7 +116,7 @@
       "Emmie and Team FFR"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-06T08:13:34.551073"
+    "scraped_date": "2026-05-07T08:23:57.182564"
   },
   {
     "name": "The Live AI Strategy Build: watch us build one, learn how to build yours",
@@ -215,8 +131,8 @@
     "hosts": [
       "Oneder"
     ],
-    "attendee_count": 18,
-    "scraped_date": "2026-05-06T08:13:34.551088"
+    "attendee_count": 19,
+    "scraped_date": "2026-05-07T08:23:57.182583"
   },
   {
     "name": "Builders Collective w/ AWS - 10x Dev Roundtable",
@@ -234,7 +150,91 @@
       "Abhinath Kumar",
       "Camillo Anania"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-05-06T08:13:34.551106"
+    "attendee_count": 19,
+    "scraped_date": "2026-05-07T08:23:57.182601"
+  },
+  {
+    "name": "London | Claude Code Curious #5",
+    "date": "2026-05-13T17:00:00.000Z",
+    "end_date": "2026-05-13T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/claude-code-curious-5",
+    "hosts": [
+      "Max Tatton-Brown",
+      "Shreman Shrestha"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-07T08:23:57.182622"
+  },
+  {
+    "name": "Open Code #10",
+    "date": "2026-05-13T17:30:00.000Z",
+    "end_date": "2026-05-13T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/4sdjseyu",
+    "hosts": [
+      "LocalGlobe"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-07T08:23:57.182633"
+  },
+  {
+    "name": "8th Skills4Startups Global Business Roadshow - Building the Future of Business Together in Association with Barclays Innovation Hub.",
+    "date": "2026-05-14T07:30:00.000Z",
+    "end_date": "2026-05-14T16:00:00.000Z",
+    "location": "Barclays Innovation Hub Powered by Eagle Labs, 41 Luke St, London EC2A 4DP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2xw8b8zd",
+    "hosts": [
+      "Sophie Azam",
+      "Des OConnor"
+    ],
+    "attendee_count": 52,
+    "scraped_date": "2026-05-07T08:23:57.182645"
+  },
+  {
+    "name": "Canva Code AI Hackathon for Event Professionals and Community Builders",
+    "date": "2026-05-14T11:00:00.000Z",
+    "end_date": "2026-05-14T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/canva-code-hackathon",
+    "hosts": [
+      "Francisco Opazo"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-07T08:23:57.182662"
+  },
+  {
+    "name": "Building Again: An Event For Second Time Founder's (@Google's HQ)",
+    "date": "2026-05-14T16:30:00.000Z",
+    "end_date": "2026-05-14T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/uz6l6nom",
+    "hosts": [
+      "Jay Radia",
+      "Meelan Radia",
+      "Akhil Vaswani (Blissgrowth)"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-07T08:23:57.182673"
   }
 ]
