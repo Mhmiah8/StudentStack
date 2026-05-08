@@ -1,41 +1,5 @@
 [
   {
-    "name": "GeoJam: A GeoAI Evening Hackathon",
-    "date": "2026-05-07T16:30:00.000Z",
-    "end_date": "2026-05-07T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/s0o43hpi",
-    "hosts": [
-      "GeoJam",
-      "Juan G"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:57.182458"
-  },
-  {
-    "name": "Operators & Founders Dinner: Building in SF with Cactus (YC25)",
-    "date": "2026-05-07T17:30:00.000Z",
-    "end_date": "2026-05-07T21:30:00.000Z",
-    "location": "57 Bermondsey St, London SE1 3XF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/36vlt1o3",
-    "hosts": [
-      "Seyi Oluwasanmi",
-      "Kofi siaw",
-      "Toyosi Ogedengbe",
-      "Yvonne Bajela"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:51.846735"
-  },
-  {
     "name": "LSE Generate x Lovable: Access by Design Hackathon",
     "date": "2026-05-08T09:00:00.000Z",
     "end_date": "2026-05-08T18:30:00.000Z",
@@ -48,8 +12,8 @@
     "hosts": [
       "LSE Generate"
     ],
-    "attendee_count": 75,
-    "scraped_date": "2026-05-07T08:23:57.182504"
+    "attendee_count": 74,
+    "scraped_date": "2026-05-08T07:20:52.569544"
   },
   {
     "name": "Encode Hub 1 Year Birthday Party!",
@@ -64,8 +28,25 @@
     "hosts": [
       "Encode Club"
     ],
-    "attendee_count": 236,
-    "scraped_date": "2026-05-07T08:23:51.846782"
+    "attendee_count": 276,
+    "scraped_date": "2026-05-08T07:20:47.723878"
+  },
+  {
+    "name": "Big Screen Hack London",
+    "date": "2026-05-08T18:00:00.000Z",
+    "end_date": "2026-05-10T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bsuuql7j",
+    "hosts": [
+      "Aaron Jones",
+      "Ed Rigg"
+    ],
+    "attendee_count": 220,
+    "scraped_date": "2026-05-08T07:20:52.569578"
   },
   {
     "name": "Future Founders Hackathon - AWS",
@@ -82,7 +63,7 @@
       "Sunjana Ramana"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:57.182523"
+    "scraped_date": "2026-05-08T07:20:52.569592"
   },
   {
     "name": "AI for the Real World Hack",
@@ -100,7 +81,7 @@
       "David Pacák"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:57.182537"
+    "scraped_date": "2026-05-08T07:20:52.569607"
   },
   {
     "name": "Build an AI Agent IRL [Founders]",
@@ -116,7 +97,7 @@
       "Emmie and Team FFR"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:57.182564"
+    "scraped_date": "2026-05-08T07:20:52.569640"
   },
   {
     "name": "The Live AI Strategy Build: watch us build one, learn how to build yours",
@@ -131,14 +112,14 @@
     "hosts": [
       "Oneder"
     ],
-    "attendee_count": 19,
-    "scraped_date": "2026-05-07T08:23:57.182583"
+    "attendee_count": 27,
+    "scraped_date": "2026-05-08T07:20:52.569658"
   },
   {
     "name": "Builders Collective w/ AWS - 10x Dev Roundtable",
     "date": "2026-05-13T14:00:00.000Z",
     "end_date": "2026-05-13T19:30:00.000Z",
-    "location": "60 Holborn Viaduct, London EC1A 2FD, UK",
+    "location": "Amazon LHR16, 1 Principal Pl, Worship St, London EC2A 2FA, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
@@ -151,7 +132,7 @@
       "Camillo Anania"
     ],
     "attendee_count": 19,
-    "scraped_date": "2026-05-07T08:23:57.182601"
+    "scraped_date": "2026-05-08T07:20:52.569681"
   },
   {
     "name": "London | Claude Code Curious #5",
@@ -168,7 +149,7 @@
       "Shreman Shrestha"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:57.182622"
+    "scraped_date": "2026-05-08T07:20:52.569706"
   },
   {
     "name": "Open Code #10",
@@ -184,7 +165,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:57.182633"
+    "scraped_date": "2026-05-08T07:20:52.569723"
   },
   {
     "name": "8th Skills4Startups Global Business Roadshow - Building the Future of Business Together in Association with Barclays Innovation Hub.",
@@ -201,7 +182,7 @@
       "Des OConnor"
     ],
     "attendee_count": 52,
-    "scraped_date": "2026-05-07T08:23:57.182645"
+    "scraped_date": "2026-05-08T07:20:52.569732"
   },
   {
     "name": "Canva Code AI Hackathon for Event Professionals and Community Builders",
@@ -217,24 +198,61 @@
       "Francisco Opazo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:57.182662"
+    "scraped_date": "2026-05-08T07:20:52.569753"
   },
   {
-    "name": "Building Again: An Event For Second Time Founder's (@Google's HQ)",
-    "date": "2026-05-14T16:30:00.000Z",
-    "end_date": "2026-05-14T21:00:00.000Z",
+    "name": "AI Builders Monthly London",
+    "date": "2026-05-14T17:00:00.000Z",
+    "end_date": "2026-05-14T20:15:00.000Z",
+    "location": "beyond The Bower, 207 Old St, London EC1V 9NR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lon-may14",
+    "hosts": [
+      "AI Builders",
+      "Arthur Poot",
+      "Georgia",
+      "Flo *",
+      "Joyce Kuang"
+    ],
+    "attendee_count": 15,
+    "scraped_date": "2026-05-08T07:20:52.569771"
+  },
+  {
+    "name": "Building with MCP",
+    "date": "2026-05-14T17:00:00.000Z",
+    "end_date": "2026-05-14T20:00:00.000Z",
+    "location": "Cloudflare, 6th Floor, County Hall/The, Riverside Building, Belvedere Rd, London SE1 7PB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/eb8j6lhu",
+    "hosts": [
+      "Ana Cidre",
+      "Carly Richmond",
+      "Cloudflare Developer",
+      "Liam Hampton"
+    ],
+    "attendee_count": 125,
+    "scraped_date": "2026-05-08T07:20:52.569783"
+  },
+  {
+    "name": "The Technical Leader's Playbook: Delivering From Code To Boardroom",
+    "date": "2026-05-14T17:00:00.000Z",
+    "end_date": "2026-05-14T20:00:00.000Z",
     "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/uz6l6nom",
+    "url": "https://lu.ma/i7fszpoi",
     "hosts": [
-      "Jay Radia",
-      "Meelan Radia",
-      "Akhil Vaswani (Blissgrowth)"
+      "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-07T08:23:57.182673"
+    "scraped_date": "2026-05-08T07:20:52.569797"
   }
 ]
