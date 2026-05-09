@@ -1,54 +1,5 @@
 [
   {
-    "name": "LSE Generate x Lovable: Access by Design Hackathon",
-    "date": "2026-05-08T09:00:00.000Z",
-    "end_date": "2026-05-08T18:30:00.000Z",
-    "location": "LSE Generate, The GenDen, Clare Market, London WC2A 2AB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/mwzjx2wz",
-    "hosts": [
-      "LSE Generate"
-    ],
-    "attendee_count": 74,
-    "scraped_date": "2026-05-08T07:20:52.569544"
-  },
-  {
-    "name": "Encode Hub 1 Year Birthday Party!",
-    "date": "2026-05-08T17:30:00.000Z",
-    "end_date": "2026-05-08T21:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/keswgm5f",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 276,
-    "scraped_date": "2026-05-08T07:20:47.723878"
-  },
-  {
-    "name": "Big Screen Hack London",
-    "date": "2026-05-08T18:00:00.000Z",
-    "end_date": "2026-05-10T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bsuuql7j",
-    "hosts": [
-      "Aaron Jones",
-      "Ed Rigg"
-    ],
-    "attendee_count": 220,
-    "scraped_date": "2026-05-08T07:20:52.569578"
-  },
-  {
     "name": "Future Founders Hackathon - AWS",
     "date": "2026-05-09T08:00:00.000Z",
     "end_date": "2026-05-09T17:30:00.000Z",
@@ -63,7 +14,7 @@
       "Sunjana Ramana"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-08T07:20:52.569592"
+    "scraped_date": "2026-05-09T07:47:49.784546"
   },
   {
     "name": "AI for the Real World Hack",
@@ -81,7 +32,7 @@
       "David Pacák"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-08T07:20:52.569607"
+    "scraped_date": "2026-05-09T07:47:49.784578"
   },
   {
     "name": "Build an AI Agent IRL [Founders]",
@@ -97,7 +48,7 @@
       "Emmie and Team FFR"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-08T07:20:52.569640"
+    "scraped_date": "2026-05-09T07:47:49.784616"
   },
   {
     "name": "The Live AI Strategy Build: watch us build one, learn how to build yours",
@@ -112,8 +63,8 @@
     "hosts": [
       "Oneder"
     ],
-    "attendee_count": 27,
-    "scraped_date": "2026-05-08T07:20:52.569658"
+    "attendee_count": 29,
+    "scraped_date": "2026-05-09T07:47:49.784638"
   },
   {
     "name": "Builders Collective w/ AWS - 10x Dev Roundtable",
@@ -132,7 +83,7 @@
       "Camillo Anania"
     ],
     "attendee_count": 19,
-    "scraped_date": "2026-05-08T07:20:52.569681"
+    "scraped_date": "2026-05-09T07:47:49.784667"
   },
   {
     "name": "London | Claude Code Curious #5",
@@ -149,7 +100,7 @@
       "Shreman Shrestha"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-08T07:20:52.569706"
+    "scraped_date": "2026-05-09T07:47:49.784693"
   },
   {
     "name": "Open Code #10",
@@ -165,7 +116,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-08T07:20:52.569723"
+    "scraped_date": "2026-05-09T07:47:49.784720"
   },
   {
     "name": "8th Skills4Startups Global Business Roadshow - Building the Future of Business Together in Association with Barclays Innovation Hub.",
@@ -181,8 +132,8 @@
       "Sophie Azam",
       "Des OConnor"
     ],
-    "attendee_count": 52,
-    "scraped_date": "2026-05-08T07:20:52.569732"
+    "attendee_count": 53,
+    "scraped_date": "2026-05-09T07:47:49.784734"
   },
   {
     "name": "Canva Code AI Hackathon for Event Professionals and Community Builders",
@@ -198,7 +149,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-08T07:20:52.569753"
+    "scraped_date": "2026-05-09T07:47:49.784759"
   },
   {
     "name": "AI Builders Monthly London",
@@ -217,8 +168,8 @@
       "Flo *",
       "Joyce Kuang"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-05-08T07:20:52.569771"
+    "attendee_count": 19,
+    "scraped_date": "2026-05-09T07:47:49.784781"
   },
   {
     "name": "Building with MCP",
@@ -236,8 +187,8 @@
       "Cloudflare Developer",
       "Liam Hampton"
     ],
-    "attendee_count": 125,
-    "scraped_date": "2026-05-08T07:20:52.569783"
+    "attendee_count": 165,
+    "scraped_date": "2026-05-09T07:47:49.784797"
   },
   {
     "name": "The Technical Leader's Playbook: Delivering From Code To Boardroom",
@@ -253,6 +204,42 @@
       "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-08T07:20:52.569797"
+    "scraped_date": "2026-05-09T07:47:49.784814"
+  },
+  {
+    "name": "Frontier Fusion – AI & OnChain Innovation at Encode Hub",
+    "date": "2026-05-15T17:00:00.000Z",
+    "end_date": "2026-05-15T21:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/6qp3m6k8",
+    "hosts": [
+      "Mark (Chewie)",
+      "Ohjay",
+      "Eftimie",
+      "Superteam UK",
+      "Encode Club"
+    ],
+    "attendee_count": 103,
+    "scraped_date": "2026-05-09T07:47:49.784844"
+  },
+  {
+    "name": "AI Builders Coffee – for Women in London",
+    "date": "2026-05-16T12:00:00.000Z",
+    "end_date": "2026-05-16T14:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bxhbh217",
+    "hosts": [
+      "Ayca Ilhan"
+    ],
+    "attendee_count": 26,
+    "scraped_date": "2026-05-09T07:47:49.784861"
   }
 ]
