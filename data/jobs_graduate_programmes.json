@@ -611,7 +611,7 @@
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
     "categories": [
-      "Sponsors",
+      "Promoted",
       "Software Engineering"
     ],
     "season": "2026",
@@ -1125,6 +1125,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-03-19T06:51:00.588049"
+  },
+  {
+    "id": "m7m6ec0nmo",
+    "company": "Ultra I&C",
+    "programme": "Graduate Software Engineer",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-04-17T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://ultra.wd3.myworkdayjobs.com/en-US/UICCareers/job/Graduate-Software-Engineer_REQ-11210-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-05-11T09:29:18.930443"
   },
   {
     "id": "muuwphcilz",

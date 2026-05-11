@@ -13,7 +13,7 @@
       "Emmie and Team FFR"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-10T08:01:07.039238"
+    "scraped_date": "2026-05-11T09:29:32.993424"
   },
   {
     "name": "The Live AI Strategy Build: watch us build one, learn how to build yours",
@@ -28,8 +28,8 @@
     "hosts": [
       "Oneder"
     ],
-    "attendee_count": 32,
-    "scraped_date": "2026-05-10T08:01:07.039274"
+    "attendee_count": 34,
+    "scraped_date": "2026-05-11T09:29:32.993478"
   },
   {
     "name": "Builders Collective w/ AWS - 10x Dev Roundtable",
@@ -47,8 +47,8 @@
       "Abhinath Kumar",
       "Camillo Anania"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-05-10T08:01:07.039302"
+    "attendee_count": 21,
+    "scraped_date": "2026-05-11T09:29:32.993516"
   },
   {
     "name": "London | Claude Code Curious #5",
@@ -65,7 +65,7 @@
       "Shreman Shrestha"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-10T08:01:07.039329"
+    "scraped_date": "2026-05-11T09:29:32.993548"
   },
   {
     "name": "Open Code #10",
@@ -81,7 +81,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-10T08:01:07.039349"
+    "scraped_date": "2026-05-11T09:29:32.993575"
   },
   {
     "name": "8th Skills4Startups Global Business Roadshow - Building the Future of Business Together in Association with Barclays Innovation Hub.",
@@ -97,8 +97,8 @@
       "Sophie Azam",
       "Des OConnor"
     ],
-    "attendee_count": 53,
-    "scraped_date": "2026-05-10T08:01:07.039360"
+    "attendee_count": 56,
+    "scraped_date": "2026-05-11T09:29:32.993589"
   },
   {
     "name": "Canva Code AI Hackathon for Event Professionals and Community Builders",
@@ -114,7 +114,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-10T08:01:07.039380"
+    "scraped_date": "2026-05-11T09:29:32.993617"
   },
   {
     "name": "AI Builders Monthly London",
@@ -133,8 +133,8 @@
       "Flo *",
       "Joyce Kuang"
     ],
-    "attendee_count": 19,
-    "scraped_date": "2026-05-10T08:01:07.039406"
+    "attendee_count": 24,
+    "scraped_date": "2026-05-11T09:29:32.993647"
   },
   {
     "name": "Building with MCP",
@@ -152,8 +152,8 @@
       "Cloudflare Developer",
       "Liam Hampton"
     ],
-    "attendee_count": 183,
-    "scraped_date": "2026-05-10T08:01:07.039421"
+    "attendee_count": 229,
+    "scraped_date": "2026-05-11T09:29:32.993666"
   },
   {
     "name": "The Technical Leader's Playbook: Delivering From Code To Boardroom",
@@ -169,7 +169,7 @@
       "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-10T08:01:07.039435"
+    "scraped_date": "2026-05-11T09:29:32.993687"
   },
   {
     "name": "Frontier Fusion – AI & OnChain Innovation at Encode Hub",
@@ -188,24 +188,8 @@
       "Superteam UK",
       "Encode Club"
     ],
-    "attendee_count": 102,
-    "scraped_date": "2026-05-10T08:01:07.039459"
-  },
-  {
-    "name": "AI Builders Coffee – for Women in London",
-    "date": "2026-05-16T12:00:00.000Z",
-    "end_date": "2026-05-16T14:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bxhbh217",
-    "hosts": [
-      "Ayca Ilhan"
-    ],
-    "attendee_count": 27,
-    "scraped_date": "2026-05-10T08:01:07.039476"
+    "attendee_count": 108,
+    "scraped_date": "2026-05-11T09:29:32.993720"
   },
   {
     "name": "Build Your First AI Agent | Dust x Paatch",
@@ -220,9 +204,27 @@
     "hosts": [
       "Paatch ™",
       "Louis-Nicolas Roussel",
-      "Alexandre Moog"
+      "Alexandre Moog",
+      "Daniel Colaianni",
+      "IDEALondon"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-10T08:01:07.039491"
+    "scraped_date": "2026-05-11T09:29:32.993743"
+  },
+  {
+    "name": "🚀 Google I/O 2026 Watch Party + Build with AI Hack Night and AIDevCamp Award Ceremony",
+    "date": "2026-05-19T16:00:00.000Z",
+    "end_date": "2026-05-19T20:00:00.000Z",
+    "location": "NewDay, 7 Handyside St, London N1C 4DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/urm40pjn",
+    "hosts": [
+      "GDG London"
+    ],
+    "attendee_count": 151,
+    "scraped_date": "2026-05-11T09:29:32.993773"
   }
 ]
