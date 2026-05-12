@@ -1,21 +1,5 @@
 [
   {
-    "name": "Build an AI Agent IRL [Founders]",
-    "date": "2026-05-11T17:00:00.000Z",
-    "end_date": "2026-05-11T19:30:00.000Z",
-    "location": "The Ministry, Borough | Workspace & Members' Club | South London, 79-81 Borough Rd, London SE1 1DN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ymqnh05w",
-    "hosts": [
-      "Emmie and Team FFR"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-11T09:29:32.993424"
-  },
-  {
     "name": "The Live AI Strategy Build: watch us build one, learn how to build yours",
     "date": "2026-05-12T09:00:00.000Z",
     "end_date": "2026-05-12T13:00:00.000Z",
@@ -28,8 +12,8 @@
     "hosts": [
       "Oneder"
     ],
-    "attendee_count": 34,
-    "scraped_date": "2026-05-11T09:29:32.993478"
+    "attendee_count": 38,
+    "scraped_date": "2026-05-12T08:30:47.235297"
   },
   {
     "name": "Builders Collective w/ AWS - 10x Dev Roundtable",
@@ -47,8 +31,8 @@
       "Abhinath Kumar",
       "Camillo Anania"
     ],
-    "attendee_count": 21,
-    "scraped_date": "2026-05-11T09:29:32.993516"
+    "attendee_count": 22,
+    "scraped_date": "2026-05-12T08:30:47.235336"
   },
   {
     "name": "London | Claude Code Curious #5",
@@ -65,7 +49,7 @@
       "Shreman Shrestha"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-11T09:29:32.993548"
+    "scraped_date": "2026-05-12T08:30:47.235362"
   },
   {
     "name": "Open Code #10",
@@ -81,7 +65,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-11T09:29:32.993575"
+    "scraped_date": "2026-05-12T08:30:47.235380"
   },
   {
     "name": "8th Skills4Startups Global Business Roadshow - Building the Future of Business Together in Association with Barclays Innovation Hub.",
@@ -97,8 +81,8 @@
       "Sophie Azam",
       "Des OConnor"
     ],
-    "attendee_count": 56,
-    "scraped_date": "2026-05-11T09:29:32.993589"
+    "attendee_count": 59,
+    "scraped_date": "2026-05-12T08:30:47.235393"
   },
   {
     "name": "Canva Code AI Hackathon for Event Professionals and Community Builders",
@@ -114,7 +98,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-11T09:29:32.993617"
+    "scraped_date": "2026-05-12T08:30:47.235414"
   },
   {
     "name": "AI Builders Monthly London",
@@ -133,8 +117,8 @@
       "Flo *",
       "Joyce Kuang"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-05-11T09:29:32.993647"
+    "attendee_count": 30,
+    "scraped_date": "2026-05-12T08:30:47.235434"
   },
   {
     "name": "Building with MCP",
@@ -152,8 +136,8 @@
       "Cloudflare Developer",
       "Liam Hampton"
     ],
-    "attendee_count": 229,
-    "scraped_date": "2026-05-11T09:29:32.993666"
+    "attendee_count": 228,
+    "scraped_date": "2026-05-12T08:30:47.235453"
   },
   {
     "name": "The Technical Leader's Playbook: Delivering From Code To Boardroom",
@@ -169,7 +153,7 @@
       "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-11T09:29:32.993687"
+    "scraped_date": "2026-05-12T08:30:47.235469"
   },
   {
     "name": "Frontier Fusion – AI & OnChain Innovation at Encode Hub",
@@ -188,8 +172,8 @@
       "Superteam UK",
       "Encode Club"
     ],
-    "attendee_count": 108,
-    "scraped_date": "2026-05-11T09:29:32.993720"
+    "attendee_count": 111,
+    "scraped_date": "2026-05-12T08:30:47.235497"
   },
   {
     "name": "Build Your First AI Agent | Dust x Paatch",
@@ -206,10 +190,10 @@
       "Louis-Nicolas Roussel",
       "Alexandre Moog",
       "Daniel Colaianni",
-      "IDEALondon"
+      "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-11T09:29:32.993743"
+    "scraped_date": "2026-05-12T08:30:47.235515"
   },
   {
     "name": "🚀 Google I/O 2026 Watch Party + Build with AI Hack Night and AIDevCamp Award Ceremony",
@@ -224,7 +208,7 @@
     "hosts": [
       "GDG London"
     ],
-    "attendee_count": 151,
-    "scraped_date": "2026-05-11T09:29:32.993773"
+    "attendee_count": 146,
+    "scraped_date": "2026-05-12T08:30:47.235539"
   }
 ]
