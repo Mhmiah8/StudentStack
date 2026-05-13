@@ -1,21 +1,5 @@
 [
   {
-    "name": "The Live AI Strategy Build: watch us build one, learn how to build yours",
-    "date": "2026-05-12T09:00:00.000Z",
-    "end_date": "2026-05-12T13:00:00.000Z",
-    "location": "Kindling with Oneder, Mediaworks, Ground Floor, 191 Wood Ln, London W12 7FP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/y7kafqif",
-    "hosts": [
-      "Oneder"
-    ],
-    "attendee_count": 38,
-    "scraped_date": "2026-05-12T08:30:47.235297"
-  },
-  {
     "name": "Builders Collective w/ AWS - 10x Dev Roundtable",
     "date": "2026-05-13T14:00:00.000Z",
     "end_date": "2026-05-13T19:30:00.000Z",
@@ -31,8 +15,8 @@
       "Abhinath Kumar",
       "Camillo Anania"
     ],
-    "attendee_count": 22,
-    "scraped_date": "2026-05-12T08:30:47.235336"
+    "attendee_count": 21,
+    "scraped_date": "2026-05-13T08:37:19.526533"
   },
   {
     "name": "London | Claude Code Curious #5",
@@ -49,23 +33,7 @@
       "Shreman Shrestha"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-12T08:30:47.235362"
-  },
-  {
-    "name": "Open Code #10",
-    "date": "2026-05-13T17:30:00.000Z",
-    "end_date": "2026-05-13T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/4sdjseyu",
-    "hosts": [
-      "LocalGlobe"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-12T08:30:47.235380"
+    "scraped_date": "2026-05-13T08:37:19.526622"
   },
   {
     "name": "8th Skills4Startups Global Business Roadshow - Building the Future of Business Together in Association with Barclays Innovation Hub.",
@@ -81,8 +49,8 @@
       "Sophie Azam",
       "Des OConnor"
     ],
-    "attendee_count": 59,
-    "scraped_date": "2026-05-12T08:30:47.235393"
+    "attendee_count": 66,
+    "scraped_date": "2026-05-13T08:37:19.526651"
   },
   {
     "name": "Canva Code AI Hackathon for Event Professionals and Community Builders",
@@ -98,7 +66,25 @@
       "Francisco Opazo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-12T08:30:47.235414"
+    "scraped_date": "2026-05-13T08:37:19.526677"
+  },
+  {
+    "name": "Building Again: An Event For Second Time Founder's (@Google's HQ)",
+    "date": "2026-05-14T16:30:00.000Z",
+    "end_date": "2026-05-14T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/uz6l6nom",
+    "hosts": [
+      "Jay Radia",
+      "Meelan Radia",
+      "Akhil Vaswani (Blissgrowth)"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-13T08:37:14.887852"
   },
   {
     "name": "AI Builders Monthly London",
@@ -112,13 +98,13 @@
     "url": "https://lu.ma/lon-may14",
     "hosts": [
       "AI Builders",
-      "Arthur Poot",
       "Georgia",
       "Flo *",
-      "Joyce Kuang"
+      "Joyce Kuang",
+      "Dan"
     ],
-    "attendee_count": 30,
-    "scraped_date": "2026-05-12T08:30:47.235434"
+    "attendee_count": 33,
+    "scraped_date": "2026-05-13T08:37:19.526701"
   },
   {
     "name": "Building with MCP",
@@ -136,8 +122,8 @@
       "Cloudflare Developer",
       "Liam Hampton"
     ],
-    "attendee_count": 228,
-    "scraped_date": "2026-05-12T08:30:47.235453"
+    "attendee_count": 223,
+    "scraped_date": "2026-05-13T08:37:19.526717"
   },
   {
     "name": "The Technical Leader's Playbook: Delivering From Code To Boardroom",
@@ -153,7 +139,7 @@
       "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-12T08:30:47.235469"
+    "scraped_date": "2026-05-13T08:37:19.526734"
   },
   {
     "name": "Frontier Fusion – AI & OnChain Innovation at Encode Hub",
@@ -164,7 +150,7 @@
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/6qp3m6k8",
+    "url": "https://lu.ma/frontierfusion",
     "hosts": [
       "Mark (Chewie)",
       "Ohjay",
@@ -172,8 +158,25 @@
       "Superteam UK",
       "Encode Club"
     ],
-    "attendee_count": 111,
-    "scraped_date": "2026-05-12T08:30:47.235497"
+    "attendee_count": 115,
+    "scraped_date": "2026-05-13T08:37:19.526763"
+  },
+  {
+    "name": "Community Tooling Hack Day",
+    "date": "2026-05-16T09:30:00.000Z",
+    "end_date": "2026-05-16T16:30:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/h15h96yj",
+    "hosts": [
+      "john@coefficient.ai",
+      "Hugh Evans"
+    ],
+    "attendee_count": 32,
+    "scraped_date": "2026-05-13T08:37:14.887929"
   },
   {
     "name": "Build Your First AI Agent | Dust x Paatch",
@@ -193,7 +196,7 @@
       "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-12T08:30:47.235515"
+    "scraped_date": "2026-05-13T08:37:19.526784"
   },
   {
     "name": "🚀 Google I/O 2026 Watch Party + Build with AI Hack Night and AIDevCamp Award Ceremony",
@@ -208,7 +211,39 @@
     "hosts": [
       "GDG London"
     ],
-    "attendee_count": 146,
-    "scraped_date": "2026-05-12T08:30:47.235539"
+    "attendee_count": 143,
+    "scraped_date": "2026-05-13T08:37:19.526806"
+  },
+  {
+    "name": "Behind the Build: Inside Engineering at Ankar",
+    "date": "2026-05-20T17:30:00.000Z",
+    "end_date": "2026-05-20T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cz8traey",
+    "hosts": [
+      "Lauren Sauerland"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-13T08:37:19.526848"
+  },
+  {
+    "name": "Open Code #11",
+    "date": "2026-05-20T17:30:00.000Z",
+    "end_date": "2026-05-20T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ocreddrh",
+    "hosts": [
+      "LocalGlobe"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-13T08:37:19.526861"
   }
 ]
