@@ -1,58 +1,5 @@
 [
   {
-    "name": "Builders Collective w/ AWS - 10x Dev Roundtable",
-    "date": "2026-05-13T14:00:00.000Z",
-    "end_date": "2026-05-13T19:30:00.000Z",
-    "location": "Amazon LHR16, 1 Principal Pl, Worship St, London EC2A 2FA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/n2fricxg",
-    "hosts": [
-      "Siddharth",
-      "Marco Muttoni",
-      "Abhinath Kumar",
-      "Camillo Anania"
-    ],
-    "attendee_count": 21,
-    "scraped_date": "2026-05-13T08:37:19.526533"
-  },
-  {
-    "name": "London | Claude Code Curious #5",
-    "date": "2026-05-13T17:00:00.000Z",
-    "end_date": "2026-05-13T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/claude-code-curious-5",
-    "hosts": [
-      "Max Tatton-Brown",
-      "Shreman Shrestha"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-13T08:37:19.526622"
-  },
-  {
-    "name": "8th Skills4Startups Global Business Roadshow - Building the Future of Business Together in Association with Barclays Innovation Hub.",
-    "date": "2026-05-14T07:30:00.000Z",
-    "end_date": "2026-05-14T16:00:00.000Z",
-    "location": "Barclays Innovation Hub Powered by Eagle Labs, 41 Luke St, London EC2A 4DP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2xw8b8zd",
-    "hosts": [
-      "Sophie Azam",
-      "Des OConnor"
-    ],
-    "attendee_count": 66,
-    "scraped_date": "2026-05-13T08:37:19.526651"
-  },
-  {
     "name": "Canva Code AI Hackathon for Event Professionals and Community Builders",
     "date": "2026-05-14T11:00:00.000Z",
     "end_date": "2026-05-14T16:00:00.000Z",
@@ -66,7 +13,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-13T08:37:19.526677"
+    "scraped_date": "2026-05-14T08:30:38.154859"
   },
   {
     "name": "Building Again: An Event For Second Time Founder's (@Google's HQ)",
@@ -84,7 +31,7 @@
       "Akhil Vaswani (Blissgrowth)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-13T08:37:14.887852"
+    "scraped_date": "2026-05-14T08:30:33.077083"
   },
   {
     "name": "AI Builders Monthly London",
@@ -103,8 +50,8 @@
       "Joyce Kuang",
       "Dan"
     ],
-    "attendee_count": 33,
-    "scraped_date": "2026-05-13T08:37:19.526701"
+    "attendee_count": 37,
+    "scraped_date": "2026-05-14T08:30:38.154896"
   },
   {
     "name": "Building with MCP",
@@ -122,8 +69,27 @@
       "Cloudflare Developer",
       "Liam Hampton"
     ],
-    "attendee_count": 223,
-    "scraped_date": "2026-05-13T08:37:19.526717"
+    "attendee_count": 216,
+    "scraped_date": "2026-05-14T08:30:38.154912"
+  },
+  {
+    "name": "Codex Community Meetup, London",
+    "date": "2026-05-14T17:00:00.000Z",
+    "end_date": "2026-05-14T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/codex-ldn-1",
+    "hosts": [
+      "Andy Tyler",
+      "Vaibhav Srivastav",
+      "Gabriel Chua",
+      "Sam Hepburn"
+    ],
+    "attendee_count": 293,
+    "scraped_date": "2026-05-14T08:30:38.154923"
   },
   {
     "name": "The Technical Leader's Playbook: Delivering From Code To Boardroom",
@@ -139,7 +105,7 @@
       "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-13T08:37:19.526734"
+    "scraped_date": "2026-05-14T08:30:38.154939"
   },
   {
     "name": "Frontier Fusion – AI & OnChain Innovation at Encode Hub",
@@ -158,8 +124,8 @@
       "Superteam UK",
       "Encode Club"
     ],
-    "attendee_count": 115,
-    "scraped_date": "2026-05-13T08:37:19.526763"
+    "attendee_count": 119,
+    "scraped_date": "2026-05-14T08:30:38.154970"
   },
   {
     "name": "Community Tooling Hack Day",
@@ -176,7 +142,7 @@
       "Hugh Evans"
     ],
     "attendee_count": 32,
-    "scraped_date": "2026-05-13T08:37:14.887929"
+    "scraped_date": "2026-05-14T08:30:33.077171"
   },
   {
     "name": "Build Your First AI Agent | Dust x Paatch",
@@ -196,7 +162,7 @@
       "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-13T08:37:19.526784"
+    "scraped_date": "2026-05-14T08:30:38.154997"
   },
   {
     "name": "🚀 Google I/O 2026 Watch Party + Build with AI Hack Night and AIDevCamp Award Ceremony",
@@ -212,7 +178,7 @@
       "GDG London"
     ],
     "attendee_count": 143,
-    "scraped_date": "2026-05-13T08:37:19.526806"
+    "scraped_date": "2026-05-14T08:30:38.155023"
   },
   {
     "name": "Behind the Build: Inside Engineering at Ankar",
@@ -228,7 +194,7 @@
       "Lauren Sauerland"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-13T08:37:19.526848"
+    "scraped_date": "2026-05-14T08:30:38.155060"
   },
   {
     "name": "Open Code #11",
@@ -244,6 +210,43 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-13T08:37:19.526861"
+    "scraped_date": "2026-05-14T08:30:38.155071"
+  },
+  {
+    "name": "AI Workshop: Airtable BuilderBase London",
+    "date": "2026-05-21T08:00:00.000Z",
+    "end_date": "2026-05-21T13:00:00.000Z",
+    "location": "Second Home Spitalfields, 68-80 Hanbury St, London E1 5JL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/Makeitfuture-london-05-06-26",
+    "hosts": [
+      "#makeitfuture",
+      "Flowgrammer.club"
+    ],
+    "attendee_count": 14,
+    "scraped_date": "2026-05-14T08:30:38.155085"
+  },
+  {
+    "name": "Nebius.Build/LONDON",
+    "date": "2026-05-21T11:00:00.000Z",
+    "end_date": "2026-05-21T17:00:00.000Z",
+    "location": "LABS House, Labs House, 15-19 Bloomsbury Way, London WC1A 2TH, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/9xuza5he",
+    "hosts": [
+      "Waqas Makhdum",
+      "Melissa Obi",
+      "Alice Lin",
+      "Marouane Khoukh",
+      "Artur"
+    ],
+    "attendee_count": 82,
+    "scraped_date": "2026-05-14T08:30:38.155095"
   }
 ]
