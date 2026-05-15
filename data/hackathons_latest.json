@@ -1,111 +1,19 @@
 [
   {
-    "name": "Canva Code AI Hackathon for Event Professionals and Community Builders",
-    "date": "2026-05-14T11:00:00.000Z",
-    "end_date": "2026-05-14T16:00:00.000Z",
+    "name": "Build Day · London Edition",
+    "date": "2026-05-15T12:00:00.000Z",
+    "end_date": "2026-05-15T15:00:00.000Z",
     "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/canva-code-hackathon",
+    "url": "https://lu.ma/tvf-build-day-03",
     "hosts": [
-      "Francisco Opazo"
+      "Aj Yadav"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-14T08:30:38.154859"
-  },
-  {
-    "name": "Building Again: An Event For Second Time Founder's (@Google's HQ)",
-    "date": "2026-05-14T16:30:00.000Z",
-    "end_date": "2026-05-14T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/uz6l6nom",
-    "hosts": [
-      "Jay Radia",
-      "Meelan Radia",
-      "Akhil Vaswani (Blissgrowth)"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-14T08:30:33.077083"
-  },
-  {
-    "name": "AI Builders Monthly London",
-    "date": "2026-05-14T17:00:00.000Z",
-    "end_date": "2026-05-14T20:15:00.000Z",
-    "location": "beyond The Bower, 207 Old St, London EC1V 9NR, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/lon-may14",
-    "hosts": [
-      "AI Builders",
-      "Georgia",
-      "Flo *",
-      "Joyce Kuang",
-      "Dan"
-    ],
-    "attendee_count": 37,
-    "scraped_date": "2026-05-14T08:30:38.154896"
-  },
-  {
-    "name": "Building with MCP",
-    "date": "2026-05-14T17:00:00.000Z",
-    "end_date": "2026-05-14T20:00:00.000Z",
-    "location": "Cloudflare, 6th Floor, County Hall/The, Riverside Building, Belvedere Rd, London SE1 7PB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/eb8j6lhu",
-    "hosts": [
-      "Ana Cidre",
-      "Carly Richmond",
-      "Cloudflare Developer",
-      "Liam Hampton"
-    ],
-    "attendee_count": 216,
-    "scraped_date": "2026-05-14T08:30:38.154912"
-  },
-  {
-    "name": "Codex Community Meetup, London",
-    "date": "2026-05-14T17:00:00.000Z",
-    "end_date": "2026-05-14T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/codex-ldn-1",
-    "hosts": [
-      "Andy Tyler",
-      "Vaibhav Srivastav",
-      "Gabriel Chua",
-      "Sam Hepburn"
-    ],
-    "attendee_count": 293,
-    "scraped_date": "2026-05-14T08:30:38.154923"
-  },
-  {
-    "name": "The Technical Leader's Playbook: Delivering From Code To Boardroom",
-    "date": "2026-05-14T17:00:00.000Z",
-    "end_date": "2026-05-14T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/i7fszpoi",
-    "hosts": [
-      "TechTalk UK"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-14T08:30:38.154939"
+    "scraped_date": "2026-05-15T08:42:08.757894"
   },
   {
     "name": "Frontier Fusion – AI & OnChain Innovation at Encode Hub",
@@ -124,8 +32,8 @@
       "Superteam UK",
       "Encode Club"
     ],
-    "attendee_count": 119,
-    "scraped_date": "2026-05-14T08:30:38.154970"
+    "attendee_count": 122,
+    "scraped_date": "2026-05-15T08:42:08.757942"
   },
   {
     "name": "Community Tooling Hack Day",
@@ -141,8 +49,8 @@
       "john@coefficient.ai",
       "Hugh Evans"
     ],
-    "attendee_count": 32,
-    "scraped_date": "2026-05-14T08:30:33.077171"
+    "attendee_count": 39,
+    "scraped_date": "2026-05-15T08:42:03.675699"
   },
   {
     "name": "Build Your First AI Agent | Dust x Paatch",
@@ -162,7 +70,23 @@
       "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-14T08:30:38.154997"
+    "scraped_date": "2026-05-15T08:42:08.757964"
+  },
+  {
+    "name": "Claude Code Workshop | Automate Your Work in 3 Hours | Learn AI",
+    "date": "2026-05-19T08:30:00.000Z",
+    "end_date": "2026-05-19T11:30:00.000Z",
+    "location": "The Corner | London City, 42 Adler St, London E1 1EE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zo9pqgsw",
+    "hosts": [
+      "Mark Nguyen"
+    ],
+    "attendee_count": 10,
+    "scraped_date": "2026-05-15T08:42:08.757984"
   },
   {
     "name": "🚀 Google I/O 2026 Watch Party + Build with AI Hack Night and AIDevCamp Award Ceremony",
@@ -177,8 +101,40 @@
     "hosts": [
       "GDG London"
     ],
-    "attendee_count": 143,
-    "scraped_date": "2026-05-14T08:30:38.155023"
+    "attendee_count": 141,
+    "scraped_date": "2026-05-15T08:42:08.758005"
+  },
+  {
+    "name": "Building Breakout Companies: Episode 1 X Bubble Robotics",
+    "date": "2026-05-19T17:30:00.000Z",
+    "end_date": "2026-05-19T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/pxaqdo15",
+    "hosts": [
+      "Entrepreneurs First"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-15T08:42:03.675777"
+  },
+  {
+    "name": "Build Your RevOps Agent",
+    "date": "2026-05-20T16:00:00.000Z",
+    "end_date": "2026-05-20T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/njyahmxg",
+    "hosts": [
+      "Louis-Nicolas Roussel"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-15T08:42:08.758031"
   },
   {
     "name": "Behind the Build: Inside Engineering at Ankar",
@@ -194,7 +150,7 @@
       "Lauren Sauerland"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-14T08:30:38.155060"
+    "scraped_date": "2026-05-15T08:42:08.758070"
   },
   {
     "name": "Open Code #11",
@@ -210,7 +166,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-14T08:30:38.155071"
+    "scraped_date": "2026-05-15T08:42:08.758084"
   },
   {
     "name": "AI Workshop: Airtable BuilderBase London",
@@ -226,8 +182,8 @@
       "#makeitfuture",
       "Flowgrammer.club"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-05-14T08:30:38.155085"
+    "attendee_count": 24,
+    "scraped_date": "2026-05-15T08:42:08.758100"
   },
   {
     "name": "Nebius.Build/LONDON",
@@ -246,7 +202,78 @@
       "Marouane Khoukh",
       "Artur"
     ],
-    "attendee_count": 82,
-    "scraped_date": "2026-05-14T08:30:38.155095"
+    "attendee_count": 85,
+    "scraped_date": "2026-05-15T08:42:08.758110"
+  },
+  {
+    "name": "🤖 Autonomous Agents: Building Your Local AI \"Crew\"",
+    "date": "2026-05-21T17:00:00.000Z",
+    "end_date": "2026-05-21T19:30:00.000Z",
+    "location": "Daemon, Studio C, 21 Conduit Pl, Tyburnia, London W2 1HS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/hwad1yca",
+    "hosts": [
+      "Gary Rutland"
+    ],
+    "attendee_count": 12,
+    "scraped_date": "2026-05-15T08:42:08.758124"
+  },
+  {
+    "name": "build & hack night",
+    "date": "2026-05-21T18:00:00.000Z",
+    "end_date": "2026-05-21T20:30:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/g7xww98p",
+    "hosts": [
+      "Fatima Sarah Khalid",
+      "Edward Saperia"
+    ],
+    "attendee_count": 4,
+    "scraped_date": "2026-05-15T08:42:08.758146"
+  },
+  {
+    "name": "Builders & Brews London",
+    "date": "2026-05-22T08:00:00.000Z",
+    "end_date": "2026-05-22T17:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/1rna5bdp",
+    "hosts": [
+      "Tavily Events",
+      "Waqas Makhdum",
+      "Nebius Events",
+      "Encode Club",
+      "Claudia Cafeo",
+      "Maya Avendaño"
+    ],
+    "attendee_count": 201,
+    "scraped_date": "2026-05-15T08:42:08.758158"
+  },
+  {
+    "name": "Agentic Hackday",
+    "date": "2026-05-23T09:00:00.000Z",
+    "end_date": "2026-05-23T15:00:00.000Z",
+    "location": "Ramen Space, Unit 6, Sledge Tower, Dalston Square, London E8 3GP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/4f5ce8yu",
+    "hosts": [
+      "Rachel Black",
+      "Charlie Ward"
+    ],
+    "attendee_count": 10,
+    "scraped_date": "2026-05-15T08:42:08.758171"
   }
 ]

@@ -2044,6 +2044,26 @@
     "scraped_date": "2026-02-19T15:28:01.355612"
   },
   {
+    "id": "8n1ncv6a94",
+    "company": "Elanco",
+    "programme": "Student Placement - Software Engineer",
+    "category": "industrial-placements",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-05-14T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://www.elancostudents.com/application?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-05-15T08:41:51.357311"
+  },
+  {
     "id": "8x18133cht",
     "company": "Ciena",
     "programme": "Network Engineer Intern (12 Months)",
