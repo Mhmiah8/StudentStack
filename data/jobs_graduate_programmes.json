@@ -1489,6 +1489,26 @@
     "scraped_date": "2026-03-16T07:08:45.686772"
   },
   {
+    "id": "te341n3gf9",
+    "company": "Alscient",
+    "programme": "Graduate Developer/Consultant",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-05-15T00:00:00.000Z",
+    "closing_date": null,
+    "url": null,
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-05-16T07:54:31.229777"
+  },
+  {
     "id": "tjx4u4249r",
     "company": "Dare",
     "programme": "Graduate Software Engineer",

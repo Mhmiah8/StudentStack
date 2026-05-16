@@ -1,41 +1,5 @@
 [
   {
-    "name": "Build Day · London Edition",
-    "date": "2026-05-15T12:00:00.000Z",
-    "end_date": "2026-05-15T15:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tvf-build-day-03",
-    "hosts": [
-      "Aj Yadav"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-15T08:42:08.757894"
-  },
-  {
-    "name": "Frontier Fusion – AI & OnChain Innovation at Encode Hub",
-    "date": "2026-05-15T17:00:00.000Z",
-    "end_date": "2026-05-15T21:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/frontierfusion",
-    "hosts": [
-      "Mark (Chewie)",
-      "Ohjay",
-      "Eftimie",
-      "Superteam UK",
-      "Encode Club"
-    ],
-    "attendee_count": 122,
-    "scraped_date": "2026-05-15T08:42:08.757942"
-  },
-  {
     "name": "Community Tooling Hack Day",
     "date": "2026-05-16T09:30:00.000Z",
     "end_date": "2026-05-16T16:30:00.000Z",
@@ -49,8 +13,8 @@
       "john@coefficient.ai",
       "Hugh Evans"
     ],
-    "attendee_count": 39,
-    "scraped_date": "2026-05-15T08:42:03.675699"
+    "attendee_count": 40,
+    "scraped_date": "2026-05-16T07:54:40.278821"
   },
   {
     "name": "Build Your First AI Agent | Dust x Paatch",
@@ -70,7 +34,23 @@
       "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-15T08:42:08.757964"
+    "scraped_date": "2026-05-16T07:54:45.854412"
+  },
+  {
+    "name": "Campaign Lab Spring Hack Night!",
+    "date": "2026-05-18T18:00:00.000Z",
+    "end_date": "2026-05-18T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/o4utn95k",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 10,
+    "scraped_date": "2026-05-16T07:54:40.278895"
   },
   {
     "name": "Claude Code Workshop | Automate Your Work in 3 Hours | Learn AI",
@@ -85,8 +65,8 @@
     "hosts": [
       "Mark Nguyen"
     ],
-    "attendee_count": 10,
-    "scraped_date": "2026-05-15T08:42:08.757984"
+    "attendee_count": 15,
+    "scraped_date": "2026-05-16T07:54:45.854440"
   },
   {
     "name": "🚀 Google I/O 2026 Watch Party + Build with AI Hack Night and AIDevCamp Award Ceremony",
@@ -102,7 +82,7 @@
       "GDG London"
     ],
     "attendee_count": 141,
-    "scraped_date": "2026-05-15T08:42:08.758005"
+    "scraped_date": "2026-05-16T07:54:45.854458"
   },
   {
     "name": "Building Breakout Companies: Episode 1 X Bubble Robotics",
@@ -118,7 +98,7 @@
       "Entrepreneurs First"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-15T08:42:03.675777"
+    "scraped_date": "2026-05-16T07:54:40.278935"
   },
   {
     "name": "Build Your RevOps Agent",
@@ -134,7 +114,7 @@
       "Louis-Nicolas Roussel"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-15T08:42:08.758031"
+    "scraped_date": "2026-05-16T07:54:45.854481"
   },
   {
     "name": "Behind the Build: Inside Engineering at Ankar",
@@ -150,7 +130,7 @@
       "Lauren Sauerland"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-15T08:42:08.758070"
+    "scraped_date": "2026-05-16T07:54:45.854513"
   },
   {
     "name": "Open Code #11",
@@ -166,7 +146,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-15T08:42:08.758084"
+    "scraped_date": "2026-05-16T07:54:45.854524"
   },
   {
     "name": "AI Workshop: Airtable BuilderBase London",
@@ -182,8 +162,8 @@
       "#makeitfuture",
       "Flowgrammer.club"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-05-15T08:42:08.758100"
+    "attendee_count": 36,
+    "scraped_date": "2026-05-16T07:54:45.854538"
   },
   {
     "name": "Nebius.Build/LONDON",
@@ -202,8 +182,8 @@
       "Marouane Khoukh",
       "Artur"
     ],
-    "attendee_count": 85,
-    "scraped_date": "2026-05-15T08:42:08.758110"
+    "attendee_count": 107,
+    "scraped_date": "2026-05-16T07:54:45.854548"
   },
   {
     "name": "🤖 Autonomous Agents: Building Your Local AI \"Crew\"",
@@ -219,7 +199,7 @@
       "Gary Rutland"
     ],
     "attendee_count": 12,
-    "scraped_date": "2026-05-15T08:42:08.758124"
+    "scraped_date": "2026-05-16T07:54:45.854560"
   },
   {
     "name": "build & hack night",
@@ -236,7 +216,7 @@
       "Edward Saperia"
     ],
     "attendee_count": 4,
-    "scraped_date": "2026-05-15T08:42:08.758146"
+    "scraped_date": "2026-05-16T07:54:45.854576"
   },
   {
     "name": "Builders & Brews London",
@@ -256,8 +236,8 @@
       "Claudia Cafeo",
       "Maya Avendaño"
     ],
-    "attendee_count": 201,
-    "scraped_date": "2026-05-15T08:42:08.758158"
+    "attendee_count": 221,
+    "scraped_date": "2026-05-16T07:54:45.854585"
   },
   {
     "name": "Agentic Hackday",
@@ -273,7 +253,7 @@
       "Rachel Black",
       "Charlie Ward"
     ],
-    "attendee_count": 10,
-    "scraped_date": "2026-05-15T08:42:08.758171"
+    "attendee_count": 14,
+    "scraped_date": "2026-05-16T07:54:45.854624"
   }
 ]
