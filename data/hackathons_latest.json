@@ -1,20 +1,21 @@
 [
   {
-    "name": "Community Tooling Hack Day",
-    "date": "2026-05-16T09:30:00.000Z",
-    "end_date": "2026-05-16T16:30:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "name": "HackWimbledon May 2026 #2",
+    "date": "2026-05-17T11:00:00.000Z",
+    "end_date": "2026-05-17T15:00:00.000Z",
+    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/h15h96yj",
+    "url": "https://lu.ma/m2o5q2ub",
     "hosts": [
-      "john@coefficient.ai",
-      "Hugh Evans"
+      "Bazza",
+      "Andy Piper",
+      "Neil Lambeth"
     ],
-    "attendee_count": 40,
-    "scraped_date": "2026-05-16T07:54:40.278821"
+    "attendee_count": 4,
+    "scraped_date": "2026-05-17T08:15:20.044288"
   },
   {
     "name": "Build Your First AI Agent | Dust x Paatch",
@@ -34,7 +35,7 @@
       "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-16T07:54:45.854412"
+    "scraped_date": "2026-05-17T08:15:24.495667"
   },
   {
     "name": "Campaign Lab Spring Hack Night!",
@@ -49,8 +50,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 10,
-    "scraped_date": "2026-05-16T07:54:40.278895"
+    "attendee_count": 11,
+    "scraped_date": "2026-05-17T08:15:20.044336"
   },
   {
     "name": "Claude Code Workshop | Automate Your Work in 3 Hours | Learn AI",
@@ -65,8 +66,8 @@
     "hosts": [
       "Mark Nguyen"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-05-16T07:54:45.854440"
+    "attendee_count": 19,
+    "scraped_date": "2026-05-17T08:15:24.495699"
   },
   {
     "name": "🚀 Google I/O 2026 Watch Party + Build with AI Hack Night and AIDevCamp Award Ceremony",
@@ -81,8 +82,8 @@
     "hosts": [
       "GDG London"
     ],
-    "attendee_count": 141,
-    "scraped_date": "2026-05-16T07:54:45.854458"
+    "attendee_count": 139,
+    "scraped_date": "2026-05-17T08:15:24.495717"
   },
   {
     "name": "Building Breakout Companies: Episode 1 X Bubble Robotics",
@@ -98,7 +99,7 @@
       "Entrepreneurs First"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-16T07:54:40.278935"
+    "scraped_date": "2026-05-17T08:15:20.044373"
   },
   {
     "name": "Build Your RevOps Agent",
@@ -114,7 +115,7 @@
       "Louis-Nicolas Roussel"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-16T07:54:45.854481"
+    "scraped_date": "2026-05-17T08:15:24.495739"
   },
   {
     "name": "Behind the Build: Inside Engineering at Ankar",
@@ -130,7 +131,7 @@
       "Lauren Sauerland"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-16T07:54:45.854513"
+    "scraped_date": "2026-05-17T08:15:24.495767"
   },
   {
     "name": "Open Code #11",
@@ -146,7 +147,7 @@
       "LocalGlobe"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-16T07:54:45.854524"
+    "scraped_date": "2026-05-17T08:15:24.495778"
   },
   {
     "name": "AI Workshop: Airtable BuilderBase London",
@@ -163,7 +164,7 @@
       "Flowgrammer.club"
     ],
     "attendee_count": 36,
-    "scraped_date": "2026-05-16T07:54:45.854538"
+    "scraped_date": "2026-05-17T08:15:24.495790"
   },
   {
     "name": "Nebius.Build/LONDON",
@@ -182,8 +183,8 @@
       "Marouane Khoukh",
       "Artur"
     ],
-    "attendee_count": 107,
-    "scraped_date": "2026-05-16T07:54:45.854548"
+    "attendee_count": 113,
+    "scraped_date": "2026-05-17T08:15:24.495812"
   },
   {
     "name": "🤖 Autonomous Agents: Building Your Local AI \"Crew\"",
@@ -199,7 +200,7 @@
       "Gary Rutland"
     ],
     "attendee_count": 12,
-    "scraped_date": "2026-05-16T07:54:45.854560"
+    "scraped_date": "2026-05-17T08:15:24.495824"
   },
   {
     "name": "build & hack night",
@@ -216,7 +217,7 @@
       "Edward Saperia"
     ],
     "attendee_count": 4,
-    "scraped_date": "2026-05-16T07:54:45.854576"
+    "scraped_date": "2026-05-17T08:15:24.495840"
   },
   {
     "name": "Builders & Brews London",
@@ -236,8 +237,8 @@
       "Claudia Cafeo",
       "Maya Avendaño"
     ],
-    "attendee_count": 221,
-    "scraped_date": "2026-05-16T07:54:45.854585"
+    "attendee_count": 225,
+    "scraped_date": "2026-05-17T08:15:24.495849"
   },
   {
     "name": "Agentic Hackday",
@@ -253,7 +254,7 @@
       "Rachel Black",
       "Charlie Ward"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-05-16T07:54:45.854624"
+    "attendee_count": 16,
+    "scraped_date": "2026-05-17T08:15:24.495863"
   }
 ]
