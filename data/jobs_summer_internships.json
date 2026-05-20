@@ -1,25 +1,5 @@
 [
   {
-    "id": "0con8565q6",
-    "company": "Tesco",
-    "programme": "Technology Internship",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-09-23T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://tescoearlycareers.groupgti.com/VacancyPosting/Search?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026#!/?text=searchField:%22technology%22%20ALSO%20dynamicstring_Vacancy_Name:%22technology%22%20AND%20%22internship%22",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.957210"
-  },
-  {
     "id": "0s8vxxg4lp",
     "company": "Apple",
     "programme": "Internship",
@@ -80,66 +60,6 @@
     "scraped_date": "2026-02-19T15:27:56.957384"
   },
   {
-    "id": "1npeqij460",
-    "company": "Goldman Sachs",
-    "programme": "2026 Summer Analyst Programme",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-08-15T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://higher.gs.com/campus?DIVISION=Engineering+Division&EXPERIENCE_LEVEL=Summer+Analyst&LOCATION=London%7CBirmingham&page=1&sort=RELEVANCE&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.957397"
-  },
-  {
-    "id": "1t7hdgwzfz",
-    "company": "WTW",
-    "programme": "2026 Software Developer Internship",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-02-02T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://careers.wtwco.com/jobs/2026-software-developer-internship-reigate-reigate-england-united-kingdom-7b904587-0a7d-4481-b757-92558b6aa1fc",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.957409"
-  },
-  {
-    "id": "263k0frrk2",
-    "company": "BNY Mellon",
-    "programme": "2026 Summer Internship Program",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-09-16T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=%22summer+internship+program+-+engineering%22&location=United+Kingdom&locationId=300000000378281&locationLevel=country&mode=location&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&iis=Trackr&sType=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "No",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.957456"
-  },
-  {
     "id": "26shrenfe6",
     "company": "Legal & General",
     "programme": "OneTech Services Intern 2026",
@@ -158,86 +78,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-03-26T07:00:58.082067"
-  },
-  {
-    "id": "2h4s84czyp",
-    "company": "G-P",
-    "programme": "Software Engineering, Internship",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-04-28T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.linkedin.com/jobs/view/4405164998/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-04-29T08:05:59.297912"
-  },
-  {
-    "id": "34z4fmv599",
-    "company": "Vanguard",
-    "programme": "Technology Internship (Summer 2026)",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-02-06T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.vanguardjobs.com/job-search-results/?keyword=Technology+Internship+-+Summer+2026&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.957591"
-  },
-  {
-    "id": "3bjskysf8i",
-    "company": "Viasat",
-    "programme": "Software Engineer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-04T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://careers.viasat.com/jobs/5805?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-05T17:30:09.005320"
-  },
-  {
-    "id": "44mvr3xgsk",
-    "company": "F5",
-    "programme": "Software Engineering & Data Science Internship 2026",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-11T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/jobs/details/Software-Engineering-Internship-2026_RP1036038?workerSubType=7a119632acd0109fce74cbf856cb3009&locationHierarchy1=7a119632acd0109fd9712a0bb14348f2&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "No",
-    "rolling": null,
-    "scraped_date": "2026-03-16T07:08:40.014927"
   },
   {
     "id": "496yn141tj",
@@ -280,26 +120,6 @@
     "scraped_date": "2026-02-19T15:27:56.957756"
   },
   {
-    "id": "5608ionbfi",
-    "company": "S&P Global",
-    "programme": "Software Engineer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-11T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://careers.spglobal.com/jobs/326037?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.957996"
-  },
-  {
     "id": "57k27ntihv",
     "company": "TPP",
     "programme": "Summer Internship - Software Developer",
@@ -320,26 +140,6 @@
     "scraped_date": "2026-02-19T15:27:56.958018"
   },
   {
-    "id": "5i4tavi561",
-    "company": "MongoDB",
-    "programme": "2026 - Software Engineering Intern, Dublin",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-02-13T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.mongodb.com/careers/jobs/6918894?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.958178"
-  },
-  {
     "id": "68uvmztoxs",
     "company": "Hudson River Trading",
     "programme": "Software Engineering Internship - Summer 2026",
@@ -358,86 +158,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.958319"
-  },
-  {
-    "id": "6cpsdse5kz",
-    "company": "Dojo",
-    "programme": "Intern, Associate Software Engineer",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-02-05T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://dojo.careers/jobs/4762109101/?gh_jid=4762109101&gh_src=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.958358"
-  },
-  {
-    "id": "6l6qekh9qz",
-    "company": "DV Trading",
-    "programme": "2026 Summer Internship - Software Development",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-08-02T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4592920005?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.958402"
-  },
-  {
-    "id": "70enj3p6o2",
-    "company": "Roku",
-    "programme": "Software Engineer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-01-21T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.weareroku.com/jobs/search?page=1&country_codes%5B%5D=GB&string_field_1%5B%5D=Internships&query=%22Software+Engineer+Intern%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.958464"
-  },
-  {
-    "id": "727qk4z5m6",
-    "company": "PrOXisense",
-    "programme": "Software Engineer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-04-21T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.linkedin.com/jobs/view/4404596675/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-04-22T07:23:35.281643"
   },
   {
     "id": "736z0iivzu",
@@ -480,46 +200,6 @@
     "scraped_date": "2026-04-01T07:12:04.509230"
   },
   {
-    "id": "892gng8q1r",
-    "company": "Keysight",
-    "programme": "Software Engineering Internship",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-02-11T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://jobs.keysight.com/external/jobs/51459?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lang=en-us",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.958765"
-  },
-  {
-    "id": "8bf8ipyhx9",
-    "company": "Giant Ventures",
-    "programme": "Software Engineering Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-04-22T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://form.typeform.com/to/Evy2E0vB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&typeform-source=the-trackr.com",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-04-23T07:26:23.571368"
-  },
-  {
     "id": "8qwurl367w",
     "company": "Baker Hughes",
     "programme": "Emerging Talent – Digital Technology Intern 2026",
@@ -558,66 +238,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.959036"
-  },
-  {
-    "id": "9l7628c1a9",
-    "company": "Salesforce",
-    "programme": "2026 Software Engineering Intern (Dublin)",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-01-23T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Summer-2026-Intern---Software-Engineering_JR326900-1?workerSubType=3a910852b2c31010f48d2cefdccd0000&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.959056"
-  },
-  {
-    "id": "9ov4yjxh76",
-    "company": "MathWorks",
-    "programme": "Software Development Internship",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-09-26T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://uk.mathworks.com/company/jobs/opportunities/25611-multiple-openings-software-development-internship?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.959095"
-  },
-  {
-    "id": "9tz0qnyb53",
-    "company": "Qualcomm",
-    "programme": "FY26 Intern - Software Engineer",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-10-20T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://app.eightfold.ai/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&query=software&location=united+kingdom&seniority=Intern&pid=446715016690&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.959228"
   },
   {
     "id": "9ypdt702n3",
@@ -680,26 +300,6 @@
     "scraped_date": "2026-02-19T15:27:56.959449"
   },
   {
-    "id": "airf822tkv",
-    "company": "Mastercard",
-    "programme": "Software Engineering Intern, Summer 2026",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-01-29T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://careers.mastercard.com/us/en/job/MASRUSR257380EXTERNALENUS/R-257373-Software-Engineer-Intern-Summer-2026-London-UK?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.959478"
-  },
-  {
     "id": "anvcwv9tgd",
     "company": "Deliveroo",
     "programme": "Machine Learning Intern",
@@ -740,46 +340,6 @@
     "scraped_date": "2026-04-25T07:06:08.361494"
   },
   {
-    "id": "c89z27j025",
-    "company": "Bending Spoons",
-    "programme": "Software Engineer, Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-05-02T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://jobs.bendingspoons.com/?contractType=internship&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.959806"
-  },
-  {
-    "id": "cd48xha4qc",
-    "company": "Qube RT",
-    "programme": "2026 Internship - Software Engineering",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-09-25T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.qube-rt.com/careers/?location=&sector=Technology&experience=Students+and+New+Grads&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.959825"
-  },
-  {
     "id": "d4we593cj1",
     "company": "Talos",
     "programme": "Software Engineer Intern, Backend, Trading",
@@ -798,6 +358,27 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.959990"
+  },
+  {
+    "id": "dfo0iom1kd",
+    "company": "CFP Energy",
+    "programme": "Software & Data Engineering - Summer Internship",
+    "category": "summer-internships",
+    "categories": [
+      "Software Engineering",
+      "Data Science"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-05-19T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://cfpenergy.careers.hibob.com/jobs/2b67bd81-d067-4356-917f-afc557c08136?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-05-20T08:56:53.101573"
   },
   {
     "id": "e0ihoooytl",
@@ -840,46 +421,6 @@
     "scraped_date": "2026-03-25T06:55:44.439280"
   },
   {
-    "id": "eynaojkgpg",
-    "company": "UserTesting",
-    "programme": "Software Engineer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-02T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://usertesting.wd12.myworkdayjobs.com/UserTesting/job/Edinburgh/Software-Engineer-Intern_R-101153-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-05T17:30:09.006608"
-  },
-  {
-    "id": "fixry8dhpv",
-    "company": "SPAICE",
-    "programme": "Computer Vision Engineer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-11-11T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://jobs.ashbyhq.com/spaice-tech/e3f67cc8-c383-478a-89dc-bd535605cd9b?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.960200"
-  },
-  {
     "id": "fleujht9mt",
     "company": "Avis Budget Group",
     "programme": "AI Engineer Intern - Summer 2026",
@@ -898,26 +439,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-05-05T07:59:12.104780"
-  },
-  {
-    "id": "frajgfopue",
-    "company": "Cloudflare",
-    "programme": "Software Engineer - Intern (Summer 2026)",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-10-17T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://job-boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.960232"
   },
   {
     "id": "frm9ak8ton",
@@ -1000,26 +521,6 @@
     "scraped_date": "2026-02-19T15:27:56.960383"
   },
   {
-    "id": "hkymagx9fz",
-    "company": "Motorola Solutions",
-    "programme": "Software Engineering Internship",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-02-27T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Internship_R62644?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-05T17:30:09.006857"
-  },
-  {
     "id": "i72n41ud63",
     "company": "Amazon",
     "programme": "2026 Software Dev Engineer Intern",
@@ -1039,66 +540,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.960488"
-  },
-  {
-    "id": "inxqb9bvoq",
-    "company": "Blockchain.com",
-    "programme": "Software Engineer Intern (6 months)",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-01-29T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.linkedin.com/jobs/search/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&currentJobId=4367336298&f_C=3605159&f_E=1&f_PP=100495523&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.960536"
-  },
-  {
-    "id": "jfka74yyhg",
-    "company": "Leonardo",
-    "programme": "Summer Placement Software Engineer",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-10-20T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://careers.uk.leonardo.com/gb/en/search-results?keywords=%22summer+placement+software+engineer%22&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.960642"
-  },
-  {
-    "id": "jhqdwfmh1s",
-    "company": "Palantir",
-    "programme": "Software Engineer, Internship",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-08-01T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://jobs.lever.co/palantir?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&lever-source=Trackr&commitment=Internship&location=London%2C+United+Kingdom",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.960654"
   },
   {
     "id": "jztai2yg5y",
@@ -1161,26 +602,6 @@
     "scraped_date": "2026-02-19T15:27:56.960773"
   },
   {
-    "id": "l31hskc9vn",
-    "company": "NatWest Markets",
-    "programme": "Engineering - Internship",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-09-24T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://rbs.wd3.myworkdayjobs.com/en-US/RBS/jobs?jobFamilyGroup=fd2c157204cd017f69bbe493c30c681d&jobFamilyGroup=fd2c157204cd01ca4684e693c30c701d&workerSubType=fd2c157204cd01c1e4c39a94be0cba09&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.960797"
-  },
-  {
     "id": "m6kueg5lyx",
     "company": "Jane Street",
     "programme": "Software Engineer Internship",
@@ -1201,46 +622,6 @@
     "scraped_date": "2026-02-19T15:27:56.960912"
   },
   {
-    "id": "nq5h1b0rpm",
-    "company": "Udemy",
-    "programme": "Software Engineer Intern, Dublin",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-01T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://app.careerpuck.com/job-board/udemy/job/5809838004?gh_jid=5809838004&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-05T17:30:09.007415"
-  },
-  {
-    "id": "o5t46wvmid",
-    "company": "Squarespace",
-    "programme": "Software Engineering Intern - Summer 2026 (Dublin)",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-02-04T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.squarespace.com/careers/jobs/7589065?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.961065"
-  },
-  {
     "id": "o7tzqqyn3m",
     "company": "Multus",
     "programme": "Machine Learning/Software Engineer Intern",
@@ -1259,26 +640,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-04-18T06:59:41.392270"
-  },
-  {
-    "id": "o9mdhv1ztw",
-    "company": "Clear-Com",
-    "programme": " Software Engineering Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-01-16T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://hmeukg.rec.pro.ukg.net/HME1500HMEN/JobBoard/616b8ff0-9933-405d-9892-26f121d3a657/OpportunityDetail?opportunityId=f9a54817-2402-4b82-8057-3d0c17b7a258&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.961077"
   },
   {
     "id": "oo5f8sq8xv",
@@ -1319,26 +680,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-03-16T07:08:40.015769"
-  },
-  {
-    "id": "p3rlwd6jpc",
-    "company": "Figma",
-    "programme": "Software Engineer Intern, Developer Tools (2026)",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-09-08T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://job-boards.greenhouse.io/figma/jobs/5621177004?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr&gh_jid=5621177004",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.961223"
   },
   {
     "id": "p4c55znzx5",
@@ -1463,6 +804,26 @@
     "scraped_date": "2026-04-01T07:12:04.510066"
   },
   {
+    "id": "qijq906y3s",
+    "company": "LEC AI",
+    "programme": "AI Engineer Summer Internship 2026",
+    "category": "summer-internships",
+    "categories": [
+      "AI and Machine Learning"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-05-19T00:00:00.000Z",
+    "closing_date": "2026-05-31T00:00:00.000Z",
+    "url": "https://www.linkedin.com/jobs/view/4416663595/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-05-20T08:56:53.102106"
+  },
+  {
     "id": "qwpq723qcy",
     "company": "Squarepoint Capital",
     "programme": "Intern Software Development - Summer 2026",
@@ -1481,26 +842,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:27:56.961484"
-  },
-  {
-    "id": "qyxl4sc4sq",
-    "company": "TE Connectivity",
-    "programme": "Software Engineer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-11T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://careers.te.com/job/SOFTWARE-ENGINEER-INTERN/149133-en_US?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.961508"
   },
   {
     "id": "rnvsp9u8ln",
@@ -1523,26 +864,6 @@
     "scraped_date": "2026-04-14T07:21:59.077842"
   },
   {
-    "id": "rrc0rpnu9u",
-    "company": "Convergent",
-    "programme": "Software Engineer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-01-19T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.linkedin.com/jobs/view/4364084347/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.961588"
-  },
-  {
     "id": "s7eaybjhu6",
     "company": "Julius Baer",
     "programme": "Data Analytics & Business Management Intern",
@@ -1561,67 +882,6 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-03-24T06:57:18.614631"
-  },
-  {
-    "id": "so0cr03lwa",
-    "company": "eSourcing Data",
-    "programme": "Software Development Intern (Summer)",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-02T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://www.linkedin.com/jobs/view/4377380349?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "No",
-    "rolling": null,
-    "scraped_date": "2026-03-05T17:30:09.008517"
-  },
-  {
-    "id": "sphi8670ha",
-    "company": "NCR Atleos",
-    "programme": "Software Internship - Summer 2026 (12 Weeks)",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-10-06T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_non_usalteos/details/Software-Internship---Summer-2026--12-Weeks-_R1150348?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr&q=%27internship%27&Location_Country=29247e57dbaf46fb855b224e03170bc7&workerSubType=7faba66820ac107220437a0217412090",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.961687"
-  },
-  {
-    "id": "swfqp09awx",
-    "company": "Hiscox",
-    "programme": "2026 Summer Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering",
-      "Data Science"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-03-18T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://hiscox.wd3.myworkdayjobs.com/en-US/Hiscox_External_Site/jobs?q=data&workerSubType=c56dbe26655f109123eba640f6d1a3b0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-19T06:50:55.191411"
   },
   {
     "id": "tiqilwm3de",
@@ -1782,45 +1042,5 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-03-08T13:19:30.269295"
-  },
-  {
-    "id": "y7sqfvcfbt",
-    "company": "Aize",
-    "programme": "Software Engineering Intern",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-02-27T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://careers.aize.io/jobs/7307109-software-engineering-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-03-05T17:30:09.009560"
-  },
-  {
-    "id": "z32aktj60a",
-    "company": "Tencent",
-    "programme": "Various Tech Internships",
-    "category": "summer-internships",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-09-15T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/jobs?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr&locations=b3d4dad114e4100177c1f65eefa30000&workerSubType=b32f1ee18078012df7b19ebd5d8f0002",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:27:56.962354"
   }
 ]

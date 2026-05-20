@@ -1,37 +1,5 @@
 [
   {
-    "name": "🚀 Google I/O 2026 Watch Party + Build with AI Hack Night and AIDevCamp Award Ceremony",
-    "date": "2026-05-19T16:00:00.000Z",
-    "end_date": "2026-05-19T20:00:00.000Z",
-    "location": "NewDay, 7 Handyside St, London N1C 4DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/urm40pjn",
-    "hosts": [
-      "GDG London"
-    ],
-    "attendee_count": 135,
-    "scraped_date": "2026-05-19T09:31:29.476672"
-  },
-  {
-    "name": "Building Breakout Companies: Episode 1 X Bubble Robotics",
-    "date": "2026-05-19T17:30:00.000Z",
-    "end_date": "2026-05-19T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/pxaqdo15",
-    "hosts": [
-      "Entrepreneurs First"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-19T09:31:24.320414"
-  },
-  {
     "name": "Build Your RevOps Agent",
     "date": "2026-05-20T16:00:00.000Z",
     "end_date": "2026-05-20T19:30:00.000Z",
@@ -42,10 +10,12 @@
     "is_virtual": false,
     "url": "https://lu.ma/njyahmxg",
     "hosts": [
-      "Louis-Nicolas Roussel"
+      "Louis-Nicolas Roussel",
+      "Daniel Colaianni",
+      "Iris Beraud"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-19T09:31:29.476713"
+    "scraped_date": "2026-05-20T08:57:12.862886"
   },
   {
     "name": "Behind the Build: Inside Engineering at Ankar",
@@ -61,7 +31,7 @@
       "Lauren Sauerland"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-19T09:31:29.476748"
+    "scraped_date": "2026-05-20T08:57:12.862943"
   },
   {
     "name": "Open Code #11",
@@ -77,7 +47,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-19T09:31:29.476760"
+    "scraped_date": "2026-05-20T08:57:12.862958"
   },
   {
     "name": "AI Workshop: Airtable BuilderBase London",
@@ -93,8 +63,8 @@
       "#makeitfuture",
       "Flowgrammer.club"
     ],
-    "attendee_count": 39,
-    "scraped_date": "2026-05-19T09:31:29.476775"
+    "attendee_count": 44,
+    "scraped_date": "2026-05-20T08:57:12.862991"
   },
   {
     "name": "Nebius.Build/LONDON",
@@ -114,7 +84,7 @@
       "Artur"
     ],
     "attendee_count": 140,
-    "scraped_date": "2026-05-19T09:31:29.476786"
+    "scraped_date": "2026-05-20T08:57:12.863006"
   },
   {
     "name": "🤖 Autonomous Agents: Building Your Local AI \"Crew\"",
@@ -129,8 +99,8 @@
     "hosts": [
       "Gary Rutland"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-05-19T09:31:29.476800"
+    "attendee_count": 19,
+    "scraped_date": "2026-05-20T08:57:12.863022"
   },
   {
     "name": "Code x Music: Bit-Drop & Bass-Line [c3s meetup #11]",
@@ -148,7 +118,7 @@
       "Dea"
     ],
     "attendee_count": 70,
-    "scraped_date": "2026-05-19T09:31:24.320534"
+    "scraped_date": "2026-05-20T08:57:08.397857"
   },
   {
     "name": "How YC Companies Build Products",
@@ -162,10 +132,10 @@
     "url": "https://lu.ma/e6rkmnpf",
     "hosts": [
       "Encode Club",
-      "Tris Tusa"
+      "Martín Cires"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-19T09:31:24.320550"
+    "scraped_date": "2026-05-20T08:57:08.397888"
   },
   {
     "name": "build & hack night",
@@ -182,7 +152,7 @@
       "Edward Saperia"
     ],
     "attendee_count": 5,
-    "scraped_date": "2026-05-19T09:31:29.476821"
+    "scraped_date": "2026-05-20T08:57:12.863046"
   },
   {
     "name": "Builders & Brews London",
@@ -202,8 +172,27 @@
       "Claudia Cafeo",
       "Maya Avendaño"
     ],
-    "attendee_count": 326,
-    "scraped_date": "2026-05-19T09:31:29.476832"
+    "attendee_count": 341,
+    "scraped_date": "2026-05-20T08:57:12.863058"
+  },
+  {
+    "name": "build fridays london - work on your startup alongside others (bring laptop)",
+    "date": "2026-05-22T15:00:00.000Z",
+    "end_date": "2026-05-22T22:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bvvrlgam",
+    "hosts": [
+      "AI BEAVERS",
+      "Vladyslav Nyzhashchyy",
+      "Alexander Zakharov",
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-20T08:57:08.397922"
   },
   {
     "name": "Agentic Hackday",
@@ -219,7 +208,57 @@
       "Rachel Black",
       "Charlie Ward"
     ],
-    "attendee_count": 22,
-    "scraped_date": "2026-05-19T09:31:29.476852"
+    "attendee_count": 25,
+    "scraped_date": "2026-05-20T08:57:12.863077"
+  },
+  {
+    "name": "Building Your Business In Britain 2026 || Main Event Pass",
+    "date": "2026-05-26T13:00:00.000Z",
+    "end_date": "2026-05-26T17:00:00.000Z",
+    "location": "One Triton Square, 1 Triton Square, London NW1 3BF, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lcoys8yq",
+    "hosts": [
+      "Innovator International",
+      "James Roach",
+      "Nick Roach"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-20T08:57:08.397968"
+  },
+  {
+    "name": "Is moving fast more important than shipping quality code?",
+    "date": "2026-05-27T17:30:00.000Z",
+    "end_date": "2026-05-27T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/tuns5mpm",
+    "hosts": [
+      "Dani Unsworth"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-20T08:57:12.863132"
+  },
+  {
+    "name": "Open Code #12",
+    "date": "2026-05-27T17:30:00.000Z",
+    "end_date": "2026-05-27T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/sw6urpe3",
+    "hosts": [
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-20T08:57:12.863141"
   }
 ]
