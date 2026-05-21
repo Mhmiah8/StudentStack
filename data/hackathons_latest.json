@@ -1,72 +1,5 @@
 [
   {
-    "name": "Build Your RevOps Agent",
-    "date": "2026-05-20T16:00:00.000Z",
-    "end_date": "2026-05-20T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/njyahmxg",
-    "hosts": [
-      "Louis-Nicolas Roussel",
-      "Daniel Colaianni",
-      "Iris Beraud"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-20T08:57:12.862886"
-  },
-  {
-    "name": "Behind the Build: Inside Engineering at Ankar",
-    "date": "2026-05-20T17:30:00.000Z",
-    "end_date": "2026-05-20T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cz8traey",
-    "hosts": [
-      "Lauren Sauerland"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-20T08:57:12.862943"
-  },
-  {
-    "name": "Open Code #11",
-    "date": "2026-05-20T17:30:00.000Z",
-    "end_date": "2026-05-20T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ocreddrh",
-    "hosts": [
-      "Phoenix Court"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-20T08:57:12.862958"
-  },
-  {
-    "name": "AI Workshop: Airtable BuilderBase London",
-    "date": "2026-05-21T08:00:00.000Z",
-    "end_date": "2026-05-21T13:00:00.000Z",
-    "location": "Second Home Spitalfields, 68-80 Hanbury St, London E1 5JL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/Makeitfuture-london-05-06-26",
-    "hosts": [
-      "#makeitfuture",
-      "Flowgrammer.club"
-    ],
-    "attendee_count": 44,
-    "scraped_date": "2026-05-20T08:57:12.862991"
-  },
-  {
     "name": "Nebius.Build/LONDON",
     "date": "2026-05-21T11:00:00.000Z",
     "end_date": "2026-05-21T17:00:00.000Z",
@@ -83,8 +16,8 @@
       "Marouane Khoukh",
       "Artur"
     ],
-    "attendee_count": 140,
-    "scraped_date": "2026-05-20T08:57:12.863006"
+    "attendee_count": 144,
+    "scraped_date": "2026-05-21T09:26:31.196141"
   },
   {
     "name": "🤖 Autonomous Agents: Building Your Local AI \"Crew\"",
@@ -100,7 +33,7 @@
       "Gary Rutland"
     ],
     "attendee_count": 19,
-    "scraped_date": "2026-05-20T08:57:12.863022"
+    "scraped_date": "2026-05-21T09:26:31.196177"
   },
   {
     "name": "Code x Music: Bit-Drop & Bass-Line [c3s meetup #11]",
@@ -118,7 +51,7 @@
       "Dea"
     ],
     "attendee_count": 70,
-    "scraped_date": "2026-05-20T08:57:08.397857"
+    "scraped_date": "2026-05-21T09:26:26.173808"
   },
   {
     "name": "How YC Companies Build Products",
@@ -135,7 +68,7 @@
       "Martín Cires"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-20T08:57:08.397888"
+    "scraped_date": "2026-05-21T09:26:26.173838"
   },
   {
     "name": "build & hack night",
@@ -151,8 +84,8 @@
       "Fatima Sarah Khalid",
       "Edward Saperia"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-05-20T08:57:12.863046"
+    "attendee_count": 6,
+    "scraped_date": "2026-05-21T09:26:31.196207"
   },
   {
     "name": "Builders & Brews London",
@@ -167,13 +100,13 @@
     "hosts": [
       "Tavily Events",
       "Waqas Makhdum",
-      "Nebius Events",
+      "Colin Clawenberg",
       "Encode Club",
       "Claudia Cafeo",
       "Maya Avendaño"
     ],
-    "attendee_count": 341,
-    "scraped_date": "2026-05-20T08:57:12.863058"
+    "attendee_count": 382,
+    "scraped_date": "2026-05-21T09:26:31.196221"
   },
   {
     "name": "build fridays london - work on your startup alongside others (bring laptop)",
@@ -192,7 +125,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-20T08:57:08.397922"
+    "scraped_date": "2026-05-21T09:26:26.173864"
   },
   {
     "name": "Agentic Hackday",
@@ -208,8 +141,8 @@
       "Rachel Black",
       "Charlie Ward"
     ],
-    "attendee_count": 25,
-    "scraped_date": "2026-05-20T08:57:12.863077"
+    "attendee_count": 34,
+    "scraped_date": "2026-05-21T09:26:31.196248"
   },
   {
     "name": "Building Your Business In Britain 2026 || Main Event Pass",
@@ -227,7 +160,24 @@
       "Nick Roach"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-20T08:57:08.397968"
+    "scraped_date": "2026-05-21T09:26:26.173913"
+  },
+  {
+    "name": "hardware builder coffee",
+    "date": "2026-05-27T07:00:00.000Z",
+    "end_date": "2026-05-27T09:00:00.000Z",
+    "location": "News & Coffee Kiosk, Granary Square, London N1C 4PQ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/kp0w1n5k",
+    "hosts": [
+      "Lachlan Chavasse",
+      "Vicky Regan"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-21T09:26:26.173943"
   },
   {
     "name": "Is moving fast more important than shipping quality code?",
@@ -243,7 +193,7 @@
       "Dani Unsworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-20T08:57:12.863132"
+    "scraped_date": "2026-05-21T09:26:31.196310"
   },
   {
     "name": "Open Code #12",
@@ -259,6 +209,40 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-20T08:57:12.863141"
+    "scraped_date": "2026-05-21T09:26:31.196321"
+  },
+  {
+    "name": "Agents who code and Generative UI - AI Native Engineers London Meetup",
+    "date": "2026-05-28T17:00:00.000Z",
+    "end_date": "2026-05-28T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/g9vafdgm",
+    "hosts": [
+      "Robert Hart"
+    ],
+    "attendee_count": 5,
+    "scraped_date": "2026-05-21T09:26:31.196348"
+  },
+  {
+    "name": "Cursor AdTech London Hackathon",
+    "date": "2026-05-28T17:00:00.000Z",
+    "end_date": "2026-05-28T21:00:00.000Z",
+    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/b6jccpfu",
+    "hosts": [
+      "Francisco Terpolilli",
+      "Giorgio Toledo",
+      "Alex"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-21T09:26:31.196386"
   }
 ]
