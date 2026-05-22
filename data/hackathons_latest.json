@@ -1,114 +1,5 @@
 [
   {
-    "name": "Nebius.Build/LONDON",
-    "date": "2026-05-21T11:00:00.000Z",
-    "end_date": "2026-05-21T17:00:00.000Z",
-    "location": "LABS House, Labs House, 15-19 Bloomsbury Way, London WC1A 2TH, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/9xuza5he",
-    "hosts": [
-      "Waqas Makhdum",
-      "Melissa Obi",
-      "Alice Lin",
-      "Marouane Khoukh",
-      "Artur"
-    ],
-    "attendee_count": 144,
-    "scraped_date": "2026-05-21T09:26:31.196141"
-  },
-  {
-    "name": "🤖 Autonomous Agents: Building Your Local AI \"Crew\"",
-    "date": "2026-05-21T17:00:00.000Z",
-    "end_date": "2026-05-21T19:30:00.000Z",
-    "location": "Daemon, Studio C, 21 Conduit Pl, Tyburnia, London W2 1HS, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/hwad1yca",
-    "hosts": [
-      "Gary Rutland"
-    ],
-    "attendee_count": 19,
-    "scraped_date": "2026-05-21T09:26:31.196177"
-  },
-  {
-    "name": "Code x Music: Bit-Drop & Bass-Line [c3s meetup #11]",
-    "date": "2026-05-21T17:30:00.000Z",
-    "end_date": "2026-05-21T20:00:00.000Z",
-    "location": "The Bersey Warehouse, 293 Old St, London EC1V 9LA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/zb4n6c2g",
-    "hosts": [
-      "c3s: Creative Coding Crafts Space",
-      "Prasanta Kumar Dutta",
-      "Dea"
-    ],
-    "attendee_count": 70,
-    "scraped_date": "2026-05-21T09:26:26.173808"
-  },
-  {
-    "name": "How YC Companies Build Products",
-    "date": "2026-05-21T17:30:00.000Z",
-    "end_date": "2026-05-21T20:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/e6rkmnpf",
-    "hosts": [
-      "Encode Club",
-      "Martín Cires"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-21T09:26:26.173838"
-  },
-  {
-    "name": "build & hack night",
-    "date": "2026-05-21T18:00:00.000Z",
-    "end_date": "2026-05-21T20:30:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/g7xww98p",
-    "hosts": [
-      "Fatima Sarah Khalid",
-      "Edward Saperia"
-    ],
-    "attendee_count": 6,
-    "scraped_date": "2026-05-21T09:26:31.196207"
-  },
-  {
-    "name": "Builders & Brews London",
-    "date": "2026-05-22T08:00:00.000Z",
-    "end_date": "2026-05-22T17:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1rna5bdp",
-    "hosts": [
-      "Tavily Events",
-      "Waqas Makhdum",
-      "Colin Clawenberg",
-      "Encode Club",
-      "Claudia Cafeo",
-      "Maya Avendaño"
-    ],
-    "attendee_count": 382,
-    "scraped_date": "2026-05-21T09:26:31.196221"
-  },
-  {
     "name": "build fridays london - work on your startup alongside others (bring laptop)",
     "date": "2026-05-22T15:00:00.000Z",
     "end_date": "2026-05-22T22:00:00.000Z",
@@ -125,7 +16,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-21T09:26:26.173864"
+    "scraped_date": "2026-05-22T08:52:44.229197"
   },
   {
     "name": "Agentic Hackday",
@@ -141,8 +32,25 @@
       "Rachel Black",
       "Charlie Ward"
     ],
-    "attendee_count": 34,
-    "scraped_date": "2026-05-21T09:26:31.196248"
+    "attendee_count": 36,
+    "scraped_date": "2026-05-22T08:52:48.803466"
+  },
+  {
+    "name": "Climate Builders Club: Open Co-working + Optional Demos",
+    "date": "2026-05-23T10:00:00.000Z",
+    "end_date": "2026-05-23T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/3d19ygmh",
+    "hosts": [
+      "Anshul Yadav",
+      "Aman Vernekar"
+    ],
+    "attendee_count": 20,
+    "scraped_date": "2026-05-22T08:52:44.229263"
   },
   {
     "name": "Building Your Business In Britain 2026 || Main Event Pass",
@@ -160,7 +68,23 @@
       "Nick Roach"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-21T09:26:26.173913"
+    "scraped_date": "2026-05-22T08:52:44.229307"
+  },
+  {
+    "name": "Central London | Claude Code for Everyone",
+    "date": "2026-05-26T17:00:00.000Z",
+    "end_date": "2026-05-26T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cccl.6",
+    "hosts": [
+      "Vikram Pawar"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-22T08:52:48.803511"
   },
   {
     "name": "hardware builder coffee",
@@ -177,23 +101,7 @@
       "Vicky Regan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-21T09:26:26.173943"
-  },
-  {
-    "name": "Is moving fast more important than shipping quality code?",
-    "date": "2026-05-27T17:30:00.000Z",
-    "end_date": "2026-05-27T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tuns5mpm",
-    "hosts": [
-      "Dani Unsworth"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-21T09:26:31.196310"
+    "scraped_date": "2026-05-22T08:52:44.229339"
   },
   {
     "name": "Open Code #12",
@@ -209,7 +117,23 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-21T09:26:31.196321"
+    "scraped_date": "2026-05-22T08:52:44.229380"
+  },
+  {
+    "name": "Is moving fast more important than shipping quality code?",
+    "date": "2026-05-27T17:30:00.000Z",
+    "end_date": "2026-05-27T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/tuns5mpm",
+    "hosts": [
+      "Dani Unsworth"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-22T08:52:48.803561"
   },
   {
     "name": "Agents who code and Generative UI - AI Native Engineers London Meetup",
@@ -224,8 +148,8 @@
     "hosts": [
       "Robert Hart"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-05-21T09:26:31.196348"
+    "attendee_count": 10,
+    "scraped_date": "2026-05-22T08:52:48.803589"
   },
   {
     "name": "Cursor AdTech London Hackathon",
@@ -243,6 +167,74 @@
       "Alex"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-21T09:26:31.196386"
+    "scraped_date": "2026-05-22T08:52:48.803614"
+  },
+  {
+    "name": "Poolside Research Hackathon",
+    "date": "2026-05-29T14:00:00.000Z",
+    "end_date": "2026-05-30T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/poolsidehackathon",
+    "hosts": [
+      "Andrea Badia",
+      "Arina",
+      "Will Brown",
+      "NVIDIA Developer Community"
+    ],
+    "attendee_count": 79,
+    "scraped_date": "2026-05-22T08:52:48.803645"
+  },
+  {
+    "name": "London | Claude Code for Everyone",
+    "date": "2026-05-29T17:00:00.000Z",
+    "end_date": "2026-05-29T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/vwnyc5aj",
+    "hosts": [
+      "Wilfred Kasekende",
+      "Olivier Alterhq.com"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-22T08:52:48.803662"
+  },
+  {
+    "name": "LeftHack 4.00",
+    "date": "2026-05-30T09:00:00.000Z",
+    "end_date": "2026-05-30T16:00:00.000Z",
+    "location": "SPACE4, 113-115 Fonthill Rd, Finsbury Park, London N4 3HH, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/1q4avfml",
+    "hosts": [
+      "LeftHack"
+    ],
+    "attendee_count": 15,
+    "scraped_date": "2026-05-22T08:52:44.229426"
+  },
+  {
+    "name": "Lawhive Hackathon London 2026",
+    "date": "2026-05-30T09:00:00.000Z",
+    "end_date": "2026-05-30T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/yp8za2a0",
+    "hosts": [
+      "Lawhive Team"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-22T08:52:48.803672"
   }
 ]
