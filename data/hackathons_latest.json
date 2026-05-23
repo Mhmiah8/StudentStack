@@ -1,24 +1,5 @@
 [
   {
-    "name": "build fridays london - work on your startup alongside others (bring laptop)",
-    "date": "2026-05-22T15:00:00.000Z",
-    "end_date": "2026-05-22T22:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bvvrlgam",
-    "hosts": [
-      "AI BEAVERS",
-      "Vladyslav Nyzhashchyy",
-      "Alexander Zakharov",
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:44.229197"
-  },
-  {
     "name": "Agentic Hackday",
     "date": "2026-05-23T09:00:00.000Z",
     "end_date": "2026-05-23T15:00:00.000Z",
@@ -32,8 +13,8 @@
       "Rachel Black",
       "Charlie Ward"
     ],
-    "attendee_count": 36,
-    "scraped_date": "2026-05-22T08:52:48.803466"
+    "attendee_count": 38,
+    "scraped_date": "2026-05-23T08:09:42.465194"
   },
   {
     "name": "Climate Builders Club: Open Co-working + Optional Demos",
@@ -50,7 +31,7 @@
       "Aman Vernekar"
     ],
     "attendee_count": 20,
-    "scraped_date": "2026-05-22T08:52:44.229263"
+    "scraped_date": "2026-05-23T08:09:37.519932"
   },
   {
     "name": "Building Your Business In Britain 2026 || Main Event Pass",
@@ -68,10 +49,10 @@
       "Nick Roach"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:44.229307"
+    "scraped_date": "2026-05-23T08:09:37.520061"
   },
   {
-    "name": "Central London | Claude Code for Everyone",
+    "name": "Central London | CCCL LON6 —Claude Code for Everyone",
     "date": "2026-05-26T17:00:00.000Z",
     "end_date": "2026-05-26T19:30:00.000Z",
     "location": "",
@@ -84,7 +65,7 @@
       "Vikram Pawar"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:48.803511"
+    "scraped_date": "2026-05-23T08:09:42.465243"
   },
   {
     "name": "hardware builder coffee",
@@ -101,7 +82,7 @@
       "Vicky Regan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:44.229339"
+    "scraped_date": "2026-05-23T08:09:37.520092"
   },
   {
     "name": "Open Code #12",
@@ -117,7 +98,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:44.229380"
+    "scraped_date": "2026-05-23T08:09:37.520134"
   },
   {
     "name": "Is moving fast more important than shipping quality code?",
@@ -133,23 +114,7 @@
       "Dani Unsworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:48.803561"
-  },
-  {
-    "name": "Agents who code and Generative UI - AI Native Engineers London Meetup",
-    "date": "2026-05-28T17:00:00.000Z",
-    "end_date": "2026-05-28T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/g9vafdgm",
-    "hosts": [
-      "Robert Hart"
-    ],
-    "attendee_count": 10,
-    "scraped_date": "2026-05-22T08:52:48.803589"
+    "scraped_date": "2026-05-23T08:09:42.465288"
   },
   {
     "name": "Cursor AdTech London Hackathon",
@@ -167,7 +132,7 @@
       "Alex"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:48.803614"
+    "scraped_date": "2026-05-23T08:09:42.465329"
   },
   {
     "name": "Poolside Research Hackathon",
@@ -186,7 +151,7 @@
       "NVIDIA Developer Community"
     ],
     "attendee_count": 79,
-    "scraped_date": "2026-05-22T08:52:48.803645"
+    "scraped_date": "2026-05-23T08:09:42.465359"
   },
   {
     "name": "London | Claude Code for Everyone",
@@ -203,7 +168,7 @@
       "Olivier Alterhq.com"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:48.803662"
+    "scraped_date": "2026-05-23T08:09:42.465375"
   },
   {
     "name": "LeftHack 4.00",
@@ -218,8 +183,24 @@
     "hosts": [
       "LeftHack"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-05-22T08:52:44.229426"
+    "attendee_count": 16,
+    "scraped_date": "2026-05-23T08:09:37.520177"
+  },
+  {
+    "name": "S4S x SiT: Climate Hackathon",
+    "date": "2026-05-30T09:00:00.000Z",
+    "end_date": "2026-05-31T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/oc8fssy1",
+    "hosts": [
+      "Somalis in Tech"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-23T08:09:37.520187"
   },
   {
     "name": "Lawhive Hackathon London 2026",
@@ -235,6 +216,25 @@
       "Lawhive Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-22T08:52:48.803672"
+    "scraped_date": "2026-05-23T08:09:42.465383"
+  },
+  {
+    "name": "The Agent Economy Buildathon | $20k in bounties",
+    "date": "2026-06-01T08:30:00.000Z",
+    "end_date": "2026-06-06T15:00:00.000Z",
+    "location": "Shoreditch Exchange with Oneder, Gorsuch Pl, London E2 8JF, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/agent-economy",
+    "hosts": [
+      "PLUGGED",
+      "Superteam UK",
+      "Ved Luhana",
+      "Cap •"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-23T08:09:42.465402"
   }
 ]
