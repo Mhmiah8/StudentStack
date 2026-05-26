@@ -15,7 +15,7 @@
       "Nick Roach"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:39.738210"
+    "scraped_date": "2026-05-26T09:40:53.544291"
   },
   {
     "name": "Central London | CCCL LON6 —Claude Code for Everyone",
@@ -31,7 +31,7 @@
       "Vikram Pawar"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:44.680115"
+    "scraped_date": "2026-05-26T09:40:58.189717"
   },
   {
     "name": "hardware builder coffee",
@@ -48,7 +48,7 @@
       "Vicky Regan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:39.738284"
+    "scraped_date": "2026-05-26T09:40:53.544336"
   },
   {
     "name": "Is moving fast more important than shipping quality code?",
@@ -64,7 +64,7 @@
       "Dani Unsworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:44.680178"
+    "scraped_date": "2026-05-26T09:40:58.189768"
   },
   {
     "name": "Open Code #12",
@@ -80,12 +80,12 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:44.680190"
+    "scraped_date": "2026-05-26T09:40:58.189777"
   },
   {
     "name": "Cursor AdTech London Hackathon",
     "date": "2026-05-28T17:00:00.000Z",
-    "end_date": "2026-05-28T21:00:00.000Z",
+    "end_date": "2026-05-28T22:30:00.000Z",
     "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
     "city": "London",
     "country": "United Kingdom",
@@ -98,7 +98,23 @@
       "Alex"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:44.680268"
+    "scraped_date": "2026-05-26T09:40:58.189849"
+  },
+  {
+    "name": "INVITE ONLY: Rooftop Thirsty Thursdays @ Encode",
+    "date": "2026-05-28T18:00:00.000Z",
+    "end_date": "2026-05-28T20:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/encode-lu56",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-26T09:40:53.544405"
   },
   {
     "name": "Poolside Research Hackathon",
@@ -116,8 +132,8 @@
       "Will Brown",
       "NVIDIA Developer Community"
     ],
-    "attendee_count": 79,
-    "scraped_date": "2026-05-25T09:54:44.680303"
+    "attendee_count": 106,
+    "scraped_date": "2026-05-26T09:40:58.189877"
   },
   {
     "name": "London | Claude Code for Everyone",
@@ -134,7 +150,7 @@
       "Olivier Alterhq.com"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:44.680319"
+    "scraped_date": "2026-05-26T09:40:58.189890"
   },
   {
     "name": "LeftHack 4.00",
@@ -149,8 +165,8 @@
     "hosts": [
       "LeftHack"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-05-25T09:54:39.738379"
+    "attendee_count": 21,
+    "scraped_date": "2026-05-26T09:40:53.544430"
   },
   {
     "name": "S4S x SiT: Climate Hackathon",
@@ -166,7 +182,7 @@
       "Somalis in Tech"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:39.738389"
+    "scraped_date": "2026-05-26T09:40:53.544439"
   },
   {
     "name": "Lawhive Hackathon London 2026",
@@ -182,7 +198,7 @@
       "Lawhive Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:44.680331"
+    "scraped_date": "2026-05-26T09:40:58.189902"
   },
   {
     "name": "The Agent Economy Buildathon | $20k in bounties",
@@ -201,7 +217,7 @@
       "Cap •"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-25T09:54:44.680352"
+    "scraped_date": "2026-05-26T09:40:58.189918"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -217,6 +233,25 @@
       "Noam"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-05-25T09:54:39.738420"
+    "scraped_date": "2026-05-26T09:40:53.544463"
+  },
+  {
+    "name": "Building the UK's Critical Minerals Edge",
+    "date": "2026-06-02T16:30:00.000Z",
+    "end_date": "2026-06-02T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/h93fbzzl",
+    "hosts": [
+      "Kelsey Mays Alvarez",
+      "Sven Winkler",
+      "Grace Mills",
+      "Ivana Ascroft"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-26T09:40:53.544479"
   }
 ]

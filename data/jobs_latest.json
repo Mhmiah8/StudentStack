@@ -1224,26 +1224,6 @@
     "scraped_date": "2026-02-19T15:28:01.355474"
   },
   {
-    "id": "6mqa8amik4",
-    "company": "Bending Spoons",
-    "programme": "Software engineer, industry placement",
-    "category": "industrial-placements",
-    "categories": [
-      "Software Engineering"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2025-09-09T00:00:00.000Z",
-    "closing_date": null,
-    "url": "https://jobs.bendingspoons.com/positions/68938bb4ae29d1a6e457f050?utm_medium=tracker&utm_source=Trackr&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-02-19T15:28:01.355539"
-  },
-  {
     "id": "790ws0m0v0",
     "company": "PayPal",
     "programme": "Cybersecurity Risk Intern",
@@ -3601,7 +3581,8 @@
     "programme": "Graduate Software Engineer",
     "category": "graduate-programmes",
     "categories": [
-      "Software Engineering"
+      "Software Engineering",
+      "Promoted"
     ],
     "season": "2026",
     "region": "UK",
