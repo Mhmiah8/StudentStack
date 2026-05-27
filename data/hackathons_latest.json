@@ -1,56 +1,5 @@
 [
   {
-    "name": "Building Your Business In Britain 2026 || Main Event Pass",
-    "date": "2026-05-26T13:00:00.000Z",
-    "end_date": "2026-05-26T17:00:00.000Z",
-    "location": "One Triton Square, 1 Triton Square, London NW1 3BF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/lcoys8yq",
-    "hosts": [
-      "Innovator International",
-      "James Roach",
-      "Nick Roach"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:53.544291"
-  },
-  {
-    "name": "Central London | CCCL LON6 —Claude Code for Everyone",
-    "date": "2026-05-26T17:00:00.000Z",
-    "end_date": "2026-05-26T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cccl.6",
-    "hosts": [
-      "Vikram Pawar"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:58.189717"
-  },
-  {
-    "name": "hardware builder coffee",
-    "date": "2026-05-27T07:00:00.000Z",
-    "end_date": "2026-05-27T09:00:00.000Z",
-    "location": "News & Coffee Kiosk, Granary Square, London N1C 4PQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/kp0w1n5k",
-    "hosts": [
-      "Lachlan Chavasse",
-      "Vicky Regan"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:53.544336"
-  },
-  {
     "name": "Is moving fast more important than shipping quality code?",
     "date": "2026-05-27T17:30:00.000Z",
     "end_date": "2026-05-27T20:00:00.000Z",
@@ -64,7 +13,7 @@
       "Dani Unsworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:58.189768"
+    "scraped_date": "2026-05-27T09:34:51.237578"
   },
   {
     "name": "Open Code #12",
@@ -80,7 +29,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:58.189777"
+    "scraped_date": "2026-05-27T09:34:51.237604"
   },
   {
     "name": "Cursor AdTech London Hackathon",
@@ -98,7 +47,7 @@
       "Alex"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:58.189849"
+    "scraped_date": "2026-05-27T09:34:51.237695"
   },
   {
     "name": "INVITE ONLY: Rooftop Thirsty Thursdays @ Encode",
@@ -114,7 +63,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:53.544405"
+    "scraped_date": "2026-05-27T09:34:46.153174"
   },
   {
     "name": "Poolside Research Hackathon",
@@ -132,8 +81,8 @@
       "Will Brown",
       "NVIDIA Developer Community"
     ],
-    "attendee_count": 106,
-    "scraped_date": "2026-05-26T09:40:58.189877"
+    "attendee_count": 110,
+    "scraped_date": "2026-05-27T09:34:51.237742"
   },
   {
     "name": "London | Claude Code for Everyone",
@@ -150,7 +99,24 @@
       "Olivier Alterhq.com"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:58.189890"
+    "scraped_date": "2026-05-27T09:34:51.237764"
+  },
+  {
+    "name": "What It Takes to Build in a Market Everyone Underestimates - A Fireside Chat with Peter Wood (Co-founder @Calibr) | EWOR x Encode Hub",
+    "date": "2026-05-29T18:00:00.000Z",
+    "end_date": "2026-05-29T20:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ewor-1jid",
+    "hosts": [
+      "EWOR Team",
+      "Encode Club"
+    ],
+    "attendee_count": 4,
+    "scraped_date": "2026-05-27T09:34:46.153220"
   },
   {
     "name": "LeftHack 4.00",
@@ -165,8 +131,8 @@
     "hosts": [
       "LeftHack"
     ],
-    "attendee_count": 21,
-    "scraped_date": "2026-05-26T09:40:53.544430"
+    "attendee_count": 22,
+    "scraped_date": "2026-05-27T09:34:46.153236"
   },
   {
     "name": "S4S x SiT: Climate Hackathon",
@@ -182,7 +148,7 @@
       "Somalis in Tech"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:53.544439"
+    "scraped_date": "2026-05-27T09:34:46.153247"
   },
   {
     "name": "Lawhive Hackathon London 2026",
@@ -198,7 +164,7 @@
       "Lawhive Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:58.189902"
+    "scraped_date": "2026-05-27T09:34:51.237786"
   },
   {
     "name": "The Agent Economy Buildathon | $20k in bounties",
@@ -213,11 +179,31 @@
     "hosts": [
       "PLUGGED",
       "Superteam UK",
+      "Imperial Entrepreneurs",
       "Ved Luhana",
-      "Cap •"
+      "Cap •",
+      "BuildHer Labs",
+      "Hela Hałas"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:58.189918"
+    "scraped_date": "2026-05-27T09:34:51.237814"
+  },
+  {
+    "name": "Just Don't Build AGI: Why I'm Trying to Pause AI",
+    "date": "2026-06-01T16:15:00.000Z",
+    "end_date": "2026-06-01T19:00:00.000Z",
+    "location": "Pepper Street Tavern, 21 Pepper St, London E14 9RP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/b4rdce21",
+    "hosts": [
+      "Sergi Lange-Soler",
+      "Joseph Miller"
+    ],
+    "attendee_count": 19,
+    "scraped_date": "2026-05-27T09:34:51.237833"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -233,7 +219,7 @@
       "Noam"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-05-26T09:40:53.544463"
+    "scraped_date": "2026-05-27T09:34:46.153301"
   },
   {
     "name": "Building the UK's Critical Minerals Edge",
@@ -252,6 +238,6 @@
       "Ivana Ascroft"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-26T09:40:53.544479"
+    "scraped_date": "2026-05-27T09:34:46.153326"
   }
 ]
