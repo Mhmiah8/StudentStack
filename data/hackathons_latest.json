@@ -1,37 +1,5 @@
 [
   {
-    "name": "Is moving fast more important than shipping quality code?",
-    "date": "2026-05-27T17:30:00.000Z",
-    "end_date": "2026-05-27T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tuns5mpm",
-    "hosts": [
-      "Dani Unsworth"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:51.237578"
-  },
-  {
-    "name": "Open Code #12",
-    "date": "2026-05-27T17:30:00.000Z",
-    "end_date": "2026-05-27T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/sw6urpe3",
-    "hosts": [
-      "Phoenix Court"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:51.237604"
-  },
-  {
     "name": "Cursor AdTech London Hackathon",
     "date": "2026-05-28T17:00:00.000Z",
     "end_date": "2026-05-28T22:30:00.000Z",
@@ -47,7 +15,7 @@
       "Alex"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:51.237695"
+    "scraped_date": "2026-05-28T09:51:55.242230"
   },
   {
     "name": "INVITE ONLY: Rooftop Thirsty Thursdays @ Encode",
@@ -63,7 +31,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:46.153174"
+    "scraped_date": "2026-05-28T09:51:50.113709"
   },
   {
     "name": "Poolside Research Hackathon",
@@ -81,8 +49,8 @@
       "Will Brown",
       "NVIDIA Developer Community"
     ],
-    "attendee_count": 110,
-    "scraped_date": "2026-05-27T09:34:51.237742"
+    "attendee_count": 104,
+    "scraped_date": "2026-05-28T09:51:55.242318"
   },
   {
     "name": "London | Claude Code for Everyone",
@@ -99,7 +67,7 @@
       "Olivier Alterhq.com"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:51.237764"
+    "scraped_date": "2026-05-28T09:51:55.242338"
   },
   {
     "name": "What It Takes to Build in a Market Everyone Underestimates - A Fireside Chat with Peter Wood (Co-founder @Calibr) | EWOR x Encode Hub",
@@ -115,8 +83,8 @@
       "EWOR Team",
       "Encode Club"
     ],
-    "attendee_count": 4,
-    "scraped_date": "2026-05-27T09:34:46.153220"
+    "attendee_count": 71,
+    "scraped_date": "2026-05-28T09:51:50.113777"
   },
   {
     "name": "LeftHack 4.00",
@@ -132,7 +100,7 @@
       "LeftHack"
     ],
     "attendee_count": 22,
-    "scraped_date": "2026-05-27T09:34:46.153236"
+    "scraped_date": "2026-05-28T09:51:50.113794"
   },
   {
     "name": "S4S x SiT: Climate Hackathon",
@@ -148,7 +116,7 @@
       "Somalis in Tech"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:46.153247"
+    "scraped_date": "2026-05-28T09:51:50.113807"
   },
   {
     "name": "Lawhive Hackathon London 2026",
@@ -164,7 +132,7 @@
       "Lawhive Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:51.237786"
+    "scraped_date": "2026-05-28T09:51:55.242355"
   },
   {
     "name": "The Agent Economy Buildathon | $20k in bounties",
@@ -186,7 +154,7 @@
       "Hela Hałas"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:51.237814"
+    "scraped_date": "2026-05-28T09:51:55.242378"
   },
   {
     "name": "Just Don't Build AGI: Why I'm Trying to Pause AI",
@@ -202,8 +170,8 @@
       "Sergi Lange-Soler",
       "Joseph Miller"
     ],
-    "attendee_count": 19,
-    "scraped_date": "2026-05-27T09:34:51.237833"
+    "attendee_count": 23,
+    "scraped_date": "2026-05-28T09:51:55.242393"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -218,8 +186,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 3,
-    "scraped_date": "2026-05-27T09:34:46.153301"
+    "attendee_count": 12,
+    "scraped_date": "2026-05-28T09:51:50.113855"
   },
   {
     "name": "Building the UK's Critical Minerals Edge",
@@ -238,6 +206,6 @@
       "Ivana Ascroft"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-27T09:34:46.153326"
+    "scraped_date": "2026-05-28T09:51:50.113882"
   }
 ]
