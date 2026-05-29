@@ -1,39 +1,5 @@
 [
   {
-    "name": "Cursor AdTech London Hackathon",
-    "date": "2026-05-28T17:00:00.000Z",
-    "end_date": "2026-05-28T22:30:00.000Z",
-    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/b6jccpfu",
-    "hosts": [
-      "Francisco Terpolilli",
-      "Giorgio Toledo",
-      "Alex"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-28T09:51:55.242230"
-  },
-  {
-    "name": "INVITE ONLY: Rooftop Thirsty Thursdays @ Encode",
-    "date": "2026-05-28T18:00:00.000Z",
-    "end_date": "2026-05-28T20:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-lu56",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-28T09:51:50.113709"
-  },
-  {
     "name": "Poolside Research Hackathon",
     "date": "2026-05-29T14:00:00.000Z",
     "end_date": "2026-05-30T16:00:00.000Z",
@@ -49,8 +15,8 @@
       "Will Brown",
       "NVIDIA Developer Community"
     ],
-    "attendee_count": 104,
-    "scraped_date": "2026-05-28T09:51:55.242318"
+    "attendee_count": 96,
+    "scraped_date": "2026-05-29T09:41:37.062978"
   },
   {
     "name": "London | Claude Code for Everyone",
@@ -67,7 +33,7 @@
       "Olivier Alterhq.com"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-28T09:51:55.242338"
+    "scraped_date": "2026-05-29T09:41:37.063010"
   },
   {
     "name": "What It Takes to Build in a Market Everyone Underestimates - A Fireside Chat with Peter Wood (Co-founder @Calibr) | EWOR x Encode Hub",
@@ -83,8 +49,8 @@
       "EWOR Team",
       "Encode Club"
     ],
-    "attendee_count": 71,
-    "scraped_date": "2026-05-28T09:51:50.113777"
+    "attendee_count": 89,
+    "scraped_date": "2026-05-29T09:41:32.003922"
   },
   {
     "name": "LeftHack 4.00",
@@ -99,8 +65,8 @@
     "hosts": [
       "LeftHack"
     ],
-    "attendee_count": 22,
-    "scraped_date": "2026-05-28T09:51:50.113794"
+    "attendee_count": 23,
+    "scraped_date": "2026-05-29T09:41:32.003953"
   },
   {
     "name": "S4S x SiT: Climate Hackathon",
@@ -116,7 +82,7 @@
       "Somalis in Tech"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-28T09:51:50.113807"
+    "scraped_date": "2026-05-29T09:41:32.003965"
   },
   {
     "name": "Lawhive Hackathon London 2026",
@@ -132,7 +98,7 @@
       "Lawhive Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-28T09:51:55.242355"
+    "scraped_date": "2026-05-29T09:41:37.063029"
   },
   {
     "name": "The Agent Economy Buildathon | $20k in bounties",
@@ -154,7 +120,7 @@
       "Hela Hałas"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-28T09:51:55.242378"
+    "scraped_date": "2026-05-29T09:41:37.063057"
   },
   {
     "name": "Just Don't Build AGI: Why I'm Trying to Pause AI",
@@ -170,8 +136,8 @@
       "Sergi Lange-Soler",
       "Joseph Miller"
     ],
-    "attendee_count": 23,
-    "scraped_date": "2026-05-28T09:51:55.242393"
+    "attendee_count": 31,
+    "scraped_date": "2026-05-29T09:41:37.063074"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -186,8 +152,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-05-28T09:51:50.113855"
+    "attendee_count": 14,
+    "scraped_date": "2026-05-29T09:41:32.004017"
   },
   {
     "name": "Building the UK's Critical Minerals Edge",
@@ -206,6 +172,56 @@
       "Ivana Ascroft"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-28T09:51:50.113882"
+    "scraped_date": "2026-05-29T09:41:32.004041"
+  },
+  {
+    "name": "Build, Run, Secure: AI in Production (w/ Docker & Black Duck)",
+    "date": "2026-06-02T17:30:00.000Z",
+    "end_date": "2026-06-02T20:30:00.000Z",
+    "location": "Enderby House, 23 Telegraph Ave, London SE10 0TH, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/o9i3yqns",
+    "hosts": [
+      "Docker DevRel",
+      "Bogdan Sporea",
+      "Jemimah Makanani"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-29T09:41:37.063129"
+  },
+  {
+    "name": "Architecture of Intellect by Innovators Guild: How Real Organisations Build and Use AI",
+    "date": "2026-06-02T17:45:00.000Z",
+    "end_date": "2026-06-02T20:30:00.000Z",
+    "location": "Revolut, 30 S Colonnade, Canary Wharf Estate, London E14 5HX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/mg2wwmom",
+    "hosts": [
+      "Innovators Guild"
+    ],
+    "attendee_count": 207,
+    "scraped_date": "2026-05-29T09:41:37.063144"
+  },
+  {
+    "name": "Wayflyer x Fin Hackathon | Build the future of eCommerce",
+    "date": "2026-06-03T13:00:00.000Z",
+    "end_date": "2026-06-05T21:00:00.000Z",
+    "location": "Batch LDN - The Batch Members Club, 9-11 Short's Gardens, London WC2H 9AT, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/v4bzvbka",
+    "hosts": [
+      "Oisin Mallon"
+    ],
+    "attendee_count": 29,
+    "scraped_date": "2026-05-29T09:41:37.063171"
   }
 ]
