@@ -1,58 +1,5 @@
 [
   {
-    "name": "Poolside Research Hackathon",
-    "date": "2026-05-29T14:00:00.000Z",
-    "end_date": "2026-05-30T16:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/poolsidehackathon",
-    "hosts": [
-      "Andrea Badia",
-      "Arina",
-      "Will Brown",
-      "NVIDIA Developer Community"
-    ],
-    "attendee_count": 96,
-    "scraped_date": "2026-05-29T09:41:37.062978"
-  },
-  {
-    "name": "London | Claude Code for Everyone",
-    "date": "2026-05-29T17:00:00.000Z",
-    "end_date": "2026-05-29T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/vwnyc5aj",
-    "hosts": [
-      "Wilfred Kasekende",
-      "Olivier Alterhq.com"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-29T09:41:37.063010"
-  },
-  {
-    "name": "What It Takes to Build in a Market Everyone Underestimates - A Fireside Chat with Peter Wood (Co-founder @Calibr) | EWOR x Encode Hub",
-    "date": "2026-05-29T18:00:00.000Z",
-    "end_date": "2026-05-29T20:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ewor-1jid",
-    "hosts": [
-      "EWOR Team",
-      "Encode Club"
-    ],
-    "attendee_count": 89,
-    "scraped_date": "2026-05-29T09:41:32.003922"
-  },
-  {
     "name": "LeftHack 4.00",
     "date": "2026-05-30T09:00:00.000Z",
     "end_date": "2026-05-30T16:00:00.000Z",
@@ -65,8 +12,8 @@
     "hosts": [
       "LeftHack"
     ],
-    "attendee_count": 23,
-    "scraped_date": "2026-05-29T09:41:32.003953"
+    "attendee_count": 26,
+    "scraped_date": "2026-05-30T08:20:50.168666"
   },
   {
     "name": "S4S x SiT: Climate Hackathon",
@@ -82,7 +29,7 @@
       "Somalis in Tech"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-29T09:41:32.003965"
+    "scraped_date": "2026-05-30T08:20:50.168694"
   },
   {
     "name": "Lawhive Hackathon London 2026",
@@ -98,29 +45,7 @@
       "Lawhive Team"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-29T09:41:37.063029"
-  },
-  {
-    "name": "The Agent Economy Buildathon | $20k in bounties",
-    "date": "2026-06-01T08:30:00.000Z",
-    "end_date": "2026-06-06T15:00:00.000Z",
-    "location": "Shoreditch Exchange with Oneder, Gorsuch Pl, London E2 8JF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/agent-economy",
-    "hosts": [
-      "PLUGGED",
-      "Superteam UK",
-      "Imperial Entrepreneurs",
-      "Ved Luhana",
-      "Cap •",
-      "BuildHer Labs",
-      "Hela Hałas"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-29T09:41:37.063057"
+    "scraped_date": "2026-05-30T08:20:56.393697"
   },
   {
     "name": "Just Don't Build AGI: Why I'm Trying to Pause AI",
@@ -136,8 +61,8 @@
       "Sergi Lange-Soler",
       "Joseph Miller"
     ],
-    "attendee_count": 31,
-    "scraped_date": "2026-05-29T09:41:37.063074"
+    "attendee_count": 34,
+    "scraped_date": "2026-05-30T08:20:56.393742"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -153,7 +78,7 @@
       "Noam"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-05-29T09:41:32.004017"
+    "scraped_date": "2026-05-30T08:20:50.168768"
   },
   {
     "name": "Building the UK's Critical Minerals Edge",
@@ -172,7 +97,7 @@
       "Ivana Ascroft"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-29T09:41:32.004041"
+    "scraped_date": "2026-05-30T08:20:50.168799"
   },
   {
     "name": "Build, Run, Secure: AI in Production (w/ Docker & Black Duck)",
@@ -190,7 +115,7 @@
       "Jemimah Makanani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-29T09:41:37.063129"
+    "scraped_date": "2026-05-30T08:20:56.393807"
   },
   {
     "name": "Architecture of Intellect by Innovators Guild: How Real Organisations Build and Use AI",
@@ -205,8 +130,24 @@
     "hosts": [
       "Innovators Guild"
     ],
-    "attendee_count": 207,
-    "scraped_date": "2026-05-29T09:41:37.063144"
+    "attendee_count": 211,
+    "scraped_date": "2026-05-30T08:20:56.393825"
+  },
+  {
+    "name": "Brew & Build: Your Events Strategy (During SXSW London)",
+    "date": "2026-06-03T10:30:00.000Z",
+    "end_date": "2026-06-03T11:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/tvpskxko",
+    "hosts": [
+      "Serenity Events"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-30T08:20:50.168878"
   },
   {
     "name": "Wayflyer x Fin Hackathon | Build the future of eCommerce",
@@ -221,7 +162,55 @@
     "hosts": [
       "Oisin Mallon"
     ],
-    "attendee_count": 29,
-    "scraped_date": "2026-05-29T09:41:37.063171"
+    "attendee_count": 41,
+    "scraped_date": "2026-05-30T08:20:56.393853"
+  },
+  {
+    "name": "Manage Your First AI Agent Team: Build an Interactive Website for Imperial College's Great Exhibition Road Festival",
+    "date": "2026-06-03T17:00:00.000Z",
+    "end_date": "2026-06-03T20:00:00.000Z",
+    "location": "75 King William St, London EC4N 7BE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/6g0ujcvr",
+    "hosts": [
+      "NetMind.AI"
+    ],
+    "attendee_count": 41,
+    "scraped_date": "2026-05-30T08:20:56.393874"
+  },
+  {
+    "name": "Open Code #13",
+    "date": "2026-06-03T17:30:00.000Z",
+    "end_date": "2026-06-03T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/syyrzefo",
+    "hosts": [
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-05-30T08:20:56.393888"
+  },
+  {
+    "name": "Talent ~ People | Hackathon 2: Dragon’s Den Edition",
+    "date": "2026-06-04T07:30:00.000Z",
+    "end_date": "2026-06-04T09:30:00.000Z",
+    "location": "Shoreditch Treehouse, 34 Charlotte Rd, London EC2A 3PB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/z038w7s2",
+    "hosts": [
+      "Luc Adamson"
+    ],
+    "attendee_count": 32,
+    "scraped_date": "2026-05-30T08:20:56.393903"
   }
 ]

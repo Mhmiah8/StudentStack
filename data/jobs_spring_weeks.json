@@ -18,6 +18,24 @@
     "scraped_date": "2026-04-02T07:04:29.610191"
   },
   {
+    "id": "d9mayex6cq",
+    "company": "Expedia",
+    "programme": "Career Discovery Program - Software Development - 2026",
+    "category": "spring-weeks",
+    "categories": [],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-05-29T00:00:00.000Z",
+    "closing_date": "2026-06-23T00:00:00.000Z",
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/Career-Discovery-Program---Software-Development---2026_R-106333?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&source=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-05-30T08:20:43.143825"
+  },
+  {
     "id": "djeelkz6j0",
     "company": "Treefera",
     "programme": "Treefera Internship Programme",
