@@ -1,51 +1,20 @@
 [
   {
-    "name": "LeftHack 4.00",
-    "date": "2026-05-30T09:00:00.000Z",
-    "end_date": "2026-05-30T16:00:00.000Z",
-    "location": "SPACE4, 113-115 Fonthill Rd, Finsbury Park, London N4 3HH, UK",
+    "name": "HackWimbledon May 2026 #3",
+    "date": "2026-05-31T11:00:00.000Z",
+    "end_date": "2026-05-31T15:00:00.000Z",
+    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/1q4avfml",
+    "url": "https://lu.ma/2kwrl99e",
     "hosts": [
-      "LeftHack"
+      "Bazza",
+      "Andy Piper"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-05-30T08:20:50.168666"
-  },
-  {
-    "name": "S4S x SiT: Climate Hackathon",
-    "date": "2026-05-30T09:00:00.000Z",
-    "end_date": "2026-05-31T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/oc8fssy1",
-    "hosts": [
-      "Somalis in Tech"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-30T08:20:50.168694"
-  },
-  {
-    "name": "Lawhive Hackathon London 2026",
-    "date": "2026-05-30T09:00:00.000Z",
-    "end_date": "2026-05-30T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/yp8za2a0",
-    "hosts": [
-      "Lawhive Team"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-05-30T08:20:56.393697"
+    "attendee_count": 4,
+    "scraped_date": "2026-05-31T08:37:23.373760"
   },
   {
     "name": "Just Don't Build AGI: Why I'm Trying to Pause AI",
@@ -61,8 +30,8 @@
       "Sergi Lange-Soler",
       "Joseph Miller"
     ],
-    "attendee_count": 34,
-    "scraped_date": "2026-05-30T08:20:56.393742"
+    "attendee_count": 37,
+    "scraped_date": "2026-05-31T08:37:27.962634"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -77,8 +46,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-05-30T08:20:50.168768"
+    "attendee_count": 17,
+    "scraped_date": "2026-05-31T08:37:23.373827"
   },
   {
     "name": "Building the UK's Critical Minerals Edge",
@@ -97,7 +66,7 @@
       "Ivana Ascroft"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-30T08:20:50.168799"
+    "scraped_date": "2026-05-31T08:37:23.373913"
   },
   {
     "name": "Build, Run, Secure: AI in Production (w/ Docker & Black Duck)",
@@ -115,7 +84,7 @@
       "Jemimah Makanani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-30T08:20:56.393807"
+    "scraped_date": "2026-05-31T08:37:27.962710"
   },
   {
     "name": "Architecture of Intellect by Innovators Guild: How Real Organisations Build and Use AI",
@@ -130,8 +99,8 @@
     "hosts": [
       "Innovators Guild"
     ],
-    "attendee_count": 211,
-    "scraped_date": "2026-05-30T08:20:56.393825"
+    "attendee_count": 221,
+    "scraped_date": "2026-05-31T08:37:27.962726"
   },
   {
     "name": "Brew & Build: Your Events Strategy (During SXSW London)",
@@ -147,7 +116,23 @@
       "Serenity Events"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-30T08:20:50.168878"
+    "scraped_date": "2026-05-31T08:37:23.374004"
+  },
+  {
+    "name": "NL House: If you build it, will they come?",
+    "date": "2026-06-03T11:00:00.000Z",
+    "end_date": "2026-06-03T11:45:00.000Z",
+    "location": "Bike Shed Moto Co., 384 Old St, London EC1V 9LT, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8tsmxszw",
+    "hosts": [
+      "New Dutch Wave"
+    ],
+    "attendee_count": 16,
+    "scraped_date": "2026-05-31T08:37:23.374020"
   },
   {
     "name": "Wayflyer x Fin Hackathon | Build the future of eCommerce",
@@ -162,8 +147,8 @@
     "hosts": [
       "Oisin Mallon"
     ],
-    "attendee_count": 41,
-    "scraped_date": "2026-05-30T08:20:56.393853"
+    "attendee_count": 44,
+    "scraped_date": "2026-05-31T08:37:27.962755"
   },
   {
     "name": "Manage Your First AI Agent Team: Build an Interactive Website for Imperial College's Great Exhibition Road Festival",
@@ -178,8 +163,8 @@
     "hosts": [
       "NetMind.AI"
     ],
-    "attendee_count": 41,
-    "scraped_date": "2026-05-30T08:20:56.393874"
+    "attendee_count": 43,
+    "scraped_date": "2026-05-31T08:37:27.962776"
   },
   {
     "name": "Open Code #13",
@@ -195,7 +180,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-30T08:20:56.393888"
+    "scraped_date": "2026-05-31T08:37:27.962790"
   },
   {
     "name": "Talent ~ People | Hackathon 2: Dragon’s Den Edition",
@@ -211,6 +196,22 @@
       "Luc Adamson"
     ],
     "attendee_count": 32,
-    "scraped_date": "2026-05-30T08:20:56.393903"
+    "scraped_date": "2026-05-31T08:37:27.962804"
+  },
+  {
+    "name": "Claude Code Workshop | Automate Your Work in 3 Hours",
+    "date": "2026-06-04T08:30:00.000Z",
+    "end_date": "2026-06-04T11:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/nios3kf3",
+    "hosts": [
+      "Mark Nguyen"
+    ],
+    "attendee_count": 7,
+    "scraped_date": "2026-05-31T08:37:27.962823"
   }
 ]

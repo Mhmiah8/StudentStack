@@ -804,26 +804,6 @@
     "scraped_date": "2026-04-01T07:12:04.510066"
   },
   {
-    "id": "qijq906y3s",
-    "company": "LEC AI",
-    "programme": "AI Engineer Summer Internship 2026",
-    "category": "summer-internships",
-    "categories": [
-      "AI and Machine Learning"
-    ],
-    "season": "2026",
-    "region": "UK",
-    "locations": "UK",
-    "opening_date": "2026-05-19T00:00:00.000Z",
-    "closing_date": "2026-05-31T00:00:00.000Z",
-    "url": "https://www.linkedin.com/jobs/view/4416663595/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026",
-    "format": null,
-    "eligibility": null,
-    "cv_required": "Yes",
-    "rolling": null,
-    "scraped_date": "2026-05-20T08:56:53.102106"
-  },
-  {
     "id": "qwpq723qcy",
     "company": "Squarepoint Capital",
     "programme": "Intern Software Development - Summer 2026",
@@ -1967,6 +1947,26 @@
     "cv_required": "Yes",
     "rolling": null,
     "scraped_date": "2026-02-19T15:28:05.434969"
+  },
+  {
+    "id": "1f90q36lhk",
+    "company": "Orchard Global",
+    "programme": "Graduate Developer",
+    "category": "graduate-programmes",
+    "categories": [
+      "Software Engineering"
+    ],
+    "season": "2026",
+    "region": "UK",
+    "locations": "UK",
+    "opening_date": "2026-05-29T00:00:00.000Z",
+    "closing_date": null,
+    "url": "https://job-boards.eu.greenhouse.io/orchardglobal_careers?offices%5B%5D=4032660101&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Technology_2026&gh_src=Trackr",
+    "format": null,
+    "eligibility": null,
+    "cv_required": "Yes",
+    "rolling": null,
+    "scraped_date": "2026-05-31T08:37:13.883595"
   },
   {
     "id": "1faevfvrd2",
