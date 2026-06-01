@@ -1,22 +1,5 @@
 [
   {
-    "name": "HackWimbledon May 2026 #3",
-    "date": "2026-05-31T11:00:00.000Z",
-    "end_date": "2026-05-31T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2kwrl99e",
-    "hosts": [
-      "Bazza",
-      "Andy Piper"
-    ],
-    "attendee_count": 4,
-    "scraped_date": "2026-05-31T08:37:23.373760"
-  },
-  {
     "name": "Just Don't Build AGI: Why I'm Trying to Pause AI",
     "date": "2026-06-01T16:15:00.000Z",
     "end_date": "2026-06-01T19:00:00.000Z",
@@ -30,8 +13,8 @@
       "Sergi Lange-Soler",
       "Joseph Miller"
     ],
-    "attendee_count": 37,
-    "scraped_date": "2026-05-31T08:37:27.962634"
+    "attendee_count": 44,
+    "scraped_date": "2026-06-01T11:17:13.693332"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -46,8 +29,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-05-31T08:37:23.373827"
+    "attendee_count": 19,
+    "scraped_date": "2026-06-01T11:17:09.161775"
   },
   {
     "name": "Building the UK's Critical Minerals Edge",
@@ -66,7 +49,7 @@
       "Ivana Ascroft"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-31T08:37:23.373913"
+    "scraped_date": "2026-06-01T11:17:09.161831"
   },
   {
     "name": "Build, Run, Secure: AI in Production (w/ Docker & Black Duck)",
@@ -84,7 +67,7 @@
       "Jemimah Makanani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-31T08:37:27.962710"
+    "scraped_date": "2026-06-01T11:17:13.693400"
   },
   {
     "name": "Architecture of Intellect by Innovators Guild: How Real Organisations Build and Use AI",
@@ -99,8 +82,8 @@
     "hosts": [
       "Innovators Guild"
     ],
-    "attendee_count": 221,
-    "scraped_date": "2026-05-31T08:37:27.962726"
+    "attendee_count": 229,
+    "scraped_date": "2026-06-01T11:17:13.693414"
   },
   {
     "name": "Brew & Build: Your Events Strategy (During SXSW London)",
@@ -116,7 +99,7 @@
       "Serenity Events"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-31T08:37:23.374004"
+    "scraped_date": "2026-06-01T11:17:09.161922"
   },
   {
     "name": "NL House: If you build it, will they come?",
@@ -132,7 +115,7 @@
       "New Dutch Wave"
     ],
     "attendee_count": 16,
-    "scraped_date": "2026-05-31T08:37:23.374020"
+    "scraped_date": "2026-06-01T11:17:09.161957"
   },
   {
     "name": "Wayflyer x Fin Hackathon | Build the future of eCommerce",
@@ -147,8 +130,24 @@
     "hosts": [
       "Oisin Mallon"
     ],
-    "attendee_count": 44,
-    "scraped_date": "2026-05-31T08:37:27.962755"
+    "attendee_count": 76,
+    "scraped_date": "2026-06-01T11:17:13.693435"
+  },
+  {
+    "name": "NL House: World's firsts — Building innovation that actually matters",
+    "date": "2026-06-03T14:00:00.000Z",
+    "end_date": "2026-06-03T14:45:00.000Z",
+    "location": "Bike Shed Moto Co., 384 Old St, London EC1V 9LT, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/otki8ihg",
+    "hosts": [
+      "New Dutch Wave"
+    ],
+    "attendee_count": 26,
+    "scraped_date": "2026-06-01T11:17:09.161986"
   },
   {
     "name": "Manage Your First AI Agent Team: Build an Interactive Website for Imperial College's Great Exhibition Road Festival",
@@ -163,8 +162,8 @@
     "hosts": [
       "NetMind.AI"
     ],
-    "attendee_count": 43,
-    "scraped_date": "2026-05-31T08:37:27.962776"
+    "attendee_count": 46,
+    "scraped_date": "2026-06-01T11:17:13.693451"
   },
   {
     "name": "Open Code #13",
@@ -180,7 +179,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-05-31T08:37:27.962790"
+    "scraped_date": "2026-06-01T11:17:13.693461"
   },
   {
     "name": "Talent ~ People | Hackathon 2: Dragon’s Den Edition",
@@ -195,8 +194,8 @@
     "hosts": [
       "Luc Adamson"
     ],
-    "attendee_count": 32,
-    "scraped_date": "2026-05-31T08:37:27.962804"
+    "attendee_count": 34,
+    "scraped_date": "2026-06-01T11:17:13.693471"
   },
   {
     "name": "Claude Code Workshop | Automate Your Work in 3 Hours",
@@ -211,7 +210,7 @@
     "hosts": [
       "Mark Nguyen"
     ],
-    "attendee_count": 7,
-    "scraped_date": "2026-05-31T08:37:27.962823"
+    "attendee_count": 8,
+    "scraped_date": "2026-06-01T11:17:13.693483"
   }
 ]
