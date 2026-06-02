@@ -1,38 +1,5 @@
 [
   {
-    "name": "Just Don't Build AGI: Why I'm Trying to Pause AI",
-    "date": "2026-06-01T16:15:00.000Z",
-    "end_date": "2026-06-01T19:00:00.000Z",
-    "location": "Pepper Street Tavern, 21 Pepper St, London E14 9RP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/b4rdce21",
-    "hosts": [
-      "Sergi Lange-Soler",
-      "Joseph Miller"
-    ],
-    "attendee_count": 44,
-    "scraped_date": "2026-06-01T11:17:13.693332"
-  },
-  {
-    "name": "Campaign Lab Summer Hack Night!",
-    "date": "2026-06-01T18:00:00.000Z",
-    "end_date": "2026-06-01T21:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/u3nu08yh",
-    "hosts": [
-      "Noam"
-    ],
-    "attendee_count": 19,
-    "scraped_date": "2026-06-01T11:17:09.161775"
-  },
-  {
     "name": "Building the UK's Critical Minerals Edge",
     "date": "2026-06-02T16:30:00.000Z",
     "end_date": "2026-06-02T19:30:00.000Z",
@@ -49,7 +16,7 @@
       "Ivana Ascroft"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-01T11:17:09.161831"
+    "scraped_date": "2026-06-02T10:12:48.965963"
   },
   {
     "name": "Build, Run, Secure: AI in Production (w/ Docker & Black Duck)",
@@ -67,7 +34,7 @@
       "Jemimah Makanani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-01T11:17:13.693400"
+    "scraped_date": "2026-06-02T10:12:53.465589"
   },
   {
     "name": "Architecture of Intellect by Innovators Guild: How Real Organisations Build and Use AI",
@@ -82,8 +49,8 @@
     "hosts": [
       "Innovators Guild"
     ],
-    "attendee_count": 229,
-    "scraped_date": "2026-06-01T11:17:13.693414"
+    "attendee_count": 231,
+    "scraped_date": "2026-06-02T10:12:53.465620"
   },
   {
     "name": "Brew & Build: Your Events Strategy (During SXSW London)",
@@ -99,7 +66,7 @@
       "Serenity Events"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-01T11:17:09.161922"
+    "scraped_date": "2026-06-02T10:12:48.966078"
   },
   {
     "name": "NL House: If you build it, will they come?",
@@ -115,7 +82,7 @@
       "New Dutch Wave"
     ],
     "attendee_count": 16,
-    "scraped_date": "2026-06-01T11:17:09.161957"
+    "scraped_date": "2026-06-02T10:12:48.966110"
   },
   {
     "name": "Wayflyer x Fin Hackathon | Build the future of eCommerce",
@@ -130,24 +97,24 @@
     "hosts": [
       "Oisin Mallon"
     ],
-    "attendee_count": 76,
-    "scraped_date": "2026-06-01T11:17:13.693435"
+    "attendee_count": 92,
+    "scraped_date": "2026-06-02T10:12:53.465658"
   },
   {
-    "name": "NL House: World's firsts — Building innovation that actually matters",
-    "date": "2026-06-03T14:00:00.000Z",
-    "end_date": "2026-06-03T14:45:00.000Z",
-    "location": "Bike Shed Moto Co., 384 Old St, London EC1V 9LT, UK",
+    "name": "TechTalk x Canva: Campaign Lab: Build, Design, Convert",
+    "date": "2026-06-03T17:00:00.000Z",
+    "end_date": "2026-06-03T20:30:00.000Z",
+    "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/otki8ihg",
+    "url": "https://lu.ma/2pczrlgk",
     "hosts": [
-      "New Dutch Wave"
+      "TechTalk UK"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-06-01T11:17:09.161986"
+    "attendee_count": 0,
+    "scraped_date": "2026-06-02T10:12:48.966172"
   },
   {
     "name": "Manage Your First AI Agent Team: Build an Interactive Website for Imperial College's Great Exhibition Road Festival",
@@ -162,8 +129,8 @@
     "hosts": [
       "NetMind.AI"
     ],
-    "attendee_count": 46,
-    "scraped_date": "2026-06-01T11:17:13.693451"
+    "attendee_count": 48,
+    "scraped_date": "2026-06-02T10:12:53.465680"
   },
   {
     "name": "Open Code #13",
@@ -179,7 +146,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-01T11:17:13.693461"
+    "scraped_date": "2026-06-02T10:12:53.465697"
   },
   {
     "name": "Talent ~ People | Hackathon 2: Dragon’s Den Edition",
@@ -195,7 +162,7 @@
       "Luc Adamson"
     ],
     "attendee_count": 34,
-    "scraped_date": "2026-06-01T11:17:13.693471"
+    "scraped_date": "2026-06-02T10:12:53.465714"
   },
   {
     "name": "Claude Code Workshop | Automate Your Work in 3 Hours",
@@ -210,7 +177,25 @@
     "hosts": [
       "Mark Nguyen"
     ],
-    "attendee_count": 8,
-    "scraped_date": "2026-06-01T11:17:13.693483"
+    "attendee_count": 11,
+    "scraped_date": "2026-06-02T10:12:53.465737"
+  },
+  {
+    "name": "UXCrunch & Coderabbit Present: June AI Summit",
+    "date": "2026-06-04T16:30:00.000Z",
+    "end_date": "2026-06-04T20:00:00.000Z",
+    "location": "London Museum Docklands, No 1, West India Quay, Hertsmere Rd, London E14 4AL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/m79sbz89",
+    "hosts": [
+      "UX Crunch",
+      "CodeRabbit",
+      "Ritvi"
+    ],
+    "attendee_count": 52,
+    "scraped_date": "2026-06-02T10:12:53.465771"
   }
 ]
