@@ -1,74 +1,5 @@
 [
   {
-    "name": "Building the UK's Critical Minerals Edge",
-    "date": "2026-06-02T16:30:00.000Z",
-    "end_date": "2026-06-02T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/h93fbzzl",
-    "hosts": [
-      "Kelsey Mays Alvarez",
-      "Sven Winkler",
-      "Grace Mills",
-      "Ivana Ascroft"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-02T10:12:48.965963"
-  },
-  {
-    "name": "Build, Run, Secure: AI in Production (w/ Docker & Black Duck)",
-    "date": "2026-06-02T17:30:00.000Z",
-    "end_date": "2026-06-02T20:30:00.000Z",
-    "location": "Enderby House, 23 Telegraph Ave, London SE10 0TH, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/o9i3yqns",
-    "hosts": [
-      "Docker DevRel",
-      "Bogdan Sporea",
-      "Jemimah Makanani"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-02T10:12:53.465589"
-  },
-  {
-    "name": "Architecture of Intellect by Innovators Guild: How Real Organisations Build and Use AI",
-    "date": "2026-06-02T17:45:00.000Z",
-    "end_date": "2026-06-02T20:30:00.000Z",
-    "location": "Revolut, 30 S Colonnade, Canary Wharf Estate, London E14 5HX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/mg2wwmom",
-    "hosts": [
-      "Innovators Guild"
-    ],
-    "attendee_count": 231,
-    "scraped_date": "2026-06-02T10:12:53.465620"
-  },
-  {
-    "name": "Brew & Build: Your Events Strategy (During SXSW London)",
-    "date": "2026-06-03T10:30:00.000Z",
-    "end_date": "2026-06-03T11:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tvpskxko",
-    "hosts": [
-      "Serenity Events"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-02T10:12:48.966078"
-  },
-  {
     "name": "NL House: If you build it, will they come?",
     "date": "2026-06-03T11:00:00.000Z",
     "end_date": "2026-06-03T11:45:00.000Z",
@@ -81,8 +12,8 @@
     "hosts": [
       "New Dutch Wave"
     ],
-    "attendee_count": 16,
-    "scraped_date": "2026-06-02T10:12:48.966110"
+    "attendee_count": 32,
+    "scraped_date": "2026-06-03T10:47:08.511504"
   },
   {
     "name": "Wayflyer x Fin Hackathon | Build the future of eCommerce",
@@ -97,8 +28,8 @@
     "hosts": [
       "Oisin Mallon"
     ],
-    "attendee_count": 92,
-    "scraped_date": "2026-06-02T10:12:53.465658"
+    "attendee_count": 95,
+    "scraped_date": "2026-06-03T10:47:14.061209"
   },
   {
     "name": "TechTalk x Canva: Campaign Lab: Build, Design, Convert",
@@ -114,7 +45,7 @@
       "TechTalk UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-02T10:12:48.966172"
+    "scraped_date": "2026-06-03T10:47:08.511558"
   },
   {
     "name": "Manage Your First AI Agent Team: Build an Interactive Website for Imperial College's Great Exhibition Road Festival",
@@ -129,8 +60,8 @@
     "hosts": [
       "NetMind.AI"
     ],
-    "attendee_count": 48,
-    "scraped_date": "2026-06-02T10:12:53.465680"
+    "attendee_count": 49,
+    "scraped_date": "2026-06-03T10:47:14.061241"
   },
   {
     "name": "Open Code #13",
@@ -146,23 +77,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-02T10:12:53.465697"
-  },
-  {
-    "name": "Talent ~ People | Hackathon 2: Dragon’s Den Edition",
-    "date": "2026-06-04T07:30:00.000Z",
-    "end_date": "2026-06-04T09:30:00.000Z",
-    "location": "Shoreditch Treehouse, 34 Charlotte Rd, London EC2A 3PB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/z038w7s2",
-    "hosts": [
-      "Luc Adamson"
-    ],
-    "attendee_count": 34,
-    "scraped_date": "2026-06-02T10:12:53.465714"
+    "scraped_date": "2026-06-03T10:47:14.061255"
   },
   {
     "name": "Claude Code Workshop | Automate Your Work in 3 Hours",
@@ -177,8 +92,8 @@
     "hosts": [
       "Mark Nguyen"
     ],
-    "attendee_count": 11,
-    "scraped_date": "2026-06-02T10:12:53.465737"
+    "attendee_count": 16,
+    "scraped_date": "2026-06-03T10:47:14.061271"
   },
   {
     "name": "UXCrunch & Coderabbit Present: June AI Summit",
@@ -195,7 +110,141 @@
       "CodeRabbit",
       "Ritvi"
     ],
-    "attendee_count": 52,
-    "scraped_date": "2026-06-02T10:12:53.465771"
+    "attendee_count": 60,
+    "scraped_date": "2026-06-03T10:47:14.061298"
+  },
+  {
+    "name": "Claude Code for Everyone",
+    "date": "2026-06-05T16:30:00.000Z",
+    "end_date": "2026-06-05T18:30:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/f9837fqr",
+    "hosts": [
+      "Martim Loureiro"
+    ],
+    "attendee_count": 9,
+    "scraped_date": "2026-06-03T10:47:14.061325"
+  },
+  {
+    "name": "NVIDIA Hack for Impact - London",
+    "date": "2026-06-05T17:00:00.000Z",
+    "end_date": "2026-06-07T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/NVIDIA-Hack-London",
+    "hosts": [
+      "NVIDIA Developer Community",
+      "Elliot Winch"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-03T10:47:14.061334"
+  },
+  {
+    "name": "Ripple × Living Room Labs: AI Hackathon - Build Something Before Lunch",
+    "date": "2026-06-06T08:00:00.000Z",
+    "end_date": "2026-06-06T13:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zclicuhi",
+    "hosts": [
+      "reese wong",
+      "anna nguyen",
+      "Andrew Kuan",
+      "Bogdan Golumbeanu"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-03T10:47:14.061342"
+  },
+  {
+    "name": "VibeHack London",
+    "date": "2026-06-06T08:00:00.000Z",
+    "end_date": "2026-06-07T16:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/9ef4463s",
+    "hosts": [
+      "Zymix_Official",
+      "CoAI Club",
+      "Fotor",
+      "Kickstart Global",
+      "Orbit",
+      "Manus AI",
+      "James Hua",
+      "Francisco Terpolilli",
+      "Elis",
+      "Leo Tyson",
+      "Ryan Sudhakaran",
+      "EpicConnector",
+      "z.ai"
+    ],
+    "attendee_count": 366,
+    "scraped_date": "2026-06-03T10:47:14.061358"
+  },
+  {
+    "name": "AI Risk Content Hackathon",
+    "date": "2026-06-06T09:00:00.000Z",
+    "end_date": "2026-06-06T20:00:00.000Z",
+    "location": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ais-contenthack",
+    "hosts": [
+      "Joshua Landes",
+      "Mateus de Sousa",
+      "Caitlin Yardley",
+      "BlueDot Impact",
+      "LISA"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-03T10:47:14.061367"
+  },
+  {
+    "name": "Weekends at Metaview: Brunch & build AI workflows with fellow generalists & operators.",
+    "date": "2026-06-06T09:00:00.000Z",
+    "end_date": "2026-06-06T15:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/weekends-at-metaview",
+    "hosts": [
+      "Raza Rasool"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-03T10:47:14.061373"
+  },
+  {
+    "name": "ONEDAY × REPLIT — Build it Live (London) In-Person Event",
+    "date": "2026-06-07T09:00:00.000Z",
+    "end_date": "2026-06-07T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/mh1l03qd",
+    "hosts": [
+      "Juan Linares",
+      "Taras Polik",
+      "Taras Polik"
+    ],
+    "attendee_count": 344,
+    "scraped_date": "2026-06-03T10:47:14.061381"
   }
 ]
