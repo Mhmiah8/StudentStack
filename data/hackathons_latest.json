@@ -1,105 +1,9 @@
 [
   {
-    "name": "NL House: If you build it, will they come?",
-    "date": "2026-06-03T11:00:00.000Z",
-    "end_date": "2026-06-03T11:45:00.000Z",
-    "location": "Bike Shed Moto Co., 384 Old St, London EC1V 9LT, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8tsmxszw",
-    "hosts": [
-      "New Dutch Wave"
-    ],
-    "attendee_count": 32,
-    "scraped_date": "2026-06-03T10:47:08.511504"
-  },
-  {
-    "name": "Wayflyer x Fin Hackathon | Build the future of eCommerce",
-    "date": "2026-06-03T13:00:00.000Z",
-    "end_date": "2026-06-05T21:00:00.000Z",
-    "location": "Batch LDN - The Batch Members Club, 9-11 Short's Gardens, London WC2H 9AT, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/v4bzvbka",
-    "hosts": [
-      "Oisin Mallon"
-    ],
-    "attendee_count": 95,
-    "scraped_date": "2026-06-03T10:47:14.061209"
-  },
-  {
-    "name": "TechTalk x Canva: Campaign Lab: Build, Design, Convert",
-    "date": "2026-06-03T17:00:00.000Z",
-    "end_date": "2026-06-03T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2pczrlgk",
-    "hosts": [
-      "TechTalk UK"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-03T10:47:08.511558"
-  },
-  {
-    "name": "Manage Your First AI Agent Team: Build an Interactive Website for Imperial College's Great Exhibition Road Festival",
-    "date": "2026-06-03T17:00:00.000Z",
-    "end_date": "2026-06-03T20:00:00.000Z",
-    "location": "75 King William St, London EC4N 7BE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/6g0ujcvr",
-    "hosts": [
-      "NetMind.AI"
-    ],
-    "attendee_count": 49,
-    "scraped_date": "2026-06-03T10:47:14.061241"
-  },
-  {
-    "name": "Open Code #13",
-    "date": "2026-06-03T17:30:00.000Z",
-    "end_date": "2026-06-03T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/syyrzefo",
-    "hosts": [
-      "Phoenix Court"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-03T10:47:14.061255"
-  },
-  {
-    "name": "Claude Code Workshop | Automate Your Work in 3 Hours",
-    "date": "2026-06-04T08:30:00.000Z",
-    "end_date": "2026-06-04T11:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/nios3kf3",
-    "hosts": [
-      "Mark Nguyen"
-    ],
-    "attendee_count": 16,
-    "scraped_date": "2026-06-03T10:47:14.061271"
-  },
-  {
     "name": "UXCrunch & Coderabbit Present: June AI Summit",
     "date": "2026-06-04T16:30:00.000Z",
     "end_date": "2026-06-04T20:00:00.000Z",
-    "location": "London Museum Docklands, No 1, West India Quay, Hertsmere Rd, London E14 4AL, UK",
+    "location": "Vauxhall Arches, 39 Parry St, London SW8 1RT, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
@@ -110,8 +14,27 @@
       "CodeRabbit",
       "Ritvi"
     ],
-    "attendee_count": 60,
-    "scraped_date": "2026-06-03T10:47:14.061298"
+    "attendee_count": 59,
+    "scraped_date": "2026-06-04T09:47:03.353765"
+  },
+  {
+    "name": "Pop The Bubble Hackathon 🫧",
+    "date": "2026-06-05T16:00:00.000Z",
+    "end_date": "2026-06-07T07:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/035ubxn3",
+    "hosts": [
+      "Aru N",
+      "Lois Zhao",
+      "L Leong",
+      "Al"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-04T09:46:58.639276"
   },
   {
     "name": "Claude Code for Everyone",
@@ -126,8 +49,25 @@
     "hosts": [
       "Martim Loureiro"
     ],
-    "attendee_count": 9,
-    "scraped_date": "2026-06-03T10:47:14.061325"
+    "attendee_count": 12,
+    "scraped_date": "2026-06-04T09:47:03.353817"
+  },
+  {
+    "name": "Shoreditch Fifa Tournament w/ Encode & Footium",
+    "date": "2026-06-05T17:00:00.000Z",
+    "end_date": "2026-06-05T21:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/u8ej256j",
+    "hosts": [
+      "Encode Club",
+      "George Benton"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-04T09:46:58.639315"
   },
   {
     "name": "NVIDIA Hack for Impact - London",
@@ -144,7 +84,7 @@
       "Elliot Winch"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-03T10:47:14.061334"
+    "scraped_date": "2026-06-04T09:47:03.353834"
   },
   {
     "name": "Ripple × Living Room Labs: AI Hackathon - Build Something Before Lunch",
@@ -163,7 +103,7 @@
       "Bogdan Golumbeanu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-03T10:47:14.061342"
+    "scraped_date": "2026-06-04T09:47:03.353852"
   },
   {
     "name": "VibeHack London",
@@ -190,8 +130,24 @@
       "EpicConnector",
       "z.ai"
     ],
-    "attendee_count": 366,
-    "scraped_date": "2026-06-03T10:47:14.061358"
+    "attendee_count": 374,
+    "scraped_date": "2026-06-04T09:47:03.353869"
+  },
+  {
+    "name": "Hardware Hacks '26",
+    "date": "2026-06-06T09:00:00.000Z",
+    "end_date": "2026-06-07T17:00:00.000Z",
+    "location": "King's College London Guy's Campus, Guy's Campus, Great Maze Pond, London SE1 1UL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cn9t0b95",
+    "hosts": [
+      "KCL Electronics Society Events"
+    ],
+    "attendee_count": 70,
+    "scraped_date": "2026-06-04T09:46:58.639337"
   },
   {
     "name": "AI Risk Content Hackathon",
@@ -211,7 +167,7 @@
       "LISA"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-03T10:47:14.061367"
+    "scraped_date": "2026-06-04T09:47:03.353883"
   },
   {
     "name": "Weekends at Metaview: Brunch & build AI workflows with fellow generalists & operators.",
@@ -227,7 +183,7 @@
       "Raza Rasool"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-03T10:47:14.061373"
+    "scraped_date": "2026-06-04T09:47:03.353893"
   },
   {
     "name": "ONEDAY × REPLIT — Build it Live (London) In-Person Event",
@@ -244,7 +200,60 @@
       "Taras Polik",
       "Taras Polik"
     ],
-    "attendee_count": 344,
-    "scraped_date": "2026-06-03T10:47:14.061381"
+    "attendee_count": 343,
+    "scraped_date": "2026-06-04T09:47:03.353906"
+  },
+  {
+    "name": "Lunch + AI Build: Agents for Ambitious Founders",
+    "date": "2026-06-08T11:00:00.000Z",
+    "end_date": "2026-06-08T13:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dust-j2vf",
+    "hosts": [
+      "Louni Roussel",
+      "Daniel Colaianni",
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-04T09:47:03.353928"
+  },
+  {
+    "name": "Codex Community Meetup - London",
+    "date": "2026-06-08T17:30:00.000Z",
+    "end_date": "2026-06-08T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/codex-ldn-2",
+    "hosts": [
+      "Andy Tyler",
+      "Vaibhav Srivastav",
+      "Gabriel Chua"
+    ],
+    "attendee_count": 5,
+    "scraped_date": "2026-06-04T09:47:03.353950"
+  },
+  {
+    "name": "CABAL HACKATHON",
+    "date": "2026-06-09T08:00:00.000Z",
+    "end_date": "2026-06-09T16:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/xfoz9bhx",
+    "hosts": [
+      "Cabal Community",
+      "Matthew Hughes"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-04T09:47:03.353963"
   }
 ]
