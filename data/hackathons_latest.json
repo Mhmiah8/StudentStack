@@ -1,23 +1,5 @@
 [
   {
-    "name": "UXCrunch & Coderabbit Present: June AI Summit",
-    "date": "2026-06-04T16:30:00.000Z",
-    "end_date": "2026-06-04T20:00:00.000Z",
-    "location": "Vauxhall Arches, 39 Parry St, London SW8 1RT, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/m79sbz89",
-    "hosts": [
-      "UX Crunch",
-      "CodeRabbit",
-      "Ritvi"
-    ],
-    "attendee_count": 59,
-    "scraped_date": "2026-06-04T09:47:03.353765"
-  },
-  {
     "name": "Pop The Bubble Hackathon 🫧",
     "date": "2026-06-05T16:00:00.000Z",
     "end_date": "2026-06-07T07:00:00.000Z",
@@ -31,10 +13,10 @@
       "Aru N",
       "Lois Zhao",
       "L Leong",
-      "Al"
+      "Alramina"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-04T09:46:58.639276"
+    "scraped_date": "2026-06-05T09:35:43.806961"
   },
   {
     "name": "Claude Code for Everyone",
@@ -49,8 +31,8 @@
     "hosts": [
       "Martim Loureiro"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-06-04T09:47:03.353817"
+    "attendee_count": 11,
+    "scraped_date": "2026-06-05T09:35:49.311366"
   },
   {
     "name": "Shoreditch Fifa Tournament w/ Encode & Footium",
@@ -67,7 +49,7 @@
       "George Benton"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-04T09:46:58.639315"
+    "scraped_date": "2026-06-05T09:35:43.807001"
   },
   {
     "name": "NVIDIA Hack for Impact - London",
@@ -84,7 +66,7 @@
       "Elliot Winch"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-04T09:47:03.353834"
+    "scraped_date": "2026-06-05T09:35:49.311395"
   },
   {
     "name": "Ripple × Living Room Labs: AI Hackathon - Build Something Before Lunch",
@@ -103,7 +85,7 @@
       "Bogdan Golumbeanu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-04T09:47:03.353852"
+    "scraped_date": "2026-06-05T09:35:49.311414"
   },
   {
     "name": "VibeHack London",
@@ -130,8 +112,8 @@
       "EpicConnector",
       "z.ai"
     ],
-    "attendee_count": 374,
-    "scraped_date": "2026-06-04T09:47:03.353869"
+    "attendee_count": 0,
+    "scraped_date": "2026-06-05T09:35:49.311431"
   },
   {
     "name": "Hardware Hacks '26",
@@ -146,8 +128,8 @@
     "hosts": [
       "KCL Electronics Society Events"
     ],
-    "attendee_count": 70,
-    "scraped_date": "2026-06-04T09:46:58.639337"
+    "attendee_count": 69,
+    "scraped_date": "2026-06-05T09:35:43.807019"
   },
   {
     "name": "AI Risk Content Hackathon",
@@ -167,7 +149,7 @@
       "LISA"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-04T09:47:03.353883"
+    "scraped_date": "2026-06-05T09:35:49.311446"
   },
   {
     "name": "Weekends at Metaview: Brunch & build AI workflows with fellow generalists & operators.",
@@ -183,7 +165,28 @@
       "Raza Rasool"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-04T09:47:03.353893"
+    "scraped_date": "2026-06-05T09:35:49.311455"
+  },
+  {
+    "name": "GTM Learning Sprint + Mini Hack",
+    "date": "2026-06-06T13:00:00.000Z",
+    "end_date": "2026-06-20T16:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8l8fh1xj",
+    "hosts": [
+      "OXAI Official",
+      "Kickstart Global",
+      "Udai Dhamija",
+      "Imperial Entrepreneurs",
+      "Emre I",
+      "Rory Byrne"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-05T09:35:49.311466"
   },
   {
     "name": "ONEDAY × REPLIT — Build it Live (London) In-Person Event",
@@ -200,26 +203,26 @@
       "Taras Polik",
       "Taras Polik"
     ],
-    "attendee_count": 343,
-    "scraped_date": "2026-06-04T09:47:03.353906"
+    "attendee_count": 340,
+    "scraped_date": "2026-06-05T09:35:49.311477"
   },
   {
-    "name": "Lunch + AI Build: Agents for Ambitious Founders",
-    "date": "2026-06-08T11:00:00.000Z",
-    "end_date": "2026-06-08T13:30:00.000Z",
+    "name": "Turkish Builders Meetup @ London",
+    "date": "2026-06-08T17:30:00.000Z",
+    "end_date": "2026-06-08T19:30:00.000Z",
     "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/dust-j2vf",
+    "url": "https://lu.ma/n4j5g31i",
     "hosts": [
-      "Louni Roussel",
-      "Daniel Colaianni",
-      "Encode Club"
+      "Arif Ismail Bayrak",
+      "Umut Günbak",
+      "Kutluhan Enişte"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-04T09:47:03.353928"
+    "attendee_count": 112,
+    "scraped_date": "2026-06-05T09:35:43.807088"
   },
   {
     "name": "Codex Community Meetup - London",
@@ -237,7 +240,7 @@
       "Gabriel Chua"
     ],
     "attendee_count": 5,
-    "scraped_date": "2026-06-04T09:47:03.353950"
+    "scraped_date": "2026-06-05T09:35:49.311508"
   },
   {
     "name": "CABAL HACKATHON",
@@ -254,6 +257,55 @@
       "Matthew Hughes"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-04T09:47:03.353963"
+    "scraped_date": "2026-06-05T09:35:49.311523"
+  },
+  {
+    "name": "Building while raising the next Generation",
+    "date": "2026-06-09T09:00:00.000Z",
+    "end_date": "2026-06-09T12:00:00.000Z",
+    "location": "The Shard, 32 London Bridge St, London SE1 9SG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qn4vspou",
+    "hosts": [
+      "flockhere"
+    ],
+    "attendee_count": 20,
+    "scraped_date": "2026-06-05T09:35:43.807111"
+  },
+  {
+    "name": "Scaling Without Borders: Building a Global Startup from the UK",
+    "date": "2026-06-09T15:00:00.000Z",
+    "end_date": "2026-06-09T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/7tj714re",
+    "hosts": [
+      "Francis Osifo"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-05T09:35:43.807128"
+  },
+  {
+    "name": "Encode Club X Women in Data : Tech Forward",
+    "date": "2026-06-09T17:00:00.000Z",
+    "end_date": "2026-06-09T20:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ox6a5frp",
+    "hosts": [
+      "Shubhangi goyal",
+      "Encode Club"
+    ],
+    "attendee_count": 28,
+    "scraped_date": "2026-06-05T09:35:49.311556"
   }
 ]
