@@ -1,106 +1,5 @@
 [
   {
-    "name": "VibeHack London",
-    "date": "2026-06-06T08:30:00.000Z",
-    "end_date": "2026-06-07T16:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/9ef4463s",
-    "hosts": [
-      "Zymix_Official",
-      "CoAI Club",
-      "Fotor",
-      "Kickstart Global",
-      "Orbit",
-      "Manus AI",
-      "James Hua",
-      "Francisco Terpolilli",
-      "Elis",
-      "Leo Tyson",
-      "Ryan Sudhakaran",
-      "EpicConnector",
-      "z.ai"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-06T08:26:45.728342"
-  },
-  {
-    "name": "Hardware Hacks '26",
-    "date": "2026-06-06T09:00:00.000Z",
-    "end_date": "2026-06-07T17:00:00.000Z",
-    "location": "King's College London Guy's Campus, Guy's Campus, Great Maze Pond, London SE1 1UL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cn9t0b95",
-    "hosts": [
-      "KCL Electronics Society Events"
-    ],
-    "attendee_count": 69,
-    "scraped_date": "2026-06-06T08:26:41.195944"
-  },
-  {
-    "name": "AI Risk Content Hackathon",
-    "date": "2026-06-06T09:00:00.000Z",
-    "end_date": "2026-06-06T20:00:00.000Z",
-    "location": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ais-contenthack",
-    "hosts": [
-      "Joshua Landes",
-      "Mateus de Sousa",
-      "Caitlin Yardley",
-      "BlueDot Impact",
-      "LISA"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-06T08:26:45.728404"
-  },
-  {
-    "name": "Weekends at Metaview: Brunch & build AI workflows with fellow generalists & operators.",
-    "date": "2026-06-06T09:00:00.000Z",
-    "end_date": "2026-06-06T15:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/weekends-at-metaview",
-    "hosts": [
-      "Raza Rasool"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-06T08:26:45.728417"
-  },
-  {
-    "name": "GTM Learning Sprint + Mini Hack",
-    "date": "2026-06-06T13:00:00.000Z",
-    "end_date": "2026-06-20T16:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8l8fh1xj",
-    "hosts": [
-      "OXAI Official",
-      "Kickstart Global",
-      "Udai Dhamija",
-      "Imperial Entrepreneurs",
-      "Emre I",
-      "Rory Byrne"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-06T08:26:45.728429"
-  },
-  {
     "name": "ONEDAY × REPLIT — Build it Live (London) In-Person Event",
     "date": "2026-06-07T09:00:00.000Z",
     "end_date": "2026-06-07T16:00:00.000Z",
@@ -115,8 +14,8 @@
       "Taras Polik",
       "Taras Polik"
     ],
-    "attendee_count": 333,
-    "scraped_date": "2026-06-06T08:26:45.728442"
+    "attendee_count": 326,
+    "scraped_date": "2026-06-07T08:47:53.922354"
   },
   {
     "name": "Turkish Builders Meetup @ London",
@@ -134,7 +33,7 @@
       "Kutluhan Enişte"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-06T08:26:41.196032"
+    "scraped_date": "2026-06-07T08:47:48.502632"
   },
   {
     "name": "Codex Community Meetup - London",
@@ -151,8 +50,8 @@
       "Vaibhav Srivastav",
       "Gabriel Chua"
     ],
-    "attendee_count": 149,
-    "scraped_date": "2026-06-06T08:26:45.728481"
+    "attendee_count": 155,
+    "scraped_date": "2026-06-07T08:47:53.922411"
   },
   {
     "name": "CABAL HACKATHON",
@@ -169,7 +68,7 @@
       "Matthew Hughes"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-06T08:26:45.728495"
+    "scraped_date": "2026-06-07T08:47:53.922427"
   },
   {
     "name": "Building while raising the next Generation",
@@ -184,8 +83,8 @@
     "hosts": [
       "flockhere"
     ],
-    "attendee_count": 22,
-    "scraped_date": "2026-06-06T08:26:41.196053"
+    "attendee_count": 23,
+    "scraped_date": "2026-06-07T08:47:48.502712"
   },
   {
     "name": "Scaling Without Borders: Building a Global Startup from the UK",
@@ -201,7 +100,7 @@
       "Francis Osifo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-06T08:26:41.196086"
+    "scraped_date": "2026-06-07T08:47:48.502733"
   },
   {
     "name": "Product For Learning: Building responsible products for children with Laura Kirsop, CPTO at Raspberry Pi Foundation",
@@ -217,8 +116,8 @@
       "Matt Walton",
       "Hege Tollerud - Brighteye"
     ],
-    "attendee_count": 37,
-    "scraped_date": "2026-06-06T08:26:41.196126"
+    "attendee_count": 38,
+    "scraped_date": "2026-06-07T08:47:48.502778"
   },
   {
     "name": "Encode Club X Women in Data : Tech Forward",
@@ -234,8 +133,8 @@
       "Shubhangi goyal",
       "Encode Club"
     ],
-    "attendee_count": 31,
-    "scraped_date": "2026-06-06T08:26:45.728533"
+    "attendee_count": 32,
+    "scraped_date": "2026-06-07T08:47:53.922466"
   },
   {
     "name": "June Meetup | How to Keep Up with AI and Build Durable Skills",
@@ -251,8 +150,8 @@
       "Women in AI London",
       "Harshitha Shetty"
     ],
-    "attendee_count": 86,
-    "scraped_date": "2026-06-06T08:26:45.728582"
+    "attendee_count": 90,
+    "scraped_date": "2026-06-07T08:47:53.922512"
   },
   {
     "name": "Slingshot AI Debate Series June 2026: Is Building Easy Now?",
@@ -269,6 +168,24 @@
       "Daniel Reid Cahn"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-06T08:26:45.728592"
+    "scraped_date": "2026-06-07T08:47:53.922524"
+  },
+  {
+    "name": "Lunch + AI Build: Agents for Ambitious Founders",
+    "date": "2026-06-10T11:00:00.000Z",
+    "end_date": "2026-06-10T13:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dust-j2vf",
+    "hosts": [
+      "Louni Roussel",
+      "Daniel Colaianni",
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-07T08:47:53.922546"
   }
 ]
