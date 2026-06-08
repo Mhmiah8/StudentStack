@@ -1,23 +1,5 @@
 [
   {
-    "name": "ONEDAY × REPLIT — Build it Live (London) In-Person Event",
-    "date": "2026-06-07T09:00:00.000Z",
-    "end_date": "2026-06-07T16:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/mh1l03qd",
-    "hosts": [
-      "Juan Linares",
-      "Taras Polik",
-      "Taras Polik"
-    ],
-    "attendee_count": 326,
-    "scraped_date": "2026-06-07T08:47:53.922354"
-  },
-  {
     "name": "Turkish Builders Meetup @ London",
     "date": "2026-06-08T17:30:00.000Z",
     "end_date": "2026-06-08T19:30:00.000Z",
@@ -33,7 +15,7 @@
       "Kutluhan Enişte"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-07T08:47:48.502632"
+    "scraped_date": "2026-06-08T10:23:51.120112"
   },
   {
     "name": "Codex Community Meetup - London",
@@ -50,8 +32,8 @@
       "Vaibhav Srivastav",
       "Gabriel Chua"
     ],
-    "attendee_count": 155,
-    "scraped_date": "2026-06-07T08:47:53.922411"
+    "attendee_count": 200,
+    "scraped_date": "2026-06-08T10:23:55.794971"
   },
   {
     "name": "CABAL HACKATHON",
@@ -68,7 +50,7 @@
       "Matthew Hughes"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-07T08:47:53.922427"
+    "scraped_date": "2026-06-08T10:23:55.795001"
   },
   {
     "name": "Building while raising the next Generation",
@@ -83,8 +65,8 @@
     "hosts": [
       "flockhere"
     ],
-    "attendee_count": 23,
-    "scraped_date": "2026-06-07T08:47:48.502712"
+    "attendee_count": 26,
+    "scraped_date": "2026-06-08T10:23:51.120156"
   },
   {
     "name": "Scaling Without Borders: Building a Global Startup from the UK",
@@ -100,7 +82,7 @@
       "Francis Osifo"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-07T08:47:48.502733"
+    "scraped_date": "2026-06-08T10:23:51.120182"
   },
   {
     "name": "Product For Learning: Building responsible products for children with Laura Kirsop, CPTO at Raspberry Pi Foundation",
@@ -117,7 +99,7 @@
       "Hege Tollerud - Brighteye"
     ],
     "attendee_count": 38,
-    "scraped_date": "2026-06-07T08:47:48.502778"
+    "scraped_date": "2026-06-08T10:23:51.120253"
   },
   {
     "name": "Encode Club X Women in Data : Tech Forward",
@@ -134,7 +116,25 @@
       "Encode Club"
     ],
     "attendee_count": 32,
-    "scraped_date": "2026-06-07T08:47:53.922466"
+    "scraped_date": "2026-06-08T10:23:55.795052"
+  },
+  {
+    "name": "London Tech Week Side Event // Inspiring Female Founders: Female Founders Building Global from Day One",
+    "date": "2026-06-09T18:00:00.000Z",
+    "end_date": "2026-06-09T20:00:00.000Z",
+    "location": "DasDas Box, Little New St, London EC4A 3JR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/gtaoocn3",
+    "hosts": [
+      "Mine Dedekoca",
+      "Pinar Ozcan",
+      "Treeo VC"
+    ],
+    "attendee_count": 144,
+    "scraped_date": "2026-06-08T10:23:51.120285"
   },
   {
     "name": "June Meetup | How to Keep Up with AI and Build Durable Skills",
@@ -150,8 +150,8 @@
       "Women in AI London",
       "Harshitha Shetty"
     ],
-    "attendee_count": 90,
-    "scraped_date": "2026-06-07T08:47:53.922512"
+    "attendee_count": 94,
+    "scraped_date": "2026-06-08T10:23:55.795096"
   },
   {
     "name": "Slingshot AI Debate Series June 2026: Is Building Easy Now?",
@@ -168,7 +168,7 @@
       "Daniel Reid Cahn"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-07T08:47:53.922524"
+    "scraped_date": "2026-06-08T10:23:55.795125"
   },
   {
     "name": "Lunch + AI Build: Agents for Ambitious Founders",
@@ -186,6 +186,6 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-07T08:47:53.922546"
+    "scraped_date": "2026-06-08T10:23:55.795153"
   }
 ]
