@@ -1,124 +1,5 @@
 [
   {
-    "name": "Lunch + AI Build: Agent for Sales Leaders",
-    "date": "2026-06-09T11:00:00.000Z",
-    "end_date": "2026-06-09T13:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dust-ppt9",
-    "hosts": [
-      "Louni Roussel",
-      "Faateh Dhillon"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-09T09:30:21.623936"
-  },
-  {
-    "name": "Scaling Without Borders: Building a Global Startup from the UK",
-    "date": "2026-06-09T15:00:00.000Z",
-    "end_date": "2026-06-09T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/7tj714re",
-    "hosts": [
-      "Francis Osifo"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-09T09:30:16.404362"
-  },
-  {
-    "name": "Product For Learning: Building responsible products for children with Laura Kirsop, CPTO at Raspberry Pi Foundation",
-    "date": "2026-06-09T17:00:00.000Z",
-    "end_date": "2026-06-09T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bfq16qcy",
-    "hosts": [
-      "Matt Walton",
-      "Hege Tollerud - Brighteye"
-    ],
-    "attendee_count": 37,
-    "scraped_date": "2026-06-09T09:30:16.404431"
-  },
-  {
-    "name": "Encode Club X Women in Data : Tech Forward",
-    "date": "2026-06-09T17:00:00.000Z",
-    "end_date": "2026-06-09T20:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ox6a5frp",
-    "hosts": [
-      "Shubhangi goyal",
-      "Encode Club"
-    ],
-    "attendee_count": 44,
-    "scraped_date": "2026-06-09T09:30:21.623987"
-  },
-  {
-    "name": "London Tech Week Side Event // Inspiring Female Founders: Female Founders Building Global from Day One",
-    "date": "2026-06-09T18:00:00.000Z",
-    "end_date": "2026-06-09T20:00:00.000Z",
-    "location": "DasDas Box, Little New St, London EC4A 3JR, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/gtaoocn3",
-    "hosts": [
-      "Mine Dedekoca",
-      "Pinar Ozcan",
-      "Treeo VC"
-    ],
-    "attendee_count": 170,
-    "scraped_date": "2026-06-09T09:30:16.404462"
-  },
-  {
-    "name": "Women in AI London June Meetup | How to Keep Up with AI and Build Durable Skills",
-    "date": "2026-06-09T18:00:00.000Z",
-    "end_date": "2026-06-09T21:00:00.000Z",
-    "location": "Victoria Tavern N7, 203 Holloway Rd, London N7 8DL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/te1maags",
-    "hosts": [
-      "Women in AI London",
-      "Harshitha Shetty"
-    ],
-    "attendee_count": 102,
-    "scraped_date": "2026-06-09T09:30:21.624025"
-  },
-  {
-    "name": "Slingshot AI Debate Series June 2026: Is Building Easy Now?",
-    "date": "2026-06-09T18:30:00.000Z",
-    "end_date": "2026-06-09T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/p4u6zlqu",
-    "hosts": [
-      "Laura Cassaretto",
-      "Daniel Reid Cahn"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-09T09:30:21.624080"
-  },
-  {
     "name": "Lunch + AI Build: Agents for Ambitious Founders",
     "date": "2026-06-10T11:00:00.000Z",
     "end_date": "2026-06-10T13:30:00.000Z",
@@ -134,7 +15,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-09T09:30:21.624106"
+    "scraped_date": "2026-06-10T09:44:10.785488"
   },
   {
     "name": "London | CCCL LON7 — Claude for Founders & Builders",
@@ -150,7 +31,7 @@
       "Vikram Pawar"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-09T09:30:21.624149"
+    "scraped_date": "2026-06-10T09:44:10.785562"
   },
   {
     "name": "London Tech Week | Building, Navigating & Connecting ｜Chinese in AI Community",
@@ -169,8 +50,8 @@
       "Simin Zheng",
       "Quinnie"
     ],
-    "attendee_count": 157,
-    "scraped_date": "2026-06-09T09:30:21.624171"
+    "attendee_count": 160,
+    "scraped_date": "2026-06-10T09:44:10.785592"
   },
   {
     "name": "Sovereign AI: how to build Enterprise AI Systems with Privacy at the Core",
@@ -189,7 +70,95 @@
       "Sahar Mor (Bond AI)",
       "Filip Grochowski"
     ],
-    "attendee_count": 86,
-    "scraped_date": "2026-06-09T09:30:21.624187"
+    "attendee_count": 101,
+    "scraped_date": "2026-06-10T09:44:10.785625"
+  },
+  {
+    "name": "London Tech Week - Lumina House Cyberdeck Hack",
+    "date": "2026-06-10T18:00:00.000Z",
+    "end_date": "2026-06-10T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/newrwqc6",
+    "hosts": [
+      "Lumina"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-10T09:44:05.717856"
+  },
+  {
+    "name": "Disrupt.com x AWS: Builder's Meetup | London Edition",
+    "date": "2026-06-11T15:00:00.000Z",
+    "end_date": "2026-06-11T19:00:00.000Z",
+    "location": "Soho Works 180 Strand, Level 2, 180 Strand, Surrey St, Temple, London WC2R 1EA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/t1meprns",
+    "hosts": [
+      "Ali Oosman",
+      "Dr. Jon",
+      "Disrupt .com"
+    ],
+    "attendee_count": 155,
+    "scraped_date": "2026-06-10T09:44:05.717923"
+  },
+  {
+    "name": "London Voice AI Meetup: Build a Voice Agent in 1 hour 🎙️",
+    "date": "2026-06-11T16:30:00.000Z",
+    "end_date": "2026-06-11T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/tsiprpe5",
+    "hosts": [
+      "AssemblyAI",
+      "Violeta Moro"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-10T09:44:10.785665"
+  },
+  {
+    "name": "AI Builders Monthly London",
+    "date": "2026-06-11T17:00:00.000Z",
+    "end_date": "2026-06-11T20:15:00.000Z",
+    "location": "beyond The Bower, 207 Old St, London EC1V 9NR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lon-jun11",
+    "hosts": [
+      "AI Builders",
+      "Joyce Kuang",
+      "Georgia",
+      "Flo *",
+      "Sahar Mor (Bond AI)"
+    ],
+    "attendee_count": 16,
+    "scraped_date": "2026-06-10T09:44:10.785686"
+  },
+  {
+    "name": "freeCodeCamp x Encode | AI - Workshop: Vibecoding Using Local AIs",
+    "date": "2026-06-11T17:00:00.000Z",
+    "end_date": "2026-06-11T20:30:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/11txn8gq",
+    "hosts": [
+      "freeCodeCampLondon",
+      "Encode Club"
+    ],
+    "attendee_count": 69,
+    "scraped_date": "2026-06-10T09:44:10.785709"
   }
 ]
