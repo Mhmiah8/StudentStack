@@ -1,95 +1,5 @@
 [
   {
-    "name": "Lunch + AI Build: Agents for Ambitious Founders",
-    "date": "2026-06-10T11:00:00.000Z",
-    "end_date": "2026-06-10T13:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dust-j2vf",
-    "hosts": [
-      "Louni Roussel",
-      "Daniel Colaianni",
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-10T09:44:10.785488"
-  },
-  {
-    "name": "London | CCCL LON7 — Claude for Founders & Builders",
-    "date": "2026-06-10T17:00:00.000Z",
-    "end_date": "2026-06-10T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cccl.lon7",
-    "hosts": [
-      "Vikram Pawar"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-10T09:44:10.785562"
-  },
-  {
-    "name": "London Tech Week | Building, Navigating & Connecting ｜Chinese in AI Community",
-    "date": "2026-06-10T17:00:00.000Z",
-    "end_date": "2026-06-10T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/vxqdk4ze",
-    "hosts": [
-      "ShallWe Tech",
-      "SmallWOD",
-      "Junyi Zhang",
-      "Simin Zheng",
-      "Quinnie"
-    ],
-    "attendee_count": 160,
-    "scraped_date": "2026-06-10T09:44:10.785592"
-  },
-  {
-    "name": "Sovereign AI: how to build Enterprise AI Systems with Privacy at the Core",
-    "date": "2026-06-10T17:00:00.000Z",
-    "end_date": "2026-06-10T20:00:00.000Z",
-    "location": "32-37 Cowper St, London EC2A 4AW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/0v8iuik7",
-    "hosts": [
-      "Kasia Toczko",
-      "Marta Miler",
-      "Mirek Manelski",
-      "Sahar Mor (Bond AI)",
-      "Filip Grochowski"
-    ],
-    "attendee_count": 101,
-    "scraped_date": "2026-06-10T09:44:10.785625"
-  },
-  {
-    "name": "London Tech Week - Lumina House Cyberdeck Hack",
-    "date": "2026-06-10T18:00:00.000Z",
-    "end_date": "2026-06-10T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/newrwqc6",
-    "hosts": [
-      "Lumina"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-10T09:44:05.717856"
-  },
-  {
     "name": "Disrupt.com x AWS: Builder's Meetup | London Edition",
     "date": "2026-06-11T15:00:00.000Z",
     "end_date": "2026-06-11T19:00:00.000Z",
@@ -100,12 +10,13 @@
     "is_virtual": false,
     "url": "https://lu.ma/t1meprns",
     "hosts": [
+      "Zarmeen Lakhani",
       "Ali Oosman",
       "Dr. Jon",
       "Disrupt .com"
     ],
-    "attendee_count": 155,
-    "scraped_date": "2026-06-10T09:44:05.717923"
+    "attendee_count": 207,
+    "scraped_date": "2026-06-11T10:12:55.106919"
   },
   {
     "name": "London Voice AI Meetup: Build a Voice Agent in 1 hour 🎙️",
@@ -122,7 +33,23 @@
       "Violeta Moro"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-10T09:44:10.785665"
+    "scraped_date": "2026-06-11T10:13:00.225659"
+  },
+  {
+    "name": "WORLD BUILDING: 3D CREATIVITY WORKSHOP",
+    "date": "2026-06-11T17:00:00.000Z",
+    "end_date": "2026-06-11T19:00:00.000Z",
+    "location": "Kismet Café • Art gallery • Event Space, 104 Cavell St, London E1 2JA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/klwis8qq",
+    "hosts": [
+      "Ameer"
+    ],
+    "attendee_count": 33,
+    "scraped_date": "2026-06-11T10:12:55.106997"
   },
   {
     "name": "AI Builders Monthly London",
@@ -141,8 +68,8 @@
       "Flo *",
       "Sahar Mor (Bond AI)"
     ],
-    "attendee_count": 16,
-    "scraped_date": "2026-06-10T09:44:10.785686"
+    "attendee_count": 21,
+    "scraped_date": "2026-06-11T10:13:00.225697"
   },
   {
     "name": "freeCodeCamp x Encode | AI - Workshop: Vibecoding Using Local AIs",
@@ -158,7 +85,267 @@
       "freeCodeCampLondon",
       "Encode Club"
     ],
-    "attendee_count": 69,
-    "scraped_date": "2026-06-10T09:44:10.785709"
+    "attendee_count": 75,
+    "scraped_date": "2026-06-11T10:13:00.225721"
+  },
+  {
+    "name": "Zero to Coder: Learn to Code with AI",
+    "date": "2026-06-11T17:30:00.000Z",
+    "end_date": "2026-06-11T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/gh9q7hvq",
+    "hosts": [
+      "Jethro Reeve"
+    ],
+    "attendee_count": 4,
+    "scraped_date": "2026-06-11T10:13:00.225735"
+  },
+  {
+    "name": "Amplitude London Meetup - From Prototype to Product: Building and Measuring with AI",
+    "date": "2026-06-12T08:00:00.000Z",
+    "end_date": "2026-06-12T10:00:00.000Z",
+    "location": "The Lighterman, 3 Granary Square, London N1C 4BH, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/xpa7vnpf",
+    "hosts": [
+      "Amplitude Community",
+      "Beth Saunders",
+      "Angela van Bragt"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-11T10:13:00.225754"
+  },
+  {
+    "name": "Agent Craft - A One Day Event For Agent Builders",
+    "date": "2026-06-12T08:30:00.000Z",
+    "end_date": "2026-06-12T15:00:00.000Z",
+    "location": "BrainStation, 55-57 Rivington St, London EC2A 3QA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/AgentCraft2026",
+    "hosts": [
+      "Hannah Foxwell"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-11T10:13:00.225763"
+  },
+  {
+    "name": "Agents in the Wild: Hardware Build Sprint",
+    "date": "2026-06-13T08:30:00.000Z",
+    "end_date": "2026-06-13T15:00:00.000Z",
+    "location": "BLUE GARAGE - Innovation Hub, accelerating the commercialisation of hardware scaleups., 30 Engate St, London SE13 7HA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qvvtbdlh",
+    "hosts": [
+      "Lachlan Chavasse",
+      "Fatema",
+      "Tim Santos"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-11T10:13:00.225786"
+  },
+  {
+    "name": "Hackathon: Breaking Barriers to AI Safety",
+    "date": "2026-06-13T08:30:00.000Z",
+    "end_date": "2026-06-13T19:00:00.000Z",
+    "location": "London Initiative for Safe AI (LISA), 25 Holywell Row, London EC2A 4XE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/breaking-barriers-hackathon",
+    "hosts": [
+      "LISA",
+      "BlueDot Impact",
+      "Joshua Landes",
+      "Oliver Kurilov",
+      "Nina Wolff-Ingham",
+      "Yasha Rise"
+    ],
+    "attendee_count": 100,
+    "scraped_date": "2026-06-11T10:13:00.225797"
+  },
+  {
+    "name": "8x Mobile App Hackathon",
+    "date": "2026-06-13T09:00:00.000Z",
+    "end_date": "2026-06-13T17:00:00.000Z",
+    "location": "Entrepreneurs First, Shoreditch Exchange, Senna Building, Gorsuch Pl, London E2 8JF, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/t4j6h0br",
+    "hosts": [
+      "Darijan Ducic"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-11T10:12:55.107042"
+  },
+  {
+    "name": "The Generative UI/A2A Hackathon - by Google, CopilotKit, & A2A Net",
+    "date": "2026-06-13T09:00:00.000Z",
+    "end_date": "2026-06-13T20:00:00.000Z",
+    "location": "Google London - Central Saint Giles, 1-13 St Giles High St, London WC2H 8AG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/a2a-and-generative-ui-hackathon",
+    "hosts": [
+      "Sofía Sánchez-Zárate",
+      "Ben Clarke",
+      "Jerry Chang",
+      "Uli Barkai"
+    ],
+    "attendee_count": 247,
+    "scraped_date": "2026-06-11T10:13:00.225809"
+  },
+  {
+    "name": "AI Builders Coffee – for Women in London",
+    "date": "2026-06-13T12:00:00.000Z",
+    "end_date": "2026-06-13T14:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bxhbh217",
+    "hosts": [
+      "Ayca Ilhan"
+    ],
+    "attendee_count": 38,
+    "scraped_date": "2026-06-11T10:13:00.225822"
+  },
+  {
+    "name": "Deen Developers - Buildathons Batch 4 Demo Day",
+    "date": "2026-06-13T14:00:00.000Z",
+    "end_date": "2026-06-13T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/u0xhc90m",
+    "hosts": [
+      "Deen Developers"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-11T10:12:55.107054"
+  },
+  {
+    "name": "You Vibe Coded. Now What? Workshop + community launch.",
+    "date": "2026-06-14T08:00:00.000Z",
+    "end_date": "2026-06-14T12:30:00.000Z",
+    "location": "Simply Smashed - Quality Smash Burgers, 114 Mile End Rd, Stepney Green, London E1 4UN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/5xwshzht",
+    "hosts": [
+      "Muhammad Malik"
+    ],
+    "attendee_count": 20,
+    "scraped_date": "2026-06-11T10:12:55.107069"
+  },
+  {
+    "name": "HackWimbledon June 2026 #1",
+    "date": "2026-06-14T11:00:00.000Z",
+    "end_date": "2026-06-14T15:00:00.000Z",
+    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/imhuuoq5",
+    "hosts": [
+      "Bazza",
+      "Andy Piper",
+      "Neil Lambeth"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-06-11T10:12:55.107079"
+  },
+  {
+    "name": "Build your brand voice with AI",
+    "date": "2026-06-15T12:00:00.000Z",
+    "end_date": "2026-06-15T16:00:00.000Z",
+    "location": "Art4Space, 31 Jeffreys Rd, London SW4 6QU, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/n0f46kpu",
+    "hosts": [
+      "Dan Nash"
+    ],
+    "attendee_count": 13,
+    "scraped_date": "2026-06-11T10:13:00.225839"
+  },
+  {
+    "name": "Idea to Minimum Lovable Product - Builders evening",
+    "date": "2026-06-15T17:00:00.000Z",
+    "end_date": "2026-06-15T20:00:00.000Z",
+    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/khx9es35",
+    "hosts": [
+      "Alex Ashford",
+      "BuildHer Labs"
+    ],
+    "attendee_count": 111,
+    "scraped_date": "2026-06-11T10:13:00.225854"
+  },
+  {
+    "name": "Revenue First: Building Lean, Profitable B2B Companies in the Age of AI",
+    "date": "2026-06-16T15:30:00.000Z",
+    "end_date": "2026-06-16T18:15:00.000Z",
+    "location": "120 Moorgate, London EC2M 6UR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2e59if1r",
+    "hosts": [
+      "Leo Tyson",
+      "Daniel Lanyon",
+      "Albert",
+      "Leo Tyson",
+      "Ria Chopra"
+    ],
+    "attendee_count": 81,
+    "scraped_date": "2026-06-11T10:13:00.225871"
+  },
+  {
+    "name": "London | Claude Code for Design & Product | Thinking Forward #02",
+    "date": "2026-06-16T16:30:00.000Z",
+    "end_date": "2026-06-16T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/4811i0iu",
+    "hosts": [
+      "Olivier Alterhq.com",
+      "Veda Adnani"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-11T10:13:00.225885"
   }
 ]
