@@ -1,128 +1,5 @@
 [
   {
-    "name": "8x Mobile App Hackathon",
-    "date": "2026-06-13T09:00:00.000Z",
-    "end_date": "2026-06-13T17:00:00.000Z",
-    "location": "Entrepreneurs First, Shoreditch Exchange, Senna Building, Gorsuch Pl, London E2 8JF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/t4j6h0br",
-    "hosts": [
-      "Darijan Ducic"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-13T08:49:38.437800"
-  },
-  {
-    "name": "Rork Games Hackathon",
-    "date": "2026-06-13T09:00:00.000Z",
-    "end_date": "2026-06-13T18:30:00.000Z",
-    "location": "Somerset House, London WC2R 1LA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/6bc7rc4k",
-    "hosts": [
-      "Begum Geveci",
-      "Charlotte Gilks",
-      "Dora",
-      "Eric Song",
-      "Fotor",
-      "HeySalad",
-      "Natalie Chan",
-      "Peter Machona"
-    ],
-    "attendee_count": 83,
-    "scraped_date": "2026-06-13T08:49:44.164076"
-  },
-  {
-    "name": "The Generative UI/A2A Hackathon - by Google, CopilotKit, & A2A Net",
-    "date": "2026-06-13T09:00:00.000Z",
-    "end_date": "2026-06-13T20:00:00.000Z",
-    "location": "Google London - Central Saint Giles, 1-13 St Giles High St, London WC2H 8AG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/a2a-and-generative-ui-hackathon",
-    "hosts": [
-      "Sofía Sánchez-Zárate",
-      "Ben Clarke",
-      "Jerry Chang",
-      "Uli Barkai",
-      "Sahar Mor (Bond AI)"
-    ],
-    "attendee_count": 285,
-    "scraped_date": "2026-06-13T08:49:44.164101"
-  },
-  {
-    "name": "The Anti-Hackathon",
-    "date": "2026-06-13T12:00:00.000Z",
-    "end_date": "2026-06-13T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8l5tk83i",
-    "hosts": [
-      "Telos House"
-    ],
-    "attendee_count": 22,
-    "scraped_date": "2026-06-13T08:49:38.437826"
-  },
-  {
-    "name": "AI Builders Coffee – for Women in London",
-    "date": "2026-06-13T12:00:00.000Z",
-    "end_date": "2026-06-13T14:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bxhbh217",
-    "hosts": [
-      "Ayca Ilhan"
-    ],
-    "attendee_count": 34,
-    "scraped_date": "2026-06-13T08:49:44.164119"
-  },
-  {
-    "name": "Deen Developers - Buildathons Batch 4 Demo Day",
-    "date": "2026-06-13T14:00:00.000Z",
-    "end_date": "2026-06-13T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/u0xhc90m",
-    "hosts": [
-      "Deen Developers"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-13T08:49:38.437850"
-  },
-  {
-    "name": "You Vibe Coded. Now What? Workshop + community launch.",
-    "date": "2026-06-14T08:00:00.000Z",
-    "end_date": "2026-06-14T12:30:00.000Z",
-    "location": "Simply Smashed - Quality Smash Burgers, 114 Mile End Rd, Stepney Green, London E1 4UN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/5xwshzht",
-    "hosts": [
-      "Muhammad Malik"
-    ],
-    "attendee_count": 26,
-    "scraped_date": "2026-06-13T08:49:38.437872"
-  },
-  {
     "name": "HackWimbledon June 2026 #1",
     "date": "2026-06-14T11:00:00.000Z",
     "end_date": "2026-06-14T15:00:00.000Z",
@@ -137,8 +14,8 @@
       "Andy Piper",
       "Neil Lambeth"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-06-13T08:49:38.437889"
+    "attendee_count": 6,
+    "scraped_date": "2026-06-14T09:23:19.115315"
   },
   {
     "name": "Heads Down, Hands Up: Don't Build Alone - A Focused Work Day With a Room That Helps",
@@ -155,7 +32,7 @@
       "BuildHer Labs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-13T08:49:38.437912"
+    "scraped_date": "2026-06-14T09:23:19.115373"
   },
   {
     "name": "Build your brand voice with AI",
@@ -171,7 +48,23 @@
       "Dan Nash"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-06-13T08:49:44.164186"
+    "scraped_date": "2026-06-14T09:23:24.520054"
+  },
+  {
+    "name": "The Anti-Hackathon",
+    "date": "2026-06-15T17:00:00.000Z",
+    "end_date": "2026-06-15T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8l5tk83i",
+    "hosts": [
+      "Telos House"
+    ],
+    "attendee_count": 22,
+    "scraped_date": "2026-06-14T09:23:19.115398"
   },
   {
     "name": "Idea to Minimum Lovable Product - Builders evening",
@@ -188,7 +81,7 @@
       "BuildHer Labs"
     ],
     "attendee_count": 113,
-    "scraped_date": "2026-06-13T08:49:44.164207"
+    "scraped_date": "2026-06-14T09:23:24.520087"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -204,7 +97,7 @@
       "Noam"
     ],
     "attendee_count": 21,
-    "scraped_date": "2026-06-13T08:49:38.437938"
+    "scraped_date": "2026-06-14T09:23:19.115415"
   },
   {
     "name": "Revenue First: Building Lean, Profitable B2B Companies in the Age of AI",
@@ -223,8 +116,8 @@
       "Leo Tyson",
       "Ria Chopra"
     ],
-    "attendee_count": 85,
-    "scraped_date": "2026-06-13T08:49:44.164231"
+    "attendee_count": 87,
+    "scraped_date": "2026-06-14T09:23:24.520115"
   },
   {
     "name": "London | Claude Code for Design & Product | Thinking Forward #02",
@@ -241,7 +134,7 @@
       "Veda Adnani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-13T08:49:44.164244"
+    "scraped_date": "2026-06-14T09:23:24.520129"
   },
   {
     "name": "Building and Shipping in the AI Era",
@@ -258,7 +151,7 @@
       "Michelangelo Pagliara"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-13T08:49:44.164263"
+    "scraped_date": "2026-06-14T09:23:24.520149"
   },
   {
     "name": "Transform Campus Operations with AI-Powered Low-Code Solutions",
@@ -272,7 +165,7 @@
     "url": "https://lu.ma/dwy3yleb",
     "hosts": [],
     "attendee_count": 0,
-    "scraped_date": "2026-06-13T08:49:44.164284"
+    "scraped_date": "2026-06-14T09:23:24.520174"
   },
   {
     "name": "ClawBio Hackathon: Agentic Genomics @ King's",
@@ -289,6 +182,6 @@
       "Alfredo Iacoangeli"
     ],
     "attendee_count": 150,
-    "scraped_date": "2026-06-13T08:49:44.164326"
+    "scraped_date": "2026-06-14T09:23:24.520218"
   }
 ]
