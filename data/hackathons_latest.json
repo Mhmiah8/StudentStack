@@ -1,40 +1,5 @@
 [
   {
-    "name": "HackWimbledon June 2026 #1",
-    "date": "2026-06-14T11:00:00.000Z",
-    "end_date": "2026-06-14T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/imhuuoq5",
-    "hosts": [
-      "Bazza",
-      "Andy Piper",
-      "Neil Lambeth"
-    ],
-    "attendee_count": 6,
-    "scraped_date": "2026-06-14T09:23:19.115315"
-  },
-  {
-    "name": "Heads Down, Hands Up: Don't Build Alone - A Focused Work Day With a Room That Helps",
-    "date": "2026-06-15T10:00:00.000Z",
-    "end_date": "2026-06-15T16:00:00.000Z",
-    "location": "Palestine House, 113 High Holborn, London WC1V 6JQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/q4rqpiw9",
-    "hosts": [
-      "CoWork",
-      "BuildHer Labs"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-14T09:23:19.115373"
-  },
-  {
     "name": "Build your brand voice with AI",
     "date": "2026-06-15T12:00:00.000Z",
     "end_date": "2026-06-15T16:00:00.000Z",
@@ -47,8 +12,8 @@
     "hosts": [
       "Dan Nash"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-06-14T09:23:24.520054"
+    "attendee_count": 15,
+    "scraped_date": "2026-06-15T11:51:29.942753"
   },
   {
     "name": "The Anti-Hackathon",
@@ -63,8 +28,8 @@
     "hosts": [
       "Telos House"
     ],
-    "attendee_count": 22,
-    "scraped_date": "2026-06-14T09:23:19.115398"
+    "attendee_count": 0,
+    "scraped_date": "2026-06-15T11:51:25.058893"
   },
   {
     "name": "Idea to Minimum Lovable Product - Builders evening",
@@ -80,8 +45,8 @@
       "Alex Ashford",
       "BuildHer Labs"
     ],
-    "attendee_count": 113,
-    "scraped_date": "2026-06-14T09:23:24.520087"
+    "attendee_count": 120,
+    "scraped_date": "2026-06-15T11:51:29.942786"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -96,8 +61,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 21,
-    "scraped_date": "2026-06-14T09:23:19.115415"
+    "attendee_count": 28,
+    "scraped_date": "2026-06-15T11:51:25.058929"
   },
   {
     "name": "Revenue First: Building Lean, Profitable B2B Companies in the Age of AI",
@@ -116,8 +81,8 @@
       "Leo Tyson",
       "Ria Chopra"
     ],
-    "attendee_count": 87,
-    "scraped_date": "2026-06-14T09:23:24.520115"
+    "attendee_count": 91,
+    "scraped_date": "2026-06-15T11:51:29.942818"
   },
   {
     "name": "London | Claude Code for Design & Product | Thinking Forward #02",
@@ -134,7 +99,7 @@
       "Veda Adnani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-14T09:23:24.520129"
+    "scraped_date": "2026-06-15T11:51:29.942832"
   },
   {
     "name": "Building and Shipping in the AI Era",
@@ -151,7 +116,7 @@
       "Michelangelo Pagliara"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-14T09:23:24.520149"
+    "scraped_date": "2026-06-15T11:51:29.942857"
   },
   {
     "name": "Transform Campus Operations with AI-Powered Low-Code Solutions",
@@ -165,7 +130,23 @@
     "url": "https://lu.ma/dwy3yleb",
     "hosts": [],
     "attendee_count": 0,
-    "scraped_date": "2026-06-14T09:23:24.520174"
+    "scraped_date": "2026-06-15T11:51:29.942897"
+  },
+  {
+    "name": "hardware builder coffee",
+    "date": "2026-06-18T07:00:00.000Z",
+    "end_date": "2026-06-18T09:00:00.000Z",
+    "location": "News & Coffee Kiosk, Granary Square, London N1C 4PQ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/t178lfyt",
+    "hosts": [
+      "Lachlan Chavasse"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-15T11:51:25.059068"
   },
   {
     "name": "ClawBio Hackathon: Agentic Genomics @ King's",
@@ -182,6 +163,25 @@
       "Alfredo Iacoangeli"
     ],
     "attendee_count": 150,
-    "scraped_date": "2026-06-14T09:23:24.520218"
+    "scraped_date": "2026-06-15T11:51:29.942946"
+  },
+  {
+    "name": "DevOps Society x Elastic London Hack Night",
+    "date": "2026-06-18T17:00:00.000Z",
+    "end_date": "2026-06-18T20:00:00.000Z",
+    "location": "Davidson Building, 5 Southampton St, London WC2E 7HA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/hacknightldn",
+    "hosts": [
+      "Vanessa Pires",
+      "Carly Richmond",
+      "Steve Wade",
+      "Vytas Jelinskas"
+    ],
+    "attendee_count": 23,
+    "scraped_date": "2026-06-15T11:51:29.942973"
   }
 ]
