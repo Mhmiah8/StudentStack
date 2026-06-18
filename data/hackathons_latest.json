@@ -1,56 +1,5 @@
 [
   {
-    "name": "Imperial College x bilt.me mobile app hackathon",
-    "date": "2026-06-17T16:30:00.000Z",
-    "end_date": "2026-06-17T20:30:00.000Z",
-    "location": "Dyson School of Design Engineering, Imperial College London, Imperial College Rd, South Kensington, London SW7 2DB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/sjixah4u",
-    "hosts": [
-      "Alice Kangro",
-      "uq",
-      "Jonathan"
-    ],
-    "attendee_count": 11,
-    "scraped_date": "2026-06-17T10:43:20.099721"
-  },
-  {
-    "name": "hardware builder coffee",
-    "date": "2026-06-18T07:00:00.000Z",
-    "end_date": "2026-06-18T09:00:00.000Z",
-    "location": "News & Coffee Kiosk, Granary Square, London N1C 4PQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/t178lfyt",
-    "hosts": [
-      "Lachlan Chavasse"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-17T10:43:20.099780"
-  },
-  {
-    "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 15 Spaces ONLY",
-    "date": "2026-06-18T09:00:00.000Z",
-    "end_date": "2026-06-18T19:00:00.000Z",
-    "location": "Channel with Oneder, 22 Northdown St, London N1 9BG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/31kei9li",
-    "hosts": [
-      "Sam",
-      "Lachlan Chavasse"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-17T10:43:20.099811"
-  },
-  {
     "name": "ClawBio Hackathon: Agentic Genomics @ King's",
     "date": "2026-06-18T11:00:00.000Z",
     "end_date": "2026-06-18T16:00:00.000Z",
@@ -64,8 +13,8 @@
       "Manuel Corpas",
       "Alfredo Iacoangeli"
     ],
-    "attendee_count": 150,
-    "scraped_date": "2026-06-17T10:43:24.655121"
+    "attendee_count": 149,
+    "scraped_date": "2026-06-18T10:11:36.397986"
   },
   {
     "name": "FLock Party at Encode Hub",
@@ -81,8 +30,8 @@
       "Encode Club",
       "Tiffany.W"
     ],
-    "attendee_count": 123,
-    "scraped_date": "2026-06-17T10:43:20.099848"
+    "attendee_count": 126,
+    "scraped_date": "2026-06-18T10:11:31.894599"
   },
   {
     "name": "LFG Westminster: Scale or Fail: How should Britain back its builders?",
@@ -97,8 +46,8 @@
     "hosts": [
       "Lucy"
     ],
-    "attendee_count": 44,
-    "scraped_date": "2026-06-17T10:43:20.099865"
+    "attendee_count": 57,
+    "scraped_date": "2026-06-18T10:11:31.894630"
   },
   {
     "name": "DevOps Society x Elastic London Hack Night",
@@ -116,11 +65,11 @@
       "Steve Wade",
       "Vytas Jelinskas"
     ],
-    "attendee_count": 25,
-    "scraped_date": "2026-06-17T10:43:24.655158"
+    "attendee_count": 23,
+    "scraped_date": "2026-06-18T10:11:36.398031"
   },
   {
-    "name": "Building Breakout Companies: Northzone X Seamflow",
+    "name": "Building Breakout Companies: Northzone x Seamflow",
     "date": "2026-06-18T17:30:00.000Z",
     "end_date": "2026-06-18T20:30:00.000Z",
     "location": "",
@@ -133,7 +82,7 @@
       "Entrepreneurs First"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-17T10:43:24.655183"
+    "scraped_date": "2026-06-18T10:11:36.398066"
   },
   {
     "name": "Encode Vibe Coding Hackathon",
@@ -149,13 +98,13 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-17T10:43:24.655202"
+    "scraped_date": "2026-06-18T10:11:36.398088"
   },
   {
     "name": "Localhost: On-Device Agent Hackathon",
     "date": "2026-06-20T08:00:00.000Z",
     "end_date": "2026-06-20T19:00:00.000Z",
-    "location": "Ilona Rose House, Manette St, London W1D 4AL, UK",
+    "location": "Dawn Capital, Level 7, Ilona Rose House, Manette St, London W1D 4AL, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
@@ -167,8 +116,77 @@
       "Dawn Capital",
       "Cordelia Sheridan"
     ],
-    "attendee_count": 102,
-    "scraped_date": "2026-06-17T10:43:24.655214"
+    "attendee_count": 98,
+    "scraped_date": "2026-06-18T10:11:36.398104"
+  },
+  {
+    "name": "GTM Hackathon London",
+    "date": "2026-06-20T08:30:00.000Z",
+    "end_date": "2026-06-20T21:00:00.000Z",
+    "location": "The Building Centre, 26 Store St, London WC1E 7BT, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/hxsfxyvb",
+    "hosts": [
+      "Emanuel Morhard",
+      "Simon Wilhelm",
+      "Niccolò Casamatta",
+      "Mishti Ali",
+      "Francisco Terpolilli"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-18T10:11:31.894707"
+  },
+  {
+    "name": "Claude Code Coworking with Women in Tech UK",
+    "date": "2026-06-20T13:00:00.000Z",
+    "end_date": "2026-06-20T15:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/337njvgz",
+    "hosts": [
+      "Women In tech UK"
+    ],
+    "attendee_count": 36,
+    "scraped_date": "2026-06-18T10:11:36.398125"
+  },
+  {
+    "name": "Lumina House 3D Printing Hack",
+    "date": "2026-06-20T15:00:00.000Z",
+    "end_date": "2026-06-20T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cvq4xk9t",
+    "hosts": [
+      "Lumina"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-18T10:11:31.894727"
+  },
+  {
+    "name": "A New Chapter for Europe’s Hackathon Ecosystem London",
+    "date": "2026-06-20T16:00:00.000Z",
+    "end_date": "2026-06-20T19:00:00.000Z",
+    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/xld992n3",
+    "hosts": [
+      "David Smith",
+      "Kickstart Global"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-18T10:11:31.894739"
   },
   {
     "name": "AI Pilled: Builder Session #02",
@@ -185,8 +203,8 @@
       "Yiran Qin",
       "Jordan Tran"
     ],
-    "attendee_count": 33,
-    "scraped_date": "2026-06-17T10:43:24.655236"
+    "attendee_count": 34,
+    "scraped_date": "2026-06-18T10:11:36.398151"
   },
   {
     "name": "From 0-1: Women Building In AI",
@@ -201,7 +219,23 @@
     "hosts": [
       "Marie Widmer"
     ],
-    "attendee_count": 37,
-    "scraped_date": "2026-06-17T10:43:24.655245"
+    "attendee_count": 39,
+    "scraped_date": "2026-06-18T10:11:36.398160"
+  },
+  {
+    "name": "Arize Builders Meetup - London",
+    "date": "2026-06-23T17:00:00.000Z",
+    "end_date": "2026-06-23T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/london-builders-meetup",
+    "hosts": [
+      "Arize AI"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-18T10:11:36.398202"
   }
 ]
