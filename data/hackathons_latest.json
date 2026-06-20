@@ -1,60 +1,5 @@
 [
   {
-    "name": "Encode Vibe Coding Hackathon",
-    "date": "2026-06-19T15:00:00.000Z",
-    "end_date": "2026-06-21T15:30:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/4f1qbg8g",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-19T10:17:04.071287"
-  },
-  {
-    "name": "Localhost: On-Device Agent Hackathon",
-    "date": "2026-06-20T08:00:00.000Z",
-    "end_date": "2026-06-20T19:00:00.000Z",
-    "location": "Dawn Capital, Level 7, Ilona Rose House, Manette St, London W1D 4AL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8og1gx56",
-    "hosts": [
-      "Zoe Qin",
-      "Tyler Edwards",
-      "Dawn Capital",
-      "Cordelia Sheridan"
-    ],
-    "attendee_count": 102,
-    "scraped_date": "2026-06-19T10:17:04.071312"
-  },
-  {
-    "name": "GTM Hackathon London",
-    "date": "2026-06-20T08:30:00.000Z",
-    "end_date": "2026-06-20T21:00:00.000Z",
-    "location": "The Building Centre, 26 Store St, London WC1E 7BT, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/hxsfxyvb",
-    "hosts": [
-      "Emanuel Morhard",
-      "Simon Wilhelm",
-      "Niccolò Casamatta",
-      "Mishti Ali",
-      "Francisco Terpolilli"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-19T10:16:59.178544"
-  },
-  {
     "name": "Claude Code Coworking with Women in Tech UK",
     "date": "2026-06-20T13:00:00.000Z",
     "end_date": "2026-06-20T15:30:00.000Z",
@@ -67,8 +12,8 @@
     "hosts": [
       "Women In tech UK"
     ],
-    "attendee_count": 40,
-    "scraped_date": "2026-06-19T10:17:04.071333"
+    "attendee_count": 41,
+    "scraped_date": "2026-06-20T08:44:59.672717"
   },
   {
     "name": "Lumina House 3D Printing Hack",
@@ -84,7 +29,7 @@
       "Lumina"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-19T10:16:59.178576"
+    "scraped_date": "2026-06-20T08:44:53.918510"
   },
   {
     "name": "A New Chapter for Europe’s Hackathon Ecosystem London",
@@ -101,7 +46,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-19T10:16:59.178594"
+    "scraped_date": "2026-06-20T08:44:53.918543"
   },
   {
     "name": "AI Pilled: Builder Session #02",
@@ -119,7 +64,23 @@
       "Jordan Tran"
     ],
     "attendee_count": 35,
-    "scraped_date": "2026-06-19T10:17:04.071360"
+    "scraped_date": "2026-06-20T08:44:59.672754"
+  },
+  {
+    "name": "Arc at Encode Hub Kickoff",
+    "date": "2026-06-22T17:00:00.000Z",
+    "end_date": "2026-06-22T20:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/encode-d7da",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-20T08:44:53.918576"
   },
   {
     "name": "From 0-1: Women Building In AI",
@@ -134,8 +95,8 @@
     "hosts": [
       "Marie Widmer"
     ],
-    "attendee_count": 41,
-    "scraped_date": "2026-06-19T10:17:04.071371"
+    "attendee_count": 42,
+    "scraped_date": "2026-06-20T08:44:59.672764"
   },
   {
     "name": "Claude Code Workshop | Become a One-Person Dev Team",
@@ -151,10 +112,10 @@
       "Mark Nguyen"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-19T10:17:04.071396"
+    "scraped_date": "2026-06-20T08:44:59.672803"
   },
   {
-    "name": "Patents for Entrepreneurs: What Founders Need to Know Before They Build, Pitch, or Launch",
+    "name": "Patents for Entrepreneurs: What Founders Need to Know Before They Build, Pitch, or Launch (air-con available)",
     "date": "2026-06-23T10:00:00.000Z",
     "end_date": "2026-06-23T11:00:00.000Z",
     "location": "IDEALondon, 69 Wilson St, London EC2A 2BB, UK",
@@ -171,7 +132,7 @@
       "Lightbringer Network"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-19T10:16:59.178637"
+    "scraped_date": "2026-06-20T08:44:53.918603"
   },
   {
     "name": "Arize Builders Meetup - London",
@@ -187,7 +148,7 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-19T10:17:04.071420"
+    "scraped_date": "2026-06-20T08:44:59.672826"
   },
   {
     "name": "bittensor x UK AI Agent Hack",
@@ -202,8 +163,8 @@
     "hosts": [
       "Imperial Blockchain & FinTech"
     ],
-    "attendee_count": 50,
-    "scraped_date": "2026-06-19T10:17:04.071478"
+    "attendee_count": 57,
+    "scraped_date": "2026-06-20T08:44:59.672883"
   },
   {
     "name": "Agents, judges, and legacy code.",
@@ -218,7 +179,26 @@
     "hosts": [
       "Nearform Ltd."
     ],
-    "attendee_count": 171,
-    "scraped_date": "2026-06-19T10:17:04.071490"
+    "attendee_count": 170,
+    "scraped_date": "2026-06-20T08:44:59.672895"
+  },
+  {
+    "name": "Mobile Engineering Leadership at Scale: Will We Build Mobile Apps Differently in 2027?",
+    "date": "2026-06-24T17:00:00.000Z",
+    "end_date": "2026-06-24T20:00:00.000Z",
+    "location": "Vonage, 15 Bonhill St, London EC2A 4DN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/egh6zyg1",
+    "hosts": [
+      "Novoda Events",
+      "Recworks Events",
+      "Barry Cranford",
+      "Chelsea Keighley"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-20T08:44:59.672907"
   }
 ]
