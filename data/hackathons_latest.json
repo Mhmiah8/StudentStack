@@ -1,54 +1,5 @@
 [
   {
-    "name": "Claude Code Coworking with Women in Tech UK",
-    "date": "2026-06-20T13:00:00.000Z",
-    "end_date": "2026-06-20T15:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/337njvgz",
-    "hosts": [
-      "Women In tech UK"
-    ],
-    "attendee_count": 41,
-    "scraped_date": "2026-06-20T08:44:59.672717"
-  },
-  {
-    "name": "Lumina House 3D Printing Hack",
-    "date": "2026-06-20T15:00:00.000Z",
-    "end_date": "2026-06-20T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cvq4xk9t",
-    "hosts": [
-      "Lumina"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-20T08:44:53.918510"
-  },
-  {
-    "name": "A New Chapter for Europe’s Hackathon Ecosystem London",
-    "date": "2026-06-20T16:00:00.000Z",
-    "end_date": "2026-06-20T19:00:00.000Z",
-    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/xld992n3",
-    "hosts": [
-      "David Smith",
-      "Kickstart Global"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-20T08:44:53.918543"
-  },
-  {
     "name": "AI Pilled: Builder Session #02",
     "date": "2026-06-22T16:30:00.000Z",
     "end_date": "2026-06-22T20:00:00.000Z",
@@ -63,8 +14,8 @@
       "Yiran Qin",
       "Jordan Tran"
     ],
-    "attendee_count": 35,
-    "scraped_date": "2026-06-20T08:44:59.672754"
+    "attendee_count": 34,
+    "scraped_date": "2026-06-21T09:40:12.889840"
   },
   {
     "name": "Arc at Encode Hub Kickoff",
@@ -80,7 +31,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-20T08:44:53.918576"
+    "scraped_date": "2026-06-21T09:40:07.729173"
   },
   {
     "name": "From 0-1: Women Building In AI",
@@ -95,8 +46,8 @@
     "hosts": [
       "Marie Widmer"
     ],
-    "attendee_count": 42,
-    "scraped_date": "2026-06-20T08:44:59.672764"
+    "attendee_count": 45,
+    "scraped_date": "2026-06-21T09:40:12.889866"
   },
   {
     "name": "Claude Code Workshop | Become a One-Person Dev Team",
@@ -112,7 +63,7 @@
       "Mark Nguyen"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-20T08:44:59.672803"
+    "scraped_date": "2026-06-21T09:40:12.889912"
   },
   {
     "name": "Patents for Entrepreneurs: What Founders Need to Know Before They Build, Pitch, or Launch (air-con available)",
@@ -132,7 +83,7 @@
       "Lightbringer Network"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-20T08:44:53.918603"
+    "scraped_date": "2026-06-21T09:40:07.729228"
   },
   {
     "name": "Arize Builders Meetup - London",
@@ -148,7 +99,7 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-20T08:44:59.672826"
+    "scraped_date": "2026-06-21T09:40:12.889938"
   },
   {
     "name": "bittensor x UK AI Agent Hack",
@@ -163,8 +114,8 @@
     "hosts": [
       "Imperial Blockchain & FinTech"
     ],
-    "attendee_count": 57,
-    "scraped_date": "2026-06-20T08:44:59.672883"
+    "attendee_count": 63,
+    "scraped_date": "2026-06-21T09:40:12.889999"
   },
   {
     "name": "Agents, judges, and legacy code.",
@@ -180,7 +131,26 @@
       "Nearform Ltd."
     ],
     "attendee_count": 170,
-    "scraped_date": "2026-06-20T08:44:59.672895"
+    "scraped_date": "2026-06-21T09:40:12.890055"
+  },
+  {
+    "name": "Building the Inference Economy: In conversation with Fractile, ElevenLabs, Accel and Metronome",
+    "date": "2026-06-24T17:00:00.000Z",
+    "end_date": "2026-06-24T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/5gd9pgmo",
+    "hosts": [
+      "Samar Malik",
+      "Tom Westgarth",
+      "Fractile",
+      "Stripe Startups"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-21T09:40:12.890069"
   },
   {
     "name": "Mobile Engineering Leadership at Scale: Will We Build Mobile Apps Differently in 2027?",
@@ -199,6 +169,6 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-20T08:44:59.672907"
+    "scraped_date": "2026-06-21T09:40:12.890091"
   }
 ]
