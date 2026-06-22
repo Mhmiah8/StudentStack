@@ -14,8 +14,8 @@
       "Yiran Qin",
       "Jordan Tran"
     ],
-    "attendee_count": 34,
-    "scraped_date": "2026-06-21T09:40:12.889840"
+    "attendee_count": 40,
+    "scraped_date": "2026-06-22T11:40:36.145172"
   },
   {
     "name": "Arc at Encode Hub Kickoff",
@@ -31,7 +31,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-21T09:40:07.729173"
+    "scraped_date": "2026-06-22T11:40:31.561144"
   },
   {
     "name": "From 0-1: Women Building In AI",
@@ -46,8 +46,8 @@
     "hosts": [
       "Marie Widmer"
     ],
-    "attendee_count": 45,
-    "scraped_date": "2026-06-21T09:40:12.889866"
+    "attendee_count": 40,
+    "scraped_date": "2026-06-22T11:40:36.145203"
   },
   {
     "name": "Claude Code Workshop | Become a One-Person Dev Team",
@@ -62,8 +62,8 @@
     "hosts": [
       "Mark Nguyen"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-21T09:40:12.889912"
+    "attendee_count": 10,
+    "scraped_date": "2026-06-22T11:40:36.145239"
   },
   {
     "name": "Patents for Entrepreneurs: What Founders Need to Know Before They Build, Pitch, or Launch (air-con available)",
@@ -83,7 +83,7 @@
       "Lightbringer Network"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-21T09:40:07.729228"
+    "scraped_date": "2026-06-22T11:40:31.561205"
   },
   {
     "name": "Arize Builders Meetup - London",
@@ -99,7 +99,7 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-21T09:40:12.889938"
+    "scraped_date": "2026-06-22T11:40:36.145270"
   },
   {
     "name": "bittensor x UK AI Agent Hack",
@@ -114,8 +114,8 @@
     "hosts": [
       "Imperial Blockchain & FinTech"
     ],
-    "attendee_count": 63,
-    "scraped_date": "2026-06-21T09:40:12.889999"
+    "attendee_count": 71,
+    "scraped_date": "2026-06-22T11:40:36.145339"
   },
   {
     "name": "Agents, judges, and legacy code.",
@@ -130,8 +130,8 @@
     "hosts": [
       "Nearform Ltd."
     ],
-    "attendee_count": 170,
-    "scraped_date": "2026-06-21T09:40:12.890055"
+    "attendee_count": 182,
+    "scraped_date": "2026-06-22T11:40:36.145353"
   },
   {
     "name": "Building the Inference Economy: In conversation with Fractile, ElevenLabs, Accel and Metronome",
@@ -150,7 +150,7 @@
       "Stripe Startups"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-21T09:40:12.890069"
+    "scraped_date": "2026-06-22T11:40:36.145366"
   },
   {
     "name": "Mobile Engineering Leadership at Scale: Will We Build Mobile Apps Differently in 2027?",
@@ -169,6 +169,6 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-21T09:40:12.890091"
+    "scraped_date": "2026-06-22T11:40:36.145390"
   }
 ]
