@@ -1,71 +1,5 @@
 [
   {
-    "name": "AI Pilled: Builder Session #02",
-    "date": "2026-06-22T16:30:00.000Z",
-    "end_date": "2026-06-22T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/g32h5k4n",
-    "hosts": [
-      "Nuan Zhang",
-      "Yiran Qin",
-      "Jordan Tran"
-    ],
-    "attendee_count": 40,
-    "scraped_date": "2026-06-22T11:40:36.145172"
-  },
-  {
-    "name": "Arc at Encode Hub Kickoff",
-    "date": "2026-06-22T17:00:00.000Z",
-    "end_date": "2026-06-22T20:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-d7da",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-22T11:40:31.561144"
-  },
-  {
-    "name": "From 0-1: Women Building In AI",
-    "date": "2026-06-22T17:00:00.000Z",
-    "end_date": "2026-06-22T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/je6su26c",
-    "hosts": [
-      "Marie Widmer"
-    ],
-    "attendee_count": 40,
-    "scraped_date": "2026-06-22T11:40:36.145203"
-  },
-  {
-    "name": "Claude Code Workshop | Become a One-Person Dev Team",
-    "date": "2026-06-23T08:30:00.000Z",
-    "end_date": "2026-06-23T12:00:00.000Z",
-    "location": "The Corner | London City, 42 Adler St, London E1 1EE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/np8psjmc",
-    "hosts": [
-      "Mark Nguyen"
-    ],
-    "attendee_count": 10,
-    "scraped_date": "2026-06-22T11:40:36.145239"
-  },
-  {
     "name": "Patents for Entrepreneurs: What Founders Need to Know Before They Build, Pitch, or Launch (air-con available)",
     "date": "2026-06-23T10:00:00.000Z",
     "end_date": "2026-06-23T11:00:00.000Z",
@@ -83,7 +17,7 @@
       "Lightbringer Network"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-22T11:40:31.561205"
+    "scraped_date": "2026-06-23T09:27:12.638797"
   },
   {
     "name": "Arize Builders Meetup - London",
@@ -99,7 +33,7 @@
       "Arize AI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-22T11:40:36.145270"
+    "scraped_date": "2026-06-23T09:27:17.124045"
   },
   {
     "name": "bittensor x UK AI Agent Hack",
@@ -114,8 +48,24 @@
     "hosts": [
       "Imperial Blockchain & FinTech"
     ],
-    "attendee_count": 71,
-    "scraped_date": "2026-06-22T11:40:36.145339"
+    "attendee_count": 82,
+    "scraped_date": "2026-06-23T09:27:17.124116"
+  },
+  {
+    "name": "From Chaos to Capital: Building the Operational Foundations Investors Want to See",
+    "date": "2026-06-24T17:00:00.000Z",
+    "end_date": "2026-06-24T19:00:00.000Z",
+    "location": "H.O.M.E (House of Music and Entertainment), 20 Commercial St, London E1 6LP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/5hte69cc",
+    "hosts": [
+      "Music Technology UK"
+    ],
+    "attendee_count": 12,
+    "scraped_date": "2026-06-23T09:27:12.639017"
   },
   {
     "name": "Agents, judges, and legacy code.",
@@ -130,8 +80,8 @@
     "hosts": [
       "Nearform Ltd."
     ],
-    "attendee_count": 182,
-    "scraped_date": "2026-06-22T11:40:36.145353"
+    "attendee_count": 177,
+    "scraped_date": "2026-06-23T09:27:17.124129"
   },
   {
     "name": "Building the Inference Economy: In conversation with Fractile, ElevenLabs, Accel and Metronome",
@@ -150,7 +100,7 @@
       "Stripe Startups"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-22T11:40:36.145366"
+    "scraped_date": "2026-06-23T09:27:17.124139"
   },
   {
     "name": "Mobile Engineering Leadership at Scale: Will We Build Mobile Apps Differently in 2027?",
@@ -169,6 +119,39 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-22T11:40:36.145390"
+    "scraped_date": "2026-06-23T09:27:17.124160"
+  },
+  {
+    "name": "Open Code #16",
+    "date": "2026-06-24T17:30:00.000Z",
+    "end_date": "2026-06-24T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/vzvn9bbh",
+    "hosts": [
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-23T09:27:17.124176"
+  },
+  {
+    "name": "AI Builder co-working with FLock",
+    "date": "2026-06-25T08:00:00.000Z",
+    "end_date": "2026-06-25T17:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/encode-fk3k",
+    "hosts": [
+      "Encode Club",
+      "Tiffany.W"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-23T09:27:17.124197"
   }
 ]
