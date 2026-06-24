@@ -1,41 +1,5 @@
 [
   {
-    "name": "Patents for Entrepreneurs: What Founders Need to Know Before They Build, Pitch, or Launch (air-con available)",
-    "date": "2026-06-23T10:00:00.000Z",
-    "end_date": "2026-06-23T11:00:00.000Z",
-    "location": "IDEALondon, 69 Wilson St, London EC2A 2BB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/wyy7runo",
-    "hosts": [
-      "IDEALondon",
-      "Henry Blandford",
-      "Joseph Hamid",
-      "Subaita Rahman",
-      "Lightbringer Network"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-23T09:27:12.638797"
-  },
-  {
-    "name": "Arize Builders Meetup - London",
-    "date": "2026-06-23T17:00:00.000Z",
-    "end_date": "2026-06-23T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/london-builders-meetup",
-    "hosts": [
-      "Arize AI"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-23T09:27:17.124045"
-  },
-  {
     "name": "bittensor x UK AI Agent Hack",
     "date": "2026-06-24T16:30:00.000Z",
     "end_date": "2026-06-24T20:00:00.000Z",
@@ -48,8 +12,8 @@
     "hosts": [
       "Imperial Blockchain & FinTech"
     ],
-    "attendee_count": 82,
-    "scraped_date": "2026-06-23T09:27:17.124116"
+    "attendee_count": 84,
+    "scraped_date": "2026-06-24T08:56:51.209755"
   },
   {
     "name": "From Chaos to Capital: Building the Operational Foundations Investors Want to See",
@@ -65,7 +29,7 @@
       "Music Technology UK"
     ],
     "attendee_count": 12,
-    "scraped_date": "2026-06-23T09:27:12.639017"
+    "scraped_date": "2026-06-24T08:56:45.961609"
   },
   {
     "name": "Agents, judges, and legacy code.",
@@ -80,8 +44,8 @@
     "hosts": [
       "Nearform Ltd."
     ],
-    "attendee_count": 177,
-    "scraped_date": "2026-06-23T09:27:17.124129"
+    "attendee_count": 175,
+    "scraped_date": "2026-06-24T08:56:51.209781"
   },
   {
     "name": "Building the Inference Economy: In conversation with Fractile, ElevenLabs, Accel and Metronome",
@@ -100,7 +64,7 @@
       "Stripe Startups"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-23T09:27:17.124139"
+    "scraped_date": "2026-06-24T08:56:51.209794"
   },
   {
     "name": "Mobile Engineering Leadership at Scale: Will We Build Mobile Apps Differently in 2027?",
@@ -119,7 +83,23 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-23T09:27:17.124160"
+    "scraped_date": "2026-06-24T08:56:51.209812"
+  },
+  {
+    "name": "Creative Coding Bookclub -Nature of Code: Chapter 1",
+    "date": "2026-06-24T17:30:00.000Z",
+    "end_date": "2026-06-24T19:30:00.000Z",
+    "location": "117 Green Lanes, Newington Green, London N16 9DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ob7jkrg9",
+    "hosts": [
+      "Halima"
+    ],
+    "attendee_count": 19,
+    "scraped_date": "2026-06-24T08:56:45.961667"
   },
   {
     "name": "Open Code #16",
@@ -135,7 +115,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-23T09:27:17.124176"
+    "scraped_date": "2026-06-24T08:56:51.209831"
   },
   {
     "name": "AI Builder co-working with FLock",
@@ -152,6 +132,95 @@
       "Tiffany.W"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-23T09:27:17.124197"
+    "scraped_date": "2026-06-24T08:56:51.209850"
+  },
+  {
+    "name": "AI in Government - Hackathon",
+    "date": "2026-06-25T08:30:00.000Z",
+    "end_date": "2026-06-26T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/1d7szvu5",
+    "hosts": [
+      "ElevenLabs Devs",
+      "Incubator for AI (i.AI)"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-24T08:56:51.209859"
+  },
+  {
+    "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
+    "date": "2026-06-25T09:30:00.000Z",
+    "end_date": "2026-06-25T19:00:00.000Z",
+    "location": "Channel with Oneder, 22 Northdown St, London N1 9BG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/77jkasq1",
+    "hosts": [
+      "Sam",
+      "Lachlan Chavasse"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-24T08:56:45.961723"
+  },
+  {
+    "name": "London Agentic AI Hack Night",
+    "date": "2026-06-25T16:30:00.000Z",
+    "end_date": "2026-06-25T20:00:00.000Z",
+    "location": "Civo Tech Junction, First Floor, 32-37 Cowper St, London EC2A 4AW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dnoe595m",
+    "hosts": [
+      "Sam Adekunle",
+      "Nitish Galat",
+      "BimpeAI"
+    ],
+    "attendee_count": 127,
+    "scraped_date": "2026-06-24T08:56:51.209879"
+  },
+  {
+    "name": "Cursor Hands Off London Hackathon",
+    "date": "2026-06-25T17:00:00.000Z",
+    "end_date": "2026-06-25T22:45:00.000Z",
+    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/wl7a90xe",
+    "hosts": [
+      "Gamal Mubarak",
+      "Carla Griffiths",
+      "Francisco Terpolilli"
+    ],
+    "attendee_count": 249,
+    "scraped_date": "2026-06-24T08:56:51.209891"
+  },
+  {
+    "name": "Multiagents Hackathon",
+    "date": "2026-06-26T08:30:00.000Z",
+    "end_date": "2026-06-26T18:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ldnhack",
+    "hosts": [
+      "tokens&",
+      "Alessandro Amenta",
+      "Sam Hepburn",
+      "Francisco Terpolilli"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-24T08:56:51.209917"
   }
 ]
