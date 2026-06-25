@@ -1,157 +1,5 @@
 [
   {
-    "name": "bittensor x UK AI Agent Hack",
-    "date": "2026-06-24T16:30:00.000Z",
-    "end_date": "2026-06-24T20:00:00.000Z",
-    "location": "Royal School of Mines, Imperial College, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/lr9vsy8g",
-    "hosts": [
-      "Imperial Blockchain & FinTech"
-    ],
-    "attendee_count": 84,
-    "scraped_date": "2026-06-24T08:56:51.209755"
-  },
-  {
-    "name": "From Chaos to Capital: Building the Operational Foundations Investors Want to See",
-    "date": "2026-06-24T17:00:00.000Z",
-    "end_date": "2026-06-24T19:00:00.000Z",
-    "location": "H.O.M.E (House of Music and Entertainment), 20 Commercial St, London E1 6LP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/5hte69cc",
-    "hosts": [
-      "Music Technology UK"
-    ],
-    "attendee_count": 12,
-    "scraped_date": "2026-06-24T08:56:45.961609"
-  },
-  {
-    "name": "Agents, judges, and legacy code.",
-    "date": "2026-06-24T17:00:00.000Z",
-    "end_date": "2026-06-24T19:30:00.000Z",
-    "location": "Mindspace Liverpool Street, 9 Appold St, London EC2A 2AP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/vg78nol1",
-    "hosts": [
-      "Nearform Ltd."
-    ],
-    "attendee_count": 175,
-    "scraped_date": "2026-06-24T08:56:51.209781"
-  },
-  {
-    "name": "Building the Inference Economy: In conversation with Fractile, ElevenLabs, Accel and Metronome",
-    "date": "2026-06-24T17:00:00.000Z",
-    "end_date": "2026-06-24T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/5gd9pgmo",
-    "hosts": [
-      "Samar Malik",
-      "Tom Westgarth",
-      "Fractile",
-      "Stripe Startups"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-24T08:56:51.209794"
-  },
-  {
-    "name": "Mobile Engineering Leadership at Scale: Will We Build Mobile Apps Differently in 2027?",
-    "date": "2026-06-24T17:00:00.000Z",
-    "end_date": "2026-06-24T20:00:00.000Z",
-    "location": "Vonage, 15 Bonhill St, London EC2A 4DN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/egh6zyg1",
-    "hosts": [
-      "Novoda Events",
-      "Recworks Events",
-      "Barry Cranford",
-      "Chelsea Keighley"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-24T08:56:51.209812"
-  },
-  {
-    "name": "Creative Coding Bookclub -Nature of Code: Chapter 1",
-    "date": "2026-06-24T17:30:00.000Z",
-    "end_date": "2026-06-24T19:30:00.000Z",
-    "location": "117 Green Lanes, Newington Green, London N16 9DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ob7jkrg9",
-    "hosts": [
-      "Halima"
-    ],
-    "attendee_count": 19,
-    "scraped_date": "2026-06-24T08:56:45.961667"
-  },
-  {
-    "name": "Open Code #16",
-    "date": "2026-06-24T17:30:00.000Z",
-    "end_date": "2026-06-24T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/vzvn9bbh",
-    "hosts": [
-      "Phoenix Court"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-24T08:56:51.209831"
-  },
-  {
-    "name": "AI Builder co-working with FLock",
-    "date": "2026-06-25T08:00:00.000Z",
-    "end_date": "2026-06-25T17:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-fk3k",
-    "hosts": [
-      "Encode Club",
-      "Tiffany.W"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-24T08:56:51.209850"
-  },
-  {
-    "name": "AI in Government - Hackathon",
-    "date": "2026-06-25T08:30:00.000Z",
-    "end_date": "2026-06-26T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1d7szvu5",
-    "hosts": [
-      "ElevenLabs Devs",
-      "Incubator for AI (i.AI)"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-24T08:56:51.209859"
-  },
-  {
     "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
     "date": "2026-06-25T09:30:00.000Z",
     "end_date": "2026-06-25T19:00:00.000Z",
@@ -166,7 +14,7 @@
       "Lachlan Chavasse"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-24T08:56:45.961723"
+    "scraped_date": "2026-06-25T08:51:21.541528"
   },
   {
     "name": "London Agentic AI Hack Night",
@@ -183,8 +31,8 @@
       "Nitish Galat",
       "BimpeAI"
     ],
-    "attendee_count": 127,
-    "scraped_date": "2026-06-24T08:56:51.209879"
+    "attendee_count": 130,
+    "scraped_date": "2026-06-25T08:51:26.856103"
   },
   {
     "name": "Cursor Hands Off London Hackathon",
@@ -201,8 +49,8 @@
       "Carla Griffiths",
       "Francisco Terpolilli"
     ],
-    "attendee_count": 249,
-    "scraped_date": "2026-06-24T08:56:51.209891"
+    "attendee_count": 259,
+    "scraped_date": "2026-06-25T08:51:26.856128"
   },
   {
     "name": "Multiagents Hackathon",
@@ -221,6 +69,221 @@
       "Francisco Terpolilli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-24T08:56:51.209917"
+    "scraped_date": "2026-06-25T08:51:26.856151"
+  },
+  {
+    "name": "European Defense Tech Hackathon - London",
+    "date": "2026-06-26T11:00:00.000Z",
+    "end_date": "2026-06-28T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/edth-2026-summer-london",
+    "hosts": [
+      "EDTH",
+      "Nadiia Savchenko",
+      "Dmytro Frolov"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-25T08:51:21.541612"
+  },
+  {
+    "name": "unlock builder salon @ 50y",
+    "date": "2026-06-26T17:00:00.000Z",
+    "end_date": "2026-06-26T21:15:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/u54k0lip",
+    "hosts": [
+      "DimaKalupin UnlockBio"
+    ],
+    "attendee_count": 5,
+    "scraped_date": "2026-06-25T08:51:26.856185"
+  },
+  {
+    "name": "LONDON CR3W IRL: AI Techies, Builders & Startup Founders",
+    "date": "2026-06-26T17:30:00.000Z",
+    "end_date": "2026-06-26T21:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/5ou51l9f",
+    "hosts": [
+      "CR3W The Human Network"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-25T08:51:26.856195"
+  },
+  {
+    "name": "{Tech: Europe} London AI Hackathon",
+    "date": "2026-06-27T08:30:00.000Z",
+    "end_date": "2026-06-27T18:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/londonhack",
+    "hosts": [
+      "{Tech: Europe}"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-25T08:51:26.856203"
+  },
+  {
+    "name": "house london! | data hackathon",
+    "date": "2026-06-27T09:00:00.000Z",
+    "end_date": "2026-06-27T19:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/azwfbuwu",
+    "hosts": [
+      "Jam Coombes"
+    ],
+    "attendee_count": 63,
+    "scraped_date": "2026-06-25T08:51:21.541635"
+  },
+  {
+    "name": "Claude Code Coworking with Women in Tech UK",
+    "date": "2026-06-27T13:00:00.000Z",
+    "end_date": "2026-06-27T15:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/337njvgz",
+    "hosts": [
+      "Women In Tech UK"
+    ],
+    "attendee_count": 39,
+    "scraped_date": "2026-06-25T08:51:26.856213"
+  },
+  {
+    "name": "UK AI Agent Hack Ep5. x Conduct",
+    "date": "2026-06-28T09:00:00.000Z",
+    "end_date": "2026-07-04T10:00:00.000Z",
+    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/knoymap5",
+    "hosts": [
+      "Imperial Blockchain & FinTech",
+      "Imperial AI"
+    ],
+    "attendee_count": 362,
+    "scraped_date": "2026-06-25T08:51:26.856224"
+  },
+  {
+    "name": "Leetcode And Career Evening | Alphabeta",
+    "date": "2026-06-29T13:00:00.000Z",
+    "end_date": "2026-06-29T15:00:00.000Z",
+    "location": "Greenwich University Stockwell Street Building, 10 Stockwell St, London SE10 9BD, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/r9gs2y2t",
+    "hosts": [
+      "Mehedi Mostafa"
+    ],
+    "attendee_count": 4,
+    "scraped_date": "2026-06-25T08:51:21.541645"
+  },
+  {
+    "name": "Creative Coding Bookclub -Nature of Code: Chapter 1",
+    "date": "2026-06-29T17:30:00.000Z",
+    "end_date": "2026-06-29T19:30:00.000Z",
+    "location": "117 Green Lanes, Newington Green, London N16 9DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ob7jkrg9",
+    "hosts": [
+      "Halima"
+    ],
+    "attendee_count": 20,
+    "scraped_date": "2026-06-25T08:51:21.541656"
+  },
+  {
+    "name": "International Expansion - Building the GTM Engine",
+    "date": "2026-06-29T17:30:00.000Z",
+    "end_date": "2026-06-29T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/international-expansion",
+    "hosts": [
+      "Juhana Peltomaa",
+      "Michelangelo Pagliara"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-25T08:51:21.541664"
+  },
+  {
+    "name": "Campaign Lab Summer Hack Night!",
+    "date": "2026-06-29T18:00:00.000Z",
+    "end_date": "2026-06-29T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/n85p1jl6",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 8,
+    "scraped_date": "2026-06-25T08:51:21.541672"
+  },
+  {
+    "name": "Claude Code Workshop | Automate Your Work",
+    "date": "2026-06-30T08:30:00.000Z",
+    "end_date": "2026-06-30T11:30:00.000Z",
+    "location": "The Corner | London City, 42 Adler St, London E1 1EE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/m74m54qv",
+    "hosts": [
+      "Mark Nguyen",
+      "Sergiy T"
+    ],
+    "attendee_count": 18,
+    "scraped_date": "2026-06-25T08:51:26.856245"
+  },
+  {
+    "name": "Source Code #2 — London meetup for journalists and technologists",
+    "date": "2026-06-30T17:00:00.000Z",
+    "end_date": "2026-06-30T19:00:00.000Z",
+    "location": "All Bar One Houndsditch, 106-107 Houndsditch, Greater, London EC3A 7BD, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ocjalxk1",
+    "hosts": [
+      "Tristan Werkmeister",
+      "Marcela Kunova",
+      "Amanda Nunn"
+    ],
+    "attendee_count": 105,
+    "scraped_date": "2026-06-25T08:51:26.856269"
   }
 ]
