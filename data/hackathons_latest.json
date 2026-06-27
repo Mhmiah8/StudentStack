@@ -1,55 +1,5 @@
 [
   {
-    "name": "European Defense Tech Hackathon - London",
-    "date": "2026-06-26T11:00:00.000Z",
-    "end_date": "2026-06-28T16:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/edth-2026-summer-london",
-    "hosts": [
-      "EDTH",
-      "Nadiia Savchenko",
-      "Dmytro Frolov"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-26T08:54:04.628305"
-  },
-  {
-    "name": "unlock builder salon @ 50y",
-    "date": "2026-06-26T17:00:00.000Z",
-    "end_date": "2026-06-26T21:15:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/u54k0lip",
-    "hosts": [
-      "DimaKalupin UnlockBio"
-    ],
-    "attendee_count": 25,
-    "scraped_date": "2026-06-26T08:54:10.122187"
-  },
-  {
-    "name": "LONDON CR3W IRL: AI Techies, Builders & Startup Founders",
-    "date": "2026-06-26T17:30:00.000Z",
-    "end_date": "2026-06-26T21:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/5ou51l9f",
-    "hosts": [
-      "CR3W The Human Network"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-26T08:54:10.122210"
-  },
-  {
     "name": "{Tech: Europe} London AI Hackathon",
     "date": "2026-06-27T08:30:00.000Z",
     "end_date": "2026-06-27T18:30:00.000Z",
@@ -63,23 +13,7 @@
       "{Tech: Europe}"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-26T08:54:10.122221"
-  },
-  {
-    "name": "house london! | data hackathon",
-    "date": "2026-06-27T09:00:00.000Z",
-    "end_date": "2026-06-27T19:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/azwfbuwu",
-    "hosts": [
-      "Jam Coombes"
-    ],
-    "attendee_count": 61,
-    "scraped_date": "2026-06-26T08:54:04.628359"
+    "scraped_date": "2026-06-27T08:29:18.383769"
   },
   {
     "name": "Claude Code Coworking with Women in Tech UK",
@@ -96,7 +30,7 @@
       "Lumina"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-26T08:54:10.122239"
+    "scraped_date": "2026-06-27T08:29:18.383834"
   },
   {
     "name": "UK AI Agent Hack Ep5. x Conduct",
@@ -112,8 +46,8 @@
       "Imperial Blockchain & FinTech",
       "Imperial AI"
     ],
-    "attendee_count": 402,
-    "scraped_date": "2026-06-26T08:54:10.122255"
+    "attendee_count": 457,
+    "scraped_date": "2026-06-27T08:29:18.383853"
   },
   {
     "name": "HackWimbledon June 2026 #2",
@@ -130,8 +64,8 @@
       "Neil Lambeth",
       "Andy Piper"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-06-26T08:54:04.628381"
+    "attendee_count": 4,
+    "scraped_date": "2026-06-27T08:29:13.721534"
   },
   {
     "name": "Leetcode And Career Evening | Alphabeta",
@@ -144,10 +78,27 @@
     "is_virtual": false,
     "url": "https://lu.ma/r9gs2y2t",
     "hosts": [
-      "Kazi Shams"
+      "Mehedi Mostafa"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-06-26T08:54:04.628395"
+    "attendee_count": 8,
+    "scraped_date": "2026-06-27T08:29:13.721572"
+  },
+  {
+    "name": "Central London | LON9 CCCL — Claude Code Kata",
+    "date": "2026-06-29T17:00:00.000Z",
+    "end_date": "2026-06-29T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cccl.lon9",
+    "hosts": [
+      "Claude Community",
+      "Vikram Pawar"
+    ],
+    "attendee_count": 80,
+    "scraped_date": "2026-06-27T08:29:18.383881"
   },
   {
     "name": "Creative Coding Bookclub -Nature of Code: Chapter 1",
@@ -162,8 +113,8 @@
     "hosts": [
       "Halima"
     ],
-    "attendee_count": 21,
-    "scraped_date": "2026-06-26T08:54:04.628420"
+    "attendee_count": 23,
+    "scraped_date": "2026-06-27T08:29:13.721592"
   },
   {
     "name": "International Expansion - Building the GTM Engine",
@@ -180,7 +131,7 @@
       "Michelangelo Pagliara"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-26T08:54:04.628434"
+    "scraped_date": "2026-06-27T08:29:13.721605"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -195,8 +146,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 9,
-    "scraped_date": "2026-06-26T08:54:04.628448"
+    "attendee_count": 14,
+    "scraped_date": "2026-06-27T08:29:13.721620"
   },
   {
     "name": "Claude Code Workshop | Automate Your Work",
@@ -212,8 +163,8 @@
       "Mark Nguyen",
       "Sergiy T"
     ],
-    "attendee_count": 18,
-    "scraped_date": "2026-06-26T08:54:10.122285"
+    "attendee_count": 22,
+    "scraped_date": "2026-06-27T08:29:18.383904"
   },
   {
     "name": "Source Code #2 — London meetup for journalists and technologists",
@@ -230,8 +181,8 @@
       "Marcela Kunova",
       "Amanda Nunn"
     ],
-    "attendee_count": 107,
-    "scraped_date": "2026-06-26T08:54:10.122317"
+    "attendee_count": 109,
+    "scraped_date": "2026-06-27T08:29:18.383935"
   },
   {
     "name": "Building Defensible Companies: Episode 1: Craig Donaldson - Founder Metro Bank",
@@ -250,7 +201,7 @@
       "Leo Tyson"
     ],
     "attendee_count": 19,
-    "scraped_date": "2026-06-26T08:54:04.628525"
+    "scraped_date": "2026-06-27T08:29:13.721694"
   },
   {
     "name": "BETA DASH London — build your ideas with Lovable",
@@ -268,8 +219,8 @@
       "Javier Mateache",
       "Giulia acchioni"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-06-26T08:54:10.122358"
+    "attendee_count": 17,
+    "scraped_date": "2026-06-27T08:29:18.383976"
   },
   {
     "name": "CX Executive Dinner: What Teams Are Actually Building with AI",
@@ -287,7 +238,7 @@
       "Kevin Chang"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-26T08:54:10.122370"
+    "scraped_date": "2026-06-27T08:29:18.383991"
   },
   {
     "name": "Building & Backing in Difficult Times | Summer Drinks",
@@ -303,8 +254,8 @@
       "Lottie Richards",
       "All Together Collective"
     ],
-    "attendee_count": 182,
-    "scraped_date": "2026-06-26T08:54:04.628549"
+    "attendee_count": 185,
+    "scraped_date": "2026-06-27T08:29:13.721719"
   },
   {
     "name": "Codex Community Meetup - London",
@@ -321,8 +272,8 @@
       "Pauline P. Narvas",
       "Vaibhav Srivastav"
     ],
-    "attendee_count": 8,
-    "scraped_date": "2026-06-26T08:54:10.122384"
+    "attendee_count": 9,
+    "scraped_date": "2026-06-27T08:29:18.384007"
   },
   {
     "name": "Open Code #17",
@@ -338,6 +289,50 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-26T08:54:10.122394"
+    "scraped_date": "2026-06-27T08:29:18.384034"
+  },
+  {
+    "name": "Building an AI Scientist",
+    "date": "2026-07-03T17:00:00.000Z",
+    "end_date": "2026-07-05T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/yw0c3upd",
+    "hosts": [
+      "Jonty Corrin",
+      "Isabel Zhang",
+      "Chris Tame",
+      "Cristian Pinto",
+      "Georgia Jaggs",
+      "Jess",
+      "Ines Ullmo",
+      "Steph Avraamides",
+      "Jess B",
+      "Nelli Morgulchik",
+      "Marc Moesser",
+      "Andrew Potterton",
+      "Luca Del Medico"
+    ],
+    "attendee_count": 77,
+    "scraped_date": "2026-06-27T08:29:18.384073"
+  },
+  {
+    "name": "TapNow AIGC Filmmaking Hackathon: Opening Day",
+    "date": "2026-07-04T12:00:00.000Z",
+    "end_date": "2026-07-04T17:00:00.000Z",
+    "location": "Imperial College London, South Kensington Campus, Huxley Building, 180 Queen's Gate, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8a9lplqx",
+    "hosts": [
+      "East2046 Cic"
+    ],
+    "attendee_count": 4,
+    "scraped_date": "2026-06-27T08:29:18.384087"
   }
 ]
