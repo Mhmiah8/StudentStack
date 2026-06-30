@@ -1,104 +1,5 @@
 [
   {
-    "name": "Leetcode And Career Evening | Alphabeta",
-    "date": "2026-06-29T13:00:00.000Z",
-    "end_date": "2026-06-29T15:00:00.000Z",
-    "location": "Greenwich University Stockwell Street Building, 10 Stockwell St, London SE10 9BD, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/r9gs2y2t",
-    "hosts": [
-      "Mehedi Mostafa"
-    ],
-    "attendee_count": 11,
-    "scraped_date": "2026-06-29T10:29:10.646482"
-  },
-  {
-    "name": "Central London | LON9 CCCL — Claude Code Kata",
-    "date": "2026-06-29T17:00:00.000Z",
-    "end_date": "2026-06-29T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cccl.lon9",
-    "hosts": [
-      "Claude Community",
-      "Vikram Pawar"
-    ],
-    "attendee_count": 80,
-    "scraped_date": "2026-06-29T10:29:15.863013"
-  },
-  {
-    "name": "Creative Coding Bookclub -Nature of Code: Chapter 1",
-    "date": "2026-06-29T17:30:00.000Z",
-    "end_date": "2026-06-29T19:30:00.000Z",
-    "location": "117 Green Lanes, Newington Green, London N16 9DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ob7jkrg9",
-    "hosts": [
-      "Halima"
-    ],
-    "attendee_count": 28,
-    "scraped_date": "2026-06-29T10:29:10.646515"
-  },
-  {
-    "name": "International Expansion - Building the GTM Engine",
-    "date": "2026-06-29T17:30:00.000Z",
-    "end_date": "2026-06-29T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/international-expansion",
-    "hosts": [
-      "Juhana Peltomaa",
-      "Michelangelo Pagliara"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-06-29T10:29:10.646529"
-  },
-  {
-    "name": "Campaign Lab Summer Hack Night!",
-    "date": "2026-06-29T18:00:00.000Z",
-    "end_date": "2026-06-29T21:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/n85p1jl6",
-    "hosts": [
-      "Noam"
-    ],
-    "attendee_count": 14,
-    "scraped_date": "2026-06-29T10:29:10.646550"
-  },
-  {
-    "name": "Claude Code Workshop | Automate Your Work",
-    "date": "2026-06-30T08:30:00.000Z",
-    "end_date": "2026-06-30T11:30:00.000Z",
-    "location": "The Corner | London City, 42 Adler St, London E1 1EE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/m74m54qv",
-    "hosts": [
-      "Mark Nguyen",
-      "Sergiy T"
-    ],
-    "attendee_count": 28,
-    "scraped_date": "2026-06-29T10:29:15.863050"
-  },
-  {
     "name": "AI Agent Hack Workshop - Day2",
     "date": "2026-06-30T10:00:00.000Z",
     "end_date": "2026-06-30T17:00:00.000Z",
@@ -111,26 +12,8 @@
     "hosts": [
       "Imperial Blockchain & FinTech"
     ],
-    "attendee_count": 29,
-    "scraped_date": "2026-06-29T10:29:15.863062"
-  },
-  {
-    "name": "Source Code #2 — London meetup for journalists and technologists",
-    "date": "2026-06-30T17:00:00.000Z",
-    "end_date": "2026-06-30T19:00:00.000Z",
-    "location": "All Bar One Houndsditch, 106-107 Houndsditch, Greater, London EC3A 7BD, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ocjalxk1",
-    "hosts": [
-      "Tristan Werkmeister",
-      "Marcela Kunova",
-      "Amanda Nunn"
-    ],
-    "attendee_count": 149,
-    "scraped_date": "2026-06-29T10:29:15.863094"
+    "attendee_count": 58,
+    "scraped_date": "2026-06-30T09:22:17.391693"
   },
   {
     "name": "BETA DASH London — build your ideas with Lovable",
@@ -148,8 +31,8 @@
       "Javier Mateache",
       "Giulia acchioni"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-06-29T10:29:15.863136"
+    "attendee_count": 27,
+    "scraped_date": "2026-06-30T09:22:17.391769"
   },
   {
     "name": "Codex Community Meetup - London",
@@ -166,8 +49,8 @@
       "Pauline P. Narvas",
       "Vaibhav Srivastav"
     ],
-    "attendee_count": 248,
-    "scraped_date": "2026-06-29T10:29:15.863149"
+    "attendee_count": 256,
+    "scraped_date": "2026-06-30T09:22:17.391789"
   },
   {
     "name": "CX Executive Dinner: What Teams Are Actually Building with AI",
@@ -185,7 +68,42 @@
       "Kevin Chang"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-29T10:29:15.863161"
+    "scraped_date": "2026-06-30T09:22:17.391801"
+  },
+  {
+    "name": "In Good Company: Building Teams at Speed",
+    "date": "2026-07-01T17:00:00.000Z",
+    "end_date": "2026-07-01T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/n8rhm060",
+    "hosts": [
+      "Akeed Azmi"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-30T09:22:17.391815"
+  },
+  {
+    "name": "Side Quest: ICL AI Hackathon Dinner @ Wolfys",
+    "date": "2026-07-01T17:00:00.000Z",
+    "end_date": "2026-07-01T22:00:00.000Z",
+    "location": "Wolfy's Bar, Wolfys Bar, Unit Q, Nyland Court, Bailey St, London SE8 5EY, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dgg72622",
+    "hosts": [
+      "LevendiPro",
+      "Wolf Dette",
+      "Kaspa Ecosystem Foundation",
+      "Christopher Hutchinson "
+    ],
+    "attendee_count": 8,
+    "scraped_date": "2026-06-30T09:22:17.391827"
   },
   {
     "name": "Building & Backing in Difficult Times | Summer Drinks",
@@ -201,8 +119,8 @@
       "Lottie Richards",
       "All Together Collective"
     ],
-    "attendee_count": 184,
-    "scraped_date": "2026-06-29T10:29:10.646642"
+    "attendee_count": 183,
+    "scraped_date": "2026-06-30T09:22:12.446595"
   },
   {
     "name": "Open Code #17",
@@ -218,7 +136,24 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-29T10:29:15.863183"
+    "scraped_date": "2026-06-30T09:22:17.391846"
+  },
+  {
+    "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
+    "date": "2026-07-02T09:00:00.000Z",
+    "end_date": "2026-07-02T18:30:00.000Z",
+    "location": "Channel with Oneder, 22 Northdown St, London N1 9BG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/k2vd4k3z",
+    "hosts": [
+      "Sam",
+      "Lachlan Chavasse"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-06-30T09:22:12.446631"
   },
   {
     "name": "Building an AI Scientist",
@@ -245,8 +180,8 @@
       "Andrew Potterton",
       "Luca Del Medico"
     ],
-    "attendee_count": 81,
-    "scraped_date": "2026-06-29T10:29:15.863228"
+    "attendee_count": 91,
+    "scraped_date": "2026-06-30T09:22:17.391891"
   },
   {
     "name": "Londonmaxxing 003: Maxxing London Hackathon",
@@ -270,7 +205,7 @@
       "AG Grid"
     ],
     "attendee_count": 50,
-    "scraped_date": "2026-06-29T10:29:10.646771"
+    "scraped_date": "2026-06-30T09:22:12.446668"
   },
   {
     "name": "TapNow AIGC Filmmaking Hackathon: Opening Day",
@@ -286,6 +221,24 @@
       "East2046 Cic"
     ],
     "attendee_count": 4,
-    "scraped_date": "2026-06-29T10:29:15.863244"
+    "scraped_date": "2026-06-30T09:22:17.391906"
+  },
+  {
+    "name": "Build. Pitch. Fund. - Kings Cross London",
+    "date": "2026-07-06T09:30:00.000Z",
+    "end_date": "2026-07-06T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/5gpkjet9",
+    "hosts": [
+      "Sam",
+      "BuildHer Labs",
+      "Momentum Mill"
+    ],
+    "attendee_count": 40,
+    "scraped_date": "2026-06-30T09:22:12.446693"
   }
 ]
