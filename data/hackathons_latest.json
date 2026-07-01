@@ -1,21 +1,5 @@
 [
   {
-    "name": "AI Agent Hack Workshop - Day2",
-    "date": "2026-06-30T10:00:00.000Z",
-    "end_date": "2026-06-30T17:00:00.000Z",
-    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/i8l969er",
-    "hosts": [
-      "Imperial Blockchain & FinTech"
-    ],
-    "attendee_count": 58,
-    "scraped_date": "2026-06-30T09:22:17.391693"
-  },
-  {
     "name": "BETA DASH London — build your ideas with Lovable",
     "date": "2026-07-01T17:00:00.000Z",
     "end_date": "2026-07-01T20:00:00.000Z",
@@ -31,8 +15,8 @@
       "Javier Mateache",
       "Giulia acchioni"
     ],
-    "attendee_count": 27,
-    "scraped_date": "2026-06-30T09:22:17.391769"
+    "attendee_count": 30,
+    "scraped_date": "2026-07-01T09:34:18.520042"
   },
   {
     "name": "Codex Community Meetup - London",
@@ -49,8 +33,8 @@
       "Pauline P. Narvas",
       "Vaibhav Srivastav"
     ],
-    "attendee_count": 256,
-    "scraped_date": "2026-06-30T09:22:17.391789"
+    "attendee_count": 255,
+    "scraped_date": "2026-07-01T09:34:18.520073"
   },
   {
     "name": "CX Executive Dinner: What Teams Are Actually Building with AI",
@@ -68,7 +52,7 @@
       "Kevin Chang"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-30T09:22:17.391801"
+    "scraped_date": "2026-07-01T09:34:18.520087"
   },
   {
     "name": "In Good Company: Building Teams at Speed",
@@ -84,7 +68,7 @@
       "Akeed Azmi"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-30T09:22:17.391815"
+    "scraped_date": "2026-07-01T09:34:18.520104"
   },
   {
     "name": "Side Quest: ICL AI Hackathon Dinner @ Wolfys",
@@ -103,7 +87,7 @@
       "Christopher Hutchinson "
     ],
     "attendee_count": 8,
-    "scraped_date": "2026-06-30T09:22:17.391827"
+    "scraped_date": "2026-07-01T09:34:18.520119"
   },
   {
     "name": "Building & Backing in Difficult Times | Summer Drinks",
@@ -120,7 +104,7 @@
       "All Together Collective"
     ],
     "attendee_count": 183,
-    "scraped_date": "2026-06-30T09:22:12.446595"
+    "scraped_date": "2026-07-01T09:34:13.124289"
   },
   {
     "name": "Open Code #17",
@@ -136,7 +120,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-30T09:22:17.391846"
+    "scraped_date": "2026-07-01T09:34:18.520140"
   },
   {
     "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
@@ -153,7 +137,7 @@
       "Lachlan Chavasse"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-06-30T09:22:12.446631"
+    "scraped_date": "2026-07-01T09:34:13.124338"
   },
   {
     "name": "Building an AI Scientist",
@@ -181,7 +165,7 @@
       "Luca Del Medico"
     ],
     "attendee_count": 91,
-    "scraped_date": "2026-06-30T09:22:17.391891"
+    "scraped_date": "2026-07-01T09:34:18.520192"
   },
   {
     "name": "Londonmaxxing 003: Maxxing London Hackathon",
@@ -204,8 +188,8 @@
       "Joe",
       "AG Grid"
     ],
-    "attendee_count": 50,
-    "scraped_date": "2026-06-30T09:22:12.446668"
+    "attendee_count": 49,
+    "scraped_date": "2026-07-01T09:34:13.124381"
   },
   {
     "name": "TapNow AIGC Filmmaking Hackathon: Opening Day",
@@ -220,8 +204,8 @@
     "hosts": [
       "East2046 Cic"
     ],
-    "attendee_count": 4,
-    "scraped_date": "2026-06-30T09:22:17.391906"
+    "attendee_count": 14,
+    "scraped_date": "2026-07-01T09:34:18.520210"
   },
   {
     "name": "Build. Pitch. Fund. - Kings Cross London",
@@ -238,7 +222,59 @@
       "BuildHer Labs",
       "Momentum Mill"
     ],
-    "attendee_count": 40,
-    "scraped_date": "2026-06-30T09:22:12.446693"
+    "attendee_count": 41,
+    "scraped_date": "2026-07-01T09:34:13.124415"
+  },
+  {
+    "name": "AI Agents for GTM Teams: Hands-On Build Lunch 🛠️",
+    "date": "2026-07-07T11:00:00.000Z",
+    "end_date": "2026-07-07T13:30:00.000Z",
+    "location": "Aethos London Shoreditch, 10-50 Willow St, London EC2A 4BH, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dust-vbi5",
+    "hosts": [
+      "Louni Roussel",
+      "Daniel Colaianni",
+      "Faateh Dhillon",
+      "Charlotte Manning"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-01T09:34:18.520256"
+  },
+  {
+    "name": "Lovable X Braintrust AI Hackathon: London Community Week",
+    "date": "2026-07-07T12:45:00.000Z",
+    "end_date": "2026-07-07T16:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/0ysb545n",
+    "hosts": [
+      "Francisco Opazo"
+    ],
+    "attendee_count": 18,
+    "scraped_date": "2026-07-01T09:34:18.520271"
+  },
+  {
+    "name": "Building Defensible Companies: Episode 2: Glen Robinson. The National Technology Officer at Microsoft UK",
+    "date": "2026-07-07T17:00:00.000Z",
+    "end_date": "2026-07-07T19:30:00.000Z",
+    "location": "14 Clerkenwell Grn, London EC1R 0DP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/pti0v8xm",
+    "hosts": [
+      "Leo Tyson",
+      "Ria Chopra"
+    ],
+    "attendee_count": 12,
+    "scraped_date": "2026-07-01T09:34:13.124479"
   }
 ]
