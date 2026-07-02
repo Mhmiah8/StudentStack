@@ -1,131 +1,8 @@
 [
   {
-    "name": "BETA DASH London — build your ideas with Lovable",
-    "date": "2026-07-01T17:00:00.000Z",
-    "end_date": "2026-07-01T20:00:00.000Z",
-    "location": "9 Crosswall, London EC3N 2JY, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/7svv823c",
-    "hosts": [
-      "Geoffrey from Pitchless",
-      "Sarah Malinowski",
-      "Javier Mateache",
-      "Giulia acchioni"
-    ],
-    "attendee_count": 30,
-    "scraped_date": "2026-07-01T09:34:18.520042"
-  },
-  {
-    "name": "Codex Community Meetup - London",
-    "date": "2026-07-01T17:00:00.000Z",
-    "end_date": "2026-07-01T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/codex-ldn-3",
-    "hosts": [
-      "Andy Tyler",
-      "Pauline P. Narvas",
-      "Vaibhav Srivastav"
-    ],
-    "attendee_count": 255,
-    "scraped_date": "2026-07-01T09:34:18.520073"
-  },
-  {
-    "name": "CX Executive Dinner: What Teams Are Actually Building with AI",
-    "date": "2026-07-01T17:00:00.000Z",
-    "end_date": "2026-07-01T20:00:00.000Z",
-    "location": "La Palombe Kensington, 267 Kensington High St, London W8 6NA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bt8qoh7h",
-    "hosts": [
-      "Melissa Evans",
-      "Ryan Wang",
-      "Kevin Chang"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-01T09:34:18.520087"
-  },
-  {
-    "name": "In Good Company: Building Teams at Speed",
-    "date": "2026-07-01T17:00:00.000Z",
-    "end_date": "2026-07-01T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/n8rhm060",
-    "hosts": [
-      "Akeed Azmi"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-01T09:34:18.520104"
-  },
-  {
-    "name": "Side Quest: ICL AI Hackathon Dinner @ Wolfys",
-    "date": "2026-07-01T17:00:00.000Z",
-    "end_date": "2026-07-01T22:00:00.000Z",
-    "location": "Wolfy's Bar, Wolfys Bar, Unit Q, Nyland Court, Bailey St, London SE8 5EY, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dgg72622",
-    "hosts": [
-      "LevendiPro",
-      "Wolf Dette",
-      "Kaspa Ecosystem Foundation",
-      "Christopher Hutchinson "
-    ],
-    "attendee_count": 8,
-    "scraped_date": "2026-07-01T09:34:18.520119"
-  },
-  {
-    "name": "Building & Backing in Difficult Times | Summer Drinks",
-    "date": "2026-07-01T17:30:00.000Z",
-    "end_date": "2026-07-01T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/novabook-15iv",
-    "hosts": [
-      "Lottie Richards",
-      "All Together Collective"
-    ],
-    "attendee_count": 183,
-    "scraped_date": "2026-07-01T09:34:13.124289"
-  },
-  {
-    "name": "Open Code #17",
-    "date": "2026-07-01T17:30:00.000Z",
-    "end_date": "2026-07-01T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/phkc4ae3",
-    "hosts": [
-      "Phoenix Court"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-01T09:34:18.520140"
-  },
-  {
     "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
-    "date": "2026-07-02T09:00:00.000Z",
-    "end_date": "2026-07-02T18:30:00.000Z",
+    "date": "2026-07-02T09:30:00.000Z",
+    "end_date": "2026-07-02T19:00:00.000Z",
     "location": "Channel with Oneder, 22 Northdown St, London N1 9BG, UK",
     "city": "London",
     "country": "United Kingdom",
@@ -137,7 +14,7 @@
       "Lachlan Chavasse"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-01T09:34:13.124338"
+    "scraped_date": "2026-07-02T08:45:37.158108"
   },
   {
     "name": "Building an AI Scientist",
@@ -164,8 +41,8 @@
       "Andrew Potterton",
       "Luca Del Medico"
     ],
-    "attendee_count": 91,
-    "scraped_date": "2026-07-01T09:34:18.520192"
+    "attendee_count": 90,
+    "scraped_date": "2026-07-02T08:45:42.943634"
   },
   {
     "name": "Londonmaxxing 003: Maxxing London Hackathon",
@@ -188,8 +65,8 @@
       "Joe",
       "AG Grid"
     ],
-    "attendee_count": 49,
-    "scraped_date": "2026-07-01T09:34:13.124381"
+    "attendee_count": 50,
+    "scraped_date": "2026-07-02T08:45:37.158170"
   },
   {
     "name": "TapNow AIGC Filmmaking Hackathon: Opening Day",
@@ -204,8 +81,24 @@
     "hosts": [
       "East2046 Cic"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-07-01T09:34:18.520210"
+    "attendee_count": 23,
+    "scraped_date": "2026-07-02T08:45:42.943665"
+  },
+  {
+    "name": "Claude Code Coworking with Women in Tech UK",
+    "date": "2026-07-04T13:00:00.000Z",
+    "end_date": "2026-07-04T15:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/337njvgz",
+    "hosts": [
+      "Women In Tech UK"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-02T08:45:42.943678"
   },
   {
     "name": "Build. Pitch. Fund. - Kings Cross London",
@@ -220,10 +113,28 @@
     "hosts": [
       "Sam",
       "BuildHer Labs",
-      "Momentum Mill"
+      "Momentum Mill",
+      "Kickstart Global",
+      "Ilya"
     ],
-    "attendee_count": 41,
-    "scraped_date": "2026-07-01T09:34:13.124415"
+    "attendee_count": 82,
+    "scraped_date": "2026-07-02T08:45:37.158202"
+  },
+  {
+    "name": "LEADENHALL LIVE AI HACKATHON",
+    "date": "2026-07-07T09:00:00.000Z",
+    "end_date": "2026-07-08T06:00:00.000Z",
+    "location": "The Leadenhall Building, 122 Leadenhall St, London EC3V 4AB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/t6bkl046",
+    "hosts": [
+      "Kelvin Miles"
+    ],
+    "attendee_count": 6,
+    "scraped_date": "2026-07-02T08:45:42.943759"
   },
   {
     "name": "AI Agents for GTM Teams: Hands-On Build Lunch 🛠️",
@@ -242,7 +153,7 @@
       "Charlotte Manning"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-01T09:34:18.520256"
+    "scraped_date": "2026-07-02T08:45:42.943774"
   },
   {
     "name": "Lovable X Braintrust AI Hackathon: London Community Week",
@@ -258,7 +169,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 18,
-    "scraped_date": "2026-07-01T09:34:18.520271"
+    "scraped_date": "2026-07-02T08:45:42.943794"
   },
   {
     "name": "Building Defensible Companies: Episode 2: Glen Robinson. The National Technology Officer at Microsoft UK",
@@ -274,7 +185,43 @@
       "Leo Tyson",
       "Ria Chopra"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-07-01T09:34:13.124479"
+    "attendee_count": 15,
+    "scraped_date": "2026-07-02T08:45:37.158227"
+  },
+  {
+    "name": "Building AI - Founders 001 - Founder Dinner",
+    "date": "2026-07-07T18:30:00.000Z",
+    "end_date": "2026-07-07T21:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/r618pe0d",
+    "hosts": [
+      "Alex Franch",
+      "Manuel Martinez"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-02T08:45:42.943831"
+  },
+  {
+    "name": "Lunch + GEO Build Session for Marketers",
+    "date": "2026-07-08T11:00:00.000Z",
+    "end_date": "2026-07-08T13:30:00.000Z",
+    "location": "IDEALondon, 69 Wilson St, London EC2A 2BB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dust-kxi3",
+    "hosts": [
+      "Louni Roussel",
+      "Daniel Colaianni",
+      "Davis",
+      "IDEALondon"
+    ],
+    "attendee_count": 34,
+    "scraped_date": "2026-07-02T08:45:42.943853"
   }
 ]
