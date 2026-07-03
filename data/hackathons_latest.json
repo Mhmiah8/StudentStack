@@ -1,20 +1,19 @@
 [
   {
-    "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
-    "date": "2026-07-02T09:30:00.000Z",
-    "end_date": "2026-07-02T19:00:00.000Z",
-    "location": "Channel with Oneder, 22 Northdown St, London N1 9BG, UK",
+    "name": "AI Agent Hackathon Workshop Day 5",
+    "date": "2026-07-03T15:00:00.000Z",
+    "end_date": "2026-07-03T16:00:00.000Z",
+    "location": "Blackett Laboratory, Imperial College, South Kensington, London SW7 2AZ, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/k2vd4k3z",
+    "url": "https://lu.ma/yypzxtas",
     "hosts": [
-      "Sam",
-      "Lachlan Chavasse"
+      "Imperial Blockchain & FinTech"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-02T08:45:37.158108"
+    "attendee_count": 6,
+    "scraped_date": "2026-07-03T08:53:22.332349"
   },
   {
     "name": "Building an AI Scientist",
@@ -41,8 +40,8 @@
       "Andrew Potterton",
       "Luca Del Medico"
     ],
-    "attendee_count": 90,
-    "scraped_date": "2026-07-02T08:45:42.943634"
+    "attendee_count": 88,
+    "scraped_date": "2026-07-03T08:53:22.332441"
   },
   {
     "name": "Londonmaxxing 003: Maxxing London Hackathon",
@@ -63,10 +62,12 @@
       "Dasha Shunina",
       "OpenRouter",
       "Joe",
-      "AG Grid"
+      "AG Grid",
+      "camern",
+      "Neel"
     ],
     "attendee_count": 50,
-    "scraped_date": "2026-07-02T08:45:37.158170"
+    "scraped_date": "2026-07-03T08:53:17.701317"
   },
   {
     "name": "TapNow AIGC Filmmaking Hackathon: Opening Day",
@@ -81,8 +82,8 @@
     "hosts": [
       "East2046 Cic"
     ],
-    "attendee_count": 23,
-    "scraped_date": "2026-07-02T08:45:42.943665"
+    "attendee_count": 40,
+    "scraped_date": "2026-07-03T08:53:22.332462"
   },
   {
     "name": "Claude Code Coworking with Women in Tech UK",
@@ -98,10 +99,10 @@
       "Women In Tech UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-02T08:45:42.943678"
+    "scraped_date": "2026-07-03T08:53:22.332474"
   },
   {
-    "name": "Build. Pitch. Fund. - Kings Cross London",
+    "name": "Build. Pitch. Fund. - Startup Funding Event - London",
     "date": "2026-07-06T09:30:00.000Z",
     "end_date": "2026-07-06T20:00:00.000Z",
     "location": "",
@@ -117,8 +118,8 @@
       "Kickstart Global",
       "Ilya"
     ],
-    "attendee_count": 82,
-    "scraped_date": "2026-07-02T08:45:37.158202"
+    "attendee_count": 116,
+    "scraped_date": "2026-07-03T08:53:17.701385"
   },
   {
     "name": "LEADENHALL LIVE AI HACKATHON",
@@ -131,10 +132,11 @@
     "is_virtual": false,
     "url": "https://lu.ma/t6bkl046",
     "hosts": [
-      "Kelvin Miles"
+      "Kelvin Miles",
+      "BPM Product Community Europe"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-07-02T08:45:42.943759"
+    "attendee_count": 24,
+    "scraped_date": "2026-07-03T08:53:22.332523"
   },
   {
     "name": "AI Agents for GTM Teams: Hands-On Build Lunch 🛠️",
@@ -153,7 +155,7 @@
       "Charlotte Manning"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-02T08:45:42.943774"
+    "scraped_date": "2026-07-03T08:53:22.332539"
   },
   {
     "name": "Lovable X Braintrust AI Hackathon: London Community Week",
@@ -168,8 +170,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 18,
-    "scraped_date": "2026-07-02T08:45:42.943794"
+    "attendee_count": 20,
+    "scraped_date": "2026-07-03T08:53:22.332558"
   },
   {
     "name": "Building Defensible Companies: Episode 2: Glen Robinson. The National Technology Officer at Microsoft UK",
@@ -185,8 +187,8 @@
       "Leo Tyson",
       "Ria Chopra"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-07-02T08:45:37.158227"
+    "attendee_count": 16,
+    "scraped_date": "2026-07-03T08:53:17.701418"
   },
   {
     "name": "Building AI - Founders 001 - Founder Dinner",
@@ -203,7 +205,7 @@
       "Manuel Martinez"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-02T08:45:42.943831"
+    "scraped_date": "2026-07-03T08:53:22.332600"
   },
   {
     "name": "Lunch + GEO Build Session for Marketers",
@@ -221,7 +223,7 @@
       "Davis",
       "IDEALondon"
     ],
-    "attendee_count": 34,
-    "scraped_date": "2026-07-02T08:45:42.943853"
+    "attendee_count": 0,
+    "scraped_date": "2026-07-03T08:53:22.332624"
   }
 ]
