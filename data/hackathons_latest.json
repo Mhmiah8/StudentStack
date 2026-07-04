@@ -1,89 +1,20 @@
 [
   {
-    "name": "AI Agent Hackathon Workshop Day 5",
-    "date": "2026-07-03T15:00:00.000Z",
-    "end_date": "2026-07-03T16:00:00.000Z",
-    "location": "Blackett Laboratory, Imperial College, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/yypzxtas",
-    "hosts": [
-      "Imperial Blockchain & FinTech"
-    ],
-    "attendee_count": 6,
-    "scraped_date": "2026-07-03T08:53:22.332349"
-  },
-  {
-    "name": "Building an AI Scientist",
-    "date": "2026-07-03T17:00:00.000Z",
-    "end_date": "2026-07-05T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/yw0c3upd",
-    "hosts": [
-      "Jonty Corrin",
-      "Isabel Zhang",
-      "Chris Tame",
-      "Cristian Pinto",
-      "Georgia Jaggs",
-      "Jess",
-      "Ines Ullmo",
-      "Steph Avraamides",
-      "Jess B",
-      "Nelli Morgulchik",
-      "Marc Moesser",
-      "Andrew Potterton",
-      "Luca Del Medico"
-    ],
-    "attendee_count": 88,
-    "scraped_date": "2026-07-03T08:53:22.332441"
-  },
-  {
-    "name": "Londonmaxxing 003: Maxxing London Hackathon",
-    "date": "2026-07-04T08:00:00.000Z",
-    "end_date": "2026-07-04T17:00:00.000Z",
-    "location": "Ramen Space, Unit 6, Sledge Tower, Dalston Square, London E8 3GP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/maxxing-london",
-    "hosts": [
-      "Londonmaxxing",
-      "Charlie Ward",
-      "Esther Trapadoux",
-      "ElevenLabs Devs",
-      "Rachel-Lee Nabors",
-      "Dasha Shunina",
-      "OpenRouter",
-      "Joe",
-      "AG Grid",
-      "camern",
-      "Neel"
-    ],
-    "attendee_count": 50,
-    "scraped_date": "2026-07-03T08:53:17.701317"
-  },
-  {
     "name": "TapNow AIGC Filmmaking Hackathon: Opening Day",
     "date": "2026-07-04T12:00:00.000Z",
     "end_date": "2026-07-04T17:00:00.000Z",
-    "location": "Imperial College London, South Kensington Campus, Huxley Building, 180 Queen's Gate, South Kensington, London SW7 2AZ, UK",
+    "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
     "url": "https://lu.ma/8a9lplqx",
     "hosts": [
-      "East2046 Cic"
+      "East2046 Cic",
+      "Saumio Victor"
     ],
-    "attendee_count": 40,
-    "scraped_date": "2026-07-03T08:53:22.332462"
+    "attendee_count": 54,
+    "scraped_date": "2026-07-04T08:28:02.769472"
   },
   {
     "name": "Claude Code Coworking with Women in Tech UK",
@@ -99,7 +30,7 @@
       "Women In Tech UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-03T08:53:22.332474"
+    "scraped_date": "2026-07-04T08:28:02.769495"
   },
   {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
@@ -118,8 +49,8 @@
       "Kickstart Global",
       "Ilya"
     ],
-    "attendee_count": 116,
-    "scraped_date": "2026-07-03T08:53:17.701385"
+    "attendee_count": 161,
+    "scraped_date": "2026-07-04T08:27:58.075155"
   },
   {
     "name": "LEADENHALL LIVE AI HACKATHON",
@@ -133,29 +64,11 @@
     "url": "https://lu.ma/t6bkl046",
     "hosts": [
       "Kelvin Miles",
-      "BPM Product Community Europe"
+      "BPM Product Community Europe",
+      "Darrell Edwards"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-07-03T08:53:22.332523"
-  },
-  {
-    "name": "AI Agents for GTM Teams: Hands-On Build Lunch 🛠️",
-    "date": "2026-07-07T11:00:00.000Z",
-    "end_date": "2026-07-07T13:30:00.000Z",
-    "location": "Aethos London Shoreditch, 10-50 Willow St, London EC2A 4BH, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dust-vbi5",
-    "hosts": [
-      "Louni Roussel",
-      "Daniel Colaianni",
-      "Faateh Dhillon",
-      "Charlotte Manning"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-03T08:53:22.332539"
+    "attendee_count": 45,
+    "scraped_date": "2026-07-04T08:28:02.769592"
   },
   {
     "name": "Lovable X Braintrust AI Hackathon: London Community Week",
@@ -170,8 +83,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-07-03T08:53:22.332558"
+    "attendee_count": 23,
+    "scraped_date": "2026-07-04T08:28:02.769605"
   },
   {
     "name": "Building Defensible Companies: Episode 2: Glen Robinson. The National Technology Officer at Microsoft UK",
@@ -188,7 +101,7 @@
       "Ria Chopra"
     ],
     "attendee_count": 16,
-    "scraped_date": "2026-07-03T08:53:17.701418"
+    "scraped_date": "2026-07-04T08:27:58.075212"
   },
   {
     "name": "Building AI - Founders 001 - Founder Dinner",
@@ -205,7 +118,7 @@
       "Manuel Martinez"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-03T08:53:22.332600"
+    "scraped_date": "2026-07-04T08:28:02.769657"
   },
   {
     "name": "Lunch + GEO Build Session for Marketers",
@@ -224,6 +137,22 @@
       "IDEALondon"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-03T08:53:22.332624"
+    "scraped_date": "2026-07-04T08:28:02.769682"
+  },
+  {
+    "name": "hardware builder coffee (& coworking!)",
+    "date": "2026-07-09T07:00:00.000Z",
+    "end_date": "2026-07-09T09:00:00.000Z",
+    "location": "News & Coffee Kiosk, Granary Square, London N1C 4PQ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/6ldfrlf4",
+    "hosts": [
+      "Lachlan Chavasse"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-04T08:27:58.075324"
   }
 ]
