@@ -1,38 +1,5 @@
 [
   {
-    "name": "TapNow AIGC Filmmaking Hackathon: Opening Day",
-    "date": "2026-07-04T12:00:00.000Z",
-    "end_date": "2026-07-04T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8a9lplqx",
-    "hosts": [
-      "East2046 Cic",
-      "Saumio Victor"
-    ],
-    "attendee_count": 54,
-    "scraped_date": "2026-07-04T08:28:02.769472"
-  },
-  {
-    "name": "Claude Code Coworking with Women in Tech UK",
-    "date": "2026-07-04T13:00:00.000Z",
-    "end_date": "2026-07-04T15:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/337njvgz",
-    "hosts": [
-      "Women In Tech UK"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-04T08:28:02.769495"
-  },
-  {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
     "date": "2026-07-06T09:30:00.000Z",
     "end_date": "2026-07-06T20:00:00.000Z",
@@ -49,13 +16,13 @@
       "Kickstart Global",
       "Ilya"
     ],
-    "attendee_count": 161,
-    "scraped_date": "2026-07-04T08:27:58.075155"
+    "attendee_count": 185,
+    "scraped_date": "2026-07-05T08:44:14.442992"
   },
   {
     "name": "LEADENHALL LIVE AI HACKATHON",
     "date": "2026-07-07T09:00:00.000Z",
-    "end_date": "2026-07-08T06:00:00.000Z",
+    "end_date": "2026-07-07T18:00:00.000Z",
     "location": "The Leadenhall Building, 122 Leadenhall St, London EC3V 4AB, UK",
     "city": "London",
     "country": "United Kingdom",
@@ -67,8 +34,8 @@
       "BPM Product Community Europe",
       "Darrell Edwards"
     ],
-    "attendee_count": 45,
-    "scraped_date": "2026-07-04T08:28:02.769592"
+    "attendee_count": 55,
+    "scraped_date": "2026-07-05T08:44:19.402294"
   },
   {
     "name": "Lovable X Braintrust AI Hackathon: London Community Week",
@@ -83,8 +50,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 23,
-    "scraped_date": "2026-07-04T08:28:02.769605"
+    "attendee_count": 24,
+    "scraped_date": "2026-07-05T08:44:19.402319"
   },
   {
     "name": "Building Defensible Companies: Episode 2: Glen Robinson. The National Technology Officer at Microsoft UK",
@@ -101,7 +68,7 @@
       "Ria Chopra"
     ],
     "attendee_count": 16,
-    "scraped_date": "2026-07-04T08:27:58.075212"
+    "scraped_date": "2026-07-05T08:44:14.443091"
   },
   {
     "name": "Building AI - Founders 001 - Founder Dinner",
@@ -118,7 +85,7 @@
       "Manuel Martinez"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-04T08:28:02.769657"
+    "scraped_date": "2026-07-05T08:44:19.402377"
   },
   {
     "name": "Lunch + GEO Build Session for Marketers",
@@ -137,7 +104,41 @@
       "IDEALondon"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-04T08:28:02.769682"
+    "scraped_date": "2026-07-05T08:44:19.402404"
+  },
+  {
+    "name": "Dust x Wise Business Rooftop Sessions: Build Here, Scale Anywhere",
+    "date": "2026-07-08T17:00:00.000Z",
+    "end_date": "2026-07-08T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dust-xq3y",
+    "hosts": [
+      "Sophie Palmer",
+      "Daniel Colaianni",
+      "Wise Business"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-05T08:44:19.402449"
+  },
+  {
+    "name": "Open Code #18",
+    "date": "2026-07-08T17:30:00.000Z",
+    "end_date": "2026-07-08T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/wm3bsood",
+    "hosts": [
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-05T08:44:19.402463"
   },
   {
     "name": "hardware builder coffee (& coworking!)",
@@ -153,6 +154,6 @@
       "Lachlan Chavasse"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-04T08:27:58.075324"
+    "scraped_date": "2026-07-05T08:44:14.443210"
   }
 ]
