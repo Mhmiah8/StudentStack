@@ -1,24 +1,6 @@
 [
   {
-    "name": "LEADENHALL LIVE AI HACKATHON",
-    "date": "2026-07-07T09:00:00.000Z",
-    "end_date": "2026-07-07T18:00:00.000Z",
-    "location": "The Leadenhall Building, 122 Leadenhall St, London EC3V 4AB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/t6bkl046",
-    "hosts": [
-      "Kelvin Miles",
-      "BPM Product Community Europe",
-      "Darrell Edwards"
-    ],
-    "attendee_count": 55,
-    "scraped_date": "2026-07-06T10:02:32.798423"
-  },
-  {
-    "name": "Lovable X Braintrust AI Hackathon: London Community Week",
+    "name": "Lovable X Braintrust X ElevenLabs AI Hackathon: London Community Week",
     "date": "2026-07-07T12:45:00.000Z",
     "end_date": "2026-07-07T16:30:00.000Z",
     "location": "",
@@ -31,7 +13,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 26,
-    "scraped_date": "2026-07-06T10:02:32.798442"
+    "scraped_date": "2026-07-07T09:29:43.073547"
   },
   {
     "name": "Building Defensible Companies: Episode 2: Glen Robinson. The National Technology Officer at Microsoft UK",
@@ -47,8 +29,8 @@
       "Leo Tyson",
       "Ria Chopra"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-07-06T10:02:28.014031"
+    "attendee_count": 22,
+    "scraped_date": "2026-07-07T09:29:37.652123"
   },
   {
     "name": "Building AI - Founders 001 - Founder Dinner",
@@ -65,7 +47,7 @@
       "Manuel Martinez"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-06T10:02:32.798486"
+    "scraped_date": "2026-07-07T09:29:43.073605"
   },
   {
     "name": "Lunch + GEO Build Session for Marketers",
@@ -84,7 +66,24 @@
       "IDEALondon"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-06T10:02:32.798511"
+    "scraped_date": "2026-07-07T09:29:43.073641"
+  },
+  {
+    "name": "Building a Bid: Consumer-Led Flexibility",
+    "date": "2026-07-08T12:00:00.000Z",
+    "end_date": "2026-07-08T16:00:00.000Z",
+    "location": "Sustainable Ventures, County Hall, Belvedere Rd, London SE1 7PB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bkev4aqn",
+    "hosts": [
+      "Izaak Chung-Graham",
+      "Tom"
+    ],
+    "attendee_count": 7,
+    "scraped_date": "2026-07-07T09:29:37.652193"
   },
   {
     "name": "Dust x Wise Business Rooftop Sessions: Build Here, Scale Anywhere",
@@ -102,7 +101,7 @@
       "Wise Business"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-06T10:02:32.798545"
+    "scraped_date": "2026-07-07T09:29:43.073684"
   },
   {
     "name": "Open Code #18",
@@ -118,7 +117,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-06T10:02:32.798558"
+    "scraped_date": "2026-07-07T09:29:43.073701"
   },
   {
     "name": "hardware builder coffee (& coworking!)",
@@ -134,6 +133,6 @@
       "Lachlan Chavasse"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-06T10:02:28.014150"
+    "scraped_date": "2026-07-07T09:29:37.652282"
   }
 ]
