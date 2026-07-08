@@ -1,55 +1,5 @@
 [
   {
-    "name": "Lovable X Braintrust X ElevenLabs AI Hackathon: London Community Week",
-    "date": "2026-07-07T12:45:00.000Z",
-    "end_date": "2026-07-07T16:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/0ysb545n",
-    "hosts": [
-      "Francisco Opazo"
-    ],
-    "attendee_count": 26,
-    "scraped_date": "2026-07-07T09:29:43.073547"
-  },
-  {
-    "name": "Building Defensible Companies: Episode 2: Glen Robinson. The National Technology Officer at Microsoft UK",
-    "date": "2026-07-07T17:00:00.000Z",
-    "end_date": "2026-07-07T19:30:00.000Z",
-    "location": "14 Clerkenwell Grn, London EC1R 0DP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/pti0v8xm",
-    "hosts": [
-      "Leo Tyson",
-      "Ria Chopra"
-    ],
-    "attendee_count": 22,
-    "scraped_date": "2026-07-07T09:29:37.652123"
-  },
-  {
-    "name": "Building AI - Founders 001 - Founder Dinner",
-    "date": "2026-07-07T18:30:00.000Z",
-    "end_date": "2026-07-07T21:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/r618pe0d",
-    "hosts": [
-      "Alex Franch",
-      "Manuel Martinez"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-07T09:29:43.073605"
-  },
-  {
     "name": "Lunch + GEO Build Session for Marketers",
     "date": "2026-07-08T11:00:00.000Z",
     "end_date": "2026-07-08T13:30:00.000Z",
@@ -66,7 +16,7 @@
       "IDEALondon"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-07T09:29:43.073641"
+    "scraped_date": "2026-07-08T08:13:49.994135"
   },
   {
     "name": "Building a Bid: Consumer-Led Flexibility",
@@ -82,8 +32,8 @@
       "Izaak Chung-Graham",
       "Tom"
     ],
-    "attendee_count": 7,
-    "scraped_date": "2026-07-07T09:29:37.652193"
+    "attendee_count": 10,
+    "scraped_date": "2026-07-08T08:13:45.195924"
   },
   {
     "name": "Dust x Wise Business Rooftop Sessions: Build Here, Scale Anywhere",
@@ -101,7 +51,7 @@
       "Wise Business"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-07T09:29:43.073684"
+    "scraped_date": "2026-07-08T08:13:49.994208"
   },
   {
     "name": "Open Code #18",
@@ -117,7 +67,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-07T09:29:43.073701"
+    "scraped_date": "2026-07-08T08:13:49.994227"
   },
   {
     "name": "hardware builder coffee (& coworking!)",
@@ -133,6 +83,169 @@
       "Lachlan Chavasse"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-07T09:29:37.652282"
+    "scraped_date": "2026-07-08T08:13:45.196020"
+  },
+  {
+    "name": "Zapier × Gamma: AI GTM Build-Along [London 🇬🇧]",
+    "date": "2026-07-09T16:00:00.000Z",
+    "end_date": "2026-07-09T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/6i59eaf1",
+    "hosts": [
+      "Claudia Cafeo",
+      "Kelsey Wu",
+      "Kelly Goss",
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-08T08:13:49.994264"
+  },
+  {
+    "name": "AI Builders London - Neuroscience & Finance Edition",
+    "date": "2026-07-09T17:00:00.000Z",
+    "end_date": "2026-07-09T20:15:00.000Z",
+    "location": "beyond The Bower, 207 Old St, London EC1V 9NR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lon-jul9",
+    "hosts": [
+      "AI Builders",
+      "Sahar Mor (Bond AI)"
+    ],
+    "attendee_count": 48,
+    "scraped_date": "2026-07-08T08:13:49.994289"
+  },
+  {
+    "name": "Cursor iOS London Hackathon",
+    "date": "2026-07-09T17:00:00.000Z",
+    "end_date": "2026-07-09T21:30:00.000Z",
+    "location": "10 Lower Thames St, London EC3R 6AF, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cursor-vh1p",
+    "hosts": [
+      "Francisco Terpolilli",
+      "Sunita Rao"
+    ],
+    "attendee_count": 203,
+    "scraped_date": "2026-07-08T08:13:49.994301"
+  },
+  {
+    "name": "Fold, Encode, Reflect: A Hands-on Data Portrait Zine for Londoners",
+    "date": "2026-07-10T13:00:00.000Z",
+    "end_date": "2026-07-10T15:30:00.000Z",
+    "location": "City St George's, University of London, Northampton Square, London EC1V 0HB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2rt0h1j6",
+    "hosts": [
+      "London Data Week",
+      "Sophie Sparkes"
+    ],
+    "attendee_count": 27,
+    "scraped_date": "2026-07-08T08:13:45.196107"
+  },
+  {
+    "name": "UXperiment Lab Hackathon: The Collaboration Shield",
+    "date": "2026-07-10T13:00:00.000Z",
+    "end_date": "2026-07-10T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/0935apst",
+    "hosts": [
+      "Daisy Wu",
+      "Alessandra Maccario"
+    ],
+    "attendee_count": 26,
+    "scraped_date": "2026-07-08T08:13:49.994329"
+  },
+  {
+    "name": "A Two-Day Founder Experience for Anyone Ready to Build, Own & Lead",
+    "date": "2026-07-10T17:00:00.000Z",
+    "end_date": "2026-07-11T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/mw91cwpc",
+    "hosts": [
+      "Lavinia",
+      "BuildHer Labs",
+      "Ems",
+      "Team1"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-08T08:13:49.994340"
+  },
+  {
+    "name": "Turkish Builders Meetup #2 - London",
+    "date": "2026-07-10T17:30:00.000Z",
+    "end_date": "2026-07-10T20:00:00.000Z",
+    "location": "London Startup Center, First Floor, 180 Brompton Rd, London SW3 1HQ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/rq8islpd",
+    "hosts": [
+      "Arif Ismail Bayrak",
+      "Kerem Ozkefeli",
+      "Bahadir Eyuboglu",
+      "Yusufhan Kırçova",
+      "London Startup Center"
+    ],
+    "attendee_count": 59,
+    "scraped_date": "2026-07-08T08:13:49.994358"
+  },
+  {
+    "name": "Fleek x a16z Hackathon London",
+    "date": "2026-07-11T08:30:00.000Z",
+    "end_date": "2026-07-11T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/usntwjdw",
+    "hosts": [
+      "Abhi",
+      "Sanket Agarwal",
+      "Alex Nikityuk",
+      "Francisco Terpolilli"
+    ],
+    "attendee_count": 188,
+    "scraped_date": "2026-07-08T08:13:49.994371"
+  },
+  {
+    "name": "World's Largest Hermes Buildathon I London",
+    "date": "2026-07-11T09:00:00.000Z",
+    "end_date": "2026-07-11T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/previoustestevent",
+    "hosts": [
+      "GrowthX",
+      "Udayan walvekar",
+      "Yogi Gnanavel"
+    ],
+    "attendee_count": 33,
+    "scraped_date": "2026-07-08T08:13:49.994381"
   }
 ]
