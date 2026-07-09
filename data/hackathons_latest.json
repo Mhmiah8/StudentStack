@@ -1,91 +1,5 @@
 [
   {
-    "name": "Lunch + GEO Build Session for Marketers",
-    "date": "2026-07-08T11:00:00.000Z",
-    "end_date": "2026-07-08T13:30:00.000Z",
-    "location": "IDEALondon, 69 Wilson St, London EC2A 2BB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dust-kxi3",
-    "hosts": [
-      "Louni Roussel",
-      "Daniel Colaianni",
-      "Davis",
-      "IDEALondon"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-08T08:13:49.994135"
-  },
-  {
-    "name": "Building a Bid: Consumer-Led Flexibility",
-    "date": "2026-07-08T12:00:00.000Z",
-    "end_date": "2026-07-08T16:00:00.000Z",
-    "location": "Sustainable Ventures, County Hall, Belvedere Rd, London SE1 7PB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bkev4aqn",
-    "hosts": [
-      "Izaak Chung-Graham",
-      "Tom"
-    ],
-    "attendee_count": 10,
-    "scraped_date": "2026-07-08T08:13:45.195924"
-  },
-  {
-    "name": "Dust x Wise Business Rooftop Sessions: Build Here, Scale Anywhere",
-    "date": "2026-07-08T17:00:00.000Z",
-    "end_date": "2026-07-08T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dust-xq3y",
-    "hosts": [
-      "Sophie Palmer",
-      "Daniel Colaianni",
-      "Wise Business"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-08T08:13:49.994208"
-  },
-  {
-    "name": "Open Code #18",
-    "date": "2026-07-08T17:30:00.000Z",
-    "end_date": "2026-07-08T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/wm3bsood",
-    "hosts": [
-      "Phoenix Court"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-08T08:13:49.994227"
-  },
-  {
-    "name": "hardware builder coffee (& coworking!)",
-    "date": "2026-07-09T07:00:00.000Z",
-    "end_date": "2026-07-09T09:00:00.000Z",
-    "location": "News & Coffee Kiosk, Granary Square, London N1C 4PQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/6ldfrlf4",
-    "hosts": [
-      "Lachlan Chavasse"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-08T08:13:45.196020"
-  },
-  {
     "name": "Zapier × Gamma: AI GTM Build-Along [London 🇬🇧]",
     "date": "2026-07-09T16:00:00.000Z",
     "end_date": "2026-07-09T19:00:00.000Z",
@@ -102,7 +16,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-08T08:13:49.994264"
+    "scraped_date": "2026-07-09T09:31:36.241790"
   },
   {
     "name": "AI Builders London - Neuroscience & Finance Edition",
@@ -118,8 +32,8 @@
       "AI Builders",
       "Sahar Mor (Bond AI)"
     ],
-    "attendee_count": 48,
-    "scraped_date": "2026-07-08T08:13:49.994289"
+    "attendee_count": 51,
+    "scraped_date": "2026-07-09T09:31:36.241825"
   },
   {
     "name": "Cursor iOS London Hackathon",
@@ -135,8 +49,8 @@
       "Francisco Terpolilli",
       "Sunita Rao"
     ],
-    "attendee_count": 203,
-    "scraped_date": "2026-07-08T08:13:49.994301"
+    "attendee_count": 219,
+    "scraped_date": "2026-07-09T09:31:36.241837"
   },
   {
     "name": "Fold, Encode, Reflect: A Hands-on Data Portrait Zine for Londoners",
@@ -152,8 +66,8 @@
       "London Data Week",
       "Sophie Sparkes"
     ],
-    "attendee_count": 27,
-    "scraped_date": "2026-07-08T08:13:45.196107"
+    "attendee_count": 30,
+    "scraped_date": "2026-07-09T09:31:30.786537"
   },
   {
     "name": "UXperiment Lab Hackathon: The Collaboration Shield",
@@ -169,8 +83,8 @@
       "Daisy Wu",
       "Alessandra Maccario"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-07-08T08:13:49.994329"
+    "attendee_count": 29,
+    "scraped_date": "2026-07-09T09:31:36.241870"
   },
   {
     "name": "A Two-Day Founder Experience for Anyone Ready to Build, Own & Lead",
@@ -189,7 +103,7 @@
       "Team1"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-08T08:13:49.994340"
+    "scraped_date": "2026-07-09T09:31:36.241882"
   },
   {
     "name": "Turkish Builders Meetup #2 - London",
@@ -208,8 +122,27 @@
       "Yusufhan Kırçova",
       "London Startup Center"
     ],
-    "attendee_count": 59,
-    "scraped_date": "2026-07-08T08:13:49.994358"
+    "attendee_count": 62,
+    "scraped_date": "2026-07-09T09:31:36.241901"
+  },
+  {
+    "name": "Rare Build Hackathon - From Idea to Business in 10 Hours",
+    "date": "2026-07-11T08:00:00.000Z",
+    "end_date": "2026-07-11T21:00:00.000Z",
+    "location": "The Ministry, Borough | Workspace & Members' Club | South London, 79-81 Borough Rd, London SE1 1DN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/whe8e3ip",
+    "hosts": [
+      "Vasily Alekseenko",
+      "Fraya Brinkman",
+      "Mollie Payments",
+      "Rare Founders Marketings"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-09T09:31:30.786577"
   },
   {
     "name": "Fleek x a16z Hackathon London",
@@ -227,8 +160,8 @@
       "Alex Nikityuk",
       "Francisco Terpolilli"
     ],
-    "attendee_count": 188,
-    "scraped_date": "2026-07-08T08:13:49.994371"
+    "attendee_count": 117,
+    "scraped_date": "2026-07-09T09:31:36.241915"
   },
   {
     "name": "World's Largest Hermes Buildathon I London",
@@ -245,7 +178,174 @@
       "Udayan walvekar",
       "Yogi Gnanavel"
     ],
-    "attendee_count": 33,
-    "scraped_date": "2026-07-08T08:13:49.994381"
+    "attendee_count": 32,
+    "scraped_date": "2026-07-09T09:31:36.241942"
+  },
+  {
+    "name": "World's Largest Hermes Buildathon I London 🇬🇧",
+    "date": "2026-07-11T09:00:00.000Z",
+    "end_date": "2026-07-11T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/hermesbuildathonlondon",
+    "hosts": [
+      "GrowthX",
+      "Yogi Gnanavel",
+      "Sahar Mor (Bond AI)"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-09T09:31:36.241955"
+  },
+  {
+    "name": "TapNow AIGC Filmmaking Hackathon: Finale & Screening",
+    "date": "2026-07-11T12:00:00.000Z",
+    "end_date": "2026-07-11T17:00:00.000Z",
+    "location": "Imperial College London, South Kensington Campus, Huxley Building, 180 Queen's Gate, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/nzgyilqu",
+    "hosts": [
+      "East2046 Cic"
+    ],
+    "attendee_count": 40,
+    "scraped_date": "2026-07-09T09:31:36.241969"
+  },
+  {
+    "name": "TapNow AIGC Filmmaking Hackathon: Finale & Screening",
+    "date": "2026-07-11T12:00:00.000Z",
+    "end_date": "2026-07-11T17:00:00.000Z",
+    "location": "Imperial College London, South Kensington Campus, Huxley Building, 180 Queen's Gate, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/66tpmuu8",
+    "hosts": [
+      "East2046 Cic"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-07-09T09:31:36.241978"
+  },
+  {
+    "name": "HackWimbledon July 2026 #1",
+    "date": "2026-07-12T11:00:00.000Z",
+    "end_date": "2026-07-12T15:00:00.000Z",
+    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2kv486ai",
+    "hosts": [
+      "Bazza",
+      "Neil Lambeth",
+      "Andy Piper"
+    ],
+    "attendee_count": 9,
+    "scraped_date": "2026-07-09T09:31:30.786606"
+  },
+  {
+    "name": "Building Defensible Companies: Episode 3: From Idea-Exit In 4 Years. Christopher Dell: Founder Locale",
+    "date": "2026-07-13T17:00:00.000Z",
+    "end_date": "2026-07-13T19:30:00.000Z",
+    "location": "14 Clerkenwell Grn, London EC1R 0DP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/79sb8w70",
+    "hosts": [
+      "Leo Tyson",
+      "Albert",
+      "Ria Chopra"
+    ],
+    "attendee_count": 25,
+    "scraped_date": "2026-07-09T09:31:30.786621"
+  },
+  {
+    "name": "Campaign Lab Summer Hack Night!",
+    "date": "2026-07-13T18:00:00.000Z",
+    "end_date": "2026-07-13T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/0jgxtvhs",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 24,
+    "scraped_date": "2026-07-09T09:31:30.786634"
+  },
+  {
+    "name": "Soapbox Sessions: VC Community Builders Brekkie",
+    "date": "2026-07-14T07:00:00.000Z",
+    "end_date": "2026-07-14T08:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zzpgkbpe",
+    "hosts": [
+      "Grace Mortley",
+      "Jesse Heasman"
+    ],
+    "attendee_count": 17,
+    "scraped_date": "2026-07-09T09:31:30.786651"
+  },
+  {
+    "name": "Build a reputation that sells itself: which media move will actually make you money?",
+    "date": "2026-07-14T07:30:00.000Z",
+    "end_date": "2026-07-14T11:00:00.000Z",
+    "location": "Juntos Offices, 52 Bedford Row, London WC1R 4LR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/xu5lvgz2",
+    "hosts": [
+      "Jelena Skene"
+    ],
+    "attendee_count": 19,
+    "scraped_date": "2026-07-09T09:31:30.786663"
+  },
+  {
+    "name": "Building Breakout Companies: Index Ventures X Scope",
+    "date": "2026-07-14T17:30:00.000Z",
+    "end_date": "2026-07-14T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/32eozzrv",
+    "hosts": [
+      "Entrepreneurs First"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-09T09:31:36.242018"
+  },
+  {
+    "name": "Open Code #19",
+    "date": "2026-07-15T17:30:00.000Z",
+    "end_date": "2026-07-15T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/fp5iknmy",
+    "hosts": [
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-09T09:31:36.242053"
   }
 ]
