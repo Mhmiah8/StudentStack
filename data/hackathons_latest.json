@@ -1,79 +1,5 @@
 [
   {
-    "name": "Fold, Encode, Reflect: A Hands-on Data Portrait Zine for Londoners",
-    "date": "2026-07-10T13:00:00.000Z",
-    "end_date": "2026-07-10T15:30:00.000Z",
-    "location": "City St George's, University of London, Northampton Square, London EC1V 0HB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2rt0h1j6",
-    "hosts": [
-      "London Data Week",
-      "Sophie Sparkes"
-    ],
-    "attendee_count": 36,
-    "scraped_date": "2026-07-10T09:23:01.352628"
-  },
-  {
-    "name": "UXperiment Lab Hackathon: The Collaboration Shield",
-    "date": "2026-07-10T13:00:00.000Z",
-    "end_date": "2026-07-10T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/0935apst",
-    "hosts": [
-      "Daisy Wu",
-      "Alessandra Maccario"
-    ],
-    "attendee_count": 30,
-    "scraped_date": "2026-07-10T09:23:07.432299"
-  },
-  {
-    "name": "A Two-Day Founder Experience for Anyone Ready to Build, Own & Lead",
-    "date": "2026-07-10T17:00:00.000Z",
-    "end_date": "2026-07-11T16:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/mw91cwpc",
-    "hosts": [
-      "Lavinia",
-      "BuildHer Labs",
-      "Ems",
-      "Team1",
-      "Jack Baeza"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-10T09:23:07.432326"
-  },
-  {
-    "name": "Turkish Builders Meetup #2 - London",
-    "date": "2026-07-10T17:30:00.000Z",
-    "end_date": "2026-07-10T20:00:00.000Z",
-    "location": "London Startup Center, First Floor, 180 Brompton Rd, London SW3 1HQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/rq8islpd",
-    "hosts": [
-      "Arif Ismail Bayrak",
-      "Kerem Ozkefeli",
-      "Bahadir Eyuboglu",
-      "Yusufhan Kırçova",
-      "London Startup Center"
-    ],
-    "attendee_count": 65,
-    "scraped_date": "2026-07-10T09:23:07.432348"
-  },
-  {
     "name": "Rare Build Hackathon - From Idea to Business in 10 Hours",
     "date": "2026-07-11T08:00:00.000Z",
     "end_date": "2026-07-11T21:00:00.000Z",
@@ -90,7 +16,7 @@
       "Rare Founders Marketings"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-10T09:23:01.352667"
+    "scraped_date": "2026-07-11T07:44:28.704735"
   },
   {
     "name": "Fleek x a16z Hackathon London",
@@ -108,8 +34,8 @@
       "Alex Nikityuk",
       "Francisco Terpolilli"
     ],
-    "attendee_count": 137,
-    "scraped_date": "2026-07-10T09:23:07.432363"
+    "attendee_count": 134,
+    "scraped_date": "2026-07-11T07:44:34.269048"
   },
   {
     "name": "World's Largest Hermes Buildathon I London",
@@ -126,8 +52,8 @@
       "Udayan walvekar",
       "Yogi Gnanavel"
     ],
-    "attendee_count": 63,
-    "scraped_date": "2026-07-10T09:23:07.432375"
+    "attendee_count": 74,
+    "scraped_date": "2026-07-11T07:44:34.269106"
   },
   {
     "name": "World's Largest Hermes Buildathon I London 🇬🇧",
@@ -145,7 +71,7 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-10T09:23:07.432392"
+    "scraped_date": "2026-07-11T07:44:34.269128"
   },
   {
     "name": "TapNow AIGC Filmmaking Hackathon: Finale & Screening",
@@ -160,8 +86,8 @@
     "hosts": [
       "East2046 Cic"
     ],
-    "attendee_count": 49,
-    "scraped_date": "2026-07-10T09:23:07.432425"
+    "attendee_count": 65,
+    "scraped_date": "2026-07-11T07:44:34.269147"
   },
   {
     "name": "TapNow AIGC Filmmaking Hackathon: Finale & Screening",
@@ -177,7 +103,7 @@
       "East2046 Cic"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-07-10T09:23:07.432435"
+    "scraped_date": "2026-07-11T07:44:34.269159"
   },
   {
     "name": "HackWimbledon July 2026 #1",
@@ -195,7 +121,7 @@
       "Andy Piper"
     ],
     "attendee_count": 8,
-    "scraped_date": "2026-07-10T09:23:01.352694"
+    "scraped_date": "2026-07-11T07:44:28.704798"
   },
   {
     "name": "Building Defensible Companies: Episode 3: From Idea-Exit In 4 Years. Christopher Dell: Founder Locale",
@@ -212,8 +138,8 @@
       "Albert",
       "Ria Chopra"
     ],
-    "attendee_count": 25,
-    "scraped_date": "2026-07-10T09:23:01.352728"
+    "attendee_count": 31,
+    "scraped_date": "2026-07-11T07:44:28.704831"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -229,7 +155,7 @@
       "Noam"
     ],
     "attendee_count": 28,
-    "scraped_date": "2026-07-10T09:23:01.352741"
+    "scraped_date": "2026-07-11T07:44:28.704844"
   },
   {
     "name": "Soapbox Sessions: VC Community Builders Brekkie",
@@ -246,8 +172,8 @@
       "Jesse Heasman",
       "Lucinda Goldklang"
     ],
-    "attendee_count": 18,
-    "scraped_date": "2026-07-10T09:23:01.352756"
+    "attendee_count": 21,
+    "scraped_date": "2026-07-11T07:44:28.704861"
   },
   {
     "name": "Build a reputation that sells itself: which media move will actually make you money?",
@@ -263,7 +189,24 @@
       "Jelena Skene"
     ],
     "attendee_count": 26,
-    "scraped_date": "2026-07-10T09:23:01.352772"
+    "scraped_date": "2026-07-11T07:44:28.704873"
+  },
+  {
+    "name": "Solo Builders LDN: Coworking Session Vol. 1",
+    "date": "2026-07-14T08:30:00.000Z",
+    "end_date": "2026-07-14T13:00:00.000Z",
+    "location": "Tradestars Islington, 4-10 North Road, London N7 9EY, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/4z485m8m",
+    "hosts": [
+      "Sefa Oruc",
+      "Kiki Alphonse"
+    ],
+    "attendee_count": 12,
+    "scraped_date": "2026-07-11T07:44:28.704885"
   },
   {
     "name": "Building Breakout Companies: Index Ventures X Scope",
@@ -279,7 +222,7 @@
       "Entrepreneurs First"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-10T09:23:07.432514"
+    "scraped_date": "2026-07-11T07:44:34.269215"
   },
   {
     "name": "Bridging the Landlord-Tenant Divide with Smart Building Technology",
@@ -295,7 +238,7 @@
       "Jude Everitt"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-07-10T09:23:01.352818"
+    "scraped_date": "2026-07-11T07:44:28.704933"
   },
   {
     "name": "Open Code #19",
@@ -311,7 +254,25 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-10T09:23:07.432550"
+    "scraped_date": "2026-07-11T07:44:34.269252"
+  },
+  {
+    "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
+    "date": "2026-07-16T09:00:00.000Z",
+    "end_date": "2026-07-16T18:30:00.000Z",
+    "location": "Channel with Oneder, 22 Northdown St, London N1 9BG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/c2c5qaip",
+    "hosts": [
+      "Sam",
+      "Lachlan Chavasse",
+      "Kickstart Global"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-11T07:44:28.704974"
   },
   {
     "name": "Fin x Fyxer: Building AI Products that Scale",
@@ -328,6 +289,6 @@
       "Mia Serra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-10T09:23:07.432593"
+    "scraped_date": "2026-07-11T07:44:34.269296"
   }
 ]
