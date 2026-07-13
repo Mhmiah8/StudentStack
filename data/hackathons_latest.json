@@ -1,23 +1,5 @@
 [
   {
-    "name": "HackWimbledon July 2026 #1",
-    "date": "2026-07-12T11:00:00.000Z",
-    "end_date": "2026-07-12T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2kv486ai",
-    "hosts": [
-      "Bazza",
-      "Neil Lambeth",
-      "Andy Piper"
-    ],
-    "attendee_count": 9,
-    "scraped_date": "2026-07-12T08:05:53.248046"
-  },
-  {
     "name": "Building Defensible Companies: Episode 3: From Idea-Exit In 4 Years. Christopher Dell: Founder Locale",
     "date": "2026-07-13T17:00:00.000Z",
     "end_date": "2026-07-13T19:30:00.000Z",
@@ -32,8 +14,8 @@
       "Albert",
       "Ria Chopra"
     ],
-    "attendee_count": 31,
-    "scraped_date": "2026-07-12T08:05:53.248126"
+    "attendee_count": 29,
+    "scraped_date": "2026-07-13T08:55:42.208983"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -48,8 +30,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 29,
-    "scraped_date": "2026-07-12T08:05:53.248143"
+    "attendee_count": 30,
+    "scraped_date": "2026-07-13T08:55:42.209012"
   },
   {
     "name": "Soapbox Sessions: VC Community Builders Brekkie",
@@ -67,7 +49,7 @@
       "Lucinda Goldklang"
     ],
     "attendee_count": 21,
-    "scraped_date": "2026-07-12T08:05:53.248164"
+    "scraped_date": "2026-07-13T08:55:42.209039"
   },
   {
     "name": "Build a reputation that sells itself: which media move will actually make you money?",
@@ -82,8 +64,8 @@
     "hosts": [
       "Jelena Skene"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-07-12T08:05:53.248181"
+    "attendee_count": 28,
+    "scraped_date": "2026-07-13T08:55:42.209054"
   },
   {
     "name": "Solo Builders LDN: Coworking Session Vol. 1",
@@ -100,7 +82,7 @@
       "Kiki Alphonse"
     ],
     "attendee_count": 15,
-    "scraped_date": "2026-07-12T08:05:53.248197"
+    "scraped_date": "2026-07-13T08:55:42.209073"
   },
   {
     "name": "Building Breakout Companies: Index Ventures X Scope",
@@ -116,7 +98,26 @@
       "Entrepreneurs First"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-12T08:05:58.760379"
+    "scraped_date": "2026-07-13T08:55:46.798187"
+  },
+  {
+    "name": "OpenAI Build Week Community Builders Lounge - London",
+    "date": "2026-07-15T08:00:00.000Z",
+    "end_date": "2026-07-15T14:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/codex-builders-lounge",
+    "hosts": [
+      "Andy Tyler",
+      "Oscar Falemara",
+      "Pauline P. Narvas",
+      "Vaibhav Srivastav"
+    ],
+    "attendee_count": 109,
+    "scraped_date": "2026-07-13T08:55:46.798220"
   },
   {
     "name": "Bridging the Landlord-Tenant Divide with Smart Building Technology",
@@ -132,7 +133,7 @@
       "Jude Everitt"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-07-12T08:05:53.248249"
+    "scraped_date": "2026-07-13T08:55:42.209124"
   },
   {
     "name": "Open Code #19",
@@ -148,7 +149,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-12T08:05:58.760432"
+    "scraped_date": "2026-07-13T08:55:46.798260"
   },
   {
     "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
@@ -166,7 +167,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-12T08:05:53.248331"
+    "scraped_date": "2026-07-13T08:55:42.209178"
   },
   {
     "name": "Fin x Fyxer: Building AI Products that Scale",
@@ -183,23 +184,6 @@
       "Mia Serra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-12T08:05:58.760477"
-  },
-  {
-    "name": "Harness Engineering: Code and Data That Agents Can Trust",
-    "date": "2026-07-21T17:00:00.000Z",
-    "end_date": "2026-07-21T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ainative-xaq1",
-    "hosts": [
-      "Sam Hepburn",
-      "Olivia Taylor"
-    ],
-    "attendee_count": 39,
-    "scraped_date": "2026-07-12T08:05:58.760542"
+    "scraped_date": "2026-07-13T08:55:46.798310"
   }
 ]
