@@ -1,73 +1,5 @@
 [
   {
-    "name": "Building Defensible Companies: Episode 3: From Idea-Exit In 4 Years. Christopher Dell: Founder Locale",
-    "date": "2026-07-13T17:00:00.000Z",
-    "end_date": "2026-07-13T19:30:00.000Z",
-    "location": "14 Clerkenwell Grn, London EC1R 0DP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/79sb8w70",
-    "hosts": [
-      "Leo Tyson",
-      "Albert",
-      "Ria Chopra"
-    ],
-    "attendee_count": 29,
-    "scraped_date": "2026-07-13T08:55:42.208983"
-  },
-  {
-    "name": "Campaign Lab Summer Hack Night!",
-    "date": "2026-07-13T18:00:00.000Z",
-    "end_date": "2026-07-13T21:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/0jgxtvhs",
-    "hosts": [
-      "Noam"
-    ],
-    "attendee_count": 30,
-    "scraped_date": "2026-07-13T08:55:42.209012"
-  },
-  {
-    "name": "Soapbox Sessions: VC Community Builders Brekkie",
-    "date": "2026-07-14T07:00:00.000Z",
-    "end_date": "2026-07-14T08:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/zzpgkbpe",
-    "hosts": [
-      "Grace Mortley",
-      "Jesse Heasman",
-      "Lucinda Goldklang"
-    ],
-    "attendee_count": 21,
-    "scraped_date": "2026-07-13T08:55:42.209039"
-  },
-  {
-    "name": "Build a reputation that sells itself: which media move will actually make you money?",
-    "date": "2026-07-14T07:30:00.000Z",
-    "end_date": "2026-07-14T11:00:00.000Z",
-    "location": "Juntos Offices, 52 Bedford Row, London WC1R 4LR, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/xu5lvgz2",
-    "hosts": [
-      "Jelena Skene"
-    ],
-    "attendee_count": 28,
-    "scraped_date": "2026-07-13T08:55:42.209054"
-  },
-  {
     "name": "Solo Builders LDN: Coworking Session Vol. 1",
     "date": "2026-07-14T08:30:00.000Z",
     "end_date": "2026-07-14T13:00:00.000Z",
@@ -81,8 +13,25 @@
       "Sefa Oruc",
       "Kiki Alphonse"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-07-13T08:55:42.209073"
+    "attendee_count": 20,
+    "scraped_date": "2026-07-14T07:51:18.266100"
+  },
+  {
+    "name": "Building skills, knowledge and know-how for creating useful, responsible, scalable AI",
+    "date": "2026-07-14T10:00:00.000Z",
+    "end_date": "2026-07-14T16:00:00.000Z",
+    "location": "South Place, South Pl, London EC2M, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/co-tpqn",
+    "hosts": [
+      "Nikita",
+      "Sarah Sinclair"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-07-14T07:51:23.025962"
   },
   {
     "name": "Building Breakout Companies: Index Ventures X Scope",
@@ -98,7 +47,7 @@
       "Entrepreneurs First"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-13T08:55:46.798187"
+    "scraped_date": "2026-07-14T07:51:23.026016"
   },
   {
     "name": "OpenAI Build Week Community Builders Lounge - London",
@@ -116,8 +65,8 @@
       "Pauline P. Narvas",
       "Vaibhav Srivastav"
     ],
-    "attendee_count": 109,
-    "scraped_date": "2026-07-13T08:55:46.798220"
+    "attendee_count": 329,
+    "scraped_date": "2026-07-14T07:51:23.026040"
   },
   {
     "name": "Bridging the Landlord-Tenant Divide with Smart Building Technology",
@@ -133,23 +82,23 @@
       "Jude Everitt"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-07-13T08:55:42.209124"
+    "scraped_date": "2026-07-14T07:51:18.266174"
   },
   {
-    "name": "Open Code #19",
-    "date": "2026-07-15T17:30:00.000Z",
-    "end_date": "2026-07-15T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "name": "☕ Coffee, Code, and Conversations | Developer Meetup",
+    "date": "2026-07-16T07:00:00.000Z",
+    "end_date": "2026-07-16T09:00:00.000Z",
+    "location": "DL/Service, Old Street, white collar factory, 1 Old Street Yard, London EC1Y 2AS, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/fp5iknmy",
+    "url": "https://lu.ma/m2y7h3bd",
     "hosts": [
-      "Phoenix Court"
+      "Ryan Britnell"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-13T08:55:46.798260"
+    "scraped_date": "2026-07-14T07:51:18.266234"
   },
   {
     "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
@@ -167,7 +116,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-13T08:55:42.209178"
+    "scraped_date": "2026-07-14T07:51:18.266258"
   },
   {
     "name": "Fin x Fyxer: Building AI Products that Scale",
@@ -184,6 +133,6 @@
       "Mia Serra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-13T08:55:46.798310"
+    "scraped_date": "2026-07-14T07:51:23.026123"
   }
 ]
