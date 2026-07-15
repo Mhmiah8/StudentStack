@@ -1,55 +1,5 @@
 [
   {
-    "name": "Solo Builders LDN: Coworking Session Vol. 1",
-    "date": "2026-07-14T08:30:00.000Z",
-    "end_date": "2026-07-14T13:00:00.000Z",
-    "location": "Tradestars Islington, 4-10 North Road, London N7 9EY, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/4z485m8m",
-    "hosts": [
-      "Sefa Oruc",
-      "Kiki Alphonse"
-    ],
-    "attendee_count": 20,
-    "scraped_date": "2026-07-14T07:51:18.266100"
-  },
-  {
-    "name": "Building skills, knowledge and know-how for creating useful, responsible, scalable AI",
-    "date": "2026-07-14T10:00:00.000Z",
-    "end_date": "2026-07-14T16:00:00.000Z",
-    "location": "South Place, South Pl, London EC2M, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/co-tpqn",
-    "hosts": [
-      "Nikita",
-      "Sarah Sinclair"
-    ],
-    "attendee_count": 3,
-    "scraped_date": "2026-07-14T07:51:23.025962"
-  },
-  {
-    "name": "Building Breakout Companies: Index Ventures X Scope",
-    "date": "2026-07-14T17:30:00.000Z",
-    "end_date": "2026-07-14T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/32eozzrv",
-    "hosts": [
-      "Entrepreneurs First"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-14T07:51:23.026016"
-  },
-  {
     "name": "OpenAI Build Week Community Builders Lounge - London",
     "date": "2026-07-15T08:00:00.000Z",
     "end_date": "2026-07-15T14:00:00.000Z",
@@ -63,10 +13,11 @@
       "Andy Tyler",
       "Oscar Falemara",
       "Pauline P. Narvas",
-      "Vaibhav Srivastav"
+      "Vaibhav Srivastav",
+      "Eldar Utiushev"
     ],
-    "attendee_count": 329,
-    "scraped_date": "2026-07-14T07:51:23.026040"
+    "attendee_count": 524,
+    "scraped_date": "2026-07-15T07:55:19.368293"
   },
   {
     "name": "Bridging the Landlord-Tenant Divide with Smart Building Technology",
@@ -82,7 +33,7 @@
       "Jude Everitt"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-07-14T07:51:18.266174"
+    "scraped_date": "2026-07-15T07:55:14.239695"
   },
   {
     "name": "☕ Coffee, Code, and Conversations | Developer Meetup",
@@ -98,7 +49,7 @@
       "Ryan Britnell"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-14T07:51:18.266234"
+    "scraped_date": "2026-07-15T07:55:14.239752"
   },
   {
     "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
@@ -116,7 +67,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-14T07:51:18.266258"
+    "scraped_date": "2026-07-15T07:55:14.239777"
   },
   {
     "name": "Fin x Fyxer: Building AI Products that Scale",
@@ -133,6 +84,60 @@
       "Mia Serra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-14T07:51:23.026123"
+    "scraped_date": "2026-07-15T07:55:19.368417"
+  },
+  {
+    "name": "Harness Engineering: Code and Data That Agents Can Trust",
+    "date": "2026-07-21T17:00:00.000Z",
+    "end_date": "2026-07-21T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ainative-xaq1",
+    "hosts": [
+      "Sam Hepburn",
+      "Olivia Taylor"
+    ],
+    "attendee_count": 107,
+    "scraped_date": "2026-07-15T07:55:19.368482"
+  },
+  {
+    "name": "Vibe Code a Sport App",
+    "date": "2026-07-21T17:00:00.000Z",
+    "end_date": "2026-07-21T19:30:00.000Z",
+    "location": "AG Grid Ltd, 70 Wilson St, London EC2A 2DB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/hsu408gc",
+    "hosts": [
+      "Sofiia Matsiutsia",
+      "Liberatus",
+      "AG Grid"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-15T07:55:19.368493"
+  },
+  {
+    "name": "Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit",
+    "date": "2026-07-21T17:30:00.000Z",
+    "end_date": "2026-07-21T20:30:00.000Z",
+    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lfd4udxc",
+    "hosts": [
+      "Sudip kandel",
+      "Mathusa Thiruchenthoor",
+      "Sofía Sánchez-Zárate",
+      "Tanmaiyii Rao"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-15T07:55:19.368507"
   }
 ]
