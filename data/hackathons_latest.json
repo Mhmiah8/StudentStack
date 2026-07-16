@@ -1,57 +1,5 @@
 [
   {
-    "name": "OpenAI Build Week Community Builders Lounge - London",
-    "date": "2026-07-15T08:00:00.000Z",
-    "end_date": "2026-07-15T14:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/codex-builders-lounge",
-    "hosts": [
-      "Andy Tyler",
-      "Oscar Falemara",
-      "Pauline P. Narvas",
-      "Vaibhav Srivastav",
-      "Eldar Utiushev"
-    ],
-    "attendee_count": 524,
-    "scraped_date": "2026-07-15T07:55:19.368293"
-  },
-  {
-    "name": "Bridging the Landlord-Tenant Divide with Smart Building Technology",
-    "date": "2026-07-15T14:30:00.000Z",
-    "end_date": "2026-07-15T16:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/f8gchrq1",
-    "hosts": [
-      "Jude Everitt"
-    ],
-    "attendee_count": 14,
-    "scraped_date": "2026-07-15T07:55:14.239695"
-  },
-  {
-    "name": "☕ Coffee, Code, and Conversations | Developer Meetup",
-    "date": "2026-07-16T07:00:00.000Z",
-    "end_date": "2026-07-16T09:00:00.000Z",
-    "location": "DL/Service, Old Street, white collar factory, 1 Old Street Yard, London EC1Y 2AS, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/m2y7h3bd",
-    "hosts": [
-      "Ryan Britnell"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-15T07:55:14.239752"
-  },
-  {
     "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
     "date": "2026-07-16T08:45:00.000Z",
     "end_date": "2026-07-16T16:15:00.000Z",
@@ -67,7 +15,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-15T07:55:14.239777"
+    "scraped_date": "2026-07-16T08:00:56.647466"
   },
   {
     "name": "Fin x Fyxer: Building AI Products that Scale",
@@ -84,7 +32,24 @@
       "Mia Serra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-15T07:55:19.368417"
+    "scraped_date": "2026-07-16T08:01:01.375457"
+  },
+  {
+    "name": "Science Works' Build Club",
+    "date": "2026-07-18T10:00:00.000Z",
+    "end_date": "2026-07-18T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/s8tbzarp",
+    "hosts": [
+      "Rory Byrne",
+      "Science Works"
+    ],
+    "attendee_count": 7,
+    "scraped_date": "2026-07-16T08:00:56.647551"
   },
   {
     "name": "Harness Engineering: Code and Data That Agents Can Trust",
@@ -100,8 +65,8 @@
       "Sam Hepburn",
       "Olivia Taylor"
     ],
-    "attendee_count": 107,
-    "scraped_date": "2026-07-15T07:55:19.368482"
+    "attendee_count": 116,
+    "scraped_date": "2026-07-16T08:01:01.375536"
   },
   {
     "name": "Vibe Code a Sport App",
@@ -119,7 +84,7 @@
       "AG Grid"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-15T07:55:19.368493"
+    "scraped_date": "2026-07-16T08:01:01.375552"
   },
   {
     "name": "Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit",
@@ -138,6 +103,55 @@
       "Tanmaiyii Rao"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-15T07:55:19.368507"
+    "scraped_date": "2026-07-16T08:01:01.375567"
+  },
+  {
+    "name": "AI Business Apps Micro Hackathon with Softr",
+    "date": "2026-07-22T16:30:00.000Z",
+    "end_date": "2026-07-22T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/softr-london-hackathon-july",
+    "hosts": [
+      "Francisco Opazo"
+    ],
+    "attendee_count": 12,
+    "scraped_date": "2026-07-16T08:01:01.375595"
+  },
+  {
+    "name": "Daytona AI Builders - London, July 2026",
+    "date": "2026-07-22T17:00:00.000Z",
+    "end_date": "2026-07-22T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ai-builders-london",
+    "hosts": [
+      "Daytona",
+      "Encode Club"
+    ],
+    "attendee_count": 102,
+    "scraped_date": "2026-07-16T08:01:01.375613"
+  },
+  {
+    "name": "Open Code #19",
+    "date": "2026-07-22T17:30:00.000Z",
+    "end_date": "2026-07-22T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/fp5iknmy",
+    "hosts": [
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-16T08:01:01.375632"
   }
 ]
