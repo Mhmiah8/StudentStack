@@ -1,38 +1,23 @@
 [
   {
-    "name": "Founders Coworking: Builders, Makers & Solo-preneurs - Kings Cross London - 25 Spaces ONLY",
-    "date": "2026-07-16T08:45:00.000Z",
-    "end_date": "2026-07-16T16:15:00.000Z",
-    "location": "Channel with Oneder, 22 Northdown St, London N1 9BG, UK",
+    "name": "Axiometa x Anthropic: Hardware Hack",
+    "date": "2026-07-18T09:00:00.000Z",
+    "end_date": "2026-07-19T16:30:00.000Z",
+    "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/c2c5qaip",
+    "url": "https://lu.ma/axiometa-ant",
     "hosts": [
-      "Sam",
-      "Lachlan Chavasse",
-      "Kickstart Global"
+      "Fatema",
+      "Povilas Dumcius",
+      "Seedcamp Events",
+      "Fergus McKenzie-Wilson",
+      "Modal"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-16T08:00:56.647466"
-  },
-  {
-    "name": "Fin x Fyxer: Building AI Products that Scale",
-    "date": "2026-07-16T17:30:00.000Z",
-    "end_date": "2026-07-16T20:30:00.000Z",
-    "location": "Intercom, 9th Floor, The Warehouse, 211 Old St, London EC1V 9NR, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/finxfyxer",
-    "hosts": [
-      "Kelly Farrell",
-      "Mia Serra"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-16T08:01:01.375457"
+    "attendee_count": 124,
+    "scraped_date": "2026-07-17T07:58:08.993914"
   },
   {
     "name": "Science Works' Build Club",
@@ -48,8 +33,8 @@
       "Rory Byrne",
       "Science Works"
     ],
-    "attendee_count": 7,
-    "scraped_date": "2026-07-16T08:00:56.647551"
+    "attendee_count": 10,
+    "scraped_date": "2026-07-17T07:58:04.350178"
   },
   {
     "name": "Harness Engineering: Code and Data That Agents Can Trust",
@@ -65,8 +50,8 @@
       "Sam Hepburn",
       "Olivia Taylor"
     ],
-    "attendee_count": 116,
-    "scraped_date": "2026-07-16T08:01:01.375536"
+    "attendee_count": 130,
+    "scraped_date": "2026-07-17T07:58:08.993957"
   },
   {
     "name": "Vibe Code a Sport App",
@@ -84,7 +69,7 @@
       "AG Grid"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-16T08:01:01.375552"
+    "scraped_date": "2026-07-17T07:58:08.993969"
   },
   {
     "name": "Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit",
@@ -103,7 +88,7 @@
       "Tanmaiyii Rao"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-16T08:01:01.375567"
+    "scraped_date": "2026-07-17T07:58:08.993981"
   },
   {
     "name": "AI Business Apps Micro Hackathon with Softr",
@@ -118,25 +103,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-07-16T08:01:01.375595"
-  },
-  {
-    "name": "Daytona AI Builders - London, July 2026",
-    "date": "2026-07-22T17:00:00.000Z",
-    "end_date": "2026-07-22T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ai-builders-london",
-    "hosts": [
-      "Daytona",
-      "Encode Club"
-    ],
-    "attendee_count": 102,
-    "scraped_date": "2026-07-16T08:01:01.375613"
+    "attendee_count": 16,
+    "scraped_date": "2026-07-17T07:58:08.994008"
   },
   {
     "name": "Open Code #19",
@@ -152,6 +120,22 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-16T08:01:01.375632"
+    "scraped_date": "2026-07-17T07:58:08.994031"
+  },
+  {
+    "name": "Demo Event LDN: Fin's Claude Code Playbook for AI Native Teams",
+    "date": "2026-07-23T17:30:00.000Z",
+    "end_date": "2026-07-23T19:00:00.000Z",
+    "location": "BrainStation, 55-57 Rivington St, London EC2A 3QA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/4btmvun6",
+    "hosts": [
+      "BrainStation London"
+    ],
+    "attendee_count": 6,
+    "scraped_date": "2026-07-17T07:58:08.994065"
   }
 ]
