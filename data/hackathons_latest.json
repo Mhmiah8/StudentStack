@@ -16,8 +16,27 @@
       "Fergus McKenzie-Wilson",
       "Modal"
     ],
-    "attendee_count": 124,
-    "scraped_date": "2026-07-17T07:58:08.993914"
+    "attendee_count": 121,
+    "scraped_date": "2026-07-18T07:38:29.539041"
+  },
+  {
+    "name": "OpenAI Build Week Community Hackathon - London",
+    "date": "2026-07-18T09:00:00.000Z",
+    "end_date": "2026-07-18T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/codex-hack-ldn",
+    "hosts": [
+      "Andy Tyler",
+      "Oscar Falemara",
+      "Pauline P. Narvas",
+      "Vaibhav Srivastav"
+    ],
+    "attendee_count": 198,
+    "scraped_date": "2026-07-18T07:38:29.539068"
   },
   {
     "name": "Science Works' Build Club",
@@ -33,8 +52,8 @@
       "Rory Byrne",
       "Science Works"
     ],
-    "attendee_count": 10,
-    "scraped_date": "2026-07-17T07:58:04.350178"
+    "attendee_count": 11,
+    "scraped_date": "2026-07-18T07:38:24.816222"
   },
   {
     "name": "Harness Engineering: Code and Data That Agents Can Trust",
@@ -48,10 +67,10 @@
     "url": "https://lu.ma/ainative-xaq1",
     "hosts": [
       "Sam Hepburn",
-      "Olivia Taylor"
+      "Amy Williams"
     ],
-    "attendee_count": 130,
-    "scraped_date": "2026-07-17T07:58:08.993957"
+    "attendee_count": 153,
+    "scraped_date": "2026-07-18T07:38:29.539110"
   },
   {
     "name": "Vibe Code a Sport App",
@@ -69,7 +88,7 @@
       "AG Grid"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-17T07:58:08.993969"
+    "scraped_date": "2026-07-18T07:38:29.539124"
   },
   {
     "name": "Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit",
@@ -88,7 +107,7 @@
       "Tanmaiyii Rao"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-17T07:58:08.993981"
+    "scraped_date": "2026-07-18T07:38:29.539144"
   },
   {
     "name": "AI Business Apps Micro Hackathon with Softr",
@@ -103,8 +122,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 16,
-    "scraped_date": "2026-07-17T07:58:08.994008"
+    "attendee_count": 26,
+    "scraped_date": "2026-07-18T07:38:29.539170"
   },
   {
     "name": "Open Code #19",
@@ -120,7 +139,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-17T07:58:08.994031"
+    "scraped_date": "2026-07-18T07:38:29.539197"
   },
   {
     "name": "Demo Event LDN: Fin's Claude Code Playbook for AI Native Teams",
@@ -136,6 +155,6 @@
       "BrainStation London"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-07-17T07:58:08.994065"
+    "scraped_date": "2026-07-18T07:38:29.539241"
   }
 ]
