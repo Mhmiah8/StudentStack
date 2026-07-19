@@ -1,61 +1,5 @@
 [
   {
-    "name": "Axiometa x Anthropic: Hardware Hack",
-    "date": "2026-07-18T09:00:00.000Z",
-    "end_date": "2026-07-19T16:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/axiometa-ant",
-    "hosts": [
-      "Fatema",
-      "Povilas Dumcius",
-      "Seedcamp Events",
-      "Fergus McKenzie-Wilson",
-      "Modal"
-    ],
-    "attendee_count": 121,
-    "scraped_date": "2026-07-18T07:38:29.539041"
-  },
-  {
-    "name": "OpenAI Build Week Community Hackathon - London",
-    "date": "2026-07-18T09:00:00.000Z",
-    "end_date": "2026-07-18T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/codex-hack-ldn",
-    "hosts": [
-      "Andy Tyler",
-      "Oscar Falemara",
-      "Pauline P. Narvas",
-      "Vaibhav Srivastav"
-    ],
-    "attendee_count": 198,
-    "scraped_date": "2026-07-18T07:38:29.539068"
-  },
-  {
-    "name": "Science Works' Build Club",
-    "date": "2026-07-18T10:00:00.000Z",
-    "end_date": "2026-07-18T16:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/s8tbzarp",
-    "hosts": [
-      "Rory Byrne",
-      "Science Works"
-    ],
-    "attendee_count": 11,
-    "scraped_date": "2026-07-18T07:38:24.816222"
-  },
-  {
     "name": "Harness Engineering: Code and Data That Agents Can Trust",
     "date": "2026-07-21T17:00:00.000Z",
     "end_date": "2026-07-21T19:30:00.000Z",
@@ -69,8 +13,8 @@
       "Sam Hepburn",
       "Amy Williams"
     ],
-    "attendee_count": 153,
-    "scraped_date": "2026-07-18T07:38:29.539110"
+    "attendee_count": 149,
+    "scraped_date": "2026-07-19T08:05:10.566559"
   },
   {
     "name": "Vibe Code a Sport App",
@@ -88,7 +32,7 @@
       "AG Grid"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-18T07:38:29.539124"
+    "scraped_date": "2026-07-19T08:05:10.566586"
   },
   {
     "name": "Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit",
@@ -107,7 +51,7 @@
       "Tanmaiyii Rao"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-18T07:38:29.539144"
+    "scraped_date": "2026-07-19T08:05:10.566619"
   },
   {
     "name": "AI Business Apps Micro Hackathon with Softr",
@@ -122,8 +66,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-07-18T07:38:29.539170"
+    "attendee_count": 28,
+    "scraped_date": "2026-07-19T08:05:10.566646"
   },
   {
     "name": "Open Code #19",
@@ -139,7 +83,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-18T07:38:29.539197"
+    "scraped_date": "2026-07-19T08:05:10.566680"
   },
   {
     "name": "Demo Event LDN: Fin's Claude Code Playbook for AI Native Teams",
@@ -155,6 +99,49 @@
       "BrainStation London"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-07-18T07:38:29.539241"
+    "scraped_date": "2026-07-19T08:05:10.566724"
+  },
+  {
+    "name": "Build the Future of Healthcare with Juno & Anthropic",
+    "date": "2026-07-25T09:00:00.000Z",
+    "end_date": "2026-07-26T14:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/londonai-m2w1",
+    "hosts": [
+      "Andy Tyler",
+      "Marshall Gould",
+      "Isaac Tolley",
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-19T08:05:10.566755"
+  },
+  {
+    "name": "SPEED BUILD 2026 | $20,000 HACKATHON LIVESTREAM",
+    "date": "2026-07-25T09:00:00.000Z",
+    "end_date": "2026-07-25T23:00:00.000Z",
+    "location": "Shoreditch Exchange with Oneder, Gorsuch Pl, London E2 8JF, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/speedbuild2026",
+    "hosts": [
+      "PLUGGED",
+      "Superteam UK",
+      "Imperial Entrepreneurs",
+      "BuildHer Labs",
+      "Lumina",
+      "Kickstart Global",
+      "Lachlan Chavasse",
+      "Udai Dhamija",
+      "Ama"
+    ],
+    "attendee_count": 67,
+    "scraped_date": "2026-07-19T08:05:10.566766"
   }
 ]
