@@ -13,8 +13,8 @@
       "Sam Hepburn",
       "Amy Williams"
     ],
-    "attendee_count": 153,
-    "scraped_date": "2026-07-20T08:46:08.730399"
+    "attendee_count": 167,
+    "scraped_date": "2026-07-21T08:13:44.739436"
   },
   {
     "name": "Vibe Code a Sport App",
@@ -32,7 +32,7 @@
       "AG Grid"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-20T08:46:08.730429"
+    "scraped_date": "2026-07-21T08:13:44.739470"
   },
   {
     "name": "Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit",
@@ -51,7 +51,7 @@
       "Tanmaiyii Rao"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-20T08:46:08.730449"
+    "scraped_date": "2026-07-21T08:13:44.739492"
   },
   {
     "name": "AI Business Apps Micro Hackathon with Softr",
@@ -66,14 +66,14 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 30,
-    "scraped_date": "2026-07-20T08:46:08.730520"
+    "attendee_count": 41,
+    "scraped_date": "2026-07-21T08:13:44.739525"
   },
   {
     "name": "Open Code #19",
     "date": "2026-07-22T17:30:00.000Z",
     "end_date": "2026-07-22T19:30:00.000Z",
-    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
@@ -83,7 +83,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-20T08:46:08.730559"
+    "scraped_date": "2026-07-21T08:13:44.739567"
   },
   {
     "name": "Demo Event LDN: Fin's Claude Code Playbook for AI Native Teams",
@@ -99,7 +99,7 @@
       "BrainStation London"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-07-20T08:46:08.730609"
+    "scraped_date": "2026-07-21T08:13:44.739626"
   },
   {
     "name": "build fridays london - work on your startup alongside others (bring laptop)",
@@ -115,8 +115,8 @@
       "AI BEAVERS",
       "Igor Veselukha"
     ],
-    "attendee_count": 60,
-    "scraped_date": "2026-07-20T08:46:03.743572"
+    "attendee_count": 86,
+    "scraped_date": "2026-07-21T08:13:40.113094"
   },
   {
     "name": "Build the Future of Healthcare with Juno & Anthropic",
@@ -135,7 +135,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-20T08:46:08.730636"
+    "scraped_date": "2026-07-21T08:13:44.739660"
   },
   {
     "name": "SPEED BUILD 2026 | $20,000 HACKATHON LIVESTREAM",
@@ -158,7 +158,7 @@
       "Udai Dhamija",
       "Ama"
     ],
-    "attendee_count": 71,
-    "scraped_date": "2026-07-20T08:46:08.730649"
+    "attendee_count": 77,
+    "scraped_date": "2026-07-21T08:13:44.739673"
   }
 ]
