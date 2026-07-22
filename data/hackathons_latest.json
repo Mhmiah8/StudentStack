@@ -1,59 +1,5 @@
 [
   {
-    "name": "Harness Engineering: Code and Data That Agents Can Trust",
-    "date": "2026-07-21T17:00:00.000Z",
-    "end_date": "2026-07-21T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ainative-xaq1",
-    "hosts": [
-      "Sam Hepburn",
-      "Amy Williams"
-    ],
-    "attendee_count": 167,
-    "scraped_date": "2026-07-21T08:13:44.739436"
-  },
-  {
-    "name": "Vibe Code a Sport App",
-    "date": "2026-07-21T17:00:00.000Z",
-    "end_date": "2026-07-21T19:30:00.000Z",
-    "location": "AG Grid Ltd, 70 Wilson St, London EC2A 2DB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/hsu408gc",
-    "hosts": [
-      "Sofiia Matsiutsia",
-      "Liberatus",
-      "AG Grid"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-21T08:13:44.739470"
-  },
-  {
-    "name": "Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit",
-    "date": "2026-07-21T17:30:00.000Z",
-    "end_date": "2026-07-21T20:30:00.000Z",
-    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/lfd4udxc",
-    "hosts": [
-      "Sudip kandel",
-      "Mathusa Thiruchenthoor",
-      "Sofía Sánchez-Zárate",
-      "Tanmaiyii Rao"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-21T08:13:44.739492"
-  },
-  {
     "name": "AI Business Apps Micro Hackathon with Softr",
     "date": "2026-07-22T16:30:00.000Z",
     "end_date": "2026-07-22T19:30:00.000Z",
@@ -66,8 +12,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 41,
-    "scraped_date": "2026-07-21T08:13:44.739525"
+    "attendee_count": 43,
+    "scraped_date": "2026-07-22T08:14:05.839459"
   },
   {
     "name": "Open Code #19",
@@ -83,7 +29,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-21T08:13:44.739567"
+    "scraped_date": "2026-07-22T08:14:05.839510"
   },
   {
     "name": "Demo Event LDN: Fin's Claude Code Playbook for AI Native Teams",
@@ -98,8 +44,8 @@
     "hosts": [
       "BrainStation London"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-07-21T08:13:44.739626"
+    "attendee_count": 7,
+    "scraped_date": "2026-07-22T08:14:05.839571"
   },
   {
     "name": "build fridays london - work on your startup alongside others (bring laptop)",
@@ -113,10 +59,11 @@
     "url": "https://lu.ma/481dy9aw",
     "hosts": [
       "AI BEAVERS",
-      "Igor Veselukha"
+      "Igor Veselukha",
+      "Sam"
     ],
-    "attendee_count": 86,
-    "scraped_date": "2026-07-21T08:13:40.113094"
+    "attendee_count": 0,
+    "scraped_date": "2026-07-22T08:13:59.860261"
   },
   {
     "name": "Build the Future of Healthcare with Juno & Anthropic",
@@ -134,8 +81,8 @@
       "Isaac Tolley",
       "Encode Club"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-21T08:13:44.739660"
+    "attendee_count": 541,
+    "scraped_date": "2026-07-22T08:14:05.839606"
   },
   {
     "name": "SPEED BUILD 2026 | $20,000 HACKATHON LIVESTREAM",
@@ -158,7 +105,72 @@
       "Udai Dhamija",
       "Ama"
     ],
-    "attendee_count": 77,
-    "scraped_date": "2026-07-21T08:13:44.739673"
+    "attendee_count": 84,
+    "scraped_date": "2026-07-22T08:14:05.839621"
+  },
+  {
+    "name": "BUILD MONDAYS",
+    "date": "2026-07-27T08:00:00.000Z",
+    "end_date": "2026-07-27T17:00:00.000Z",
+    "location": "Kindling with Oneder, Mediaworks, Ground Floor, 191 Wood Ln, London W12 7FP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/aw9ear8o",
+    "hosts": [
+      "BuildHer Labs",
+      "Oneder"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-22T08:13:59.860321"
+  },
+  {
+    "name": "Campaign Lab Summer Hack Night!",
+    "date": "2026-07-27T18:00:00.000Z",
+    "end_date": "2026-07-27T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zuc4ugqk",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 17,
+    "scraped_date": "2026-07-22T08:13:59.860343"
+  },
+  {
+    "name": "Claude Code Masterclass | Automate Your Work",
+    "date": "2026-07-28T08:30:00.000Z",
+    "end_date": "2026-07-28T12:00:00.000Z",
+    "location": "The Corner | London City, 42 Adler St, London E1 1EE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/claude-automate-your-work",
+    "hosts": [
+      "Mark Nguyen"
+    ],
+    "attendee_count": 4,
+    "scraped_date": "2026-07-22T08:14:05.839653"
+  },
+  {
+    "name": "Scaling Agentic Coding with Claude Code",
+    "date": "2026-07-28T14:00:00.000Z",
+    "end_date": "2026-07-28T16:00:00.000Z",
+    "location": "Amazon UK Corporate Office LHR14, 60 Holborn Viaduct, London EC1A 2FD, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/goirt1oe",
+    "hosts": [
+      "Emma F"
+    ],
+    "attendee_count": 83,
+    "scraped_date": "2026-07-22T08:14:05.839666"
   }
 ]
