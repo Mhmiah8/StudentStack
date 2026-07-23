@@ -1,37 +1,5 @@
 [
   {
-    "name": "AI Business Apps Micro Hackathon with Softr",
-    "date": "2026-07-22T16:30:00.000Z",
-    "end_date": "2026-07-22T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/softr-london-hackathon-july",
-    "hosts": [
-      "Francisco Opazo"
-    ],
-    "attendee_count": 43,
-    "scraped_date": "2026-07-22T08:14:05.839459"
-  },
-  {
-    "name": "Open Code #19",
-    "date": "2026-07-22T17:30:00.000Z",
-    "end_date": "2026-07-22T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/fp5iknmy",
-    "hosts": [
-      "Phoenix Court"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-22T08:14:05.839510"
-  },
-  {
     "name": "Demo Event LDN: Fin's Claude Code Playbook for AI Native Teams",
     "date": "2026-07-23T17:30:00.000Z",
     "end_date": "2026-07-23T19:00:00.000Z",
@@ -44,8 +12,8 @@
     "hosts": [
       "BrainStation London"
     ],
-    "attendee_count": 7,
-    "scraped_date": "2026-07-22T08:14:05.839571"
+    "attendee_count": 8,
+    "scraped_date": "2026-07-23T08:18:12.414668"
   },
   {
     "name": "build fridays london - work on your startup alongside others (bring laptop)",
@@ -63,7 +31,7 @@
       "Sam"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-22T08:13:59.860261"
+    "scraped_date": "2026-07-23T08:18:07.262420"
   },
   {
     "name": "Build the Future of Healthcare with Juno & Anthropic",
@@ -81,8 +49,8 @@
       "Isaac Tolley",
       "Encode Club"
     ],
-    "attendee_count": 541,
-    "scraped_date": "2026-07-22T08:14:05.839606"
+    "attendee_count": 574,
+    "scraped_date": "2026-07-23T08:18:12.414721"
   },
   {
     "name": "SPEED BUILD 2026 | $20,000 HACKATHON LIVESTREAM",
@@ -105,25 +73,8 @@
       "Udai Dhamija",
       "Ama"
     ],
-    "attendee_count": 84,
-    "scraped_date": "2026-07-22T08:14:05.839621"
-  },
-  {
-    "name": "BUILD MONDAYS",
-    "date": "2026-07-27T08:00:00.000Z",
-    "end_date": "2026-07-27T17:00:00.000Z",
-    "location": "Kindling with Oneder, Mediaworks, Ground Floor, 191 Wood Ln, London W12 7FP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/aw9ear8o",
-    "hosts": [
-      "BuildHer Labs",
-      "Oneder"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-22T08:13:59.860321"
+    "attendee_count": 90,
+    "scraped_date": "2026-07-23T08:18:12.414738"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -138,8 +89,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-07-22T08:13:59.860343"
+    "attendee_count": 19,
+    "scraped_date": "2026-07-23T08:18:07.262453"
   },
   {
     "name": "Claude Code Masterclass | Automate Your Work",
@@ -152,10 +103,11 @@
     "is_virtual": false,
     "url": "https://lu.ma/claude-automate-your-work",
     "hosts": [
-      "Mark Nguyen"
+      "Mark Nguyen",
+      "Ari Baks"
     ],
-    "attendee_count": 4,
-    "scraped_date": "2026-07-22T08:14:05.839653"
+    "attendee_count": 5,
+    "scraped_date": "2026-07-23T08:18:12.414772"
   },
   {
     "name": "Scaling Agentic Coding with Claude Code",
@@ -170,7 +122,146 @@
     "hosts": [
       "Emma F"
     ],
-    "attendee_count": 83,
-    "scraped_date": "2026-07-22T08:14:05.839666"
+    "attendee_count": 95,
+    "scraped_date": "2026-07-23T08:18:12.414787"
+  },
+  {
+    "name": "Hacker News London Meetup #9",
+    "date": "2026-07-28T17:00:00.000Z",
+    "end_date": "2026-07-28T20:00:00.000Z",
+    "location": "The Masque Haunt, Bentima House, 168-172 Old St, London EC1V 9BP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/009jyd75",
+    "hosts": [
+      "Stefan"
+    ],
+    "attendee_count": 19,
+    "scraped_date": "2026-07-23T08:18:07.262478"
+  },
+  {
+    "name": "Airtable London Meetup: BYOB (Bring your own build)",
+    "date": "2026-07-29T16:30:00.000Z",
+    "end_date": "2026-07-29T18:30:00.000Z",
+    "location": "2 Stephen St, London W1T 1AN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/airtable-community-london-builder-07-26",
+    "hosts": [
+      "Maddie Johannsen"
+    ],
+    "attendee_count": 38,
+    "scraped_date": "2026-07-23T08:18:07.262494"
+  },
+  {
+    "name": "tldraw offline hack night 🎮",
+    "date": "2026-07-29T17:00:00.000Z",
+    "end_date": "2026-07-29T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/tldraw-i7d1",
+    "hosts": [
+      "Andreas",
+      "Dalila Margiotta",
+      "Lake Faith",
+      "Sasha Li",
+      "Spencer Tasch"
+    ],
+    "attendee_count": 13,
+    "scraped_date": "2026-07-23T08:18:07.262507"
+  },
+  {
+    "name": "Build with Netlify: London",
+    "date": "2026-07-29T17:00:00.000Z",
+    "end_date": "2026-07-29T20:00:00.000Z",
+    "location": "Ramen Space, Unit 6, Sledge Tower, Dalston Square, London E8 3GP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/nnphjy8b",
+    "hosts": [
+      "Netlify",
+      "Charlie Ward",
+      "Ash W."
+    ],
+    "attendee_count": 54,
+    "scraped_date": "2026-07-23T08:18:12.414810"
+  },
+  {
+    "name": "Building Again After a 320x Exit with Husayn Kassai",
+    "date": "2026-07-29T17:30:00.000Z",
+    "end_date": "2026-07-29T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/n7dt3vww",
+    "hosts": [
+      "Lottie Richards",
+      "Stephen Wilks",
+      "Zara Yaqoob"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-23T08:18:12.414825"
+  },
+  {
+    "name": "CR3W IRL: London AI Founders & Builders Summer Show & Tell☀️",
+    "date": "2026-07-29T17:30:00.000Z",
+    "end_date": "2026-07-29T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qafte3or",
+    "hosts": [
+      "CR3W The Human Network"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-23T08:18:12.414840"
+  },
+  {
+    "name": "London Voice Agent HackNight",
+    "date": "2026-07-30T16:30:00.000Z",
+    "end_date": "2026-07-30T20:00:00.000Z",
+    "location": "Vonage, 15 Bonhill St, London EC2A 4DN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/vnvhk89s",
+    "hosts": [
+      "Sam Adekunle",
+      "Nitish Galat",
+      "BimpeAI",
+      "Vonage Developer"
+    ],
+    "attendee_count": 103,
+    "scraped_date": "2026-07-23T08:18:12.414864"
+  },
+  {
+    "name": "Build AI Agents For SEO/GEO: Hack Night (6–9pm)",
+    "date": "2026-07-30T17:00:00.000Z",
+    "end_date": "2026-07-30T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/4r3ufkny",
+    "hosts": [
+      "Riccardo Montis"
+    ],
+    "attendee_count": 7,
+    "scraped_date": "2026-07-23T08:18:12.414881"
   }
 ]
