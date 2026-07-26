@@ -1,48 +1,5 @@
 [
   {
-    "name": "Build the Future of Healthcare | 25-26 July",
-    "date": "2026-07-25T09:00:00.000Z",
-    "end_date": "2026-07-26T14:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/londonai-m2w1",
-    "hosts": [
-      "Andy Tyler",
-      "Marshall Gould",
-      "Isaac Tolley",
-      "Encode Club"
-    ],
-    "attendee_count": 600,
-    "scraped_date": "2026-07-25T07:55:36.847518"
-  },
-  {
-    "name": "SPEED BUILD 2026 | $20,000 HACKATHON LIVESTREAM",
-    "date": "2026-07-25T11:00:00.000Z",
-    "end_date": "2026-07-25T22:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/speedbuild2026",
-    "hosts": [
-      "PLUGGED",
-      "Superteam UK",
-      "Imperial Entrepreneurs",
-      "BuildHer Labs",
-      "Lumina",
-      "Kickstart Global",
-      "Lachlan Chavasse",
-      "Udai Dhamija",
-      "Ama"
-    ],
-    "attendee_count": 123,
-    "scraped_date": "2026-07-25T07:55:36.847544"
-  },
-  {
     "name": "Campaign Lab Summer Hack Night!",
     "date": "2026-07-27T18:00:00.000Z",
     "end_date": "2026-07-27T21:00:00.000Z",
@@ -56,7 +13,7 @@
       "Noam"
     ],
     "attendee_count": 22,
-    "scraped_date": "2026-07-25T07:55:31.526561"
+    "scraped_date": "2026-07-26T08:13:37.479762"
   },
   {
     "name": "Claude Code Masterclass | Automate Your Work",
@@ -73,7 +30,7 @@
       "Ari Baks"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-07-25T07:55:36.847574"
+    "scraped_date": "2026-07-26T08:13:43.215394"
   },
   {
     "name": "Pre-Hack Coworking at Oneder - The Calm Before the Combat",
@@ -90,7 +47,7 @@
       "Oneder"
     ],
     "attendee_count": 8,
-    "scraped_date": "2026-07-25T07:55:31.526593"
+    "scraped_date": "2026-07-26T08:13:37.479799"
   },
   {
     "name": "Scaling Agentic Coding with Claude Code",
@@ -106,8 +63,28 @@
       "Emma F",
       "Marco Muttoni"
     ],
-    "attendee_count": 120,
-    "scraped_date": "2026-07-25T07:55:36.847588"
+    "attendee_count": 157,
+    "scraped_date": "2026-07-26T08:13:43.215421"
+  },
+  {
+    "name": "Scrape. Build. Destroy - Bring a Laptop, Not a Robot. BattleBots Hack Night",
+    "date": "2026-07-28T15:00:00.000Z",
+    "end_date": "2026-07-28T19:00:00.000Z",
+    "location": "32-37 Cowper St, London EC2A 4AW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/battle-bots-hack-night-jul28-2026",
+    "hosts": [
+      "Bright Data",
+      "Sam",
+      "Adam Chan",
+      "Kickstart Global",
+      "Nasima Ahmed"
+    ],
+    "attendee_count": 95,
+    "scraped_date": "2026-07-26T08:13:43.215436"
   },
   {
     "name": "Hacker News London Meetup #9",
@@ -123,7 +100,7 @@
       "Stefan"
     ],
     "attendee_count": 21,
-    "scraped_date": "2026-07-25T07:55:31.526631"
+    "scraped_date": "2026-07-26T08:13:37.479853"
   },
   {
     "name": "Airtable London Meetup: BYOB (Bring your own build)",
@@ -138,8 +115,8 @@
     "hosts": [
       "Maddie Johannsen"
     ],
-    "attendee_count": 38,
-    "scraped_date": "2026-07-25T07:55:31.526653"
+    "attendee_count": 39,
+    "scraped_date": "2026-07-26T08:13:37.479876"
   },
   {
     "name": "tldraw offline hack night 🎮",
@@ -159,8 +136,8 @@
       "Spencer Tasch",
       "Tim"
     ],
-    "attendee_count": 44,
-    "scraped_date": "2026-07-25T07:55:31.526677"
+    "attendee_count": 47,
+    "scraped_date": "2026-07-26T08:13:37.479904"
   },
   {
     "name": "Build with Netlify: London",
@@ -177,8 +154,8 @@
       "Charlie Ward",
       "Ash W."
     ],
-    "attendee_count": 86,
-    "scraped_date": "2026-07-25T07:55:36.847609"
+    "attendee_count": 91,
+    "scraped_date": "2026-07-26T08:13:43.215460"
   },
   {
     "name": "Building Again After a 320x Exit with Husayn Kassai",
@@ -196,7 +173,7 @@
       "Zara Yaqoob"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-25T07:55:36.847624"
+    "scraped_date": "2026-07-26T08:13:43.215477"
   },
   {
     "name": "CR3W IRL: London AI Founders & Builders Summer Show & Tell☀️",
@@ -212,7 +189,7 @@
       "CR3W The Human Network"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-25T07:55:36.847637"
+    "scraped_date": "2026-07-26T08:13:43.215492"
   },
   {
     "name": "Hackathon: Empathetic Agents",
@@ -227,8 +204,8 @@
     "hosts": [
       "Jacob Effenberger"
     ],
-    "attendee_count": 33,
-    "scraped_date": "2026-07-25T07:55:36.847655"
+    "attendee_count": 38,
+    "scraped_date": "2026-07-26T08:13:43.215510"
   },
   {
     "name": "London Voice Agent HackNight",
@@ -246,8 +223,8 @@
       "BimpeAI",
       "Vonage Developer"
     ],
-    "attendee_count": 107,
-    "scraped_date": "2026-07-25T07:55:36.847670"
+    "attendee_count": 110,
+    "scraped_date": "2026-07-26T08:13:43.215527"
   },
   {
     "name": "Build AI Agents For SEO/GEO: Hack Night (6–9pm)",
@@ -263,7 +240,41 @@
       "Riccardo Montis"
     ],
     "attendee_count": 9,
-    "scraped_date": "2026-07-25T07:55:36.847687"
+    "scraped_date": "2026-07-26T08:13:43.215543"
+  },
+  {
+    "name": "3D Printing Hackathon: Act II",
+    "date": "2026-07-31T17:00:00.000Z",
+    "end_date": "2026-07-31T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cy7wp3um",
+    "hosts": [
+      "Lumina"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-26T08:13:37.479981"
+  },
+  {
+    "name": "Cursor Cybersecurity London Hackathon",
+    "date": "2026-08-01T08:00:00.000Z",
+    "end_date": "2026-08-01T17:00:00.000Z",
+    "location": "Halkin - 1-2 Paris Garden, 1-2 Paris Garden, London SE1 8ND, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cursor-h41d",
+    "hosts": [
+      "Francisco Terpolilli",
+      "Zizou Brahmi",
+      "Nodirjon Umurkulov"
+    ],
+    "attendee_count": 14,
+    "scraped_date": "2026-07-26T08:13:43.215576"
   },
   {
     "name": "Demo Event LDN:Prompt, Build, Deploy with Replit",
@@ -279,7 +290,7 @@
       "BrainStation London"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-07-25T07:55:36.847742"
+    "scraped_date": "2026-07-26T08:13:43.215649"
   },
   {
     "name": "Leading engineering when AI writes the code",
@@ -295,29 +306,7 @@
       "Fang Yuan",
       "Yishai Beeri"
     ],
-    "attendee_count": 22,
-    "scraped_date": "2026-07-25T07:55:36.847755"
-  },
-  {
-    "name": "Builders Club #01",
-    "date": "2026-08-06T15:00:00.000Z",
-    "end_date": "2026-08-06T18:00:00.000Z",
-    "location": "22 Upper Woburn Pl, London WC1H 0JW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/buildersclub01",
-    "hosts": [
-      "Victoria Lawless",
-      "Calum Christie",
-      "James Crossley",
-      "James Ferguson",
-      "Ed Bannister",
-      "Harrison Fann",
-      "Greg Petherbridge"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-07-25T07:55:36.847768"
+    "attendee_count": 23,
+    "scraped_date": "2026-07-26T08:13:43.215664"
   }
 ]
