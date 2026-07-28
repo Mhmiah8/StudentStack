@@ -1,21 +1,5 @@
 [
   {
-    "name": "Campaign Lab Summer Hack Night!",
-    "date": "2026-07-27T18:00:00.000Z",
-    "end_date": "2026-07-27T21:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/zuc4ugqk",
-    "hosts": [
-      "Noam"
-    ],
-    "attendee_count": 24,
-    "scraped_date": "2026-07-27T09:37:00.077352"
-  },
-  {
     "name": "Claude Code Masterclass | Automate Your Work",
     "date": "2026-07-28T08:30:00.000Z",
     "end_date": "2026-07-28T12:00:00.000Z",
@@ -29,8 +13,8 @@
       "Mark Nguyen",
       "Ari Baks"
     ],
-    "attendee_count": 8,
-    "scraped_date": "2026-07-27T09:37:05.179793"
+    "attendee_count": 10,
+    "scraped_date": "2026-07-28T08:21:37.544481"
   },
   {
     "name": "Scaling Agentic Coding with Claude Code",
@@ -46,8 +30,8 @@
       "Emma F",
       "Marco Muttoni"
     ],
-    "attendee_count": 169,
-    "scraped_date": "2026-07-27T09:37:05.179822"
+    "attendee_count": 167,
+    "scraped_date": "2026-07-28T08:21:37.544512"
   },
   {
     "name": "Scrape. Build. Destroy - Bring a Laptop, Not a Robot. BattleBots Hack Night",
@@ -62,11 +46,10 @@
     "hosts": [
       "Bright Data",
       "Sam",
-      "Kickstart Global",
-      "Nasima Ahmed"
+      "Adam Chan"
     ],
-    "attendee_count": 119,
-    "scraped_date": "2026-07-27T09:37:05.179842"
+    "attendee_count": 0,
+    "scraped_date": "2026-07-28T08:21:37.544534"
   },
   {
     "name": "Hacker News London Meetup #9",
@@ -81,8 +64,8 @@
     "hosts": [
       "Stefan"
     ],
-    "attendee_count": 25,
-    "scraped_date": "2026-07-27T09:37:00.077427"
+    "attendee_count": 29,
+    "scraped_date": "2026-07-28T08:21:33.093362"
   },
   {
     "name": "Airtable London Meetup: BYOB (Bring your own build)",
@@ -98,7 +81,7 @@
       "Maddie Johannsen"
     ],
     "attendee_count": 40,
-    "scraped_date": "2026-07-27T09:37:00.077454"
+    "scraped_date": "2026-07-28T08:21:33.093403"
   },
   {
     "name": "tldraw offline hack night 🎮",
@@ -119,7 +102,7 @@
       "Tim"
     ],
     "attendee_count": 57,
-    "scraped_date": "2026-07-27T09:37:00.077483"
+    "scraped_date": "2026-07-28T08:21:33.093431"
   },
   {
     "name": "Build with Netlify: London",
@@ -136,8 +119,8 @@
       "Charlie Ward",
       "Ash W."
     ],
-    "attendee_count": 104,
-    "scraped_date": "2026-07-27T09:37:05.179879"
+    "attendee_count": 114,
+    "scraped_date": "2026-07-28T08:21:37.544559"
   },
   {
     "name": "Building Again After a 320x Exit with Husayn Kassai",
@@ -155,7 +138,7 @@
       "Zara Yaqoob"
     ],
     "attendee_count": 144,
-    "scraped_date": "2026-07-27T09:37:05.179897"
+    "scraped_date": "2026-07-28T08:21:37.544578"
   },
   {
     "name": "CR3W IRL: London AI Founders & Builders Summer Show & Tell☀️",
@@ -171,7 +154,7 @@
       "CR3W The Human Network"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-27T09:37:05.179913"
+    "scraped_date": "2026-07-28T08:21:37.544594"
   },
   {
     "name": "Hackathon: Empathetic Agents",
@@ -186,8 +169,8 @@
     "hosts": [
       "Jacob Effenberger"
     ],
-    "attendee_count": 38,
-    "scraped_date": "2026-07-27T09:37:05.179931"
+    "attendee_count": 53,
+    "scraped_date": "2026-07-28T08:21:37.544613"
   },
   {
     "name": "London Voice Agent HackNight",
@@ -205,8 +188,8 @@
       "BimpeAI",
       "Vonage Developer"
     ],
-    "attendee_count": 115,
-    "scraped_date": "2026-07-27T09:37:05.179948"
+    "attendee_count": 119,
+    "scraped_date": "2026-07-28T08:21:37.544629"
   },
   {
     "name": "Build AI Agents For SEO/GEO: Hack Night (6–9pm)",
@@ -221,8 +204,8 @@
     "hosts": [
       "Riccardo Montis"
     ],
-    "attendee_count": 11,
-    "scraped_date": "2026-07-27T09:37:05.179965"
+    "attendee_count": 19,
+    "scraped_date": "2026-07-28T08:21:37.544647"
   },
   {
     "name": "build night",
@@ -237,8 +220,24 @@
     "hosts": [
       "Deen Developers"
     ],
-    "attendee_count": 21,
-    "scraped_date": "2026-07-27T09:37:00.077552"
+    "attendee_count": 39,
+    "scraped_date": "2026-07-28T08:21:33.093516"
+  },
+  {
+    "name": "3D Printing Hackathon: Act II",
+    "date": "2026-07-31T17:00:00.000Z",
+    "end_date": "2026-07-31T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cy7wp3um",
+    "hosts": [
+      "Lumina"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-28T08:21:33.093539"
   },
   {
     "name": "Cursor Cybersecurity London Hackathon",
@@ -251,12 +250,28 @@
     "is_virtual": false,
     "url": "https://lu.ma/cursor-h41d",
     "hosts": [
-      "Francisco Terpolilli",
+      "Francisco Terpolilli 🤌",
       "Zizou Brahmi",
       "Nodirjon Umurkulov"
     ],
-    "attendee_count": 32,
-    "scraped_date": "2026-07-27T09:37:05.179997"
+    "attendee_count": 73,
+    "scraped_date": "2026-07-28T08:21:37.544681"
+  },
+  {
+    "name": "House London | Data Hackathon",
+    "date": "2026-08-01T09:00:00.000Z",
+    "end_date": "2026-08-01T18:30:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/160gn1gj",
+    "hosts": [
+      "Jam Coombes"
+    ],
+    "attendee_count": 159,
+    "scraped_date": "2026-07-28T08:21:33.093556"
   },
   {
     "name": "Demo Event LDN:Prompt, Build, Deploy with Replit",
@@ -272,7 +287,7 @@
       "BrainStation London"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-07-27T09:37:05.180040"
+    "scraped_date": "2026-07-28T08:21:37.544725"
   },
   {
     "name": "Leading engineering when AI writes the code",
@@ -288,7 +303,7 @@
       "Fang Yuan",
       "Yishai Beeri"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-07-27T09:37:05.180051"
+    "attendee_count": 27,
+    "scraped_date": "2026-07-28T08:21:37.544738"
   }
 ]
