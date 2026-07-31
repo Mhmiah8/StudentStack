@@ -1,72 +1,5 @@
 [
   {
-    "name": "Hackathon: Empathetic Agents",
-    "date": "2026-07-30T16:00:00.000Z",
-    "end_date": "2026-07-30T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bf1apy19",
-    "hosts": [
-      "Jacob Effenberger"
-    ],
-    "attendee_count": 72,
-    "scraped_date": "2026-07-30T08:11:58.905330"
-  },
-  {
-    "name": "London Voice Agent HackNight",
-    "date": "2026-07-30T16:30:00.000Z",
-    "end_date": "2026-07-30T20:00:00.000Z",
-    "location": "Vonage, 15 Bonhill St, London EC2A 4DN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/vnvhk89s",
-    "hosts": [
-      "Sam Adekunle",
-      "Nitish Galat",
-      "BimpeAI",
-      "Vonage Developer"
-    ],
-    "attendee_count": 126,
-    "scraped_date": "2026-07-30T08:11:58.905359"
-  },
-  {
-    "name": "Build AI Agents For SEO/GEO: Hack Night (6–9pm)",
-    "date": "2026-07-30T17:00:00.000Z",
-    "end_date": "2026-07-30T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/4r3ufkny",
-    "hosts": [
-      "Riccardo Montis"
-    ],
-    "attendee_count": 24,
-    "scraped_date": "2026-07-30T08:11:58.905379"
-  },
-  {
-    "name": "build night",
-    "date": "2026-07-30T17:15:00.000Z",
-    "end_date": "2026-07-30T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/l6w1jktu",
-    "hosts": [
-      "Deen Developers"
-    ],
-    "attendee_count": 71,
-    "scraped_date": "2026-07-30T08:11:54.361536"
-  },
-  {
     "name": "3D Printing Hackathon: Act II",
     "date": "2026-07-31T17:00:00.000Z",
     "end_date": "2026-07-31T19:30:00.000Z",
@@ -80,7 +13,7 @@
       "Lumina"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-30T08:11:54.361567"
+    "scraped_date": "2026-07-31T08:39:14.902096"
   },
   {
     "name": "Cursor Cybersecurity London Hackathon",
@@ -97,8 +30,8 @@
       "Zizou Brahmi",
       "Nodirjon Umurkulov"
     ],
-    "attendee_count": 185,
-    "scraped_date": "2026-07-30T08:11:58.905413"
+    "attendee_count": 217,
+    "scraped_date": "2026-07-31T08:39:19.422873"
   },
   {
     "name": "House London | Data Hackathon",
@@ -113,8 +46,8 @@
     "hosts": [
       "Jam Coombes"
     ],
-    "attendee_count": 161,
-    "scraped_date": "2026-07-30T08:11:54.361604"
+    "attendee_count": 172,
+    "scraped_date": "2026-07-31T08:39:14.902144"
   },
   {
     "name": "Design Leaders Build & Ship with AI — Saturday. Curated by UNKNW × Metaview",
@@ -130,8 +63,8 @@
       "Juliet Faldin",
       "UNKNW Studio"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-07-30T08:11:58.905424"
+    "attendee_count": 0,
+    "scraped_date": "2026-07-31T08:39:19.422908"
   },
   {
     "name": "Leading engineering when AI writes the code",
@@ -150,8 +83,8 @@
       "Ori Keren",
       "Ben Rouff"
     ],
-    "attendee_count": 32,
-    "scraped_date": "2026-07-30T08:11:58.905466"
+    "attendee_count": 34,
+    "scraped_date": "2026-07-31T08:39:19.422973"
   },
   {
     "name": "Builders Club #01",
@@ -173,7 +106,23 @@
       "Greg Petherbridge"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-30T08:11:58.905483"
+    "scraped_date": "2026-07-31T08:39:19.422995"
+  },
+  {
+    "name": "Campaign Lab Summer Hack Night!",
+    "date": "2026-08-10T18:00:00.000Z",
+    "end_date": "2026-08-10T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zu5tcd8r",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 9,
+    "scraped_date": "2026-07-31T08:39:14.902291"
   },
   {
     "name": "AI Builders Monthly London",
@@ -189,8 +138,8 @@
       "AI Builders",
       "Diego Campoy"
     ],
-    "attendee_count": 11,
-    "scraped_date": "2026-07-30T08:11:58.905514"
+    "attendee_count": 13,
+    "scraped_date": "2026-07-31T08:39:19.423059"
   },
   {
     "name": "Superlinked X Qwen Hackathon",
@@ -207,6 +156,72 @@
       "Filip Makraduli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-07-30T08:11:58.905546"
+    "scraped_date": "2026-07-31T08:39:19.423081"
+  },
+  {
+    "name": "Frontline London Hackathon 2026",
+    "date": "2026-08-15T08:00:00.000Z",
+    "end_date": "2026-08-15T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/mgwpj5jn",
+    "hosts": [
+      "Ben Butterworth"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-31T08:39:14.902323"
+  },
+  {
+    "name": "BUILD MONDAYS",
+    "date": "2026-08-17T08:00:00.000Z",
+    "end_date": "2026-08-17T17:00:00.000Z",
+    "location": "Kindling with Oneder, Mediaworks, Ground Floor, 191 Wood Ln, London W12 7FP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/aw9ear8o",
+    "hosts": [
+      "BuildHer Labs",
+      "Oneder"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-31T08:39:14.902345"
+  },
+  {
+    "name": "Build. Pitch. Fund. - Startup Funding Event - London",
+    "date": "2026-08-17T09:00:00.000Z",
+    "end_date": "2026-08-17T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/d428asdq",
+    "hosts": [
+      "Sam",
+      "Kickstart Global"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-31T08:39:14.902361"
+  },
+  {
+    "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
+    "date": "2026-08-22T08:30:00.000Z",
+    "end_date": "2026-08-22T18:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/london-summer-lock-in",
+    "hosts": [
+      "{Tech: Europe}"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-07-31T08:39:19.423100"
   }
 ]
