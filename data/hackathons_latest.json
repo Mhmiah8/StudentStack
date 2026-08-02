@@ -1,38 +1,5 @@
 [
   {
-    "name": "House London #0 | Data Hackathon",
-    "date": "2026-08-01T09:00:00.000Z",
-    "end_date": "2026-08-01T18:30:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/160gn1gj",
-    "hosts": [
-      "Jam Coombes"
-    ],
-    "attendee_count": 170,
-    "scraped_date": "2026-08-01T08:09:08.695190"
-  },
-  {
-    "name": "Design Leaders Build & Ship with AI — Saturday. Curated by UNKNW × Metaview",
-    "date": "2026-08-01T09:30:00.000Z",
-    "end_date": "2026-08-01T15:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/l2a4m6r5",
-    "hosts": [
-      "Juliet Faldin",
-      "UNKNW Studio"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-08-01T08:09:14.015070"
-  },
-  {
     "name": "Leading engineering when AI writes the code",
     "date": "2026-08-05T17:30:00.000Z",
     "end_date": "2026-08-05T20:30:00.000Z",
@@ -49,8 +16,8 @@
       "Ori Keren",
       "Ben Rouff"
     ],
-    "attendee_count": 38,
-    "scraped_date": "2026-08-01T08:09:14.015145"
+    "attendee_count": 37,
+    "scraped_date": "2026-08-02T08:10:34.247976"
   },
   {
     "name": "Builders Club #01",
@@ -72,7 +39,7 @@
       "Greg Petherbridge"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-01T08:09:14.015168"
+    "scraped_date": "2026-08-02T08:10:34.248012"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -87,8 +54,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 9,
-    "scraped_date": "2026-08-01T08:09:08.695321"
+    "attendee_count": 12,
+    "scraped_date": "2026-08-02T08:10:29.482303"
   },
   {
     "name": "AI Builders Monthly London",
@@ -104,8 +71,8 @@
       "AI Builders",
       "Diego Campoy"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-08-01T08:09:14.015216"
+    "attendee_count": 16,
+    "scraped_date": "2026-08-02T08:10:34.248068"
   },
   {
     "name": "Superlinked X Qwen Hackathon",
@@ -122,7 +89,7 @@
       "Filip Makraduli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-01T08:09:14.015237"
+    "scraped_date": "2026-08-02T08:10:34.248092"
   },
   {
     "name": "Frontline London Hackathon 2026",
@@ -138,7 +105,7 @@
       "Ben Butterworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-01T08:09:14.015247"
+    "scraped_date": "2026-08-02T08:10:34.248102"
   },
   {
     "name": "BUILD MONDAYS",
@@ -155,7 +122,7 @@
       "Oneder"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-01T08:09:08.695362"
+    "scraped_date": "2026-08-02T08:10:29.482358"
   },
   {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
@@ -172,7 +139,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-01T08:09:08.695421"
+    "scraped_date": "2026-08-02T08:10:29.482371"
   },
   {
     "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
@@ -188,6 +155,6 @@
       "{Tech: Europe}"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-01T08:09:14.015264"
+    "scraped_date": "2026-08-02T08:10:34.248123"
   }
 ]
