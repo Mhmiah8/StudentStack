@@ -12,8 +12,8 @@
     "hosts": [
       "Sefa Oruc"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-08-03T09:30:10.276426"
+    "attendee_count": 23,
+    "scraped_date": "2026-08-04T08:26:24.648842"
   },
   {
     "name": "Leading engineering when AI writes the code",
@@ -33,7 +33,7 @@
       "Ben Rouff"
     ],
     "attendee_count": 37,
-    "scraped_date": "2026-08-03T09:30:15.338959"
+    "scraped_date": "2026-08-04T08:26:29.299125"
   },
   {
     "name": "Builders Club #01",
@@ -55,7 +55,25 @@
       "Greg Petherbridge"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-03T09:30:15.338991"
+    "scraped_date": "2026-08-04T08:26:29.299157"
+  },
+  {
+    "name": "HackWimbledon August 2026 #1",
+    "date": "2026-08-09T11:00:00.000Z",
+    "end_date": "2026-08-09T15:00:00.000Z",
+    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qne5u3n8",
+    "hosts": [
+      "Bazza",
+      "Andy Piper",
+      "Neil Lambeth"
+    ],
+    "attendee_count": 5,
+    "scraped_date": "2026-08-04T08:26:24.648963"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -70,8 +88,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-08-03T09:30:10.276525"
+    "attendee_count": 15,
+    "scraped_date": "2026-08-04T08:26:24.648975"
   },
   {
     "name": "Superlinked X Qwen Hackathon",
@@ -88,7 +106,7 @@
       "Filip Makraduli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-03T09:30:15.339060"
+    "scraped_date": "2026-08-04T08:26:29.299214"
   },
   {
     "name": "Frontline London Hackathon 2026",
@@ -104,24 +122,7 @@
       "Ben Butterworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-03T09:30:15.339071"
-  },
-  {
-    "name": "BUILD MONDAYS",
-    "date": "2026-08-17T08:00:00.000Z",
-    "end_date": "2026-08-17T17:00:00.000Z",
-    "location": "Kindling with Oneder, Mediaworks, Ground Floor, 191 Wood Ln, London W12 7FP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/aw9ear8o",
-    "hosts": [
-      "BuildHer Labs",
-      "Oneder"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-08-03T09:30:10.276567"
+    "scraped_date": "2026-08-04T08:26:29.299221"
   },
   {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
@@ -138,7 +139,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-03T09:30:10.276576"
+    "scraped_date": "2026-08-04T08:26:24.649012"
   },
   {
     "name": "The Open Agentic Web : Building the Next Internet of AI Agents | MIT Media Lab Roundtable in London",
@@ -155,8 +156,8 @@
       "Gaurav Chawla",
       "Peeyush Aggarwal"
     ],
-    "attendee_count": 3,
-    "scraped_date": "2026-08-03T09:30:15.339092"
+    "attendee_count": 15,
+    "scraped_date": "2026-08-04T08:26:29.299240"
   },
   {
     "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
@@ -172,6 +173,6 @@
       "{Tech: Europe}"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-03T09:30:15.339107"
+    "scraped_date": "2026-08-04T08:26:29.299249"
   }
 ]
