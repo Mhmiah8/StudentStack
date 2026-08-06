@@ -1,26 +1,5 @@
 [
   {
-    "name": "Leading engineering when AI writes the code",
-    "date": "2026-08-05T17:30:00.000Z",
-    "end_date": "2026-08-05T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8cfzesjj",
-    "hosts": [
-      "Fang Yuan",
-      "Rory Ashley",
-      "Lee Bejerano",
-      "Ori Keren",
-      "Ben Rouff",
-      "Candice Lipps"
-    ],
-    "attendee_count": 36,
-    "scraped_date": "2026-08-05T08:24:46.488788"
-  },
-  {
     "name": "Builders Club #01",
     "date": "2026-08-06T15:00:00.000Z",
     "end_date": "2026-08-06T18:00:00.000Z",
@@ -40,7 +19,7 @@
       "Greg Petherbridge"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-05T08:24:46.488822"
+    "scraped_date": "2026-08-06T08:22:31.261490"
   },
   {
     "name": "HackWimbledon August 2026 #1",
@@ -57,8 +36,8 @@
       "Andy Piper",
       "Neil Lambeth"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-08-05T08:24:41.376618"
+    "attendee_count": 6,
+    "scraped_date": "2026-08-06T08:22:26.074358"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -73,8 +52,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 16,
-    "scraped_date": "2026-08-05T08:24:41.376648"
+    "attendee_count": 17,
+    "scraped_date": "2026-08-06T08:22:26.074390"
   },
   {
     "name": "Superlinked X Qwen Hackathon",
@@ -91,7 +70,7 @@
       "Filip Makraduli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-05T08:24:46.488890"
+    "scraped_date": "2026-08-06T08:22:31.261572"
   },
   {
     "name": "Frontline London Hackathon 2026",
@@ -107,7 +86,7 @@
       "Ben Butterworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-05T08:24:46.488899"
+    "scraped_date": "2026-08-06T08:22:26.074480"
   },
   {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
@@ -124,7 +103,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-05T08:24:41.376697"
+    "scraped_date": "2026-08-06T08:22:26.074496"
   },
   {
     "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
@@ -140,6 +119,22 @@
       "{Tech: Europe}"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-05T08:24:46.488924"
+    "scraped_date": "2026-08-06T08:22:31.261601"
+  },
+  {
+    "name": "Building What the Future Deserves, Together: Deeply Human Summit London Pre-Launch",
+    "date": "2026-09-02T17:00:00.000Z",
+    "end_date": "2026-09-02T20:30:00.000Z",
+    "location": "Central London, London WC2N 5DU, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/deeply-e0rz",
+    "hosts": [
+      "Deeply Human Innovation"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-08-06T08:22:31.261632"
   }
 ]
