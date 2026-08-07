@@ -1,27 +1,5 @@
 [
   {
-    "name": "Builders Club #01",
-    "date": "2026-08-06T15:00:00.000Z",
-    "end_date": "2026-08-06T18:00:00.000Z",
-    "location": "22 Upper Woburn Pl, London WC1H 0JW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/buildersclub01",
-    "hosts": [
-      "Victoria Lawless",
-      "Calum Christie",
-      "James Crossley",
-      "James Ferguson",
-      "Ed Bannister",
-      "Harrison Fann",
-      "Greg Petherbridge"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-08-06T08:22:31.261490"
-  },
-  {
     "name": "HackWimbledon August 2026 #1",
     "date": "2026-08-09T11:00:00.000Z",
     "end_date": "2026-08-09T15:00:00.000Z",
@@ -36,8 +14,8 @@
       "Andy Piper",
       "Neil Lambeth"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-08-06T08:22:26.074358"
+    "attendee_count": 9,
+    "scraped_date": "2026-08-07T07:03:39.831913"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -52,8 +30,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-08-06T08:22:26.074390"
+    "attendee_count": 20,
+    "scraped_date": "2026-08-07T07:03:39.831946"
   },
   {
     "name": "Superlinked X Qwen Hackathon",
@@ -70,7 +48,7 @@
       "Filip Makraduli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-06T08:22:31.261572"
+    "scraped_date": "2026-08-07T07:03:45.030702"
   },
   {
     "name": "Frontline London Hackathon 2026",
@@ -86,7 +64,7 @@
       "Ben Butterworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-06T08:22:26.074480"
+    "scraped_date": "2026-08-07T07:03:39.832010"
   },
   {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
@@ -103,7 +81,44 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-06T08:22:26.074496"
+    "scraped_date": "2026-08-07T07:03:39.832027"
+  },
+  {
+    "name": "freeCodeCamp x Encode | AI - Workshop: Hermes Agent w/ your Local LLM models such as Qwen, Deepseek, etc",
+    "date": "2026-08-19T17:00:00.000Z",
+    "end_date": "2026-08-19T20:30:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/axzt5ade",
+    "hosts": [
+      "freeCodeCampLondon",
+      "Encode Club"
+    ],
+    "attendee_count": 9,
+    "scraped_date": "2026-08-07T07:03:45.030744"
+  },
+  {
+    "name": "Hackathon | Translating AI Safety (Content x Comms)",
+    "date": "2026-08-22T08:30:00.000Z",
+    "end_date": "2026-08-22T19:00:00.000Z",
+    "location": "Central London, London WC2N 5DU, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/b4myja5u",
+    "hosts": [
+      "London Interface for AI Safety",
+      "Rohan",
+      "Meet",
+      "Zuzana Kapustikova",
+      "Akshyae Singh"
+    ],
+    "attendee_count": 8,
+    "scraped_date": "2026-08-07T07:03:45.030764"
   },
   {
     "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
@@ -119,7 +134,7 @@
       "{Tech: Europe}"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-06T08:22:31.261601"
+    "scraped_date": "2026-08-07T07:03:45.030776"
   },
   {
     "name": "Building What the Future Deserves, Together: Deeply Human Summit London Pre-Launch",
@@ -135,6 +150,6 @@
       "Deeply Human Innovation"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-06T08:22:31.261632"
+    "scraped_date": "2026-08-07T07:03:45.030811"
   }
 ]
