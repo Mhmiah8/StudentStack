@@ -1,5 +1,21 @@
 [
   {
+    "name": "Science Works' Build Club",
+    "date": "2026-08-08T10:00:00.000Z",
+    "end_date": "2026-08-08T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8ysp90or",
+    "hosts": [
+      "Rory Byrne"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-08-08T06:39:10.648609"
+  },
+  {
     "name": "HackWimbledon August 2026 #1",
     "date": "2026-08-09T11:00:00.000Z",
     "end_date": "2026-08-09T15:00:00.000Z",
@@ -14,8 +30,8 @@
       "Andy Piper",
       "Neil Lambeth"
     ],
-    "attendee_count": 9,
-    "scraped_date": "2026-08-07T07:03:39.831913"
+    "attendee_count": 12,
+    "scraped_date": "2026-08-08T06:39:10.648652"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -30,8 +46,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-08-07T07:03:39.831946"
+    "attendee_count": 25,
+    "scraped_date": "2026-08-08T06:39:10.648679"
   },
   {
     "name": "Superlinked X Qwen Hackathon",
@@ -48,7 +64,7 @@
       "Filip Makraduli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-07T07:03:45.030702"
+    "scraped_date": "2026-08-08T06:39:16.103770"
   },
   {
     "name": "Frontline London Hackathon 2026",
@@ -64,7 +80,23 @@
       "Ben Butterworth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-07T07:03:39.832010"
+    "scraped_date": "2026-08-08T06:39:10.648752"
+  },
+  {
+    "name": "🎾 Startup / Builders Tennis | East London",
+    "date": "2026-08-16T09:00:00.000Z",
+    "end_date": "2026-08-16T12:00:00.000Z",
+    "location": "West Ham Park, Upton Ln, London E7 9PU, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/heodtrhm",
+    "hosts": [
+      "cil tiam"
+    ],
+    "attendee_count": 5,
+    "scraped_date": "2026-08-08T06:39:10.648776"
   },
   {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
@@ -81,7 +113,23 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-07T07:03:39.832027"
+    "scraped_date": "2026-08-08T06:39:10.648792"
+  },
+  {
+    "name": "RaiseTalks Decoder Game | London Edition",
+    "date": "2026-08-18T13:00:00.000Z",
+    "end_date": "2026-08-18T16:00:00.000Z",
+    "location": "16 Curzon St, London W1J 5HP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/z0q3ykpd",
+    "hosts": [
+      "Dariia Vasylieva"
+    ],
+    "attendee_count": 4,
+    "scraped_date": "2026-08-08T06:39:10.648808"
   },
   {
     "name": "freeCodeCamp x Encode | AI - Workshop: Hermes Agent w/ your Local LLM models such as Qwen, Deepseek, etc",
@@ -97,28 +145,24 @@
       "freeCodeCampLondon",
       "Encode Club"
     ],
-    "attendee_count": 9,
-    "scraped_date": "2026-08-07T07:03:45.030744"
+    "attendee_count": 26,
+    "scraped_date": "2026-08-08T06:39:16.103809"
   },
   {
-    "name": "Hackathon | Translating AI Safety (Content x Comms)",
-    "date": "2026-08-22T08:30:00.000Z",
-    "end_date": "2026-08-22T19:00:00.000Z",
-    "location": "Central London, London WC2N 5DU, UK",
+    "name": "Builders Club #02",
+    "date": "2026-08-20T15:00:00.000Z",
+    "end_date": "2026-08-20T18:00:00.000Z",
+    "location": "22 Upper Woburn Pl, London WC1H 0JW, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/b4myja5u",
+    "url": "https://lu.ma/buildersclub02",
     "hosts": [
-      "London Interface for AI Safety",
-      "Rohan",
-      "Meet",
-      "Zuzana Kapustikova",
-      "Akshyae Singh"
+      "Victoria Lawless"
     ],
-    "attendee_count": 8,
-    "scraped_date": "2026-08-07T07:03:45.030764"
+    "attendee_count": 0,
+    "scraped_date": "2026-08-08T06:39:16.103823"
   },
   {
     "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
@@ -134,7 +178,7 @@
       "{Tech: Europe}"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-07T07:03:45.030776"
+    "scraped_date": "2026-08-08T06:39:16.103834"
   },
   {
     "name": "Building What the Future Deserves, Together: Deeply Human Summit London Pre-Launch",
@@ -150,6 +194,22 @@
       "Deeply Human Innovation"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-07T07:03:45.030811"
+    "scraped_date": "2026-08-08T06:39:16.103864"
+  },
+  {
+    "name": "Builders Club #03",
+    "date": "2026-09-03T15:00:00.000Z",
+    "end_date": "2026-09-03T18:00:00.000Z",
+    "location": "22 Upper Woburn Pl, London WC1H 0JW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/buildersclub03",
+    "hosts": [
+      "Victoria Lawless"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-08-08T06:39:16.103880"
   }
 ]
