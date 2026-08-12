@@ -13,23 +13,7 @@
       "Ryan Britnell"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-11T06:54:43.406820"
-  },
-  {
-    "name": "Rooftop Summer BBQ @ Encode",
-    "date": "2026-08-13T15:00:00.000Z",
-    "end_date": "2026-08-13T18:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-39he",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 17,
-    "scraped_date": "2026-08-11T06:54:43.406860"
+    "scraped_date": "2026-08-12T07:13:52.442270"
   },
   {
     "name": "Superlinked X Qwen Hackathon",
@@ -46,7 +30,7 @@
       "Filip Makraduli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-11T06:54:48.745140"
+    "scraped_date": "2026-08-12T07:13:57.905622"
   },
   {
     "name": "Frontline London Hackathon 2026",
@@ -61,8 +45,27 @@
     "hosts": [
       "Ben Butterworth"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-08-11T06:54:43.406898"
+    "attendee_count": 68,
+    "scraped_date": "2026-08-12T07:13:52.442349"
+  },
+  {
+    "name": "She Nicest Global Hackathon pop-up|London.UK",
+    "date": "2026-08-15T12:00:00.000Z",
+    "end_date": "2026-08-15T16:00:00.000Z",
+    "location": "New Tannery Way, New Tannery Wy., London, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/27ntal6w",
+    "hosts": [
+      "章奕格",
+      "Lucy",
+      "Shi Frances",
+      "CoAI Club"
+    ],
+    "attendee_count": 62,
+    "scraped_date": "2026-08-12T07:13:57.905651"
   },
   {
     "name": "🎾 Startup / Builders Tennis | East London",
@@ -78,7 +81,7 @@
       "cil tiam"
     ],
     "attendee_count": 8,
-    "scraped_date": "2026-08-11T06:54:43.406924"
+    "scraped_date": "2026-08-12T07:13:52.442384"
   },
   {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
@@ -95,7 +98,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-11T06:54:43.406936"
+    "scraped_date": "2026-08-12T07:13:52.442399"
   },
   {
     "name": "RaiseTalks Decoder Game | London Edition",
@@ -110,8 +113,8 @@
     "hosts": [
       "Dariia Vasylieva"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-08-11T06:54:43.406956"
+    "attendee_count": 24,
+    "scraped_date": "2026-08-12T07:13:52.442422"
   },
   {
     "name": "Build Community Around Your Craft with GUAP Founder Ibrahim Kamara",
@@ -127,7 +130,7 @@
       "Emmavie @ Qube"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-11T06:54:43.406971"
+    "scraped_date": "2026-08-12T07:13:52.442440"
   },
   {
     "name": "freeCodeCamp x Encode | AI - Workshop: Hermes Agent w/ your Local LLM models such as Qwen, Deepseek, etc",
@@ -143,8 +146,8 @@
       "freeCodeCampLondon",
       "Encode Club"
     ],
-    "attendee_count": 49,
-    "scraped_date": "2026-08-11T06:54:48.745187"
+    "attendee_count": 58,
+    "scraped_date": "2026-08-12T07:13:57.905687"
   },
   {
     "name": "Building Voice AI with Dex & OpenAI",
@@ -160,7 +163,23 @@
       "Johannah D"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-11T06:54:48.745202"
+    "scraped_date": "2026-08-12T07:13:57.905700"
+  },
+  {
+    "name": "AI Hackathon for EventProfs & Event Operators in London with Softr",
+    "date": "2026-08-20T11:00:00.000Z",
+    "end_date": "2026-08-20T17:00:00.000Z",
+    "location": "Yellow Building, Nicholas Rd, London W11 4AN, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/softr-hackathon-london-aug",
+    "hosts": [
+      "Francisco Opazo"
+    ],
+    "attendee_count": 5,
+    "scraped_date": "2026-08-12T07:13:57.905714"
   },
   {
     "name": "Builders Club #02",
@@ -176,7 +195,23 @@
       "Victoria Lawless"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-11T06:54:48.745214"
+    "scraped_date": "2026-08-12T07:13:57.905724"
+  },
+  {
+    "name": "AI Builders Program | Apply to Join | The AI Vision Challenge",
+    "date": "2026-08-20T17:30:00.000Z",
+    "end_date": "2026-08-20T20:00:00.000Z",
+    "location": "Red Lion, 1 Eldon St, London EC2M 7LS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/kq0eowx3",
+    "hosts": [
+      "Viso Now"
+    ],
+    "attendee_count": 6,
+    "scraped_date": "2026-08-12T07:13:57.905741"
   },
   {
     "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
@@ -192,6 +227,6 @@
       "{Tech: Europe}"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-11T06:54:48.745234"
+    "scraped_date": "2026-08-12T07:13:57.905757"
   }
 ]
