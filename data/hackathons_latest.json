@@ -1,21 +1,5 @@
 [
   {
-    "name": "☕ Coffee, Code, and Conversations | Developer Meetup",
-    "date": "2026-08-13T07:00:00.000Z",
-    "end_date": "2026-08-13T09:30:00.000Z",
-    "location": "DL/Service, Old Street, white collar factory, 1 Old Street Yard, London EC1Y 2AS, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ap10s3zx",
-    "hosts": [
-      "Ryan Britnell"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-08-12T07:13:52.442270"
-  },
-  {
     "name": "Superlinked X Qwen Hackathon",
     "date": "2026-08-14T07:30:00.000Z",
     "end_date": "2026-08-14T18:30:00.000Z",
@@ -30,7 +14,7 @@
       "Filip Makraduli"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-12T07:13:57.905622"
+    "scraped_date": "2026-08-13T07:16:36.578799"
   },
   {
     "name": "Frontline London Hackathon 2026",
@@ -45,8 +29,8 @@
     "hosts": [
       "Ben Butterworth"
     ],
-    "attendee_count": 68,
-    "scraped_date": "2026-08-12T07:13:52.442349"
+    "attendee_count": 105,
+    "scraped_date": "2026-08-13T07:16:31.863405"
   },
   {
     "name": "She Nicest Global Hackathon pop-up|London.UK",
@@ -64,8 +48,8 @@
       "Shi Frances",
       "CoAI Club"
     ],
-    "attendee_count": 62,
-    "scraped_date": "2026-08-12T07:13:57.905651"
+    "attendee_count": 65,
+    "scraped_date": "2026-08-13T07:16:36.578831"
   },
   {
     "name": "🎾 Startup / Builders Tennis | East London",
@@ -81,7 +65,7 @@
       "cil tiam"
     ],
     "attendee_count": 8,
-    "scraped_date": "2026-08-12T07:13:52.442384"
+    "scraped_date": "2026-08-13T07:16:31.863449"
   },
   {
     "name": "Build. Pitch. Fund. - Startup Funding Event - London",
@@ -98,7 +82,7 @@
       "Kickstart Global"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-12T07:13:52.442399"
+    "scraped_date": "2026-08-13T07:16:31.863467"
   },
   {
     "name": "RaiseTalks Decoder Game | London Edition",
@@ -113,8 +97,8 @@
     "hosts": [
       "Dariia Vasylieva"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-08-12T07:13:52.442422"
+    "attendee_count": 27,
+    "scraped_date": "2026-08-13T07:16:31.863509"
   },
   {
     "name": "Build Community Around Your Craft with GUAP Founder Ibrahim Kamara",
@@ -130,7 +114,7 @@
       "Emmavie @ Qube"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-12T07:13:52.442440"
+    "scraped_date": "2026-08-13T07:16:31.863527"
   },
   {
     "name": "freeCodeCamp x Encode | AI - Workshop: Hermes Agent w/ your Local LLM models such as Qwen, Deepseek, etc",
@@ -146,8 +130,8 @@
       "freeCodeCampLondon",
       "Encode Club"
     ],
-    "attendee_count": 58,
-    "scraped_date": "2026-08-12T07:13:57.905687"
+    "attendee_count": 70,
+    "scraped_date": "2026-08-13T07:16:36.578869"
   },
   {
     "name": "Building Voice AI with Dex & OpenAI",
@@ -163,7 +147,7 @@
       "Johannah D"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-12T07:13:57.905700"
+    "scraped_date": "2026-08-13T07:16:36.578885"
   },
   {
     "name": "AI Hackathon for EventProfs & Event Operators in London with Softr",
@@ -179,7 +163,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 5,
-    "scraped_date": "2026-08-12T07:13:57.905714"
+    "scraped_date": "2026-08-13T07:16:36.578899"
   },
   {
     "name": "Builders Club #02",
@@ -195,7 +179,7 @@
       "Victoria Lawless"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-12T07:13:57.905724"
+    "scraped_date": "2026-08-13T07:16:36.578910"
   },
   {
     "name": "AI Builders Program | Apply to Join | The AI Vision Challenge",
@@ -210,8 +194,8 @@
     "hosts": [
       "Viso Now"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-08-12T07:13:57.905741"
+    "attendee_count": 15,
+    "scraped_date": "2026-08-13T07:16:36.578927"
   },
   {
     "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
@@ -227,6 +211,62 @@
       "{Tech: Europe}"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-12T07:13:57.905757"
+    "scraped_date": "2026-08-13T07:16:36.578947"
+  },
+  {
+    "name": "GIRLS WHO AI X BUILDHER LABS PRESENT: BEAUTY DECODED // ALL FEMALE HACKATHON",
+    "date": "2026-08-29T11:00:00.000Z",
+    "end_date": "2026-08-29T15:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/sklovsnj",
+    "hosts": [
+      "Nasima Ahmed",
+      "Sima Rahman-Huang",
+      "BuildHer Labs",
+      "Genspark.ai",
+      "Night Office"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-08-13T07:16:36.578994"
+  },
+  {
+    "name": "The Software Factory with SuperPlane & Elastic London - When Agents Build, Ship, and Fix Your Code",
+    "date": "2026-09-01T17:00:00.000Z",
+    "end_date": "2026-09-01T20:00:00.000Z",
+    "location": "Davidson Building, 5 Southampton St, London WC2E 7HA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/you-8r5c",
+    "hosts": [
+      "Carly Richmond",
+      "Vanessa Pires",
+      "Filip Brdarić",
+      "Darko Fabijan",
+      "Marko Anastasov"
+    ],
+    "attendee_count": 14,
+    "scraped_date": "2026-08-13T07:16:36.579007"
+  },
+  {
+    "name": "Building What the Future Deserves, Together: Deeply Human Summit London Pre-Launch",
+    "date": "2026-09-02T17:00:00.000Z",
+    "end_date": "2026-09-02T20:30:00.000Z",
+    "location": "Central London, London WC2N 5DU, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/deeply-e0rz",
+    "hosts": [
+      "Deeply Human Innovation"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-08-13T07:16:36.579023"
   }
 ]
