@@ -1,22 +1,5 @@
 [
   {
-    "name": "Rooftop Pilates with Sasha x Encode",
-    "date": "2026-08-21T08:00:00.000Z",
-    "end_date": "2026-08-21T09:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-i7v3",
-    "hosts": [
-      "Encode Club",
-      "Sasha Cayward"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-08-21T06:33:42.529100"
-  },
-  {
     "name": "{Tech: Europe} x VEED Hackathon | The Summer Lock-In",
     "date": "2026-08-22T08:30:00.000Z",
     "end_date": "2026-08-22T18:30:00.000Z",
@@ -29,8 +12,8 @@
     "hosts": [
       "{Tech: Europe}"
     ],
-    "attendee_count": 178,
-    "scraped_date": "2026-08-21T06:33:47.262377"
+    "attendee_count": 186,
+    "scraped_date": "2026-08-22T06:27:32.504962"
   },
   {
     "name": "Council Data Hack Day",
@@ -45,8 +28,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 119,
-    "scraped_date": "2026-08-21T06:33:42.529184"
+    "attendee_count": 120,
+    "scraped_date": "2026-08-22T06:27:27.788450"
   },
   {
     "name": "Tools-for-Science Build Club",
@@ -62,7 +45,7 @@
       "Rory Byrne"
     ],
     "attendee_count": 8,
-    "scraped_date": "2026-08-21T06:33:42.529220"
+    "scraped_date": "2026-08-22T06:27:27.788492"
   },
   {
     "name": "HackWimbledon August 2026 #2",
@@ -79,8 +62,8 @@
       "Andy Piper",
       "Neil Lambeth"
     ],
-    "attendee_count": 9,
-    "scraped_date": "2026-08-21T06:33:42.529234"
+    "attendee_count": 10,
+    "scraped_date": "2026-08-22T06:27:27.788508"
   },
   {
     "name": "Solo Builders LDN: Coworking Session Vol. 3",
@@ -96,7 +79,7 @@
       "Sefa Oruc"
     ],
     "attendee_count": 29,
-    "scraped_date": "2026-08-21T06:33:42.529251"
+    "scraped_date": "2026-08-22T06:27:27.788521"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -111,8 +94,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-08-21T06:33:42.529271"
+    "attendee_count": 22,
+    "scraped_date": "2026-08-22T06:27:27.788549"
   },
   {
     "name": "Build Your First AI Agent: From Dataset to Live Website",
@@ -128,7 +111,7 @@
       "Royal Docks Centre for Sustainability"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-21T06:33:47.262411"
+    "scraped_date": "2026-08-22T06:27:32.504996"
   },
   {
     "name": "Rogue AI: Can AI Be Hacked and What To Do About It?",
@@ -145,7 +128,7 @@
       "Liana Tomescu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-21T06:33:47.262439"
+    "scraped_date": "2026-08-22T06:27:32.505024"
   },
   {
     "name": "House London #1 | Data Hackathon",
@@ -160,8 +143,8 @@
     "hosts": [
       "Jam Coombes"
     ],
-    "attendee_count": 215,
-    "scraped_date": "2026-08-21T06:33:42.529375"
+    "attendee_count": 219,
+    "scraped_date": "2026-08-22T06:27:27.788655"
   },
   {
     "name": "GIRLS WHO AI X BUILDHER LABS PRESENT: BEAUTY DECODED // ALL FEMALE HACKATHON",
@@ -181,13 +164,13 @@
       "Night Office"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-21T06:33:47.262488"
+    "scraped_date": "2026-08-22T06:27:32.505070"
   },
   {
     "name": "Hackathon | Translating AI Safety (Content x Comms)",
     "date": "2026-08-30T08:30:00.000Z",
     "end_date": "2026-08-30T19:00:00.000Z",
-    "location": "Central London, London WC2N 5DU, UK",
+    "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
@@ -200,8 +183,27 @@
       "Zuzana Kapustikova",
       "Akshyae Singh"
     ],
-    "attendee_count": 25,
-    "scraped_date": "2026-08-21T06:33:47.262501"
+    "attendee_count": 24,
+    "scraped_date": "2026-08-22T06:27:32.505083"
+  },
+  {
+    "name": "Hardware Hack Day",
+    "date": "2026-08-30T09:30:00.000Z",
+    "end_date": "2026-08-30T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/granola-hardware-hack-day",
+    "hosts": [
+      "JK",
+      "Mehedi",
+      "Isana Barr",
+      "Sam Tucker"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-08-22T06:27:27.788670"
   },
   {
     "name": "The Software Factory with SuperPlane & Elastic London - When Agents Build, Ship, and Fix Your Code",
@@ -220,8 +222,8 @@
       "Darko Fabijan",
       "Marko Anastasov"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-08-21T06:33:47.262517"
+    "attendee_count": 25,
+    "scraped_date": "2026-08-22T06:27:32.505127"
   },
   {
     "name": "Building What the Future Deserves, Together: Deeply Human Summit London Pre-Launch",
@@ -237,7 +239,7 @@
       "Deeply Human Innovation"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-21T06:33:47.262539"
+    "scraped_date": "2026-08-22T06:27:32.505151"
   },
   {
     "name": "Builders Club #03",
@@ -254,7 +256,7 @@
       "Calum Christie"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-21T06:33:47.262559"
+    "scraped_date": "2026-08-22T06:27:32.505170"
   },
   {
     "name": "Rebuild Private Markets: The Ylookup x Encode AI Hackathon",
@@ -270,7 +272,26 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-21T06:33:47.262584"
+    "scraped_date": "2026-08-22T06:27:32.505195"
+  },
+  {
+    "name": "Building in the age of AI - a Quona Capital invite only dinner",
+    "date": "2026-09-07T18:00:00.000Z",
+    "end_date": "2026-09-07T20:00:00.000Z",
+    "location": "Carousel, 19-23 Charlotte St., London W1T 1RW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/e9aff0pz",
+    "hosts": [
+      "Monica Brand Engel",
+      "Johan Bosini",
+      "Adrienne Henderson",
+      "Izzy Schmidt"
+    ],
+    "attendee_count": 4,
+    "scraped_date": "2026-08-22T06:27:32.505229"
   },
   {
     "name": "Daytona AI Builders - London, September 2026",
@@ -285,7 +306,7 @@
     "hosts": [
       "Daytona"
     ],
-    "attendee_count": 177,
-    "scraped_date": "2026-08-21T06:33:47.262632"
+    "attendee_count": 184,
+    "scraped_date": "2026-08-22T06:27:32.505250"
   }
 ]
