@@ -1,23 +1,5 @@
 [
   {
-    "name": "HackWimbledon August 2026 #2",
-    "date": "2026-08-23T11:00:00.000Z",
-    "end_date": "2026-08-23T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/3pxwr04s",
-    "hosts": [
-      "Bazza",
-      "Andy Piper",
-      "Neil Lambeth"
-    ],
-    "attendee_count": 12,
-    "scraped_date": "2026-08-23T06:28:51.291347"
-  },
-  {
     "name": "Solo Builders LDN: Coworking Session Vol. 3",
     "date": "2026-08-24T08:30:00.000Z",
     "end_date": "2026-08-24T14:30:00.000Z",
@@ -30,8 +12,8 @@
     "hosts": [
       "Sefa Oruc"
     ],
-    "attendee_count": 28,
-    "scraped_date": "2026-08-23T06:28:51.291379"
+    "attendee_count": 29,
+    "scraped_date": "2026-08-24T06:41:48.238948"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -47,7 +29,7 @@
       "Noam"
     ],
     "attendee_count": 24,
-    "scraped_date": "2026-08-23T06:28:51.291418"
+    "scraped_date": "2026-08-24T06:41:48.238994"
   },
   {
     "name": "Build Your First AI Agent: From Dataset to Live Website",
@@ -63,7 +45,7 @@
       "Royal Docks Centre for Sustainability"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-23T06:28:55.912876"
+    "scraped_date": "2026-08-24T06:41:53.165883"
   },
   {
     "name": "Rogue AI: Can AI Be Hacked and What To Do About It?",
@@ -80,7 +62,23 @@
       "Liana Tomescu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-23T06:28:55.912924"
+    "scraped_date": "2026-08-24T06:41:53.165920"
+  },
+  {
+    "name": "☕ Coffee, Code, and Conversations | Developer Meetup",
+    "date": "2026-08-27T07:00:00.000Z",
+    "end_date": "2026-08-27T10:00:00.000Z",
+    "location": "DL/Service, Old Street, white collar factory, 1 Old Street Yard, London EC1Y 2AS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ldhiq2vn",
+    "hosts": [
+      "Ryan Britnell"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-08-24T06:41:48.239058"
   },
   {
     "name": "RUN HACK Warm-up x London Startup Operators Runclub🚀👟",
@@ -96,10 +94,11 @@
       "Rachel Macnaghten",
       "Tijs Nieuwboer",
       "Alexandre Feniou",
-      "Luke Balabanovic"
+      "Luke Balabanovic",
+      "Aru N"
     ],
-    "attendee_count": 10,
-    "scraped_date": "2026-08-23T06:28:51.291552"
+    "attendee_count": 19,
+    "scraped_date": "2026-08-24T06:41:48.239110"
   },
   {
     "name": "House London #1 | Data Hackathon",
@@ -114,8 +113,8 @@
     "hosts": [
       "Jam Coombes"
     ],
-    "attendee_count": 235,
-    "scraped_date": "2026-08-23T06:28:51.291586"
+    "attendee_count": 245,
+    "scraped_date": "2026-08-24T06:41:48.239132"
   },
   {
     "name": "The Running Hackathon",
@@ -135,8 +134,8 @@
       "Zizou Brahmi",
       "Aru N"
     ],
-    "attendee_count": 156,
-    "scraped_date": "2026-08-23T06:28:55.912986"
+    "attendee_count": 166,
+    "scraped_date": "2026-08-24T06:41:53.165965"
   },
   {
     "name": "GIRLS WHO AI X BUILDHER LABS PRESENT: BEAUTY DECODED // ALL FEMALE HACKATHON",
@@ -156,7 +155,7 @@
       "Night Office"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-23T06:28:55.913002"
+    "scraped_date": "2026-08-24T06:41:53.165976"
   },
   {
     "name": "Hackathon | Translating AI Safety (Content x Comms)",
@@ -176,7 +175,7 @@
       "Akshyae Singh"
     ],
     "attendee_count": 24,
-    "scraped_date": "2026-08-23T06:28:55.913016"
+    "scraped_date": "2026-08-24T06:41:53.165987"
   },
   {
     "name": "BUILD AT SCALE - TechNeeks @CorgiCafe",
@@ -191,8 +190,8 @@
     "hosts": [
       "Adonay B"
     ],
-    "attendee_count": 4,
-    "scraped_date": "2026-08-23T06:28:51.291603"
+    "attendee_count": 5,
+    "scraped_date": "2026-08-24T06:41:48.239145"
   },
   {
     "name": "Hardware Hack Day",
@@ -211,7 +210,7 @@
       "Sam Tucker"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-23T06:28:51.291631"
+    "scraped_date": "2026-08-24T06:41:48.239154"
   },
   {
     "name": "The Software Factory with SuperPlane & Elastic London - When Agents Build, Ship, and Fix Your Code",
@@ -230,8 +229,8 @@
       "Darko Fabijan",
       "Marko Anastasov"
     ],
-    "attendee_count": 27,
-    "scraped_date": "2026-08-23T06:28:55.913035"
+    "attendee_count": 30,
+    "scraped_date": "2026-08-24T06:41:53.166003"
   },
   {
     "name": "Building What the Future Deserves, Together: Deeply Human Summit London Pre-Launch",
@@ -247,7 +246,7 @@
       "Deeply Human Innovation"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-23T06:28:55.913061"
+    "scraped_date": "2026-08-24T06:41:53.166025"
   },
   {
     "name": "Builders Club #03",
@@ -264,7 +263,7 @@
       "Calum Christie"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-23T06:28:55.913087"
+    "scraped_date": "2026-08-24T06:41:53.166043"
   },
   {
     "name": "Rebuild Private Markets: The Ylookup x Encode AI Hackathon",
@@ -280,7 +279,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-23T06:28:55.913139"
+    "scraped_date": "2026-08-24T06:41:53.166068"
   },
   {
     "name": "Building in the age of AI - a Quona Capital invite only dinner",
@@ -298,8 +297,8 @@
       "Adrienne Henderson",
       "Izzy Schmidt"
     ],
-    "attendee_count": 4,
-    "scraped_date": "2026-08-23T06:28:55.913229"
+    "attendee_count": 5,
+    "scraped_date": "2026-08-24T06:41:53.166090"
   },
   {
     "name": "Daytona AI Builders - London, September 2026",
@@ -315,6 +314,6 @@
       "Daytona"
     ],
     "attendee_count": 184,
-    "scraped_date": "2026-08-23T06:28:55.913260"
+    "scraped_date": "2026-08-24T06:41:53.166109"
   }
 ]
