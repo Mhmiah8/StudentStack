@@ -1,62 +1,5 @@
 [
   {
-    "name": "House London #1 | Data Hackathon",
-    "date": "2026-08-29T09:00:00.000Z",
-    "end_date": "2026-08-29T18:30:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ufmgc59d",
-    "hosts": [
-      "Jam Coombes"
-    ],
-    "attendee_count": 249,
-    "scraped_date": "2026-08-28T17:58:51.784265"
-  },
-  {
-    "name": "The Running Hackathon",
-    "date": "2026-08-29T09:30:00.000Z",
-    "end_date": "2026-08-29T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tag-wx1t",
-    "hosts": [
-      "Tijs Nieuwboer",
-      "Siena Kinsale",
-      "Luke Balabanovic",
-      "Rachel Macnaghten",
-      "Zizou Brahmi",
-      "Aru N"
-    ],
-    "attendee_count": 267,
-    "scraped_date": "2026-08-28T17:58:56.696945"
-  },
-  {
-    "name": "GIRLS WHO AI X BUILDHER LABS PRESENT: BEAUTY DECODED // ALL FEMALE HACKATHON",
-    "date": "2026-08-29T11:00:00.000Z",
-    "end_date": "2026-08-29T16:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/sklovsnj",
-    "hosts": [
-      "Nasima Ahmed",
-      "Sima Rahman-Huang",
-      "BuildHer Labs",
-      "Genspark.ai",
-      "Night Office"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.696966"
-  },
-  {
     "name": "Daytona HackSprint - London, August 2026",
     "date": "2026-08-30T08:30:00.000Z",
     "end_date": "2026-08-30T18:00:00.000Z",
@@ -72,7 +15,7 @@
       "Andy Tyler"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.696976"
+    "scraped_date": "2026-08-29T12:05:06.969577"
   },
   {
     "name": "Hackathon | Translating AI Safety (Content x Comms)",
@@ -91,8 +34,8 @@
       "Zuzana Kapustikova",
       "Akshyae Singh"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-08-28T17:58:56.696986"
+    "attendee_count": 23,
+    "scraped_date": "2026-08-29T12:05:06.969601"
   },
   {
     "name": "BUILD AT SCALE - TechNeeks @CorgiCafe",
@@ -108,7 +51,7 @@
       "Adonay B"
     ],
     "attendee_count": 12,
-    "scraped_date": "2026-08-28T17:58:51.784294"
+    "scraped_date": "2026-08-29T12:05:02.505607"
   },
   {
     "name": "Hardware Hack Day",
@@ -127,7 +70,7 @@
       "Sam Tucker"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:51.784306"
+    "scraped_date": "2026-08-29T12:05:02.505635"
   },
   {
     "name": "The Software Factory with SuperPlane & Elastic London - When Agents Build, Ship, and Fix Your Code",
@@ -146,8 +89,8 @@
       "Darko Fabijan",
       "Marko Anastasov"
     ],
-    "attendee_count": 30,
-    "scraped_date": "2026-08-28T17:58:56.697000"
+    "attendee_count": 33,
+    "scraped_date": "2026-08-29T12:05:06.969620"
   },
   {
     "name": "Fuckup Nights London #10: Hackathon",
@@ -164,7 +107,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:51.784345"
+    "scraped_date": "2026-08-29T12:05:02.505681"
   },
   {
     "name": "Building What the Future Deserves, Together: Deeply Human Summit London Pre-Launch",
@@ -180,7 +123,7 @@
       "Deeply Human Innovation"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.697018"
+    "scraped_date": "2026-08-29T12:05:06.969645"
   },
   {
     "name": "Builders Club #03",
@@ -197,7 +140,7 @@
       "Calum Christie"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.697036"
+    "scraped_date": "2026-08-29T12:05:06.969670"
   },
   {
     "name": "OpenAI Builder Lounge London",
@@ -213,7 +156,7 @@
       "OpenAI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.697053"
+    "scraped_date": "2026-08-29T12:05:06.969693"
   },
   {
     "name": "AI Builders Program | Apply to Join | The AI Vision Challenge",
@@ -231,7 +174,7 @@
       "Chrissie Jamieson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.697061"
+    "scraped_date": "2026-08-29T12:05:06.969704"
   },
   {
     "name": "Rebuild Private Markets: The Ylookup x Encode AI Hackathon",
@@ -247,7 +190,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.697095"
+    "scraped_date": "2026-08-29T12:05:06.969728"
   },
   {
     "name": "Build your AI Outbound Cockpit - a Hands-On London Workshop",
@@ -265,7 +208,7 @@
       "Daniel Colaianni"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.697118"
+    "scraped_date": "2026-08-29T12:05:06.969759"
   },
   {
     "name": "Daytona AI Builders - London, September 2026",
@@ -280,8 +223,8 @@
     "hosts": [
       "Daytona"
     ],
-    "attendee_count": 209,
-    "scraped_date": "2026-08-28T17:58:56.697125"
+    "attendee_count": 212,
+    "scraped_date": "2026-08-29T12:05:06.969769"
   },
   {
     "name": "How Design-Build Leaders are Using AI to Unlock Value in Offices - Roundtable",
@@ -297,7 +240,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.697151"
+    "scraped_date": "2026-08-29T12:05:06.969810"
   },
   {
     "name": "Bridging the Predictability Gap: Building the Optimal Developer's Plan of Work - Roundtable",
@@ -313,6 +256,27 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-28T17:58:56.697165"
+    "scraped_date": "2026-08-29T12:05:06.969828"
+  },
+  {
+    "name": "Build Night by Bilt.me - Vibe Coding for Mobile Apps",
+    "date": "2026-09-09T17:00:00.000Z",
+    "end_date": "2026-09-09T20:00:00.000Z",
+    "location": "Ramen Space, Unit 6, Sledge Tower, Dalston Square, London E8 3GP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/850wzld0",
+    "hosts": [
+      "Samuel Klacman",
+      "uq",
+      "Charlie Ward",
+      "Iris ten Teije",
+      "ElevenLabs Devs",
+      "Joe"
+    ],
+    "attendee_count": 36,
+    "scraped_date": "2026-08-29T12:05:06.969848"
   }
 ]
