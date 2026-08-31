@@ -16,8 +16,8 @@
       "Darko Fabijan",
       "Marko Anastasov"
     ],
-    "attendee_count": 33,
-    "scraped_date": "2026-08-30T11:00:44.100870"
+    "attendee_count": 35,
+    "scraped_date": "2026-08-31T12:22:21.775759"
   },
   {
     "name": "Fuckup Nights London #10: Hackathon",
@@ -34,7 +34,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:38.876383"
+    "scraped_date": "2026-08-31T12:22:17.296664"
   },
   {
     "name": "Building What the Future Deserves, Together: Deeply Human Summit London Pre-Launch",
@@ -50,7 +50,7 @@
       "Deeply Human Innovation"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:44.100907"
+    "scraped_date": "2026-08-31T12:22:21.775805"
   },
   {
     "name": "Builders Club #03",
@@ -67,7 +67,7 @@
       "Calum Christie"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:44.100935"
+    "scraped_date": "2026-08-31T12:22:21.775833"
   },
   {
     "name": "OpenAI Builder Lounge London",
@@ -83,7 +83,7 @@
       "OpenAI"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:44.100963"
+    "scraped_date": "2026-08-31T12:22:21.775861"
   },
   {
     "name": "AI Builders Program | Apply to Join | The AI Vision Challenge",
@@ -101,7 +101,7 @@
       "Chrissie Jamieson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:44.100976"
+    "scraped_date": "2026-08-31T12:22:21.775875"
   },
   {
     "name": "Rebuild Private Markets: The Ylookup x Encode AI Hackathon",
@@ -117,7 +117,23 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:44.101000"
+    "scraped_date": "2026-08-31T12:22:21.775901"
+  },
+  {
+    "name": "Campaign Lab Summer Hack Night!",
+    "date": "2026-09-07T18:00:00.000Z",
+    "end_date": "2026-09-07T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/e0gtnzhq",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 19,
+    "scraped_date": "2026-08-31T12:22:17.296779"
   },
   {
     "name": "Build your AI Outbound Cockpit - a Hands-On London Workshop",
@@ -135,7 +151,7 @@
       "Daniel Colaianni"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:44.101033"
+    "scraped_date": "2026-08-31T12:22:21.775935"
   },
   {
     "name": "Daytona AI Builders - London, September 2026",
@@ -150,8 +166,8 @@
     "hosts": [
       "Daytona"
     ],
-    "attendee_count": 212,
-    "scraped_date": "2026-08-30T11:00:44.101044"
+    "attendee_count": 235,
+    "scraped_date": "2026-08-31T12:22:21.775946"
   },
   {
     "name": "How Design-Build Leaders are Using AI to Unlock Value in Offices - Roundtable",
@@ -167,7 +183,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:44.101077"
+    "scraped_date": "2026-08-31T12:22:21.775980"
   },
   {
     "name": "Bridging the Predictability Gap: Building the Optimal Developer's Plan of Work - Roundtable",
@@ -183,7 +199,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-08-30T11:00:44.101127"
+    "scraped_date": "2026-08-31T12:22:21.775997"
   },
   {
     "name": "Build Night by Bilt.me - Vibe Coding for Mobile Apps",
@@ -204,6 +220,6 @@
       "Joe"
     ],
     "attendee_count": 36,
-    "scraped_date": "2026-08-30T11:00:44.101156"
+    "scraped_date": "2026-08-31T12:22:21.776022"
   }
 ]
