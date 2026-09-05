@@ -1,56 +1,5 @@
 [
   {
-    "name": "Building What Matters — with Daniel White",
-    "date": "2026-09-04T15:30:00.000Z",
-    "end_date": "2026-09-04T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/j6jwahn7",
-    "hosts": [
-      "Luke Phillips"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:32.171203"
-  },
-  {
-    "name": "Rebuild Private Markets: The Ylookup x Encode AI Hackathon",
-    "date": "2026-09-05T08:00:00.000Z",
-    "end_date": "2026-09-06T17:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-7hd7",
-    "hosts": [
-      "Encode Club",
-      "Marvin Anansuthivara",
-      "Adib El Ounani"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:37.095212"
-  },
-  {
-    "name": "Clueless outfitpicker | Vibecode with AI After 5",
-    "date": "2026-09-05T09:00:00.000Z",
-    "end_date": "2026-09-05T10:30:00.000Z",
-    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/aiafter5-o2vb",
-    "hosts": [
-      "Mélissa Chan-Cheape",
-      "Sofia Jovellana"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:37.095236"
-  },
-  {
     "name": "💻 Female Builders Co-Working Day: Open Work Session",
     "date": "2026-09-05T11:00:00.000Z",
     "end_date": "2026-09-05T17:00:00.000Z",
@@ -65,7 +14,7 @@
       "Mathusa Thiruchenthoor"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:32.171252"
+    "scraped_date": "2026-09-05T09:46:53.294658"
   },
   {
     "name": "HackWimbledon September 2026 #1",
@@ -82,8 +31,8 @@
       "Andy Piper",
       "Neil Lambeth"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-09-04T10:19:32.171265"
+    "attendee_count": 7,
+    "scraped_date": "2026-09-05T09:46:53.294690"
   },
   {
     "name": "Campaign Lab Summer Hack Night!",
@@ -98,8 +47,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 21,
-    "scraped_date": "2026-09-04T10:19:32.171299"
+    "attendee_count": 22,
+    "scraped_date": "2026-09-05T09:46:53.294735"
   },
   {
     "name": "Building and Rebuilding: Mobile Engineering Leadership in Fintech - Zopa / Blu",
@@ -117,7 +66,7 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:32.171328"
+    "scraped_date": "2026-09-05T09:46:53.294766"
   },
   {
     "name": "Build your AI Outbound Cockpit - a Hands-On London Workshop",
@@ -135,7 +84,7 @@
       "Daniel Colaianni"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:37.095271"
+    "scraped_date": "2026-09-05T09:46:58.066020"
   },
   {
     "name": "Daytona AI Builders - London, September 2026",
@@ -150,8 +99,8 @@
     "hosts": [
       "Daytona"
     ],
-    "attendee_count": 318,
-    "scraped_date": "2026-09-04T10:19:37.095281"
+    "attendee_count": 332,
+    "scraped_date": "2026-09-05T09:46:58.066062"
   },
   {
     "name": "Designing the Modern Real Estate Tech Stack: Unifying Building Operations to Drive Portfolio Performance - Roundtable",
@@ -167,7 +116,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:32.171374"
+    "scraped_date": "2026-09-05T09:46:53.294802"
   },
   {
     "name": "The Workplace Data Divide: Turning Retrofit and New-Build Metrics into Occupant Value - Roundtable",
@@ -183,7 +132,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:32.171389"
+    "scraped_date": "2026-09-05T09:46:53.294819"
   },
   {
     "name": "How Design-Build Leaders are Using AI to Unlock Value in Offices - Roundtable",
@@ -199,7 +148,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:37.095316"
+    "scraped_date": "2026-09-05T09:46:58.066094"
   },
   {
     "name": "Data-Driven Occupancy: The Foundation of High-Performance Smart Buildings - Roundtable",
@@ -215,7 +164,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:32.171402"
+    "scraped_date": "2026-09-05T09:46:53.294827"
   },
   {
     "name": "Modern Office Standards: Aligning Buildings with Modern Occupier Expectations - Roundtable",
@@ -231,7 +180,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:32.171416"
+    "scraped_date": "2026-09-05T09:46:53.294845"
   },
   {
     "name": "Smart Buildings to Smart Portfolios: Where Will Value Be Created in the Next Decade of Real Estate?",
@@ -247,7 +196,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:32.171431"
+    "scraped_date": "2026-09-05T09:46:53.294863"
   },
   {
     "name": "Bridging the Predictability Gap: Building the Optimal Developer's Plan of Work - Roundtable",
@@ -263,7 +212,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:37.095335"
+    "scraped_date": "2026-09-05T09:46:58.066110"
   },
   {
     "name": "Build Night by Bilt.me - Vibe Coding for Mobile Apps",
@@ -283,8 +232,8 @@
       "ElevenLabs Devs",
       "Joe"
     ],
-    "attendee_count": 98,
-    "scraped_date": "2026-09-04T10:19:37.095358"
+    "attendee_count": 110,
+    "scraped_date": "2026-09-05T09:46:58.066136"
   },
   {
     "name": "Can You Trust the Data Running Your Portfolio? Building the Infrastructure for AI-Ready Compliance - Roundtable",
@@ -300,7 +249,7 @@
       "Elena Vu"
     ],
     "attendee_count": 5,
-    "scraped_date": "2026-09-04T10:19:37.095395"
+    "scraped_date": "2026-09-05T09:46:58.066175"
   },
   {
     "name": "Build vs. Buy: Systematising Efficiency in an AI-Ready Tech Stack - Roundtable",
@@ -316,6 +265,22 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-04T10:19:37.095425"
+    "scraped_date": "2026-09-05T09:46:58.066209"
+  },
+  {
+    "name": "Smarter Buildings, Smarter Portfolios: AI Meets Building Management across Residential Real Estate - Roundtable",
+    "date": "2026-09-10T14:15:00.000Z",
+    "end_date": "2026-09-10T15:45:00.000Z",
+    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ymw0qbyp",
+    "hosts": [
+      "Elena Vu"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-05T09:46:58.066217"
   }
 ]
