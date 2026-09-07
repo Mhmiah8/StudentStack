@@ -1,23 +1,5 @@
 [
   {
-    "name": "HackWimbledon September 2026 #1",
-    "date": "2026-09-06T11:00:00.000Z",
-    "end_date": "2026-09-06T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/hruiumzv",
-    "hosts": [
-      "Bazza",
-      "Andy Piper",
-      "Neil Lambeth"
-    ],
-    "attendee_count": 8,
-    "scraped_date": "2026-09-06T10:02:56.747666"
-  },
-  {
     "name": "Campaign Lab Summer Hack Night!",
     "date": "2026-09-07T18:00:00.000Z",
     "end_date": "2026-09-07T21:00:00.000Z",
@@ -30,8 +12,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-09-06T10:02:56.747740"
+    "attendee_count": 27,
+    "scraped_date": "2026-09-07T11:15:57.059956"
   },
   {
     "name": "Building and Rebuilding: Mobile Engineering Leadership in Fintech - Zopa / Blu",
@@ -49,7 +31,7 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:02:56.747777"
+    "scraped_date": "2026-09-07T11:15:57.060029"
   },
   {
     "name": "Build your AI Outbound Cockpit - a Hands-On London Workshop",
@@ -67,7 +49,7 @@
       "Daniel Colaianni"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:03:01.825317"
+    "scraped_date": "2026-09-07T11:16:01.743686"
   },
   {
     "name": "Daytona AI Builders - London, September 2026",
@@ -82,8 +64,8 @@
     "hosts": [
       "Daytona"
     ],
-    "attendee_count": 333,
-    "scraped_date": "2026-09-06T10:03:01.825341"
+    "attendee_count": 343,
+    "scraped_date": "2026-09-07T11:16:01.743707"
   },
   {
     "name": "Designing the Modern Real Estate Tech Stack: Unifying Building Operations to Drive Portfolio Performance - Roundtable",
@@ -99,7 +81,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:02:56.747831"
+    "scraped_date": "2026-09-07T11:15:57.060071"
   },
   {
     "name": "The Workplace Data Divide: Turning Retrofit and New-Build Metrics into Occupant Value - Roundtable",
@@ -115,7 +97,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:02:56.747850"
+    "scraped_date": "2026-09-07T11:15:57.060089"
   },
   {
     "name": "How Design-Build Leaders are Using AI to Unlock Value in Offices - Roundtable",
@@ -131,7 +113,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:03:01.825379"
+    "scraped_date": "2026-09-07T11:16:01.743743"
   },
   {
     "name": "Data-Driven Occupancy: The Foundation of High-Performance Smart Buildings - Roundtable",
@@ -147,7 +129,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:02:56.747865"
+    "scraped_date": "2026-09-07T11:15:57.060100"
   },
   {
     "name": "Modern Office Standards: Aligning Buildings with Modern Occupier Expectations - Roundtable",
@@ -163,7 +145,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:02:56.747883"
+    "scraped_date": "2026-09-07T11:15:57.060118"
   },
   {
     "name": "Smart Buildings to Smart Portfolios: Where Will Value Be Created in the Next Decade of Real Estate?",
@@ -179,7 +161,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:02:56.747904"
+    "scraped_date": "2026-09-07T11:15:57.060134"
   },
   {
     "name": "Bridging the Predictability Gap: Building the Optimal Developer's Plan of Work - Roundtable",
@@ -195,7 +177,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:03:01.825398"
+    "scraped_date": "2026-09-07T11:16:01.743760"
   },
   {
     "name": "From Lab to Lasting: Building Life Science and Biotech Companies That Endure",
@@ -214,7 +196,7 @@
       "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:02:56.747941"
+    "scraped_date": "2026-09-07T11:15:57.060176"
   },
   {
     "name": "Build Night by Bilt.me - Vibe Coding for Mobile Apps",
@@ -234,8 +216,25 @@
       "ElevenLabs Devs",
       "Joe"
     ],
-    "attendee_count": 116,
-    "scraped_date": "2026-09-06T10:03:01.825424"
+    "attendee_count": 114,
+    "scraped_date": "2026-09-07T11:16:01.743783"
+  },
+  {
+    "name": "Building & Scaling Engineering Teams",
+    "date": "2026-09-09T17:30:00.000Z",
+    "end_date": "2026-09-09T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/scalingengineering",
+    "hosts": [
+      "Michelangelo Pagliara",
+      "Juhana Peltomaa"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-07T11:15:57.060195"
   },
   {
     "name": "Can You Trust the Data Running Your Portfolio? Building the Infrastructure for AI-Ready Compliance - Roundtable",
@@ -250,8 +249,8 @@
     "hosts": [
       "Elena Vu"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-09-06T10:03:01.825465"
+    "attendee_count": 6,
+    "scraped_date": "2026-09-07T11:16:01.743822"
   },
   {
     "name": "Build vs. Buy: Systematising Efficiency in an AI-Ready Tech Stack - Roundtable",
@@ -267,7 +266,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:03:01.825499"
+    "scraped_date": "2026-09-07T11:16:01.743882"
   },
   {
     "name": "Smarter Buildings, Smarter Portfolios: AI Meets Building Management across Residential Real Estate - Roundtable",
@@ -283,7 +282,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:03:01.825565"
+    "scraped_date": "2026-09-07T11:16:01.743892"
   },
   {
     "name": "You Belong in Tech: Building Your Career in the Age of AI",
@@ -299,7 +298,7 @@
       "PMHelp"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-06T10:03:01.825580"
+    "scraped_date": "2026-09-07T11:16:01.743903"
   },
   {
     "name": "Beyond AI Coding: Build an Autonomous Product Loop",
@@ -316,7 +315,7 @@
       "Perfect Strangers",
       "Alisher Zhuraev"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-09-06T10:03:01.825594"
+    "attendee_count": 22,
+    "scraped_date": "2026-09-07T11:16:01.743915"
   }
 ]
