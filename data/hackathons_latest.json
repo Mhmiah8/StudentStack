@@ -1,137 +1,5 @@
 [
   {
-    "name": "Building and Rebuilding: Mobile Engineering Leadership in Fintech - Zopa / Blu",
-    "date": "2026-09-08T17:00:00.000Z",
-    "end_date": "2026-09-08T20:00:00.000Z",
-    "location": "Vonage, 15 Bonhill St, London EC2A 4DN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ude0j4rv",
-    "hosts": [
-      "Recworks Events",
-      "Barry Cranford",
-      "Chelsea Keighley"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.290870"
-  },
-  {
-    "name": "Build your AI Outbound Cockpit - a Hands-On London Workshop",
-    "date": "2026-09-08T17:00:00.000Z",
-    "end_date": "2026-09-08T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dust-l8gn",
-    "hosts": [
-      "Louni Roussel",
-      "Martin Boudon",
-      "Daniel Colaianni"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:14.968954"
-  },
-  {
-    "name": "Daytona AI Builders - London, September 2026",
-    "date": "2026-09-08T17:00:00.000Z",
-    "end_date": "2026-09-08T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ai-builders-london-02",
-    "hosts": [
-      "Daytona"
-    ],
-    "attendee_count": 349,
-    "scraped_date": "2026-09-08T10:24:14.968991"
-  },
-  {
-    "name": "Designing the Modern Real Estate Tech Stack: Unifying Building Operations to Drive Portfolio Performance - Roundtable",
-    "date": "2026-09-09T08:15:00.000Z",
-    "end_date": "2026-09-09T09:45:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/svim0cfs",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.290927"
-  },
-  {
-    "name": "The Workplace Data Divide: Turning Retrofit and New-Build Metrics into Occupant Value - Roundtable",
-    "date": "2026-09-09T08:15:00.000Z",
-    "end_date": "2026-09-09T09:45:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/anxqge2c",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.290944"
-  },
-  {
-    "name": "How Design-Build Leaders are Using AI to Unlock Value in Offices - Roundtable",
-    "date": "2026-09-09T08:15:00.000Z",
-    "end_date": "2026-09-09T09:45:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/lh47zz3j",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:14.969029"
-  },
-  {
-    "name": "Data-Driven Occupancy: The Foundation of High-Performance Smart Buildings - Roundtable",
-    "date": "2026-09-09T10:00:00.000Z",
-    "end_date": "2026-09-09T11:30:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/oaku4zq1",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.290953"
-  },
-  {
-    "name": "Modern Office Standards: Aligning Buildings with Modern Occupier Expectations - Roundtable",
-    "date": "2026-09-09T10:00:00.000Z",
-    "end_date": "2026-09-09T11:30:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/jng99s83",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.290968"
-  },
-  {
     "name": "Smart Buildings to Smart Portfolios: Where Will Value Be Created in the Next Decade of Real Estate?",
     "date": "2026-09-09T12:30:00.000Z",
     "end_date": "2026-09-09T14:00:00.000Z",
@@ -145,7 +13,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.290997"
+    "scraped_date": "2026-09-09T10:33:37.638866"
   },
   {
     "name": "Bridging the Predictability Gap: Building the Optimal Developer's Plan of Work - Roundtable",
@@ -161,7 +29,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:14.969049"
+    "scraped_date": "2026-09-09T10:33:43.104816"
   },
   {
     "name": "From Lab to Lasting: Building Life Science and Biotech Companies That Endure",
@@ -180,7 +48,7 @@
       "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.291039"
+    "scraped_date": "2026-09-09T10:33:37.638934"
   },
   {
     "name": "Build Night by Bilt.me - Vibe Coding for Mobile Apps",
@@ -200,8 +68,8 @@
       "ElevenLabs Devs",
       "Joe"
     ],
-    "attendee_count": 139,
-    "scraped_date": "2026-09-08T10:24:14.969072"
+    "attendee_count": 134,
+    "scraped_date": "2026-09-09T10:33:43.104865"
   },
   {
     "name": "Building & Scaling Engineering Teams",
@@ -218,7 +86,7 @@
       "Juhana Peltomaa"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.291060"
+    "scraped_date": "2026-09-09T10:33:37.638953"
   },
   {
     "name": "☕ Co-work, Code, and Conversations | Developer Meetup",
@@ -233,8 +101,24 @@
     "hosts": [
       "Ryan Britnell"
     ],
+    "attendee_count": 9,
+    "scraped_date": "2026-09-09T10:33:37.638971"
+  },
+  {
+    "name": "Driving Asset Value through Building Infrastructure, How to Meet Current Occupier and Investor Expectations - Roundtable",
+    "date": "2026-09-10T08:15:00.000Z",
+    "end_date": "2026-09-10T09:45:00.000Z",
+    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/b83twtg1",
+    "hosts": [
+      "Elena Vu"
+    ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:10.291083"
+    "scraped_date": "2026-09-09T10:33:37.638992"
   },
   {
     "name": "Can You Trust the Data Running Your Portfolio? Building the Infrastructure for AI-Ready Compliance - Roundtable",
@@ -250,7 +134,55 @@
       "Elena Vu"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-09-08T10:24:14.969115"
+    "scraped_date": "2026-09-09T10:33:43.104912"
+  },
+  {
+    "name": "A Guide to Thriving in the Middle East: Building Partnerships in Dubai",
+    "date": "2026-09-10T10:00:00.000Z",
+    "end_date": "2026-09-10T11:00:00.000Z",
+    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/jqrr0frt",
+    "hosts": [
+      "Elena Vu"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-09T10:33:37.639016"
+  },
+  {
+    "name": "Connecting the Building: Bridging the Gap Between Infrastructure, Operations, and Tenant Experience - Roundtable",
+    "date": "2026-09-10T12:30:00.000Z",
+    "end_date": "2026-09-10T14:00:00.000Z",
+    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/k4e7h9kc",
+    "hosts": [
+      "Elena Vu"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-09T10:33:37.639035"
+  },
+  {
+    "name": "Future-Proofing Buildings for the Next Generation of Tenants - Roundtable",
+    "date": "2026-09-10T14:15:00.000Z",
+    "end_date": "2026-09-10T15:45:00.000Z",
+    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/aoeriu26",
+    "hosts": [
+      "Elena Vu"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-09T10:33:37.639046"
   },
   {
     "name": "Build vs. Buy: Systematising Efficiency in an AI-Ready Tech Stack - Roundtable",
@@ -266,7 +198,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:14.969151"
+    "scraped_date": "2026-09-09T10:33:43.104949"
   },
   {
     "name": "Smarter Buildings, Smarter Portfolios: AI Meets Building Management across Residential Real Estate - Roundtable",
@@ -282,7 +214,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:14.969165"
+    "scraped_date": "2026-09-09T10:33:43.104961"
   },
   {
     "name": "You Belong in Tech: Building Your Career in the Age of AI",
@@ -298,7 +230,7 @@
       "PMHelp"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-08T10:24:14.969175"
+    "scraped_date": "2026-09-09T10:33:43.104972"
   },
   {
     "name": "AI Builders Monthly London",
@@ -319,7 +251,7 @@
       "Markos Sfikas"
     ],
     "attendee_count": 90,
-    "scraped_date": "2026-09-08T10:24:14.969189"
+    "scraped_date": "2026-09-09T10:33:43.104985"
   },
   {
     "name": "Beyond AI Coding: Build an Autonomous Product Loop",
@@ -336,8 +268,24 @@
       "Perfect Strangers",
       "Alisher Zhuraev"
     ],
-    "attendee_count": 23,
-    "scraped_date": "2026-09-08T10:24:14.969205"
+    "attendee_count": 24,
+    "scraped_date": "2026-09-09T10:33:43.104999"
+  },
+  {
+    "name": "Build an Agent Harness workshop",
+    "date": "2026-09-10T17:00:00.000Z",
+    "end_date": "2026-09-10T19:30:00.000Z",
+    "location": "27 Dingley Pl, London EC1V 8BR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/uoc38wxl",
+    "hosts": [
+      "Founders and Coders"
+    ],
+    "attendee_count": 8,
+    "scraped_date": "2026-09-09T10:33:43.105034"
   },
   {
     "name": "Build Vision AI 2.0 LDN: Build Computer Vision Agents of Any Use Case",
@@ -355,7 +303,94 @@
       "Chrissie Jamieson",
       "Sahar Mor (Bond AI)"
     ],
-    "attendee_count": 212,
-    "scraped_date": "2026-09-08T10:24:14.969255"
+    "attendee_count": 203,
+    "scraped_date": "2026-09-09T10:33:43.105049"
+  },
+  {
+    "name": "The Future of Finance Hackathon",
+    "date": "2026-09-11T08:00:00.000Z",
+    "end_date": "2026-09-11T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8rcrfsii",
+    "hosts": [
+      "enki ÷"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-09T10:33:43.105073"
+  },
+  {
+    "name": "AI Healthcare Hackathon with Anima x OpenAI",
+    "date": "2026-09-12T07:30:00.000Z",
+    "end_date": "2026-09-12T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/animaxopenai",
+    "hosts": [
+      "Celso Milne",
+      "Souradip Mookerjee",
+      "Juhana Peltomaa",
+      "Jay Yeung"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-09T10:33:43.105093"
+  },
+  {
+    "name": "WORLDS | LONDON Hackathon",
+    "date": "2026-09-12T08:00:00.000Z",
+    "end_date": "2026-09-12T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/rsbvv2nk",
+    "hosts": [
+      "Tom Knowles",
+      "Night Office",
+      "Davide Locatelli"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-09T10:33:43.105103"
+  },
+  {
+    "name": "London Builder HQ - Build with AI powered by Stellar",
+    "date": "2026-09-12T13:00:00.000Z",
+    "end_date": "2026-09-12T16:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/5flc7dsp",
+    "hosts": [
+      "H.E.R. DAO",
+      "Sahar Mor (Bond AI)"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-09T10:33:43.105113"
+  },
+  {
+    "name": "AI Pilled [Builder] #03",
+    "date": "2026-09-14T17:00:00.000Z",
+    "end_date": "2026-09-14T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/1g3ali2l",
+    "hosts": [
+      "Nuan Zhang",
+      "Yiran Qin"
+    ],
+    "attendee_count": 44,
+    "scraped_date": "2026-09-09T10:33:43.105121"
   }
 ]
