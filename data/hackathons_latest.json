@@ -1,158 +1,5 @@
 [
   {
-    "name": "Smart Buildings to Smart Portfolios: Where Will Value Be Created in the Next Decade of Real Estate?",
-    "date": "2026-09-09T12:30:00.000Z",
-    "end_date": "2026-09-09T14:00:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/brp02nu0",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:37.638866"
-  },
-  {
-    "name": "Bridging the Predictability Gap: Building the Optimal Developer's Plan of Work - Roundtable",
-    "date": "2026-09-09T12:30:00.000Z",
-    "end_date": "2026-09-09T14:00:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/xqbr9xii",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:43.104816"
-  },
-  {
-    "name": "From Lab to Lasting: Building Life Science and Biotech Companies That Endure",
-    "date": "2026-09-09T17:00:00.000Z",
-    "end_date": "2026-09-09T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/novabook-lyef",
-    "hosts": [
-      "Lottie Richards",
-      "Lightbringer Network",
-      "Henry Blandford",
-      "WilbeLABS"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:37.638934"
-  },
-  {
-    "name": "Build Night by Bilt.me - Vibe Coding for Mobile Apps",
-    "date": "2026-09-09T17:00:00.000Z",
-    "end_date": "2026-09-09T20:00:00.000Z",
-    "location": "Ramen Space, Unit 6, Sledge Tower, Dalston Square, London E8 3GP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/850wzld0",
-    "hosts": [
-      "Samuel Klacman",
-      "uq",
-      "Charlie Ward",
-      "Iris ten Teije",
-      "ElevenLabs Devs",
-      "Joe"
-    ],
-    "attendee_count": 134,
-    "scraped_date": "2026-09-09T10:33:43.104865"
-  },
-  {
-    "name": "Building & Scaling Engineering Teams",
-    "date": "2026-09-09T17:30:00.000Z",
-    "end_date": "2026-09-09T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/scalingengineering",
-    "hosts": [
-      "Michelangelo Pagliara",
-      "Juhana Peltomaa"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:37.638953"
-  },
-  {
-    "name": "☕ Co-work, Code, and Conversations | Developer Meetup",
-    "date": "2026-09-10T07:00:00.000Z",
-    "end_date": "2026-09-10T10:00:00.000Z",
-    "location": "DL/Service, Old Street, white collar factory, 1 Old Street Yard, London EC1Y 2AS, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/s20kmsp7",
-    "hosts": [
-      "Ryan Britnell"
-    ],
-    "attendee_count": 9,
-    "scraped_date": "2026-09-09T10:33:37.638971"
-  },
-  {
-    "name": "Driving Asset Value through Building Infrastructure, How to Meet Current Occupier and Investor Expectations - Roundtable",
-    "date": "2026-09-10T08:15:00.000Z",
-    "end_date": "2026-09-10T09:45:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/b83twtg1",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:37.638992"
-  },
-  {
-    "name": "Can You Trust the Data Running Your Portfolio? Building the Infrastructure for AI-Ready Compliance - Roundtable",
-    "date": "2026-09-10T08:15:00.000Z",
-    "end_date": "2026-09-10T09:45:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/cevupbhd",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 6,
-    "scraped_date": "2026-09-09T10:33:43.104912"
-  },
-  {
-    "name": "A Guide to Thriving in the Middle East: Building Partnerships in Dubai",
-    "date": "2026-09-10T10:00:00.000Z",
-    "end_date": "2026-09-10T11:00:00.000Z",
-    "location": "InterContinental London - the O2 by IHG, 1 Waterview Dr, London SE10 0TW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/jqrr0frt",
-    "hosts": [
-      "Elena Vu"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:37.639016"
-  },
-  {
     "name": "Connecting the Building: Bridging the Gap Between Infrastructure, Operations, and Tenant Experience - Roundtable",
     "date": "2026-09-10T12:30:00.000Z",
     "end_date": "2026-09-10T14:00:00.000Z",
@@ -166,7 +13,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:37.639035"
+    "scraped_date": "2026-09-10T10:22:26.631658"
   },
   {
     "name": "Future-Proofing Buildings for the Next Generation of Tenants - Roundtable",
@@ -182,7 +29,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:37.639046"
+    "scraped_date": "2026-09-10T10:22:26.631688"
   },
   {
     "name": "Build vs. Buy: Systematising Efficiency in an AI-Ready Tech Stack - Roundtable",
@@ -198,7 +45,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:43.104949"
+    "scraped_date": "2026-09-10T10:22:32.135755"
   },
   {
     "name": "Smarter Buildings, Smarter Portfolios: AI Meets Building Management across Residential Real Estate - Roundtable",
@@ -214,7 +61,7 @@
       "Elena Vu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:43.104961"
+    "scraped_date": "2026-09-10T10:22:32.135779"
   },
   {
     "name": "You Belong in Tech: Building Your Career in the Age of AI",
@@ -230,7 +77,7 @@
       "PMHelp"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:43.104972"
+    "scraped_date": "2026-09-10T10:22:32.135790"
   },
   {
     "name": "AI Builders Monthly London",
@@ -250,8 +97,8 @@
       "Dan Smith",
       "Markos Sfikas"
     ],
-    "attendee_count": 90,
-    "scraped_date": "2026-09-09T10:33:43.104985"
+    "attendee_count": 104,
+    "scraped_date": "2026-09-10T10:22:32.135802"
   },
   {
     "name": "Beyond AI Coding: Build an Autonomous Product Loop",
@@ -268,8 +115,8 @@
       "Perfect Strangers",
       "Alisher Zhuraev"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-09-09T10:33:43.104999"
+    "attendee_count": 26,
+    "scraped_date": "2026-09-10T10:22:32.135831"
   },
   {
     "name": "Build an Agent Harness workshop",
@@ -284,8 +131,8 @@
     "hosts": [
       "Founders and Coders"
     ],
-    "attendee_count": 8,
-    "scraped_date": "2026-09-09T10:33:43.105034"
+    "attendee_count": 11,
+    "scraped_date": "2026-09-10T10:22:32.135843"
   },
   {
     "name": "Build Vision AI 2.0 LDN: Build Computer Vision Agents of Any Use Case",
@@ -303,8 +150,25 @@
       "Chrissie Jamieson",
       "Sahar Mor (Bond AI)"
     ],
-    "attendee_count": 203,
-    "scraped_date": "2026-09-09T10:33:43.105049"
+    "attendee_count": 209,
+    "scraped_date": "2026-09-10T10:22:32.135854"
+  },
+  {
+    "name": "Tech Community Rooftop Pilates with Sasha x Encode",
+    "date": "2026-09-11T08:00:00.000Z",
+    "end_date": "2026-09-11T09:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/64akvnqh",
+    "hosts": [
+      "Encode Club",
+      "Sasha Cayward"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-10T10:22:26.631749"
   },
   {
     "name": "The Future of Finance Hackathon",
@@ -320,7 +184,7 @@
       "enki ÷"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:43.105073"
+    "scraped_date": "2026-09-10T10:22:32.135880"
   },
   {
     "name": "AI Healthcare Hackathon with Anima x OpenAI",
@@ -339,7 +203,7 @@
       "Jay Yeung"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:43.105093"
+    "scraped_date": "2026-09-10T10:22:32.135898"
   },
   {
     "name": "WORLDS | LONDON Hackathon",
@@ -353,11 +217,50 @@
     "url": "https://lu.ma/rsbvv2nk",
     "hosts": [
       "Tom Knowles",
-      "Night Office",
-      "Davide Locatelli"
+      "Davide Locatelli",
+      "Modal",
+      "Night Office"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:43.105103"
+    "scraped_date": "2026-09-10T10:22:32.135908"
+  },
+  {
+    "name": "📍London 🌀 Generalist World Hackathon",
+    "date": "2026-09-12T08:30:00.000Z",
+    "end_date": "2026-09-12T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/vpro1xsy",
+    "hosts": [
+      "generalist.world",
+      "Marta Albertini",
+      "Georgia",
+      "Ellie Pyemont",
+      "Charmiane Chikiwa"
+    ],
+    "attendee_count": 62,
+    "scraped_date": "2026-09-10T10:22:26.631777"
+  },
+  {
+    "name": "Community Tooling Hack Day #2",
+    "date": "2026-09-12T10:00:00.000Z",
+    "end_date": "2026-09-12T15:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qn9exp2n",
+    "hosts": [
+      "Hugh Evans",
+      "Edward Saperia",
+      "Anni Chen"
+    ],
+    "attendee_count": 27,
+    "scraped_date": "2026-09-10T10:22:26.631793"
   },
   {
     "name": "London Builder HQ - Build with AI powered by Stellar",
@@ -374,7 +277,7 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-09T10:33:43.105113"
+    "scraped_date": "2026-09-10T10:22:32.135917"
   },
   {
     "name": "AI Pilled [Builder] #03",
@@ -391,6 +294,63 @@
       "Yiran Qin"
     ],
     "attendee_count": 44,
-    "scraped_date": "2026-09-09T10:33:43.105121"
+    "scraped_date": "2026-09-10T10:22:32.135927"
+  },
+  {
+    "name": "Builders & Brews London",
+    "date": "2026-09-15T14:00:00.000Z",
+    "end_date": "2026-09-15T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bbh-london",
+    "hosts": [
+      "Tavily Events",
+      "Ayub Yanturin",
+      "Daniel Colaianni",
+      "Innovators Guild",
+      "Claudia Cafeo"
+    ],
+    "attendee_count": 205,
+    "scraped_date": "2026-09-10T10:22:32.135952"
+  },
+  {
+    "name": "GirlsWhoML & PhysicsX Hackathon",
+    "date": "2026-09-15T16:30:00.000Z",
+    "end_date": "2026-09-15T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cvpxxlpq",
+    "hosts": [
+      "Melanie Preen",
+      "Saskia Munks",
+      "Francisco Terpolilli 🤌",
+      "Mathusa Thiruchenthoor"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-10T10:22:32.135968"
+  },
+  {
+    "name": "Building an AI-Native GTM Org with Rippling, Clay and Cherry Ventures",
+    "date": "2026-09-16T07:30:00.000Z",
+    "end_date": "2026-09-16T09:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/38u74ir0",
+    "hosts": [
+      "Tiara Sadikin",
+      "Natalie Sportelli",
+      "Sarah Rall"
+    ],
+    "attendee_count": 28,
+    "scraped_date": "2026-09-10T10:22:32.135995"
   }
 ]
