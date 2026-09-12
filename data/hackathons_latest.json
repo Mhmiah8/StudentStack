@@ -1,59 +1,5 @@
 [
   {
-    "name": "AI Healthcare Hackathon with Anima x OpenAI",
-    "date": "2026-09-12T07:30:00.000Z",
-    "end_date": "2026-09-12T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/animaxopenai",
-    "hosts": [
-      "Celso Milne",
-      "Souradip Mookerjee",
-      "Juhana Peltomaa",
-      "Jay Yeung"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-11T10:23:22.133577"
-  },
-  {
-    "name": "WORLDS | LONDON Hackathon",
-    "date": "2026-09-12T08:00:00.000Z",
-    "end_date": "2026-09-12T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/rsbvv2nk",
-    "hosts": [
-      "Tom Knowles",
-      "Davide Locatelli",
-      "Modal",
-      "Night Office"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-11T10:23:22.133604"
-  },
-  {
-    "name": "AI Chessathon: Build, train, win - backed by Optiver",
-    "date": "2026-09-12T09:00:00.000Z",
-    "end_date": "2026-09-12T17:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-jp52",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-11T10:23:22.133616"
-  },
-  {
     "name": "Community Tooling Hack Day #2",
     "date": "2026-09-12T10:00:00.000Z",
     "end_date": "2026-09-12T15:00:00.000Z",
@@ -69,7 +15,7 @@
       "Anni Chen"
     ],
     "attendee_count": 27,
-    "scraped_date": "2026-09-11T10:23:17.015689"
+    "scraped_date": "2026-09-12T09:54:10.226614"
   },
   {
     "name": "London Builder HQ - Build with AI powered by Stellar",
@@ -86,7 +32,7 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-11T10:23:22.133631"
+    "scraped_date": "2026-09-12T09:54:15.036349"
   },
   {
     "name": "AI Pilled [Builder] #03",
@@ -102,8 +48,8 @@
       "Nuan Zhang",
       "Yiran Qin"
     ],
-    "attendee_count": 46,
-    "scraped_date": "2026-09-11T10:23:22.133645"
+    "attendee_count": 50,
+    "scraped_date": "2026-09-12T09:54:15.036398"
   },
   {
     "name": "Builders & Brews London",
@@ -124,8 +70,8 @@
       "Claudia Cafeo",
       "Andy Tyler"
     ],
-    "attendee_count": 208,
-    "scraped_date": "2026-09-11T10:23:22.133672"
+    "attendee_count": 214,
+    "scraped_date": "2026-09-12T09:54:15.036441"
   },
   {
     "name": "GirlsWhoML & PhysicsX Hackathon",
@@ -144,7 +90,7 @@
       "Mathusa Thiruchenthoor"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-11T10:23:22.133688"
+    "scraped_date": "2026-09-12T09:54:15.036464"
   },
   {
     "name": "Building an AI-Native GTM Org with Rippling, Clay and Cherry Ventures",
@@ -161,8 +107,8 @@
       "Natalie Sportelli",
       "Sarah Rall"
     ],
-    "attendee_count": 31,
-    "scraped_date": "2026-09-11T10:23:22.133720"
+    "attendee_count": 32,
+    "scraped_date": "2026-09-12T09:54:15.036502"
   },
   {
     "name": "🚀 Builders Night: Google DeepMind x London AI Hub",
@@ -179,7 +125,7 @@
       "Google DeepMind"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-11T10:23:22.133758"
+    "scraped_date": "2026-09-12T09:54:15.036540"
   },
   {
     "name": "From Build to Launch: Is there a glass ceiling in agentic mobile development?",
@@ -196,6 +142,6 @@
       "Charlie Kingston"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-11T10:23:22.133782"
+    "scraped_date": "2026-09-12T09:54:15.036568"
   }
 ]
