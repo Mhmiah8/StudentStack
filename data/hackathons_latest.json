@@ -1,40 +1,5 @@
 [
   {
-    "name": "Community Tooling Hack Day #2",
-    "date": "2026-09-12T10:00:00.000Z",
-    "end_date": "2026-09-12T15:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/qn9exp2n",
-    "hosts": [
-      "Hugh Evans",
-      "Edward Saperia",
-      "Anni Chen"
-    ],
-    "attendee_count": 27,
-    "scraped_date": "2026-09-12T09:54:10.226614"
-  },
-  {
-    "name": "London Builder HQ - Build with AI powered by Stellar",
-    "date": "2026-09-12T13:00:00.000Z",
-    "end_date": "2026-09-12T16:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/5flc7dsp",
-    "hosts": [
-      "H.E.R. DAO",
-      "Sahar Mor (Bond AI)"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-12T09:54:15.036349"
-  },
-  {
     "name": "AI Pilled [Builder] #03",
     "date": "2026-09-14T17:00:00.000Z",
     "end_date": "2026-09-14T20:30:00.000Z",
@@ -48,8 +13,8 @@
       "Nuan Zhang",
       "Yiran Qin"
     ],
-    "attendee_count": 50,
-    "scraped_date": "2026-09-12T09:54:15.036398"
+    "attendee_count": 52,
+    "scraped_date": "2026-09-13T10:53:54.365306"
   },
   {
     "name": "Builders & Brews London",
@@ -70,8 +35,8 @@
       "Claudia Cafeo",
       "Andy Tyler"
     ],
-    "attendee_count": 214,
-    "scraped_date": "2026-09-12T09:54:15.036441"
+    "attendee_count": 213,
+    "scraped_date": "2026-09-13T10:53:54.365355"
   },
   {
     "name": "GirlsWhoML & PhysicsX Hackathon",
@@ -90,7 +55,7 @@
       "Mathusa Thiruchenthoor"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-12T09:54:15.036464"
+    "scraped_date": "2026-09-13T10:53:54.365381"
   },
   {
     "name": "Building an AI-Native GTM Org with Rippling, Clay and Cherry Ventures",
@@ -108,7 +73,7 @@
       "Sarah Rall"
     ],
     "attendee_count": 32,
-    "scraped_date": "2026-09-12T09:54:15.036502"
+    "scraped_date": "2026-09-13T10:53:54.365418"
   },
   {
     "name": "🚀 Builders Night: Google DeepMind x London AI Hub",
@@ -125,7 +90,7 @@
       "Google DeepMind"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-12T09:54:15.036540"
+    "scraped_date": "2026-09-13T10:53:54.365468"
   },
   {
     "name": "From Build to Launch: Is there a glass ceiling in agentic mobile development?",
@@ -142,6 +107,73 @@
       "Charlie Kingston"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-12T09:54:15.036568"
+    "scraped_date": "2026-09-13T10:53:54.365501"
+  },
+  {
+    "name": "Builders Club Brunch",
+    "date": "2026-09-17T07:30:00.000Z",
+    "end_date": "2026-09-17T09:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/buildersclub04",
+    "hosts": [
+      "Victoria Lawless"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-13T10:53:54.365526"
+  },
+  {
+    "name": "The Tech GC Rendez-Vous: Someone Is Building Your AI Culture. Should It Be Legal?",
+    "date": "2026-09-17T07:30:00.000Z",
+    "end_date": "2026-09-17T10:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8gopxmr3",
+    "hosts": [
+      "Sarah Ouis",
+      "Emily Hancock",
+      "María"
+    ],
+    "attendee_count": 18,
+    "scraped_date": "2026-09-13T10:53:54.365540"
+  },
+  {
+    "name": "Building an \"AI Storm\"-Ready Security Program: SDLC Security Guardrails Summit - London",
+    "date": "2026-09-17T14:30:00.000Z",
+    "end_date": "2026-09-17T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/14judprz",
+    "hosts": [
+      "Phoenix Security",
+      "Sean"
+    ],
+    "attendee_count": 48,
+    "scraped_date": "2026-09-13T10:53:54.365556"
+  },
+  {
+    "name": "Conversations with Technologists: Ideas worth building",
+    "date": "2026-09-17T17:30:00.000Z",
+    "end_date": "2026-09-17T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/o3lvj91p",
+    "hosts": [
+      "Nkechi Anyanwu"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-13T10:53:48.811526"
   }
 ]
