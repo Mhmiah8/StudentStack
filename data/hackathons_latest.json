@@ -1,73 +1,5 @@
 [
   {
-    "name": "🚀 Builders Night: Google DeepMind x London AI Hub",
-    "date": "2026-09-16T16:30:00.000Z",
-    "end_date": "2026-09-16T19:30:00.000Z",
-    "location": "London AI Hub, 140 Goswell Rd., London EC1V 7DY, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/BuildingManagedAgentsAtTheHubWithDeepmind",
-    "hosts": [
-      "London AI Hub",
-      "Google DeepMind"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:39.047732"
-  },
-  {
-    "name": "From Build to Launch: Is there a glass ceiling in agentic mobile development?",
-    "date": "2026-09-16T17:30:00.000Z",
-    "end_date": "2026-09-16T20:00:00.000Z",
-    "location": "Concept Ventures, 40 Grosvenor Gardens Mews S, London SW1W 0LD, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/iyd9oc1n",
-    "hosts": [
-      "Dani Unsworth",
-      "Charlie Kingston"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:39.047779"
-  },
-  {
-    "name": "Builders Club Brunch",
-    "date": "2026-09-17T07:30:00.000Z",
-    "end_date": "2026-09-17T09:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/buildersclub04",
-    "hosts": [
-      "Victoria Lawless"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:39.047801"
-  },
-  {
-    "name": "The Tech GC Rendez-Vous: Someone Is Building Your AI Culture. Should It Be Legal?",
-    "date": "2026-09-17T07:30:00.000Z",
-    "end_date": "2026-09-17T10:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8gopxmr3",
-    "hosts": [
-      "Sarah Ouis",
-      "Emily Hancock",
-      "María"
-    ],
-    "attendee_count": 20,
-    "scraped_date": "2026-09-16T10:37:39.047812"
-  },
-  {
     "name": "Building an \"AI Storm\"-Ready Security Program: SDLC Security Guardrails Summit - London",
     "date": "2026-09-17T14:30:00.000Z",
     "end_date": "2026-09-17T20:00:00.000Z",
@@ -82,7 +14,7 @@
       "Sean"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:39.047826"
+    "scraped_date": "2026-09-17T10:47:02.688450"
   },
   {
     "name": "London AI Builders: The Devin Mixer",
@@ -101,8 +33,8 @@
       "ElevenLabs Devs",
       "Zak A"
     ],
-    "attendee_count": 118,
-    "scraped_date": "2026-09-16T10:37:39.047837"
+    "attendee_count": 110,
+    "scraped_date": "2026-09-17T10:47:02.688478"
   },
   {
     "name": "What It Takes to Build in the US",
@@ -116,7 +48,7 @@
     "url": "https://lu.ma/gyk0dy89",
     "hosts": [],
     "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:33.906360"
+    "scraped_date": "2026-09-17T10:46:57.534184"
   },
   {
     "name": "AI for Good: Building Trust, Better Care & Responsible Innovation",
@@ -132,7 +64,7 @@
       "Data Spartan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:39.047847"
+    "scraped_date": "2026-09-17T10:47:02.688491"
   },
   {
     "name": "Google DeepMind x Corgi: London Builder Evening",
@@ -150,7 +82,7 @@
       "Claudia Maggi"
     ],
     "attendee_count": 290,
-    "scraped_date": "2026-09-16T10:37:39.047864"
+    "scraped_date": "2026-09-17T10:47:02.688508"
   },
   {
     "name": "Conversations with Technologists: Ideas worth building",
@@ -166,7 +98,7 @@
       "Nkechi Anyanwu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:33.906382"
+    "scraped_date": "2026-09-17T10:46:57.534211"
   },
   {
     "name": "BuildHer x Corgi FoundHer Breakfast",
@@ -186,7 +118,7 @@
       "Tiffany.W"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:39.047894"
+    "scraped_date": "2026-09-17T10:47:02.688544"
   },
   {
     "name": "Zaro's BizOps Hackathon @ AWS",
@@ -204,7 +136,7 @@
       "Rhiannon Hames"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:39.047904"
+    "scraped_date": "2026-09-17T10:47:02.688653"
   },
   {
     "name": "London AI×Bio Hack",
@@ -227,7 +159,96 @@
       "NVIDIA"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:39.047913"
+    "scraped_date": "2026-09-17T10:47:02.688664"
+  },
+  {
+    "name": "RSI: Self-Improving AI Hack",
+    "date": "2026-09-19T08:00:00.000Z",
+    "end_date": "2026-09-19T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/abmar7tg",
+    "hosts": [
+      "Daria Gneusheva",
+      "Nakul Maheshwari",
+      "Chirag Modi",
+      "Claudia Maggi"
+    ],
+    "attendee_count": 41,
+    "scraped_date": "2026-09-17T10:47:02.688690"
+  },
+  {
+    "name": "{Tech: Europe} Agentic AI Hack",
+    "date": "2026-09-19T08:30:00.000Z",
+    "end_date": "2026-09-19T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ldn-hack",
+    "hosts": [
+      "{Tech: Europe}",
+      "Google DeepMind"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-17T10:47:02.688699"
+  },
+  {
+    "name": "Customer Onboarding Hackathon",
+    "date": "2026-09-19T09:00:00.000Z",
+    "end_date": "2026-09-19T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/vpjma1oe",
+    "hosts": [
+      "Mahshid Atabaki"
+    ],
+    "attendee_count": 97,
+    "scraped_date": "2026-09-17T10:47:02.688709"
+  },
+  {
+    "name": "Tano x Corgi Creator Heist Hack",
+    "date": "2026-09-20T08:00:00.000Z",
+    "end_date": "2026-09-20T17:00:00.000Z",
+    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/u3tugax1",
+    "hosts": [
+      "Sasha",
+      "Sagar Shah",
+      "Claudia Maggi",
+      "Kieran Martin"
+    ],
+    "attendee_count": 55,
+    "scraped_date": "2026-09-17T10:46:57.534228"
+  },
+  {
+    "name": "Modal x Pydantic London Meetup: How We Build Dev Tools for You and Your Agents",
+    "date": "2026-09-21T17:30:00.000Z",
+    "end_date": "2026-09-21T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/modal-72s8",
+    "hosts": [
+      "Lais Carvalho",
+      "Modal",
+      "Rachel Peplow"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-17T10:47:02.688724"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -242,8 +263,27 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-09-16T10:37:33.906410"
+    "attendee_count": 18,
+    "scraped_date": "2026-09-17T10:46:57.534245"
+  },
+  {
+    "name": "From training to production: building and scaling real-world LLMs",
+    "date": "2026-09-22T17:00:00.000Z",
+    "end_date": "2026-09-22T21:00:00.000Z",
+    "location": "Wallacespace Spitalfields, 15 Artillery Ln, London E1 7HA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2osptv1v",
+    "hosts": [
+      "Minyi Huang",
+      "Michael Easton",
+      "Stephen Rice",
+      "Stanislav Fedotov"
+    ],
+    "attendee_count": 98,
+    "scraped_date": "2026-09-17T10:47:02.688761"
   },
   {
     "name": "How to build product organisations that last",
@@ -261,6 +301,22 @@
       "Francesca Jackson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-16T10:37:33.906452"
+    "scraped_date": "2026-09-17T10:46:57.534293"
+  },
+  {
+    "name": "Open Code #20",
+    "date": "2026-09-23T17:30:00.000Z",
+    "end_date": "2026-09-23T21:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/63pjpxfw",
+    "hosts": [
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-17T10:46:57.534329"
   }
 ]
