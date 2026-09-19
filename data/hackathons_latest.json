@@ -1,98 +1,5 @@
 [
   {
-    "name": "Zaro's BizOps Hackathon @ AWS",
-    "date": "2026-09-18T13:00:00.000Z",
-    "end_date": "2026-09-18T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/gehfjmwq",
-    "hosts": [
-      "Jack Free",
-      "ShallWe Tech",
-      "Rhiannon Hames"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710319"
-  },
-  {
-    "name": "London AI×Bio Hack",
-    "date": "2026-09-18T14:00:00.000Z",
-    "end_date": "2026-09-20T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/87m4mw6b",
-    "hosts": [
-      "Bruno Trentini",
-      "Daniel Burkhardt",
-      "Konstantin Hemker",
-      "Subaita Rahman",
-      "WilbeLABS",
-      "Wilbe",
-      "OpenAI",
-      "NVIDIA"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710344"
-  },
-  {
-    "name": "RSI: Self-Improving AI Hack",
-    "date": "2026-09-19T08:00:00.000Z",
-    "end_date": "2026-09-19T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/abmar7tg",
-    "hosts": [
-      "Daria Gneusheva",
-      "Nakul Maheshwari",
-      "Chirag Modi",
-      "Claudia Maggi"
-    ],
-    "attendee_count": 55,
-    "scraped_date": "2026-09-18T10:22:17.710390"
-  },
-  {
-    "name": "{Tech: Europe} Agentic AI Hack",
-    "date": "2026-09-19T08:30:00.000Z",
-    "end_date": "2026-09-19T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ldn-hack",
-    "hosts": [
-      "{Tech: Europe}",
-      "Google DeepMind"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710398"
-  },
-  {
-    "name": "Customer Onboarding Hackathon",
-    "date": "2026-09-19T09:00:00.000Z",
-    "end_date": "2026-09-19T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/vpjma1oe",
-    "hosts": [
-      "Mahshid Atabaki"
-    ],
-    "attendee_count": 94,
-    "scraped_date": "2026-09-18T10:22:17.710410"
-  },
-  {
     "name": "Tano x Corgi Creator Heist Hack",
     "date": "2026-09-20T08:00:00.000Z",
     "end_date": "2026-09-20T17:00:00.000Z",
@@ -108,8 +15,25 @@
       "Claudia Maggi",
       "Kieran Martin"
     ],
-    "attendee_count": 49,
-    "scraped_date": "2026-09-18T10:22:13.113956"
+    "attendee_count": 59,
+    "scraped_date": "2026-09-19T10:05:42.653338"
+  },
+  {
+    "name": "Codex Community Meetup - London",
+    "date": "2026-09-21T17:00:00.000Z",
+    "end_date": "2026-09-21T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/codex-ldn-4",
+    "hosts": [
+      "Andy Tyler",
+      "Pauline P. Narvas"
+    ],
+    "attendee_count": 25,
+    "scraped_date": "2026-09-19T10:05:47.684295"
   },
   {
     "name": "Modal x Pydantic London Meetup: How We Build Dev Tools for You and Your Agents",
@@ -127,7 +51,7 @@
       "Rachel Peplow"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710429"
+    "scraped_date": "2026-09-19T10:05:47.684316"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -142,8 +66,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-09-18T10:22:13.114005"
+    "attendee_count": 23,
+    "scraped_date": "2026-09-19T10:05:42.653389"
   },
   {
     "name": "Solo Builders LDN: Coworking Session Vol. 4",
@@ -158,8 +82,8 @@
     "hosts": [
       "Sefa Oruc"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-09-18T10:22:13.114024"
+    "attendee_count": 34,
+    "scraped_date": "2026-09-19T10:05:42.653407"
   },
   {
     "name": "AI, Capital & Power: Who Builds the Future?",
@@ -175,7 +99,7 @@
       "TechWomen4Boards UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710451"
+    "scraped_date": "2026-09-19T10:05:47.684343"
   },
   {
     "name": "From training to production: building and scaling real-world LLMs",
@@ -193,8 +117,8 @@
       "Stephen Rice",
       "Stanislav Fedotov"
     ],
-    "attendee_count": 118,
-    "scraped_date": "2026-09-18T10:22:17.710473"
+    "attendee_count": 126,
+    "scraped_date": "2026-09-19T10:05:47.684366"
   },
   {
     "name": "Build with AI: From Curiosity to Creation",
@@ -210,7 +134,7 @@
       "Valuable Community"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710484"
+    "scraped_date": "2026-09-19T10:05:47.684378"
   },
   {
     "name": "Weave:London - Building the Agentic Enterprise: From Individual Productivity to Organisational Reinvention",
@@ -226,7 +150,7 @@
       "Lorna Miller"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710500"
+    "scraped_date": "2026-09-19T10:05:47.684396"
   },
   {
     "name": "London | Claude Founder House: Builder Cohort",
@@ -243,7 +167,7 @@
       "Bob Wallis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710515"
+    "scraped_date": "2026-09-19T10:05:47.684412"
   },
   {
     "name": "Tenzo's AI Buildathon!",
@@ -259,7 +183,7 @@
       "Hannah Al-Khawaled Rodriguez"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:17.710523"
+    "scraped_date": "2026-09-19T10:05:47.684419"
   },
   {
     "name": "How to build product organisations that last",
@@ -277,7 +201,7 @@
       "Francesca Jackson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:13.114070"
+    "scraped_date": "2026-09-19T10:05:42.653459"
   },
   {
     "name": "Open Code #20",
@@ -293,7 +217,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:13.114100"
+    "scraped_date": "2026-09-19T10:05:42.653492"
   },
   {
     "name": "Galician Founder BBQ at Encode Hub",
@@ -309,7 +233,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-18T10:22:13.114120"
+    "scraped_date": "2026-09-19T10:05:42.653513"
   },
   {
     "name": "growth hacking workshop + build evening for sidepreneurs",
@@ -326,7 +250,7 @@
       "Ramit Mehta"
     ],
     "attendee_count": 24,
-    "scraped_date": "2026-09-18T10:22:13.114138"
+    "scraped_date": "2026-09-19T10:05:42.653527"
   },
   {
     "name": "Hacker News London Meetup #10 Demo Night",
@@ -343,6 +267,6 @@
       "Edward Saperia"
     ],
     "attendee_count": 100,
-    "scraped_date": "2026-09-18T10:22:13.114150"
+    "scraped_date": "2026-09-19T10:05:42.653539"
   }
 ]
