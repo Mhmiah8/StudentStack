@@ -13,8 +13,8 @@
       "Andy Tyler",
       "Pauline P. Narvas"
     ],
-    "attendee_count": 202,
-    "scraped_date": "2026-09-20T10:24:25.094767"
+    "attendee_count": 331,
+    "scraped_date": "2026-09-21T11:40:19.389724"
   },
   {
     "name": "Modal x Pydantic London Meetup: How We Build Dev Tools for You and Your Agents",
@@ -32,7 +32,7 @@
       "Rachel Peplow"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:25.094791"
+    "scraped_date": "2026-09-21T11:40:19.389750"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -47,8 +47,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-09-20T10:24:20.190099"
+    "attendee_count": 29,
+    "scraped_date": "2026-09-21T11:40:14.089594"
   },
   {
     "name": "Solo Builders LDN: Coworking Session Vol. 4",
@@ -64,7 +64,7 @@
       "Sefa Oruc"
     ],
     "attendee_count": 36,
-    "scraped_date": "2026-09-20T10:24:20.190143"
+    "scraped_date": "2026-09-21T11:40:14.089642"
   },
   {
     "name": "AI, Capital & Power: Who Builds the Future?",
@@ -80,7 +80,7 @@
       "TechWomen4Boards UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:25.094825"
+    "scraped_date": "2026-09-21T11:40:19.389786"
   },
   {
     "name": "From training to production: building and scaling real-world LLMs",
@@ -98,8 +98,8 @@
       "Stephen Rice",
       "Stanislav Fedotov"
     ],
-    "attendee_count": 126,
-    "scraped_date": "2026-09-20T10:24:25.094854"
+    "attendee_count": 124,
+    "scraped_date": "2026-09-21T11:40:19.389817"
   },
   {
     "name": "Build with AI: From Curiosity to Creation",
@@ -115,7 +115,7 @@
       "Valuable Community"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:25.094866"
+    "scraped_date": "2026-09-21T11:40:19.389833"
   },
   {
     "name": "Weave:London - Building the Agentic Enterprise: From Individual Productivity to Organisational Reinvention",
@@ -131,7 +131,7 @@
       "Lorna Miller"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:25.094886"
+    "scraped_date": "2026-09-21T11:40:19.389850"
   },
   {
     "name": "London | Claude Founder House: Builder Cohort",
@@ -148,7 +148,7 @@
       "Bob Wallis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:25.094904"
+    "scraped_date": "2026-09-21T11:40:19.389871"
   },
   {
     "name": "Tenzo's AI Buildathon!",
@@ -164,7 +164,7 @@
       "Hannah Al-Khawaled Rodriguez"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:25.094913"
+    "scraped_date": "2026-09-21T11:40:19.389882"
   },
   {
     "name": "How to build product organisations that last",
@@ -182,7 +182,7 @@
       "Francesca Jackson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:20.190195"
+    "scraped_date": "2026-09-21T11:40:14.089711"
   },
   {
     "name": "Open Code #20",
@@ -198,7 +198,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:20.190227"
+    "scraped_date": "2026-09-21T11:40:14.089752"
   },
   {
     "name": "Galician Founder BBQ at Encode Hub",
@@ -214,7 +214,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-20T10:24:20.190255"
+    "scraped_date": "2026-09-21T11:40:14.089782"
   },
   {
     "name": "Hacker News London Meetup #10 Demo Night",
@@ -231,7 +231,7 @@
       "Edward Saperia"
     ],
     "attendee_count": 100,
-    "scraped_date": "2026-09-20T10:24:20.190274"
+    "scraped_date": "2026-09-21T11:40:14.089804"
   },
   {
     "name": "Build & Boulder",
@@ -249,6 +249,6 @@
       "Kieran Martin"
     ],
     "attendee_count": 30,
-    "scraped_date": "2026-09-20T10:24:20.190295"
+    "scraped_date": "2026-09-21T11:40:14.089823"
   }
 ]
