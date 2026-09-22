@@ -1,72 +1,5 @@
 [
   {
-    "name": "Codex Community Meetup - London",
-    "date": "2026-09-21T17:00:00.000Z",
-    "end_date": "2026-09-21T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/codex-ldn-4",
-    "hosts": [
-      "Andy Tyler",
-      "Pauline P. Narvas"
-    ],
-    "attendee_count": 331,
-    "scraped_date": "2026-09-21T11:40:19.389724"
-  },
-  {
-    "name": "Modal x Pydantic London Meetup: How We Build Dev Tools for You and Your Agents",
-    "date": "2026-09-21T17:30:00.000Z",
-    "end_date": "2026-09-21T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/modal-72s8",
-    "hosts": [
-      "Lais Carvalho",
-      "Modal",
-      "Rachel Peplow"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:19.389750"
-  },
-  {
-    "name": "Campaign Lab Autumn Hack Night!",
-    "date": "2026-09-21T18:00:00.000Z",
-    "end_date": "2026-09-21T21:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1zkaev1n",
-    "hosts": [
-      "Noam"
-    ],
-    "attendee_count": 29,
-    "scraped_date": "2026-09-21T11:40:14.089594"
-  },
-  {
-    "name": "Solo Builders LDN: Coworking Session Vol. 4",
-    "date": "2026-09-22T08:30:00.000Z",
-    "end_date": "2026-09-22T14:30:00.000Z",
-    "location": "Andrea Adam's Court, 6 Adam's Ct, London EC2N 1DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/4h804vnv",
-    "hosts": [
-      "Sefa Oruc"
-    ],
-    "attendee_count": 36,
-    "scraped_date": "2026-09-21T11:40:14.089642"
-  },
-  {
     "name": "AI, Capital & Power: Who Builds the Future?",
     "date": "2026-09-22T16:30:00.000Z",
     "end_date": "2026-09-22T20:00:00.000Z",
@@ -80,7 +13,7 @@
       "TechWomen4Boards UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:19.389786"
+    "scraped_date": "2026-09-22T10:44:15.962726"
   },
   {
     "name": "From training to production: building and scaling real-world LLMs",
@@ -99,7 +32,7 @@
       "Stanislav Fedotov"
     ],
     "attendee_count": 124,
-    "scraped_date": "2026-09-21T11:40:19.389817"
+    "scraped_date": "2026-09-22T10:44:15.962773"
   },
   {
     "name": "Build with AI: From Curiosity to Creation",
@@ -115,7 +48,7 @@
       "Valuable Community"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:19.389833"
+    "scraped_date": "2026-09-22T10:44:15.962792"
   },
   {
     "name": "Weave:London - Building the Agentic Enterprise: From Individual Productivity to Organisational Reinvention",
@@ -131,7 +64,7 @@
       "Lorna Miller"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:19.389850"
+    "scraped_date": "2026-09-22T10:44:15.962810"
   },
   {
     "name": "London | Claude Founder House: Builder Cohort",
@@ -148,7 +81,23 @@
       "Bob Wallis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:19.389871"
+    "scraped_date": "2026-09-22T10:44:15.962835"
+  },
+  {
+    "name": "Tenzo's AI Buildathon",
+    "date": "2026-09-23T13:00:00.000Z",
+    "end_date": "2026-09-23T15:00:00.000Z",
+    "location": "WeWork - Office Space & Coworking, Aviation House, 125 Kingsway, London WC2B 6NH, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lxce05sg",
+    "hosts": [
+      "Hannah Al-Khawaled Rodriguez"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-22T10:44:15.962846"
   },
   {
     "name": "Tenzo's AI Buildathon!",
@@ -164,7 +113,7 @@
       "Hannah Al-Khawaled Rodriguez"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:19.389882"
+    "scraped_date": "2026-09-22T10:44:15.962856"
   },
   {
     "name": "How to build product organisations that last",
@@ -182,7 +131,7 @@
       "Francesca Jackson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:14.089711"
+    "scraped_date": "2026-09-22T10:44:11.292435"
   },
   {
     "name": "Open Code #20",
@@ -198,7 +147,43 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:14.089752"
+    "scraped_date": "2026-09-22T10:44:11.292485"
+  },
+  {
+    "name": "The GrowthKind: Building Your AI Marketing Roadmap",
+    "date": "2026-09-24T08:00:00.000Z",
+    "end_date": "2026-09-24T10:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/nd7hsu8c",
+    "hosts": [
+      "Rowan Fisk",
+      "Victoria Rusnac"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-22T10:44:15.962920"
+  },
+  {
+    "name": "Lunch + AI Build: Agents for Customer Success",
+    "date": "2026-09-24T10:00:00.000Z",
+    "end_date": "2026-09-24T13:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/3jaxhoi3",
+    "hosts": [
+      "Louni Roussel",
+      "Bruno Murray",
+      "Gianna Gard",
+      "Maddie Durnall"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-22T10:44:15.962943"
   },
   {
     "name": "Galician Founder BBQ at Encode Hub",
@@ -214,7 +199,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-21T11:40:14.089782"
+    "scraped_date": "2026-09-22T10:44:11.292517"
   },
   {
     "name": "Hacker News London Meetup #10 Demo Night",
@@ -231,7 +216,7 @@
       "Edward Saperia"
     ],
     "attendee_count": 100,
-    "scraped_date": "2026-09-21T11:40:14.089804"
+    "scraped_date": "2026-09-22T10:44:11.292541"
   },
   {
     "name": "Build & Boulder",
@@ -249,6 +234,6 @@
       "Kieran Martin"
     ],
     "attendee_count": 30,
-    "scraped_date": "2026-09-21T11:40:14.089823"
+    "scraped_date": "2026-09-22T10:44:11.292561"
   }
 ]
