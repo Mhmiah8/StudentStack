@@ -1,163 +1,5 @@
 [
   {
-    "name": "Build your Student OS in Notion",
-    "date": "2026-09-24T13:00:00.000Z",
-    "end_date": "2026-09-24T14:30:00.000Z",
-    "location": "Bush House, 30 Aldwych, London WC2B 4BG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bgggte5w",
-    "hosts": [
-      "KCL Tech Events",
-      "Waseef Khan"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-24T10:54:06.878453"
-  },
-  {
-    "name": "Galician Founder BBQ at Encode Hub",
-    "date": "2026-09-24T16:00:00.000Z",
-    "end_date": "2026-09-24T19:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-ufy4",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-24T10:54:06.878481"
-  },
-  {
-    "name": "Building the Data Layer for AI Agents",
-    "date": "2026-09-24T16:00:00.000Z",
-    "end_date": "2026-09-24T18:30:00.000Z",
-    "location": "60 Holborn Viaduct, London EC1A 2FD, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8j9cgfum",
-    "hosts": [
-      "TiDB",
-      "AWS"
-    ],
-    "attendee_count": 24,
-    "scraped_date": "2026-09-24T10:54:11.606074"
-  },
-  {
-    "name": "Build with AI. Build on Blockchain: The Eigen Protocol",
-    "date": "2026-09-24T16:30:00.000Z",
-    "end_date": "2026-09-24T20:00:00.000Z",
-    "location": "Various Labs HQ, 105 Parkway, London NW1 7PP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ma7uryic",
-    "hosts": [
-      "Ems",
-      "Team1",
-      "Diya Ranka"
-    ],
-    "attendee_count": 44,
-    "scraped_date": "2026-09-24T10:54:11.606102"
-  },
-  {
-    "name": "Physical AI Builders Meet-up with AWS and NVIDIA",
-    "date": "2026-09-24T16:30:00.000Z",
-    "end_date": "2026-09-24T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/k6rpis7o",
-    "hosts": [
-      "Catarina Pinto"
-    ],
-    "attendee_count": 145,
-    "scraped_date": "2026-09-24T10:54:11.606115"
-  },
-  {
-    "name": "Hacker News London Meetup #10 Demo Night",
-    "date": "2026-09-24T17:00:00.000Z",
-    "end_date": "2026-09-24T20:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/emutz2gd",
-    "hosts": [
-      "Stefan Brach",
-      "Edward Saperia"
-    ],
-    "attendee_count": 100,
-    "scraped_date": "2026-09-24T10:54:06.878517"
-  },
-  {
-    "name": "The AI Coding Agent Faceoff: Codex vs Claude Code | Members Only",
-    "date": "2026-09-24T17:00:00.000Z",
-    "end_date": "2026-09-24T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/women-nklb",
-    "hosts": [
-      "Women Defining AI .org",
-      "Rajni Rughwani",
-      "Sumathi Menon",
-      "Juliana"
-    ],
-    "attendee_count": 19,
-    "scraped_date": "2026-09-24T10:54:11.606140"
-  },
-  {
-    "name": "Build & Boulder",
-    "date": "2026-09-24T17:30:00.000Z",
-    "end_date": "2026-09-24T20:30:00.000Z",
-    "location": "Aldgate City Bouldering, 33 Aldgate High St, London EC3N 1AL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/rduzyhnd",
-    "hosts": [
-      "Sasha",
-      "Sagar Shah",
-      "Kieran Martin"
-    ],
-    "attendee_count": 35,
-    "scraped_date": "2026-09-24T10:54:06.878540"
-  },
-  {
-    "name": "Build Night: Vibe Code, Ship Happens with Softr",
-    "date": "2026-09-24T17:30:00.000Z",
-    "end_date": "2026-09-24T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/build-night-ship-happens-softr",
-    "hosts": [
-      "Dominic Norton",
-      "Wilfred Kasekende",
-      "Mathusa Thiruchenthoor",
-      "Sima Rahman-Huang",
-      "Sahar Mor (Bond AI)"
-    ],
-    "attendee_count": 70,
-    "scraped_date": "2026-09-24T10:54:11.606156"
-  },
-  {
     "name": "build fridays london - work on your startup alongside others (bring laptop)",
     "date": "2026-09-25T13:00:00.000Z",
     "end_date": "2026-09-25T19:00:00.000Z",
@@ -173,7 +15,7 @@
       "AI BEAVERS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-24T10:54:06.878588"
+    "scraped_date": "2026-09-25T10:56:16.386976"
   },
   {
     "name": "Friction As Freedom: Why We Build Cyberdecks",
@@ -190,8 +32,8 @@
       "Ana Roman",
       "Encode Club"
     ],
-    "attendee_count": 43,
-    "scraped_date": "2026-09-24T10:54:06.878605"
+    "attendee_count": 48,
+    "scraped_date": "2026-09-25T10:56:16.387015"
   },
   {
     "name": "Grok Bot Commerce London Hackathon",
@@ -207,8 +49,8 @@
       "Francisco Terpolilli",
       "Tamas Palecian"
     ],
-    "attendee_count": 193,
-    "scraped_date": "2026-09-24T10:54:11.606172"
+    "attendee_count": 192,
+    "scraped_date": "2026-09-25T10:56:21.619072"
   },
   {
     "name": "House London #2 | Data Hackathon",
@@ -223,8 +65,8 @@
     "hosts": [
       "Jam Coombes"
     ],
-    "attendee_count": 138,
-    "scraped_date": "2026-09-24T10:54:06.878615"
+    "attendee_count": 162,
+    "scraped_date": "2026-09-25T10:56:16.387038"
   },
   {
     "name": "HackWimbledon September 2026 #2",
@@ -241,8 +83,8 @@
       "Andy Piper",
       "Neil Lambeth"
     ],
-    "attendee_count": 8,
-    "scraped_date": "2026-09-24T10:54:06.878637"
+    "attendee_count": 10,
+    "scraped_date": "2026-09-25T10:56:16.387062"
   },
   {
     "name": "Beyond the Title: Building an Authentic Brand in the Corporate and Entrepreneurial World",
@@ -258,8 +100,8 @@
       "LatamTech Hub",
       "Latinoforce UK"
     ],
-    "attendee_count": 112,
-    "scraped_date": "2026-09-24T10:54:06.878666"
+    "attendee_count": 120,
+    "scraped_date": "2026-09-25T10:56:16.387109"
   },
   {
     "name": "When AI Gets It Wrong: Building with AI in High-Stakes, Regulated Industries",
@@ -275,7 +117,7 @@
       "Uliana Avtonomova"
     ],
     "attendee_count": 62,
-    "scraped_date": "2026-09-24T10:54:11.606219"
+    "scraped_date": "2026-09-25T10:56:21.619127"
   },
   {
     "name": "Before You Build Bigger: A Founder & Investor Discussion",
@@ -294,8 +136,8 @@
       "Hege Tollerud - Brighteye",
       "Alona Cherkassky"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-09-24T10:54:06.878682"
+    "attendee_count": 25,
+    "scraped_date": "2026-09-25T10:56:16.387130"
   },
   {
     "name": "SPEED BUILD 2026 | SCREENING",
@@ -310,8 +152,8 @@
     "hosts": [
       "PLUGGED"
     ],
-    "attendee_count": 18,
-    "scraped_date": "2026-09-24T10:54:06.878704"
+    "attendee_count": 22,
+    "scraped_date": "2026-09-25T10:56:16.387161"
   },
   {
     "name": "Stop Building the Wrong Thing with AI | Learn with Lovable",
@@ -329,7 +171,7 @@
       "Vibe Coding Collective"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-24T10:54:11.606243"
+    "scraped_date": "2026-09-25T10:56:21.619149"
   },
   {
     "name": "Vibe Coding Happy Hour: Base44 x Encode",
@@ -346,7 +188,7 @@
       "Base44"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-24T10:54:11.606255"
+    "scraped_date": "2026-09-25T10:56:21.619160"
   },
   {
     "name": "Claude x Softr: AI Build Day Hackathon",
@@ -361,23 +203,112 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 41,
-    "scraped_date": "2026-09-24T10:54:11.606336"
+    "attendee_count": 46,
+    "scraped_date": "2026-09-25T10:56:21.619193"
   },
   {
-    "name": "🇬🇧 Day 0 to day 100: Building the agentic enterprise with GKE",
-    "date": "2026-09-30T13:00:00.000Z",
-    "end_date": "2026-09-30T19:00:00.000Z",
-    "location": "Civo Tech Junction, First Floor, 32-37 Cowper St, London EC2A 4AW, UK",
+    "name": "Building on trust: why more businesses are launching investment propositions",
+    "date": "2026-09-30T14:05:00.000Z",
+    "end_date": "2026-09-30T14:50:00.000Z",
+    "location": "Protein Studios Shoreditch, 31 New Inn Yard, London EC2A 3EY, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/platform-pz5t",
+    "url": "https://lu.ma/hgan8zuf",
     "hosts": [
-      "Platform Engineering"
+      "Laura Laird",
+      "Casey Drabble",
+      "Lorna Lewsley",
+      "Ellie Casley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-24T10:54:11.606366"
+    "scraped_date": "2026-09-25T10:56:16.387200"
+  },
+  {
+    "name": "Rebuilding marketing for the AI era",
+    "date": "2026-10-01T07:30:00.000Z",
+    "end_date": "2026-10-01T10:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ew6l8zwl",
+    "hosts": [
+      "3Search Group",
+      "Charlie Rawstron"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-25T10:56:21.619251"
+  },
+  {
+    "name": "Dealroom API Hackathon",
+    "date": "2026-10-01T15:00:00.000Z",
+    "end_date": "2026-10-01T19:30:00.000Z",
+    "location": "Phoenix Court, home of LocalGlobe, Latitude and Solar, 2 Brill Pl, London NW1 1DX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/u3mhdld7",
+    "hosts": [
+      "Peter van Sabben",
+      "Orla Browne",
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-25T10:56:21.619266"
+  },
+  {
+    "name": "London GTM Lab #1: Build your outbound pipeline",
+    "date": "2026-10-01T15:00:00.000Z",
+    "end_date": "2026-10-01T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/y8gl4t13",
+    "hosts": [
+      "Adham Elman",
+      "Daniel Maruny"
+    ],
+    "attendee_count": 37,
+    "scraped_date": "2026-09-25T10:56:21.619276"
+  },
+  {
+    "name": "GeoCyclone: Space & Cyber - Hackers in Orbit (1st October)",
+    "date": "2026-10-01T17:00:00.000Z",
+    "end_date": "2026-10-01T21:00:00.000Z",
+    "location": "Balls Brothers Minster Court, Mincing Ln., London EC3R 7PP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/j2emh44d",
+    "hosts": [
+      "Dr Craig Jarvis"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-25T10:56:16.387259"
+  },
+  {
+    "name": "London Voice AI Meetup: Build your own voice app",
+    "date": "2026-10-01T17:00:00.000Z",
+    "end_date": "2026-10-01T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/k74g72a0",
+    "hosts": [
+      "Harnoor Singh",
+      "AssemblyAI",
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-25T10:56:21.619292"
   }
 ]
