@@ -13,8 +13,8 @@
       "LatamTech Hub",
       "Latinoforce UK"
     ],
-    "attendee_count": 127,
-    "scraped_date": "2026-09-28T12:35:17.771630"
+    "attendee_count": 135,
+    "scraped_date": "2026-09-29T11:55:42.298279"
   },
   {
     "name": "When AI Gets It Wrong: Building with AI in High-Stakes, Regulated Industries",
@@ -29,8 +29,8 @@
     "hosts": [
       "Uliana Avtonomova"
     ],
-    "attendee_count": 74,
-    "scraped_date": "2026-09-28T12:35:23.406957"
+    "attendee_count": 75,
+    "scraped_date": "2026-09-29T11:55:47.403904"
   },
   {
     "name": "Before You Build Bigger: A Founder & Investor Discussion",
@@ -48,24 +48,8 @@
       "Hege Tollerud - Brighteye",
       "Alona Cherkassky"
     ],
-    "attendee_count": 25,
-    "scraped_date": "2026-09-28T12:35:17.771673"
-  },
-  {
-    "name": "SPEED BUILD 2026 | SCREENING",
-    "date": "2026-09-29T17:30:00.000Z",
-    "end_date": "2026-09-29T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2w1x53o8",
-    "hosts": [
-      "PLUGGED"
-    ],
-    "attendee_count": 35,
-    "scraped_date": "2026-09-28T12:35:17.771705"
+    "attendee_count": 29,
+    "scraped_date": "2026-09-29T11:55:42.298323"
   },
   {
     "name": "Vibe Coding Happy Hour: Base44 x Encode",
@@ -82,7 +66,7 @@
       "Base44"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-28T12:35:23.406998"
+    "scraped_date": "2026-09-29T11:55:47.403951"
   },
   {
     "name": "Claude x Softr: AI Build Day Hackathon",
@@ -97,8 +81,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 52,
-    "scraped_date": "2026-09-28T12:35:23.407033"
+    "attendee_count": 60,
+    "scraped_date": "2026-09-29T11:55:47.403984"
   },
   {
     "name": "Building on trust: why more businesses are launching investment propositions",
@@ -118,7 +102,7 @@
       "Ellie Casley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-28T12:35:17.771738"
+    "scraped_date": "2026-09-29T11:55:42.298379"
   },
   {
     "name": "Rebuilding marketing for the AI era",
@@ -135,7 +119,7 @@
       "Charlie Rawstron"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-28T12:35:23.407091"
+    "scraped_date": "2026-09-29T11:55:47.404066"
   },
   {
     "name": "Dealroom API Hackathon",
@@ -153,7 +137,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-28T12:35:23.407106"
+    "scraped_date": "2026-09-29T11:55:47.404080"
   },
   {
     "name": "London GTM Lab #1: Build your outbound pipeline",
@@ -169,8 +153,8 @@
       "Adham Elman",
       "Daniel Maruny"
     ],
-    "attendee_count": 39,
-    "scraped_date": "2026-09-28T12:35:23.407117"
+    "attendee_count": 42,
+    "scraped_date": "2026-09-29T11:55:47.404091"
   },
   {
     "name": "GeoCyclone: Space & Cyber - Hackers in Orbit (1st October)",
@@ -186,7 +170,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-28T12:35:17.771820"
+    "scraped_date": "2026-09-29T11:55:42.298463"
   },
   {
     "name": "London Voice AI Meetup: Build your own voice app",
@@ -204,7 +188,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-28T12:35:23.407133"
+    "scraped_date": "2026-09-29T11:55:47.404113"
   },
   {
     "name": "Funnel Vision: Founders Open House with BuildHer Labs",
@@ -221,6 +205,24 @@
       "BuildHer Labs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-28T12:35:17.771852"
+    "scraped_date": "2026-09-29T11:55:42.298503"
+  },
+  {
+    "name": "EAT_HACK - the world's first AI & eating hackathon",
+    "date": "2026-10-03T08:00:00.000Z",
+    "end_date": "2026-10-03T19:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/hdf7uc43",
+    "hosts": [
+      "Gianni Austin",
+      "Oriol Morros Vilaseca",
+      "Sophie Yau"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-29T11:55:47.404152"
   }
 ]
