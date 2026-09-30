@@ -1,90 +1,5 @@
 [
   {
-    "name": "Beyond the Title: Building an Authentic Brand in the Corporate and Entrepreneurial World",
-    "date": "2026-09-29T15:30:00.000Z",
-    "end_date": "2026-09-29T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/7ekzlotk",
-    "hosts": [
-      "LatamTech Hub",
-      "Latinoforce UK"
-    ],
-    "attendee_count": 135,
-    "scraped_date": "2026-09-29T11:55:42.298279"
-  },
-  {
-    "name": "When AI Gets It Wrong: Building with AI in High-Stakes, Regulated Industries",
-    "date": "2026-09-29T16:30:00.000Z",
-    "end_date": "2026-09-29T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/lpq3smmt",
-    "hosts": [
-      "Uliana Avtonomova"
-    ],
-    "attendee_count": 75,
-    "scraped_date": "2026-09-29T11:55:47.403904"
-  },
-  {
-    "name": "Before You Build Bigger: A Founder & Investor Discussion",
-    "date": "2026-09-29T17:00:00.000Z",
-    "end_date": "2026-09-29T19:30:00.000Z",
-    "location": "12 Colville Mews, London W11 2DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/23ouw1kg",
-    "hosts": [
-      "Natasha Gorobinskaya",
-      "Alina Verbenchuk",
-      "Hege Tollerud - Brighteye",
-      "Alona Cherkassky"
-    ],
-    "attendee_count": 29,
-    "scraped_date": "2026-09-29T11:55:42.298323"
-  },
-  {
-    "name": "Vibe Coding Happy Hour: Base44 x Encode",
-    "date": "2026-09-29T17:30:00.000Z",
-    "end_date": "2026-09-29T20:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-czua",
-    "hosts": [
-      "Encode Club",
-      "Base44"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-29T11:55:47.403951"
-  },
-  {
-    "name": "Claude x Softr: AI Build Day Hackathon",
-    "date": "2026-09-30T09:00:00.000Z",
-    "end_date": "2026-09-30T14:00:00.000Z",
-    "location": "Yellow Building, Nicholas Rd, London W11 4AN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/softr-build-day-london",
-    "hosts": [
-      "Francisco Opazo"
-    ],
-    "attendee_count": 60,
-    "scraped_date": "2026-09-29T11:55:47.403984"
-  },
-  {
     "name": "Building on trust: why more businesses are launching investment propositions",
     "date": "2026-09-30T14:05:00.000Z",
     "end_date": "2026-09-30T14:50:00.000Z",
@@ -102,7 +17,23 @@
       "Ellie Casley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-29T11:55:42.298379"
+    "scraped_date": "2026-09-30T11:43:14.650806"
+  },
+  {
+    "name": "DOME UK by Phantom Defense: Building the Future of Counter-UAS Protection",
+    "date": "2026-09-30T15:00:00.000Z",
+    "end_date": "2026-09-30T20:30:00.000Z",
+    "location": "Excel London, Royal Victoria Dock, 1 Western Gateway, London E16 1XL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/DomeUK",
+    "hosts": [
+      "Viacheslav M"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-30T11:43:14.650832"
   },
   {
     "name": "Rebuilding marketing for the AI era",
@@ -119,7 +50,7 @@
       "Charlie Rawstron"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-29T11:55:47.404066"
+    "scraped_date": "2026-09-30T11:43:19.909683"
   },
   {
     "name": "Dealroom API Hackathon",
@@ -137,7 +68,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-29T11:55:47.404080"
+    "scraped_date": "2026-09-30T11:43:19.909703"
   },
   {
     "name": "London GTM Lab #1: Build your outbound pipeline",
@@ -154,7 +85,23 @@
       "Daniel Maruny"
     ],
     "attendee_count": 42,
-    "scraped_date": "2026-09-29T11:55:47.404091"
+    "scraped_date": "2026-09-30T11:43:19.909715"
+  },
+  {
+    "name": "AlphaBeta Hackathon",
+    "date": "2026-10-01T16:00:00.000Z",
+    "end_date": "2026-10-01T19:00:00.000Z",
+    "location": "King William Court, University of Greenwich, Old Royal Naval College Park Row, London SE10 9LS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/4cr98kxa",
+    "hosts": [
+      "Mehedi Mostafa"
+    ],
+    "attendee_count": 20,
+    "scraped_date": "2026-09-30T11:43:14.650895"
   },
   {
     "name": "GeoCyclone: Space & Cyber - Hackers in Orbit (1st October)",
@@ -170,7 +117,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-29T11:55:42.298463"
+    "scraped_date": "2026-09-30T11:43:14.650910"
   },
   {
     "name": "London Voice AI Meetup: Build your own voice app",
@@ -188,7 +135,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-29T11:55:47.404113"
+    "scraped_date": "2026-09-30T11:43:19.909733"
   },
   {
     "name": "Funnel Vision: Founders Open House with BuildHer Labs",
@@ -205,7 +152,7 @@
       "BuildHer Labs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-29T11:55:42.298503"
+    "scraped_date": "2026-09-30T11:43:14.650943"
   },
   {
     "name": "EAT_HACK - the world's first AI & eating hackathon",
@@ -223,6 +170,72 @@
       "Sophie Yau"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-29T11:55:47.404152"
+    "scraped_date": "2026-09-30T11:43:19.909764"
+  },
+  {
+    "name": "One-shot Vibecoding Game Jam",
+    "date": "2026-10-03T14:00:00.000Z",
+    "end_date": "2026-10-03T20:00:00.000Z",
+    "location": "London SE10 0GX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/wfs1fyt9",
+    "hosts": [
+      "BioCraftEd"
+    ],
+    "attendee_count": 12,
+    "scraped_date": "2026-09-30T11:43:19.909776"
+  },
+  {
+    "name": "Future States: Hackathon at No 10",
+    "date": "2026-10-05T08:00:00.000Z",
+    "end_date": "2026-10-06T16:00:00.000Z",
+    "location": "10 Downing St, London SW1A 2AA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/9vr0zktj",
+    "hosts": [
+      "David Gelberg",
+      "Katie",
+      "Eoin Mulgrew"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-09-30T11:43:14.650980"
+  },
+  {
+    "name": "Campaign Lab Autumn Hack Night!",
+    "date": "2026-10-05T18:00:00.000Z",
+    "end_date": "2026-10-05T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/h42dgcv7",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 11,
+    "scraped_date": "2026-09-30T11:43:14.650990"
+  },
+  {
+    "name": "Building From Zero: The Founder Stories Nobody Tells You",
+    "date": "2026-10-06T07:00:00.000Z",
+    "end_date": "2026-10-06T08:00:00.000Z",
+    "location": "Compane, Unit 5, QUADRANT ARCADE, 80 Regent St., London W1B 5RL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8hvyp9n8",
+    "hosts": [
+      "Stoa Team"
+    ],
+    "attendee_count": 6,
+    "scraped_date": "2026-09-30T11:43:14.651001"
   }
 ]
