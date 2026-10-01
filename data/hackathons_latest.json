@@ -1,58 +1,5 @@
 [
   {
-    "name": "Building on trust: why more businesses are launching investment propositions",
-    "date": "2026-09-30T14:05:00.000Z",
-    "end_date": "2026-09-30T14:50:00.000Z",
-    "location": "Protein Studios Shoreditch, 31 New Inn Yard, London EC2A 3EY, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/hgan8zuf",
-    "hosts": [
-      "Laura Laird",
-      "Casey Drabble",
-      "Lorna Lewsley",
-      "Jayne Scott",
-      "Ellie Casley"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:14.650806"
-  },
-  {
-    "name": "DOME UK by Phantom Defense: Building the Future of Counter-UAS Protection",
-    "date": "2026-09-30T15:00:00.000Z",
-    "end_date": "2026-09-30T20:30:00.000Z",
-    "location": "Excel London, Royal Victoria Dock, 1 Western Gateway, London E16 1XL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/DomeUK",
-    "hosts": [
-      "Viacheslav M"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:14.650832"
-  },
-  {
-    "name": "Rebuilding marketing for the AI era",
-    "date": "2026-10-01T07:30:00.000Z",
-    "end_date": "2026-10-01T10:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ew6l8zwl",
-    "hosts": [
-      "3Search Group",
-      "Charlie Rawstron"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:19.909683"
-  },
-  {
     "name": "Dealroom API Hackathon",
     "date": "2026-10-01T15:00:00.000Z",
     "end_date": "2026-10-01T19:30:00.000Z",
@@ -68,7 +15,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:19.909703"
+    "scraped_date": "2026-10-01T12:12:22.958434"
   },
   {
     "name": "London GTM Lab #1: Build your outbound pipeline",
@@ -85,7 +32,7 @@
       "Daniel Maruny"
     ],
     "attendee_count": 42,
-    "scraped_date": "2026-09-30T11:43:19.909715"
+    "scraped_date": "2026-10-01T12:12:22.958459"
   },
   {
     "name": "AlphaBeta Hackathon",
@@ -98,10 +45,11 @@
     "is_virtual": false,
     "url": "https://lu.ma/4cr98kxa",
     "hosts": [
-      "Mehedi Mostafa"
+      "Mehedi Mostafa",
+      "Asadullo Mirzaakhmedov"
     ],
-    "attendee_count": 20,
-    "scraped_date": "2026-09-30T11:43:14.650895"
+    "attendee_count": 34,
+    "scraped_date": "2026-10-01T12:12:17.710268"
   },
   {
     "name": "GeoCyclone: Space & Cyber - Hackers in Orbit (1st October)",
@@ -117,7 +65,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:14.650910"
+    "scraped_date": "2026-10-01T12:12:17.710318"
   },
   {
     "name": "London Voice AI Meetup: Build your own voice app",
@@ -135,7 +83,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:19.909733"
+    "scraped_date": "2026-10-01T12:12:22.958484"
   },
   {
     "name": "Funnel Vision: Founders Open House with BuildHer Labs",
@@ -152,7 +100,7 @@
       "BuildHer Labs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:14.650943"
+    "scraped_date": "2026-10-01T12:12:17.710372"
   },
   {
     "name": "EAT_HACK - the world's first AI & eating hackathon",
@@ -169,8 +117,8 @@
       "Oriol Morros Vilaseca",
       "Sophie Yau"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:19.909764"
+    "attendee_count": 70,
+    "scraped_date": "2026-10-01T12:12:22.958525"
   },
   {
     "name": "One-shot Vibecoding Game Jam",
@@ -185,8 +133,29 @@
     "hosts": [
       "BioCraftEd"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-09-30T11:43:19.909776"
+    "attendee_count": 15,
+    "scraped_date": "2026-10-01T12:12:22.958542"
+  },
+  {
+    "name": "London Hub - 7th Hack-Nation Global AI Hackathon",
+    "date": "2026-10-03T15:00:00.000Z",
+    "end_date": "2026-10-04T14:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/nln5g3e0",
+    "hosts": [
+      "Anqi",
+      "Kai Wiederhold",
+      "Linn _",
+      "Noah-Leon Rappl",
+      "Nico Froehlich",
+      "Christian Cierny"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-01T12:12:22.958569"
   },
   {
     "name": "Future States: Hackathon at No 10",
@@ -204,7 +173,7 @@
       "Eoin Mulgrew"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-09-30T11:43:14.650980"
+    "scraped_date": "2026-10-01T12:12:17.710401"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -219,8 +188,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 11,
-    "scraped_date": "2026-09-30T11:43:14.650990"
+    "attendee_count": 13,
+    "scraped_date": "2026-10-01T12:12:17.710417"
   },
   {
     "name": "Building From Zero: The Founder Stories Nobody Tells You",
@@ -235,7 +204,56 @@
     "hosts": [
       "Stoa Team"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-09-30T11:43:14.651001"
+    "attendee_count": 8,
+    "scraped_date": "2026-10-01T12:12:17.710428"
+  },
+  {
+    "name": "DDVC Builders Workshop",
+    "date": "2026-10-07T13:00:00.000Z",
+    "end_date": "2026-10-07T20:00:00.000Z",
+    "location": "Alphabeta Building, 14-18 Finsbury Square, London EC2A 2AH, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dwh5oz2l",
+    "hosts": [
+      "DDVC"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-01T12:12:17.710464"
+  },
+  {
+    "name": "Accio Work - Build a business in 90 minutes?",
+    "date": "2026-10-07T16:00:00.000Z",
+    "end_date": "2026-10-07T18:00:00.000Z",
+    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/0cvah4qc",
+    "hosts": [
+      "Lucas Clausen",
+      "Suhan Xie"
+    ],
+    "attendee_count": 44,
+    "scraped_date": "2026-10-01T12:12:22.958634"
+  },
+  {
+    "name": "Deep Tech, Unfiltered: Women Building What’s Next",
+    "date": "2026-10-07T17:00:00.000Z",
+    "end_date": "2026-10-07T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/vf71m9ng",
+    "hosts": [
+      "Saskia Munks"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-01T12:12:17.710482"
   }
 ]
