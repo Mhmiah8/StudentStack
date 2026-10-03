@@ -1,23 +1,5 @@
 [
   {
-    "name": "EAT_HACK - the world's first AI & eating hackathon",
-    "date": "2026-10-03T08:00:00.000Z",
-    "end_date": "2026-10-03T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/hdf7uc43",
-    "hosts": [
-      "Gianni Austin",
-      "Oriol Morros Vilaseca",
-      "Sophie Yau"
-    ],
-    "attendee_count": 71,
-    "scraped_date": "2026-10-02T11:42:08.861072"
-  },
-  {
     "name": "One-shot Vibecoding Game Jam",
     "date": "2026-10-03T14:00:00.000Z",
     "end_date": "2026-10-03T20:00:00.000Z",
@@ -31,7 +13,7 @@
       "BioCraftEd"
     ],
     "attendee_count": 15,
-    "scraped_date": "2026-10-02T11:42:08.861107"
+    "scraped_date": "2026-10-03T10:55:37.013950"
   },
   {
     "name": "London Hub - 7th Hack-Nation Global AI Hackathon",
@@ -49,10 +31,11 @@
       "Linn _",
       "Noah-Leon Rappl",
       "Nico Froehlich",
-      "Christian Cierny"
+      "Christian Cierny",
+      "Louis Le"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-02T11:42:08.861152"
+    "scraped_date": "2026-10-03T10:55:37.013972"
   },
   {
     "name": "Future States: Hackathon at No 10",
@@ -70,7 +53,25 @@
       "Eoin Mulgrew"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-02T11:42:03.856007"
+    "scraped_date": "2026-10-03T10:55:31.645489"
+  },
+  {
+    "name": "Big Screen Hack London: (Remote & in Person)",
+    "date": "2026-10-05T17:30:00.000Z",
+    "end_date": "2026-10-05T20:30:00.000Z",
+    "location": "Wonder Studios, The Church, 291 Hackney Rd, London E2 8NA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/y32h9si8",
+    "hosts": [
+      "Aaron Jones",
+      "Ed Rigg",
+      "Isy Imarni"
+    ],
+    "attendee_count": 244,
+    "scraped_date": "2026-10-03T10:55:37.013997"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -85,8 +86,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-10-02T11:42:03.856038"
+    "attendee_count": 17,
+    "scraped_date": "2026-10-03T10:55:31.645529"
   },
   {
     "name": "Building From Zero: The Founder Stories Nobody Tells You",
@@ -101,8 +102,8 @@
     "hosts": [
       "Stoa Team"
     ],
-    "attendee_count": 11,
-    "scraped_date": "2026-10-02T11:42:03.856052"
+    "attendee_count": 12,
+    "scraped_date": "2026-10-03T10:55:31.645547"
   },
   {
     "name": "DDVC Builders Workshop",
@@ -118,7 +119,7 @@
       "DDVC"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-02T11:42:03.856203"
+    "scraped_date": "2026-10-03T10:55:31.645594"
   },
   {
     "name": "AI Builders & Researchers Happy Hour - Kings Cross, London",
@@ -138,7 +139,7 @@
       "Sharad Gupta"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-02T11:42:08.861224"
+    "scraped_date": "2026-10-03T10:55:37.014045"
   },
   {
     "name": "Accio Work - Build a business in 90 minutes?",
@@ -155,7 +156,7 @@
       "Suhan Xie"
     ],
     "attendee_count": 44,
-    "scraped_date": "2026-10-02T11:42:08.861257"
+    "scraped_date": "2026-10-03T10:55:37.014055"
   },
   {
     "name": "Deep Tech, Unfiltered: Women Building What’s Next",
@@ -171,7 +172,7 @@
       "Saskia Munks"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-02T11:42:03.856241"
+    "scraped_date": "2026-10-03T10:55:31.645627"
   },
   {
     "name": "Builders Club #05",
@@ -187,7 +188,7 @@
       "Victoria Lawless"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-02T11:42:08.861294"
+    "scraped_date": "2026-10-03T10:55:37.014086"
   },
   {
     "name": "growth hacking workshop + build evening for sidepreneurs",
@@ -204,8 +205,8 @@
       "Ramit Mehta",
       "Juntos Offices"
     ],
-    "attendee_count": 72,
-    "scraped_date": "2026-10-02T11:42:03.856319"
+    "attendee_count": 79,
+    "scraped_date": "2026-10-03T10:55:31.645695"
   },
   {
     "name": "Building Next-Gen Learning Experiences",
@@ -223,6 +224,6 @@
       "Walter Mannino"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-02T11:42:08.861318"
+    "scraped_date": "2026-10-03T10:55:37.014136"
   }
 ]
