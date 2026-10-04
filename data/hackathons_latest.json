@@ -1,43 +1,5 @@
 [
   {
-    "name": "One-shot Vibecoding Game Jam",
-    "date": "2026-10-03T14:00:00.000Z",
-    "end_date": "2026-10-03T20:00:00.000Z",
-    "location": "London SE10 0GX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/wfs1fyt9",
-    "hosts": [
-      "BioCraftEd"
-    ],
-    "attendee_count": 15,
-    "scraped_date": "2026-10-03T10:55:37.013950"
-  },
-  {
-    "name": "London Hub - 7th Hack-Nation Global AI Hackathon",
-    "date": "2026-10-03T15:00:00.000Z",
-    "end_date": "2026-10-04T14:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/nln5g3e0",
-    "hosts": [
-      "Anqi",
-      "Kai Wiederhold",
-      "Linn _",
-      "Noah-Leon Rappl",
-      "Nico Froehlich",
-      "Christian Cierny",
-      "Louis Le"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-03T10:55:37.013972"
-  },
-  {
     "name": "Future States: Hackathon at No 10",
     "date": "2026-10-05T08:00:00.000Z",
     "end_date": "2026-10-06T16:00:00.000Z",
@@ -53,7 +15,7 @@
       "Eoin Mulgrew"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-03T10:55:31.645489"
+    "scraped_date": "2026-10-04T11:37:55.065290"
   },
   {
     "name": "Big Screen Hack London: (Remote & in Person)",
@@ -70,8 +32,8 @@
       "Ed Rigg",
       "Isy Imarni"
     ],
-    "attendee_count": 244,
-    "scraped_date": "2026-10-03T10:55:37.013997"
+    "attendee_count": 259,
+    "scraped_date": "2026-10-04T11:38:00.498802"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -86,8 +48,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-10-03T10:55:31.645529"
+    "attendee_count": 18,
+    "scraped_date": "2026-10-04T11:37:55.065329"
   },
   {
     "name": "Building From Zero: The Founder Stories Nobody Tells You",
@@ -103,7 +65,7 @@
       "Stoa Team"
     ],
     "attendee_count": 12,
-    "scraped_date": "2026-10-03T10:55:31.645547"
+    "scraped_date": "2026-10-04T11:37:55.065342"
   },
   {
     "name": "DDVC Builders Workshop",
@@ -119,7 +81,7 @@
       "DDVC"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-03T10:55:31.645594"
+    "scraped_date": "2026-10-04T11:37:55.065387"
   },
   {
     "name": "AI Builders & Researchers Happy Hour - Kings Cross, London",
@@ -139,7 +101,7 @@
       "Sharad Gupta"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-03T10:55:37.014045"
+    "scraped_date": "2026-10-04T11:38:00.498868"
   },
   {
     "name": "Accio Work - Build a business in 90 minutes?",
@@ -156,7 +118,7 @@
       "Suhan Xie"
     ],
     "attendee_count": 44,
-    "scraped_date": "2026-10-03T10:55:37.014055"
+    "scraped_date": "2026-10-04T11:38:00.498880"
   },
   {
     "name": "Deep Tech, Unfiltered: Women Building What’s Next",
@@ -172,7 +134,7 @@
       "Saskia Munks"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-03T10:55:31.645627"
+    "scraped_date": "2026-10-04T11:37:55.065408"
   },
   {
     "name": "Builders Club #05",
@@ -188,7 +150,7 @@
       "Victoria Lawless"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-03T10:55:37.014086"
+    "scraped_date": "2026-10-04T11:38:00.498913"
   },
   {
     "name": "growth hacking workshop + build evening for sidepreneurs",
@@ -205,8 +167,8 @@
       "Ramit Mehta",
       "Juntos Offices"
     ],
-    "attendee_count": 79,
-    "scraped_date": "2026-10-03T10:55:31.645695"
+    "attendee_count": 83,
+    "scraped_date": "2026-10-04T11:37:55.065471"
   },
   {
     "name": "Building Next-Gen Learning Experiences",
@@ -224,6 +186,6 @@
       "Walter Mannino"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-03T10:55:37.014136"
+    "scraped_date": "2026-10-04T11:38:00.498937"
   }
 ]
