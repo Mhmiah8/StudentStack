@@ -1,23 +1,5 @@
 [
   {
-    "name": "Future States: Hackathon at No 10",
-    "date": "2026-10-05T08:00:00.000Z",
-    "end_date": "2026-10-06T16:00:00.000Z",
-    "location": "10 Downing St, London SW1A 2AA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/9vr0zktj",
-    "hosts": [
-      "David Gelberg",
-      "Katie",
-      "Eoin Mulgrew"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-04T11:37:55.065290"
-  },
-  {
     "name": "Big Screen Hack London: (Remote & in Person)",
     "date": "2026-10-05T17:30:00.000Z",
     "end_date": "2026-10-05T20:30:00.000Z",
@@ -32,8 +14,8 @@
       "Ed Rigg",
       "Isy Imarni"
     ],
-    "attendee_count": 259,
-    "scraped_date": "2026-10-04T11:38:00.498802"
+    "attendee_count": 272,
+    "scraped_date": "2026-10-05T13:15:34.374709"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -48,8 +30,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 18,
-    "scraped_date": "2026-10-04T11:37:55.065329"
+    "attendee_count": 22,
+    "scraped_date": "2026-10-05T13:15:29.050270"
   },
   {
     "name": "Building From Zero: The Founder Stories Nobody Tells You",
@@ -64,8 +46,8 @@
     "hosts": [
       "Stoa Team"
     ],
-    "attendee_count": 12,
-    "scraped_date": "2026-10-04T11:37:55.065342"
+    "attendee_count": 15,
+    "scraped_date": "2026-10-05T13:15:29.050303"
   },
   {
     "name": "DDVC Builders Workshop",
@@ -81,7 +63,7 @@
       "DDVC"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-04T11:37:55.065387"
+    "scraped_date": "2026-10-05T13:15:29.050363"
   },
   {
     "name": "AI Builders & Researchers Happy Hour - Kings Cross, London",
@@ -101,7 +83,7 @@
       "Sharad Gupta"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-04T11:38:00.498868"
+    "scraped_date": "2026-10-05T13:15:34.374786"
   },
   {
     "name": "Accio Work - Build a business in 90 minutes?",
@@ -117,8 +99,8 @@
       "Lucas Clausen",
       "Suhan Xie"
     ],
-    "attendee_count": 44,
-    "scraped_date": "2026-10-04T11:38:00.498880"
+    "attendee_count": 46,
+    "scraped_date": "2026-10-05T13:15:34.374799"
   },
   {
     "name": "Deep Tech, Unfiltered: Women Building What’s Next",
@@ -134,7 +116,7 @@
       "Saskia Munks"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-04T11:37:55.065408"
+    "scraped_date": "2026-10-05T13:15:29.050393"
   },
   {
     "name": "Builders Club #05",
@@ -150,7 +132,7 @@
       "Victoria Lawless"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-04T11:38:00.498913"
+    "scraped_date": "2026-10-05T13:15:34.374854"
   },
   {
     "name": "growth hacking workshop + build evening for sidepreneurs",
@@ -167,8 +149,8 @@
       "Ramit Mehta",
       "Juntos Offices"
     ],
-    "attendee_count": 83,
-    "scraped_date": "2026-10-04T11:37:55.065471"
+    "attendee_count": 86,
+    "scraped_date": "2026-10-05T13:15:29.050471"
   },
   {
     "name": "Building Next-Gen Learning Experiences",
@@ -186,6 +168,44 @@
       "Walter Mannino"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-04T11:38:00.498937"
+    "scraped_date": "2026-10-05T13:15:34.374882"
+  },
+  {
+    "name": "Building Defensible Companies: Episode 3: Craig Donaldson - Founder Metro Bank",
+    "date": "2026-10-09T17:00:00.000Z",
+    "end_date": "2026-10-09T19:30:00.000Z",
+    "location": "140 Goswell Rd., London EC1V 7DY, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/i3f7nqdb",
+    "hosts": [
+      "Leo Tyson",
+      "Ria Chopra",
+      "Ashleigh Gardner",
+      "Leo Tyson"
+    ],
+    "attendee_count": 86,
+    "scraped_date": "2026-10-05T13:15:34.374928"
+  },
+  {
+    "name": "London AI Hackathon: AI Transformation of Services",
+    "date": "2026-10-10T08:00:00.000Z",
+    "end_date": "2026-10-10T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ja5x0m76",
+    "hosts": [
+      "Dwelly Group",
+      "Sagar",
+      "Sarah Martin",
+      "EQT Partners"
+    ],
+    "attendee_count": 81,
+    "scraped_date": "2026-10-05T13:15:34.374945"
   }
 ]
