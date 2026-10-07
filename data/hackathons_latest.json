@@ -13,7 +13,7 @@
       "DDVC"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-06T12:33:32.842385"
+    "scraped_date": "2026-10-07T12:26:42.046405"
   },
   {
     "name": "AI Builders & Researchers Happy Hour - Kings Cross, London",
@@ -33,7 +33,7 @@
       "Sharad Gupta"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-06T12:33:38.181392"
+    "scraped_date": "2026-10-07T12:26:46.917335"
   },
   {
     "name": "Accio Work - Build a business in 90 minutes? Evening #1",
@@ -49,8 +49,8 @@
       "Lucas Clausen",
       "Suhan Xie"
     ],
-    "attendee_count": 49,
-    "scraped_date": "2026-10-06T12:33:38.181416"
+    "attendee_count": 45,
+    "scraped_date": "2026-10-07T12:26:46.917357"
   },
   {
     "name": "Deep Tech, Unfiltered: Women Building What’s Next",
@@ -66,7 +66,7 @@
       "Saskia Munks"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-06T12:33:32.842438"
+    "scraped_date": "2026-10-07T12:26:42.046456"
   },
   {
     "name": "Building a Fintech: The £614 Billion Question",
@@ -81,8 +81,8 @@
     "hosts": [
       "Stoa Team"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-10-06T12:33:32.842486"
+    "attendee_count": 8,
+    "scraped_date": "2026-10-07T12:26:42.046497"
   },
   {
     "name": "Builders Club #05",
@@ -98,24 +98,7 @@
       "Victoria Lawless"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-06T12:33:38.181454"
-  },
-  {
-    "name": "Accio Work - Build a business in 90 minutes? Evening #2",
-    "date": "2026-10-08T16:00:00.000Z",
-    "end_date": "2026-10-08T18:00:00.000Z",
-    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/rlc18dep",
-    "hosts": [
-      "Lucas Clausen",
-      "Suhan Xie"
-    ],
-    "attendee_count": 16,
-    "scraped_date": "2026-10-06T12:33:38.181468"
+    "scraped_date": "2026-10-07T12:26:46.917386"
   },
   {
     "name": "growth hacking workshop + build evening for sidepreneurs",
@@ -132,8 +115,8 @@
       "Ramit Mehta",
       "Juntos Offices"
     ],
-    "attendee_count": 99,
-    "scraped_date": "2026-10-06T12:33:32.842534"
+    "attendee_count": 113,
+    "scraped_date": "2026-10-07T12:26:42.046536"
   },
   {
     "name": "Building Next-Gen Learning Experiences",
@@ -152,7 +135,7 @@
       "Meagan Loyst"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-06T12:33:38.181498"
+    "scraped_date": "2026-10-07T12:26:46.917411"
   },
   {
     "name": "Building Defensible Companies: Episode 3: Craig Donaldson - Founder Metro Bank",
@@ -170,8 +153,8 @@
       "Ashleigh Gardner",
       "Leo Tyson"
     ],
-    "attendee_count": 88,
-    "scraped_date": "2026-10-06T12:33:38.181547"
+    "attendee_count": 89,
+    "scraped_date": "2026-10-07T12:26:46.917454"
   },
   {
     "name": "London AI Hackathon: AI Transformation of Services",
@@ -189,8 +172,26 @@
       "Sarah Martin",
       "EQT Partners"
     ],
-    "attendee_count": 85,
-    "scraped_date": "2026-10-06T12:33:38.181562"
+    "attendee_count": 84,
+    "scraped_date": "2026-10-07T12:26:46.917467"
+  },
+  {
+    "name": "Girls Hack Hard",
+    "date": "2026-10-10T11:00:00.000Z",
+    "end_date": "2026-10-11T17:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/kbi88hck",
+    "hosts": [
+      "Aash Chaturvedy",
+      "Strand Ventures",
+      "Sophia Hussain"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-07T12:26:42.046581"
   },
   {
     "name": "Hacks & Handlers: A Comms & Media Happy Hour",
@@ -208,6 +209,39 @@
       "Cheryl Douglas"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-06T12:33:38.181574"
+    "scraped_date": "2026-10-07T12:26:46.917480"
+  },
+  {
+    "name": "MVP Bootcamp - Build 10x Faster with AI",
+    "date": "2026-10-13T16:00:00.000Z",
+    "end_date": "2026-10-27T21:00:00.000Z",
+    "location": "Venture Space, Bayes Business School, 106 Bunhill Row, London EC1Y 8TZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/cityve-4c2f",
+    "hosts": [
+      "CityVentures"
+    ],
+    "attendee_count": 17,
+    "scraped_date": "2026-10-07T12:26:46.917498"
+  },
+  {
+    "name": "AI Builders Monthly London",
+    "date": "2026-10-13T17:00:00.000Z",
+    "end_date": "2026-10-13T20:00:00.000Z",
+    "location": "beyond The Bower, 207 Old St, London EC1V 9NR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lon-oct13",
+    "hosts": [
+      "AI Builders",
+      "Base44"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-07T12:26:46.917512"
   }
 ]
