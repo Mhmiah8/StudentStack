@@ -1,104 +1,20 @@
 [
   {
-    "name": "DDVC Builders Workshop",
-    "date": "2026-10-07T13:00:00.000Z",
-    "end_date": "2026-10-07T20:00:00.000Z",
-    "location": "Alphabeta Building, 14-18 Finsbury Square, London EC2A 2AH, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dwh5oz2l",
-    "hosts": [
-      "DDVC"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-07T12:26:42.046405"
-  },
-  {
-    "name": "AI Builders & Researchers Happy Hour - Kings Cross, London",
-    "date": "2026-10-07T15:30:00.000Z",
-    "end_date": "2026-10-07T18:30:00.000Z",
+    "name": "⚡Future of the Grid for the Data Center buildout⚡ - DEEP TECH LONDON",
+    "date": "2026-10-08T17:00:00.000Z",
+    "end_date": "2026-10-08T20:00:00.000Z",
     "location": "",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/oxnsksvo",
+    "url": "https://lu.ma/gq2yrsrp",
     "hosts": [
-      "Ken Morimoto",
-      "Hargun Sodhi",
-      "Rishab Mohan",
-      "Shinjini Srivastava",
-      "Sharad Gupta"
+      "Léo Hadrien Sgambato",
+      "Umer"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-07T12:26:46.917335"
-  },
-  {
-    "name": "Accio Work - Build a business in 90 minutes? Evening #1",
-    "date": "2026-10-07T16:00:00.000Z",
-    "end_date": "2026-10-07T18:00:00.000Z",
-    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/0cvah4qc",
-    "hosts": [
-      "Lucas Clausen",
-      "Suhan Xie"
-    ],
-    "attendee_count": 45,
-    "scraped_date": "2026-10-07T12:26:46.917357"
-  },
-  {
-    "name": "Deep Tech, Unfiltered: Women Building What’s Next",
-    "date": "2026-10-07T17:00:00.000Z",
-    "end_date": "2026-10-07T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/vf71m9ng",
-    "hosts": [
-      "Saskia Munks"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-07T12:26:42.046456"
-  },
-  {
-    "name": "Building a Fintech: The £614 Billion Question",
-    "date": "2026-10-08T07:00:00.000Z",
-    "end_date": "2026-10-08T08:00:00.000Z",
-    "location": "Compane, Unit 5, QUADRANT ARCADE, 80 Regent St., London W1B 5RL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/mebpe009",
-    "hosts": [
-      "Stoa Team"
-    ],
-    "attendee_count": 8,
-    "scraped_date": "2026-10-07T12:26:42.046497"
-  },
-  {
-    "name": "Builders Club #05",
-    "date": "2026-10-08T15:00:00.000Z",
-    "end_date": "2026-10-08T18:00:00.000Z",
-    "location": "22 Upper Woburn Pl, London WC1H 0JW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/builders-club-5",
-    "hosts": [
-      "Victoria Lawless"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-07T12:26:46.917386"
+    "attendee_count": 11,
+    "scraped_date": "2026-10-08T12:36:11.984049"
   },
   {
     "name": "growth hacking workshop + build evening for sidepreneurs",
@@ -115,8 +31,8 @@
       "Ramit Mehta",
       "Juntos Offices"
     ],
-    "attendee_count": 113,
-    "scraped_date": "2026-10-07T12:26:42.046536"
+    "attendee_count": 114,
+    "scraped_date": "2026-10-08T12:36:11.984074"
   },
   {
     "name": "Building Next-Gen Learning Experiences",
@@ -135,7 +51,25 @@
       "Meagan Loyst"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-07T12:26:46.917411"
+    "scraped_date": "2026-10-08T12:36:17.273648"
+  },
+  {
+    "name": "London Film Festival AI Film Meetup (BIG SCREEN HACK)",
+    "date": "2026-10-08T17:30:00.000Z",
+    "end_date": "2026-10-08T20:30:00.000Z",
+    "location": "The Fence, Farringdon, 67-69 Cowcross St, London EC1M 6BP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bigscreen-43w4",
+    "hosts": [
+      "Aaron Jones",
+      "Ed Rigg",
+      "Isy Imarni"
+    ],
+    "attendee_count": 43,
+    "scraped_date": "2026-10-08T12:36:17.273682"
   },
   {
     "name": "Building Defensible Companies: Episode 3: Craig Donaldson - Founder Metro Bank",
@@ -153,8 +87,8 @@
       "Ashleigh Gardner",
       "Leo Tyson"
     ],
-    "attendee_count": 89,
-    "scraped_date": "2026-10-07T12:26:46.917454"
+    "attendee_count": 92,
+    "scraped_date": "2026-10-08T12:36:17.273717"
   },
   {
     "name": "London AI Hackathon: AI Transformation of Services",
@@ -170,10 +104,11 @@
       "Dwelly Group",
       "Sagar",
       "Sarah Martin",
-      "EQT Partners"
+      "EQT Partners",
+      "Dmitry Khanukov"
     ],
-    "attendee_count": 84,
-    "scraped_date": "2026-10-07T12:26:46.917467"
+    "attendee_count": 92,
+    "scraped_date": "2026-10-08T12:36:17.273732"
   },
   {
     "name": "Girls Hack Hard",
@@ -191,7 +126,25 @@
       "Sophia Hussain"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-07T12:26:42.046581"
+    "scraped_date": "2026-10-08T12:36:11.984190"
+  },
+  {
+    "name": "HackWimbledon October 2026 #1",
+    "date": "2026-10-11T11:00:00.000Z",
+    "end_date": "2026-10-11T15:00:00.000Z",
+    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8fzyk6x7",
+    "hosts": [
+      "Bazza",
+      "Neil Lambeth",
+      "Andy Piper"
+    ],
+    "attendee_count": 7,
+    "scraped_date": "2026-10-08T12:36:11.984204"
   },
   {
     "name": "Hacks & Handlers: A Comms & Media Happy Hour",
@@ -209,7 +162,27 @@
       "Cheryl Douglas"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-07T12:26:46.917480"
+    "scraped_date": "2026-10-08T12:36:17.273755"
+  },
+  {
+    "name": "Build your Investor Brand Breakfast by Ladies in VC & LinkedIn",
+    "date": "2026-10-13T07:45:00.000Z",
+    "end_date": "2026-10-13T09:45:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/yyrmtyix",
+    "hosts": [
+      "Emilie Vallauri",
+      "Diana Krantz",
+      "Abi",
+      "Alix Brunet",
+      "Elinor Honigstein"
+    ],
+    "attendee_count": 38,
+    "scraped_date": "2026-10-08T12:36:11.984227"
   },
   {
     "name": "MVP Bootcamp - Build 10x Faster with AI",
@@ -224,8 +197,27 @@
     "hosts": [
       "CityVentures"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-10-07T12:26:46.917498"
+    "attendee_count": 22,
+    "scraped_date": "2026-10-08T12:36:17.273774"
+  },
+  {
+    "name": "Fintech Hackathon",
+    "date": "2026-10-13T17:00:00.000Z",
+    "end_date": "2026-10-13T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ex76h9ua",
+    "hosts": [
+      "Singapore Global Network",
+      "Luka Dadiani",
+      "Johnathan Kwok",
+      "LSE Generate"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-08T12:36:11.984255"
   },
   {
     "name": "AI Builders Monthly London",
@@ -242,6 +234,6 @@
       "Base44"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-07T12:26:46.917512"
+    "scraped_date": "2026-10-08T12:36:17.273791"
   }
 ]
