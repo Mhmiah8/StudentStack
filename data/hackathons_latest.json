@@ -1,62 +1,5 @@
 [
   {
-    "name": "Building Defensible Companies: Episode 3: Craig Donaldson - Founder Metro Bank",
-    "date": "2026-10-09T17:00:00.000Z",
-    "end_date": "2026-10-09T19:30:00.000Z",
-    "location": "140 Goswell Rd., London EC1V 7DY, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/i3f7nqdb",
-    "hosts": [
-      "Leo Tyson",
-      "Ria Chopra",
-      "Ashleigh Gardner",
-      "Leo Tyson"
-    ],
-    "attendee_count": 93,
-    "scraped_date": "2026-10-09T12:23:50.832077"
-  },
-  {
-    "name": "London AI Hackathon: AI Transformation of Services",
-    "date": "2026-10-10T08:00:00.000Z",
-    "end_date": "2026-10-10T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ja5x0m76",
-    "hosts": [
-      "Dwelly Group",
-      "Sagar",
-      "Sarah Martin",
-      "EQT Partners",
-      "Dmitry Khanukov"
-    ],
-    "attendee_count": 90,
-    "scraped_date": "2026-10-09T12:23:50.832108"
-  },
-  {
-    "name": "Girls Hack Hard",
-    "date": "2026-10-10T11:00:00.000Z",
-    "end_date": "2026-10-11T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/kbi88hck",
-    "hosts": [
-      "Aash Chaturvedy",
-      "Strand Ventures",
-      "Sophia Hussain"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-09T12:23:45.821167"
-  },
-  {
     "name": "HackWimbledon October 2026 #1",
     "date": "2026-10-11T11:00:00.000Z",
     "end_date": "2026-10-11T15:00:00.000Z",
@@ -71,8 +14,8 @@
       "Neil Lambeth",
       "Andy Piper"
     ],
-    "attendee_count": 6,
-    "scraped_date": "2026-10-09T12:23:45.821230"
+    "attendee_count": 8,
+    "scraped_date": "2026-10-10T11:42:38.193227"
   },
   {
     "name": "Hacks & Handlers: A Comms & Media Happy Hour",
@@ -90,7 +33,7 @@
       "Cheryl Douglas"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-09T12:23:50.832131"
+    "scraped_date": "2026-10-10T11:42:42.689082"
   },
   {
     "name": "Build your Investor Brand Breakfast by Ladies in VC & LinkedIn",
@@ -109,8 +52,8 @@
       "Alix Brunet",
       "Elinor Honigstein"
     ],
-    "attendee_count": 43,
-    "scraped_date": "2026-10-09T12:23:45.821252"
+    "attendee_count": 42,
+    "scraped_date": "2026-10-10T11:42:38.193280"
   },
   {
     "name": "MVP Bootcamp - Build 10x Faster with AI",
@@ -125,8 +68,8 @@
     "hosts": [
       "CityVentures"
     ],
-    "attendee_count": 27,
-    "scraped_date": "2026-10-09T12:23:50.832151"
+    "attendee_count": 32,
+    "scraped_date": "2026-10-10T11:42:42.689119"
   },
   {
     "name": "Fintech Hackathon",
@@ -145,7 +88,7 @@
       "LSE Generate"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-09T12:23:45.821357"
+    "scraped_date": "2026-10-10T11:42:38.193321"
   },
   {
     "name": "AI Builders Monthly London",
@@ -162,7 +105,7 @@
       "Base44"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-09T12:23:50.832171"
+    "scraped_date": "2026-10-10T11:42:42.689142"
   },
   {
     "name": "Build-A-Claw: London",
@@ -178,7 +121,7 @@
       "NVIDIA"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-09T12:23:50.832240"
+    "scraped_date": "2026-10-10T11:42:42.689189"
   },
   {
     "name": "Buildathon w/ MongoDB & Vercel & Tavily",
@@ -191,10 +134,14 @@
     "is_virtual": false,
     "url": "https://lu.ma/buildathon001",
     "hosts": [
-      "John Roche"
+      "John Roche",
+      "Maja Brlek",
+      "Benjamin",
+      "Charlie Ward",
+      "Leopold Wohlgemuth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-09T12:23:45.821390"
+    "scraped_date": "2026-10-10T11:42:38.193371"
   },
   {
     "name": "Beyond the Funnel: Building a Customer Acquisition Engine That Actually Scales",
@@ -211,7 +158,7 @@
       "Music Technology UK"
     ],
     "attendee_count": 11,
-    "scraped_date": "2026-10-09T12:23:45.821399"
+    "scraped_date": "2026-10-10T11:42:38.193383"
   },
   {
     "name": "Cloud Platform Engineering London: Building for the unexpected and Teams Culture",
@@ -227,8 +174,8 @@
       "Ethan Sumner",
       "Duncan Goldie"
     ],
-    "attendee_count": 19,
-    "scraped_date": "2026-10-09T12:23:45.821407"
+    "attendee_count": 21,
+    "scraped_date": "2026-10-10T11:42:38.193399"
   },
   {
     "name": "Conversations in the AI era | Builder Community Meetup | London 💂",
@@ -245,8 +192,8 @@
       "Sam Hepburn",
       "Twilio"
     ],
-    "attendee_count": 103,
-    "scraped_date": "2026-10-09T12:23:50.832271"
+    "attendee_count": 125,
+    "scraped_date": "2026-10-10T11:42:42.689212"
   },
   {
     "name": "Stripe Startups Build Day London",
@@ -262,6 +209,6 @@
       "Stripe Startups"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-09T12:23:45.821448"
+    "scraped_date": "2026-10-10T11:42:38.193452"
   }
 ]
