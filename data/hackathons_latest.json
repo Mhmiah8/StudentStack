@@ -1,23 +1,5 @@
 [
   {
-    "name": "HackWimbledon October 2026 #1",
-    "date": "2026-10-11T11:00:00.000Z",
-    "end_date": "2026-10-11T15:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8fzyk6x7",
-    "hosts": [
-      "Bazza",
-      "Neil Lambeth",
-      "Andy Piper"
-    ],
-    "attendee_count": 8,
-    "scraped_date": "2026-10-10T11:42:38.193227"
-  },
-  {
     "name": "Hacks & Handlers: A Comms & Media Happy Hour",
     "date": "2026-10-12T16:30:00.000Z",
     "end_date": "2026-10-12T18:30:00.000Z",
@@ -33,7 +15,7 @@
       "Cheryl Douglas"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-10T11:42:42.689082"
+    "scraped_date": "2026-10-11T11:55:44.991669"
   },
   {
     "name": "Build your Investor Brand Breakfast by Ladies in VC & LinkedIn",
@@ -53,7 +35,7 @@
       "Elinor Honigstein"
     ],
     "attendee_count": 42,
-    "scraped_date": "2026-10-10T11:42:38.193280"
+    "scraped_date": "2026-10-11T11:55:40.499405"
   },
   {
     "name": "MVP Bootcamp - Build 10x Faster with AI",
@@ -68,8 +50,8 @@
     "hosts": [
       "CityVentures"
     ],
-    "attendee_count": 32,
-    "scraped_date": "2026-10-10T11:42:42.689119"
+    "attendee_count": 36,
+    "scraped_date": "2026-10-11T11:55:44.991706"
   },
   {
     "name": "Fintech Hackathon",
@@ -88,7 +70,7 @@
       "LSE Generate"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-10T11:42:38.193321"
+    "scraped_date": "2026-10-11T11:55:40.499444"
   },
   {
     "name": "AI Builders Monthly London",
@@ -105,7 +87,7 @@
       "Base44"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-10T11:42:42.689142"
+    "scraped_date": "2026-10-11T11:55:44.991727"
   },
   {
     "name": "Build-A-Claw: London",
@@ -121,7 +103,7 @@
       "NVIDIA"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-10T11:42:42.689189"
+    "scraped_date": "2026-10-11T11:55:44.991769"
   },
   {
     "name": "Buildathon w/ MongoDB & Vercel & Tavily",
@@ -141,7 +123,7 @@
       "Leopold Wohlgemuth"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-10T11:42:38.193371"
+    "scraped_date": "2026-10-11T11:55:40.499489"
   },
   {
     "name": "Beyond the Funnel: Building a Customer Acquisition Engine That Actually Scales",
@@ -158,7 +140,7 @@
       "Music Technology UK"
     ],
     "attendee_count": 11,
-    "scraped_date": "2026-10-10T11:42:38.193383"
+    "scraped_date": "2026-10-11T11:55:40.499499"
   },
   {
     "name": "Cloud Platform Engineering London: Building for the unexpected and Teams Culture",
@@ -175,7 +157,7 @@
       "Duncan Goldie"
     ],
     "attendee_count": 21,
-    "scraped_date": "2026-10-10T11:42:38.193399"
+    "scraped_date": "2026-10-11T11:55:40.499509"
   },
   {
     "name": "Conversations in the AI era | Builder Community Meetup | London 💂",
@@ -192,8 +174,25 @@
       "Sam Hepburn",
       "Twilio"
     ],
-    "attendee_count": 125,
-    "scraped_date": "2026-10-10T11:42:42.689212"
+    "attendee_count": 145,
+    "scraped_date": "2026-10-11T11:55:44.991804"
+  },
+  {
+    "name": "Solo Builders LDN: Coworking & Founder Advisory - Vol. 5",
+    "date": "2026-10-15T08:30:00.000Z",
+    "end_date": "2026-10-15T14:30:00.000Z",
+    "location": "London Startup Center, First Floor, 180 Brompton Rd, London SW3 1HQ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2wjq2ere",
+    "hosts": [
+      "Sefa Oruc",
+      "London Startup Center"
+    ],
+    "attendee_count": 13,
+    "scraped_date": "2026-10-11T11:55:40.499559"
   },
   {
     "name": "Stripe Startups Build Day London",
@@ -209,6 +208,24 @@
       "Stripe Startups"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-10T11:42:38.193452"
+    "scraped_date": "2026-10-11T11:55:40.499570"
+  },
+  {
+    "name": "Stripe x Briefcase: AI FinTech London Hackathon",
+    "date": "2026-10-15T16:15:00.000Z",
+    "end_date": "2026-10-15T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/3k1pazop",
+    "hosts": [
+      "events briefcase",
+      "Jan Stehlik",
+      "Fionn O Colmain"
+    ],
+    "attendee_count": 233,
+    "scraped_date": "2026-10-11T11:55:44.991855"
   }
 ]
