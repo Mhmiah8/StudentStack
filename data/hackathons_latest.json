@@ -15,7 +15,7 @@
       "Cheryl Douglas"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-11T11:55:44.991669"
+    "scraped_date": "2026-10-12T14:06:03.815720"
   },
   {
     "name": "Build your Investor Brand Breakfast by Ladies in VC & LinkedIn",
@@ -34,8 +34,8 @@
       "Alix Brunet",
       "Elinor Honigstein"
     ],
-    "attendee_count": 42,
-    "scraped_date": "2026-10-11T11:55:40.499405"
+    "attendee_count": 45,
+    "scraped_date": "2026-10-12T14:05:58.911736"
   },
   {
     "name": "MVP Bootcamp - Build 10x Faster with AI",
@@ -50,8 +50,8 @@
     "hosts": [
       "CityVentures"
     ],
-    "attendee_count": 36,
-    "scraped_date": "2026-10-11T11:55:44.991706"
+    "attendee_count": 43,
+    "scraped_date": "2026-10-12T14:06:03.815758"
   },
   {
     "name": "Fintech Hackathon",
@@ -70,7 +70,7 @@
       "LSE Generate"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-11T11:55:40.499444"
+    "scraped_date": "2026-10-12T14:05:58.911802"
   },
   {
     "name": "AI Builders Monthly London",
@@ -87,7 +87,7 @@
       "Base44"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-11T11:55:44.991727"
+    "scraped_date": "2026-10-12T14:06:03.815818"
   },
   {
     "name": "Build-A-Claw: London",
@@ -103,7 +103,7 @@
       "NVIDIA"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-11T11:55:44.991769"
+    "scraped_date": "2026-10-12T14:06:03.815860"
   },
   {
     "name": "Buildathon w/ MongoDB & Vercel & Tavily",
@@ -118,12 +118,14 @@
     "hosts": [
       "John Roche",
       "Maja Brlek",
-      "Benjamin",
+      "Benjamin N'gonga",
       "Charlie Ward",
-      "Leopold Wohlgemuth"
+      "Leopold Wohlgemuth",
+      "Jared Brown",
+      "Olivia Fossali"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-11T11:55:40.499489"
+    "scraped_date": "2026-10-12T14:05:58.911855"
   },
   {
     "name": "Beyond the Funnel: Building a Customer Acquisition Engine That Actually Scales",
@@ -139,8 +141,8 @@
       "Maria Solla",
       "Music Technology UK"
     ],
-    "attendee_count": 11,
-    "scraped_date": "2026-10-11T11:55:40.499499"
+    "attendee_count": 13,
+    "scraped_date": "2026-10-12T14:05:58.911866"
   },
   {
     "name": "Cloud Platform Engineering London: Building for the unexpected and Teams Culture",
@@ -157,7 +159,7 @@
       "Duncan Goldie"
     ],
     "attendee_count": 21,
-    "scraped_date": "2026-10-11T11:55:40.499509"
+    "scraped_date": "2026-10-12T14:05:58.911877"
   },
   {
     "name": "Conversations in the AI era | Builder Community Meetup | London 💂",
@@ -174,8 +176,8 @@
       "Sam Hepburn",
       "Twilio"
     ],
-    "attendee_count": 145,
-    "scraped_date": "2026-10-11T11:55:44.991804"
+    "attendee_count": 179,
+    "scraped_date": "2026-10-12T14:06:03.815882"
   },
   {
     "name": "Solo Builders LDN: Coworking & Founder Advisory - Vol. 5",
@@ -191,8 +193,8 @@
       "Sefa Oruc",
       "London Startup Center"
     ],
-    "attendee_count": 13,
-    "scraped_date": "2026-10-11T11:55:40.499559"
+    "attendee_count": 29,
+    "scraped_date": "2026-10-12T14:05:58.911926"
   },
   {
     "name": "Stripe Startups Build Day London",
@@ -208,7 +210,7 @@
       "Stripe Startups"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-11T11:55:40.499570"
+    "scraped_date": "2026-10-12T14:05:58.911935"
   },
   {
     "name": "Stripe x Briefcase: AI FinTech London Hackathon",
@@ -225,7 +227,7 @@
       "Jan Stehlik",
       "Fionn O Colmain"
     ],
-    "attendee_count": 233,
-    "scraped_date": "2026-10-11T11:55:44.991855"
+    "attendee_count": 234,
+    "scraped_date": "2026-10-12T14:06:03.815941"
   }
 ]
