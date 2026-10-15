@@ -1,129 +1,5 @@
 [
   {
-    "name": "Build-A-Claw: London",
-    "date": "2026-10-14T13:00:00.000Z",
-    "end_date": "2026-10-14T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bac-london",
-    "hosts": [
-      "NVIDIA"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610352"
-  },
-  {
-    "name": "Buildathon w/ MongoDB & Vercel & Tavily",
-    "date": "2026-10-14T16:30:00.000Z",
-    "end_date": "2026-10-14T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/buildathon001",
-    "hosts": [
-      "John Roche",
-      "Maja Brlek",
-      "Benjamin N'gonga",
-      "Charlie Ward",
-      "Leopold Wohlgemuth",
-      "Jared Brown",
-      "Olivia Fossali",
-      "MongoDB"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:37.149933"
-  },
-  {
-    "name": "Beyond the Funnel: Building a Customer Acquisition Engine That Actually Scales",
-    "date": "2026-10-14T17:00:00.000Z",
-    "end_date": "2026-10-14T19:00:00.000Z",
-    "location": "H.O.M.E (House of Music and Entertainment), 20 Commercial St, London E1 6LP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/znqazsq2",
-    "hosts": [
-      "Maria Solla",
-      "Music Technology UK"
-    ],
-    "attendee_count": 13,
-    "scraped_date": "2026-10-14T10:58:37.149964"
-  },
-  {
-    "name": "Cloud Platform Engineering London: Building for the unexpected and Teams Culture",
-    "date": "2026-10-14T17:00:00.000Z",
-    "end_date": "2026-10-14T19:30:00.000Z",
-    "location": "Experis Ltd, 4th floor, 7 Devonshire Square, London EC2M 4YE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/7je3tibk",
-    "hosts": [
-      "Ethan Sumner",
-      "Duncan Goldie"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:37.149977"
-  },
-  {
-    "name": "Conversations in the AI era | Builder Community Meetup | London 💂",
-    "date": "2026-10-14T17:00:00.000Z",
-    "end_date": "2026-10-14T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/d14cpj24",
-    "hosts": [
-      "Ryan Britnell",
-      "Sam Hepburn",
-      "Twilio"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610391"
-  },
-  {
-    "name": "Solo Builders LDN: Coworking & Founder Advisory - Vol. 5",
-    "date": "2026-10-15T08:30:00.000Z",
-    "end_date": "2026-10-15T14:30:00.000Z",
-    "location": "London Startup Center, First Floor, 180 Brompton Rd, London SW3 1HQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/2wjq2ere",
-    "hosts": [
-      "Sefa Oruc",
-      "London Startup Center"
-    ],
-    "attendee_count": 44,
-    "scraped_date": "2026-10-14T10:58:37.150029"
-  },
-  {
-    "name": "Stripe Startups Build Day London",
-    "date": "2026-10-15T09:00:00.000Z",
-    "end_date": "2026-10-15T15:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/builddaylondon",
-    "hosts": [
-      "Stripe Startups"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:37.150039"
-  },
-  {
     "name": "Stripe x Briefcase: AI FinTech London Hackathon",
     "date": "2026-10-15T16:15:00.000Z",
     "end_date": "2026-10-15T21:00:00.000Z",
@@ -138,8 +14,8 @@
       "Jan Stehlik",
       "Fionn O Colmain"
     ],
-    "attendee_count": 225,
-    "scraped_date": "2026-10-14T10:58:42.610470"
+    "attendee_count": 222,
+    "scraped_date": "2026-10-15T10:40:08.464579"
   },
   {
     "name": "App After Dark: Mobile App Hackathon",
@@ -156,7 +32,7 @@
       "Samuel Klacman"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610486"
+    "scraped_date": "2026-10-15T10:40:08.464612"
   },
   {
     "name": "Build on the New Normal",
@@ -174,7 +50,7 @@
       "Isaac Batho"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610502"
+    "scraped_date": "2026-10-15T10:40:08.464628"
   },
   {
     "name": "London | Claude Meetup for non coder SMEs",
@@ -191,7 +67,7 @@
       "Claude Community"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610517"
+    "scraped_date": "2026-10-15T10:40:08.464642"
   },
   {
     "name": "Physical Tech Series: Build Your Own NFC Keychain",
@@ -209,7 +85,7 @@
       "Levina Basra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610529"
+    "scraped_date": "2026-10-15T10:40:08.464656"
   },
   {
     "name": "Notion Build Bar London",
@@ -225,7 +101,7 @@
       "Faisa Mohamed"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:37.150085"
+    "scraped_date": "2026-10-15T10:40:03.304879"
   },
   {
     "name": "Women in Innovation: Building Solutions That Matter",
@@ -240,8 +116,8 @@
     "hosts": [
       "MentorMind Education"
     ],
-    "attendee_count": 89,
-    "scraped_date": "2026-10-14T10:58:37.150102"
+    "attendee_count": 95,
+    "scraped_date": "2026-10-15T10:40:03.304913"
   },
   {
     "name": "Claude Hackathon + Showcase | Better Student Life",
@@ -259,7 +135,7 @@
       "Abdul Azeem Makarim"
     ],
     "attendee_count": 181,
-    "scraped_date": "2026-10-14T10:58:42.610543"
+    "scraped_date": "2026-10-15T10:40:08.464672"
   },
   {
     "name": "Reinvent the Wheel: A Tools for Science Hack",
@@ -282,7 +158,7 @@
       "Encode: AI for Science, by Pillar VC"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610552"
+    "scraped_date": "2026-10-15T10:40:08.464682"
   },
   {
     "name": "Big Screen Hack: AI Shorts + The Odyssey on IMAX",
@@ -299,8 +175,8 @@
       "Ed Rigg",
       "Isy Imarni"
     ],
-    "attendee_count": 242,
-    "scraped_date": "2026-10-14T10:58:42.610563"
+    "attendee_count": 303,
+    "scraped_date": "2026-10-15T10:40:08.464697"
   },
   {
     "name": "Real-Time Video Agents Hack - LDN",
@@ -321,7 +197,25 @@
       "Ram Bansal"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610573"
+    "scraped_date": "2026-10-15T10:40:08.464706"
+  },
+  {
+    "name": "IKU Womxn in STEM Hackathon",
+    "date": "2026-10-17T08:00:00.000Z",
+    "end_date": "2026-10-18T16:00:00.000Z",
+    "location": "Bush House North Wing, King's College London, 30 Aldwych, London WC2B 4BG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zo6qsl13",
+    "hosts": [
+      "KCL Womxn In STEM",
+      "IC WSET",
+      "UCL Women In Stem Society"
+    ],
+    "attendee_count": 275,
+    "scraped_date": "2026-10-15T10:40:03.304934"
   },
   {
     "name": "Physical AI Hack",
@@ -340,7 +234,23 @@
       "Elie de Fressenel"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-14T10:58:42.610581"
+    "scraped_date": "2026-10-15T10:40:08.464715"
+  },
+  {
+    "name": "Chat Hackers - Hack Day",
+    "date": "2026-10-17T09:00:00.000Z",
+    "end_date": "2026-10-17T19:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/campaign-nz6y",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 32,
+    "scraped_date": "2026-10-15T10:40:03.304951"
   },
   {
     "name": "☕️🍵 Brewing with AI x Bilt: Build Your Own Mobile App, No Coding Required!",
@@ -356,7 +266,27 @@
       "Sofia Jovellana"
     ],
     "attendee_count": 9,
-    "scraped_date": "2026-10-14T10:58:42.610593"
+    "scraped_date": "2026-10-15T10:40:08.464733"
+  },
+  {
+    "name": "BuildHer x Lovable SheBuilds: From Idea to MVP in a Day",
+    "date": "2026-10-19T08:00:00.000Z",
+    "end_date": "2026-10-19T11:00:00.000Z",
+    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/rm4ijlmf",
+    "hosts": [
+      "BuildHer Labs",
+      "Lovable",
+      "CoAI Club",
+      "Claudia Maggi",
+      "Duoduo Li"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-15T10:40:03.304977"
   },
   {
     "name": "Builders Foundry #4 - Intelligent Agents & FDE",
@@ -372,7 +302,126 @@
       "Shubhangi goyal",
       "Encode Club"
     ],
-    "attendee_count": 50,
-    "scraped_date": "2026-10-14T10:58:42.610602"
+    "attendee_count": 53,
+    "scraped_date": "2026-10-15T10:40:08.464750"
+  },
+  {
+    "name": "AI Pilled [Builder] #04",
+    "date": "2026-10-19T17:30:00.000Z",
+    "end_date": "2026-10-19T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/72n0cytd",
+    "hosts": [
+      "Nuan Zhang",
+      "Yiran Qin"
+    ],
+    "attendee_count": 52,
+    "scraped_date": "2026-10-15T10:40:08.464761"
+  },
+  {
+    "name": "Campaign Lab Autumn Hack Night!",
+    "date": "2026-10-19T18:00:00.000Z",
+    "end_date": "2026-10-19T21:00:00.000Z",
+    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bsaq2dya",
+    "hosts": [
+      "Noam"
+    ],
+    "attendee_count": 11,
+    "scraped_date": "2026-10-15T10:40:03.305005"
+  },
+  {
+    "name": "Encode Coffee Club: Grand Opening",
+    "date": "2026-10-20T09:00:00.000Z",
+    "end_date": "2026-10-20T16:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/encode-2ibk",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-15T10:40:03.305023"
+  },
+  {
+    "name": "Softr + Corgi: Coworking for AI Builders & Operators",
+    "date": "2026-10-20T09:00:00.000Z",
+    "end_date": "2026-10-20T13:30:00.000Z",
+    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/softr-corgi-coworking",
+    "hosts": [
+      "Francisco Opazo",
+      "Claudia Maggi"
+    ],
+    "attendee_count": 48,
+    "scraped_date": "2026-10-15T10:40:08.464775"
+  },
+  {
+    "name": "An Afternoon with Ed Lee on Building Pricing Systems for Growth",
+    "date": "2026-10-20T14:00:00.000Z",
+    "end_date": "2026-10-20T16:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ijhm1kjp",
+    "hosts": [
+      "Techspace",
+      "Antler in the UK",
+      "HelloAdvisr"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-15T10:40:03.305032"
+  },
+  {
+    "name": "Quantum Computing: The race to build the winning machine @ IDEALondon",
+    "date": "2026-10-20T16:30:00.000Z",
+    "end_date": "2026-10-20T19:00:00.000Z",
+    "location": "IDEALondon, 69 Wilson St, London EC2A 2BB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/jmnunkvc",
+    "hosts": [
+      "IDEALondon",
+      "WilbeLABS"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-15T10:40:03.305046"
+  },
+  {
+    "name": "FinOps Hackathon",
+    "date": "2026-10-20T16:45:00.000Z",
+    "end_date": "2026-10-20T22:00:00.000Z",
+    "location": "Central London, London WC2N 5DU, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/a8ig66i3",
+    "hosts": [
+      "Marcela Donatello",
+      "Joanna Wlazlak",
+      "Gamal Mubarak"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-15T10:40:08.464789"
   }
 ]
