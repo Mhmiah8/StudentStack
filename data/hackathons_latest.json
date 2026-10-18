@@ -1,21 +1,5 @@
 [
   {
-    "name": "☕️🍵 Brewing with AI x Bilt: Build Your Own Mobile App, No Coding Required!",
-    "date": "2026-10-17T13:00:00.000Z",
-    "end_date": "2026-10-17T16:00:00.000Z",
-    "location": "Elephant and Castle, London, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/enzmhqj1",
-    "hosts": [
-      "Sofia Jovellana"
-    ],
-    "attendee_count": 9,
-    "scraped_date": "2026-10-17T09:58:26.150222"
-  },
-  {
     "name": "BuildHer x Lovable SheBuilds: From Idea to MVP in a Day",
     "date": "2026-10-19T08:00:00.000Z",
     "end_date": "2026-10-19T11:00:00.000Z",
@@ -33,7 +17,7 @@
       "Duoduo Li"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:21.537012"
+    "scraped_date": "2026-10-18T10:11:40.438204"
   },
   {
     "name": "Builders Foundry #4 - Intelligent Agents & FDE",
@@ -49,8 +33,8 @@
       "Shubhangi goyal",
       "Encode Club"
     ],
-    "attendee_count": 56,
-    "scraped_date": "2026-10-17T09:58:26.150250"
+    "attendee_count": 58,
+    "scraped_date": "2026-10-18T10:11:45.253809"
   },
   {
     "name": "AI Pilled [Builder] #04",
@@ -66,8 +50,8 @@
       "Nuan Zhang",
       "Yiran Qin"
     ],
-    "attendee_count": 53,
-    "scraped_date": "2026-10-17T09:58:26.150260"
+    "attendee_count": 56,
+    "scraped_date": "2026-10-18T10:11:45.253833"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -82,8 +66,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 13,
-    "scraped_date": "2026-10-17T09:58:21.537047"
+    "attendee_count": 21,
+    "scraped_date": "2026-10-18T10:11:40.438252"
   },
   {
     "name": "Encode Coffee Club: Grand Opening",
@@ -99,7 +83,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:21.537063"
+    "scraped_date": "2026-10-18T10:11:40.438268"
   },
   {
     "name": "Softr + Corgi: Coworking for AI Builders & Operators",
@@ -116,7 +100,7 @@
       "Claudia Maggi"
     ],
     "attendee_count": 61,
-    "scraped_date": "2026-10-17T09:58:26.150273"
+    "scraped_date": "2026-10-18T10:11:45.253848"
   },
   {
     "name": "An Afternoon with Ed Lee on Building Pricing Systems for Growth",
@@ -134,7 +118,7 @@
       "HelloAdvisr"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:21.537073"
+    "scraped_date": "2026-10-18T10:11:40.438279"
   },
   {
     "name": "Quantum Computing: The race to build the winning machine @ IDEALondon",
@@ -151,7 +135,7 @@
       "WilbeLABS"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:21.537084"
+    "scraped_date": "2026-10-18T10:11:40.438305"
   },
   {
     "name": "FinOps Hackathon",
@@ -169,7 +153,7 @@
       "Gamal Mubarak"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:26.150285"
+    "scraped_date": "2026-10-18T10:11:45.253862"
   },
   {
     "name": "AI Builders and Databases London",
@@ -186,7 +170,7 @@
       "Daniel"
     ],
     "attendee_count": 59,
-    "scraped_date": "2026-10-17T09:58:26.150329"
+    "scraped_date": "2026-10-18T10:11:45.253908"
   },
   {
     "name": "Open Code #21",
@@ -202,7 +186,7 @@
       "Phoenix Court"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:26.150338"
+    "scraped_date": "2026-10-18T10:11:45.253919"
   },
   {
     "name": "Intellectual Property & Building a Moat: Protect and Defend Your Edge | Growth Capability Programme",
@@ -218,7 +202,7 @@
       "Janus "
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:21.537128"
+    "scraped_date": "2026-10-18T10:11:40.438350"
   },
   {
     "name": "Building the Agent Factory: Build, Test and Improve Agents as a Team",
@@ -235,7 +219,7 @@
       "Rod Rivera"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:26.150357"
+    "scraped_date": "2026-10-18T10:11:45.253941"
   },
   {
     "name": "Moonfire • Build Night Hackathon",
@@ -251,7 +235,25 @@
       "Moonfire 🌗🔥"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-17T09:58:26.150365"
+    "scraped_date": "2026-10-18T10:11:45.253952"
+  },
+  {
+    "name": "Lovable MVP Building With LSE Women In Entrepreneurship",
+    "date": "2026-10-22T17:00:00.000Z",
+    "end_date": "2026-10-22T19:30:00.000Z",
+    "location": "London School of Economics and Political Science, Houghton St, London WC2A 2AE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/a8b4k2f8",
+    "hosts": [
+      "Hector Laine",
+      "Zaynab",
+      "Cezara Zaharia"
+    ],
+    "attendee_count": 30,
+    "scraped_date": "2026-10-18T10:11:40.438378"
   },
   {
     "name": "MUG London October 2026: Building a Cloud-Native Data Stack with MongoDB",
@@ -269,6 +271,23 @@
       "Abhishek Bagga"
     ],
     "attendee_count": 14,
-    "scraped_date": "2026-10-17T09:58:21.537152"
+    "scraped_date": "2026-10-18T10:11:40.438392"
+  },
+  {
+    "name": "Exits: What Founders Are Building Now",
+    "date": "2026-10-22T17:30:00.000Z",
+    "end_date": "2026-10-22T20:30:00.000Z",
+    "location": "Arc Space London, 13 Tottenham Mews, London W1T 4AQ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/tower-s0kx",
+    "hosts": [
+      "Anna Parfenova",
+      "Founders Connect"
+    ],
+    "attendee_count": 40,
+    "scraped_date": "2026-10-18T10:11:40.438405"
   }
 ]
