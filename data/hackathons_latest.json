@@ -1,70 +1,5 @@
 [
   {
-    "name": "AI Builders and Databases London",
-    "date": "2026-10-21T17:30:00.000Z",
-    "end_date": "2026-10-21T20:30:00.000Z",
-    "location": "The Clermont London, Charing Cross, Strand, London WC2N 5HX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/clickh-ykgp",
-    "hosts": [
-      "ClickHouse Events",
-      "Daniel"
-    ],
-    "attendee_count": 70,
-    "scraped_date": "2026-10-21T10:58:12.784335"
-  },
-  {
-    "name": "Open Code #21",
-    "date": "2026-10-21T17:30:00.000Z",
-    "end_date": "2026-10-21T21:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/kbismdnn",
-    "hosts": [
-      "Phoenix Court"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:12.784361"
-  },
-  {
-    "name": "UCLe x Zymix: How to build your StartUp in AI in 2026",
-    "date": "2026-10-21T17:30:00.000Z",
-    "end_date": "2026-10-21T19:00:00.000Z",
-    "location": "Roberts Building, London WC1E 7JE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bu5yr4ag",
-    "hosts": [
-      "Rehaan Arora"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:12.784374"
-  },
-  {
-    "name": "Intellectual Property & Building a Moat: Protect and Defend Your Edge | Growth Capability Programme",
-    "date": "2026-10-22T08:30:00.000Z",
-    "end_date": "2026-10-22T14:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/su7qgk18",
-    "hosts": [
-      "Janus "
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:07.460995"
-  },
-  {
     "name": "Build an Agent Factory with OpenAI’s Agents API and Rasa Mantle",
     "date": "2026-10-22T14:00:00.000Z",
     "end_date": "2026-10-22T17:00:00.000Z",
@@ -78,8 +13,8 @@
       "Rasa",
       "Rod Rivera"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:12.784412"
+    "attendee_count": 51,
+    "scraped_date": "2026-10-22T10:57:28.684392"
   },
   {
     "name": "Moonfire • Build Night Hackathon",
@@ -95,7 +30,7 @@
       "Moonfire 🌗🔥"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:12.784428"
+    "scraped_date": "2026-10-22T10:57:28.684414"
   },
   {
     "name": "Lovable MVP Building With LSE Women In Entrepreneurship",
@@ -112,8 +47,8 @@
       "Zaynab",
       "Cezara Zaharia"
     ],
-    "attendee_count": 35,
-    "scraped_date": "2026-10-21T10:58:07.461048"
+    "attendee_count": 37,
+    "scraped_date": "2026-10-22T10:57:24.057023"
   },
   {
     "name": "MUG London October 2026: Building a Cloud-Native Data Stack with MongoDB",
@@ -130,8 +65,8 @@
       "Marcus Peck",
       "Abhishek Bagga"
     ],
-    "attendee_count": 16,
-    "scraped_date": "2026-10-21T10:58:07.461078"
+    "attendee_count": 18,
+    "scraped_date": "2026-10-22T10:57:24.057048"
   },
   {
     "name": "Grok Bot Community Engineering London Hackathon",
@@ -148,8 +83,8 @@
       "Louis Le",
       "Keanu Czirjak"
     ],
-    "attendee_count": 207,
-    "scraped_date": "2026-10-21T10:58:12.784461"
+    "attendee_count": 214,
+    "scraped_date": "2026-10-22T10:57:28.684444"
   },
   {
     "name": "Exits: What Founders Are Building Now",
@@ -165,8 +100,8 @@
       "Anna Parfenova",
       "Founders Connect"
     ],
-    "attendee_count": 53,
-    "scraped_date": "2026-10-21T10:58:07.461100"
+    "attendee_count": 57,
+    "scraped_date": "2026-10-22T10:57:24.057070"
   },
   {
     "name": "KXHL: Build & Demo (with ElevenLabs & Tavily)",
@@ -182,8 +117,8 @@
       "Yi Hein",
       "Tavily Events"
     ],
-    "attendee_count": 34,
-    "scraped_date": "2026-10-21T10:58:07.461130"
+    "attendee_count": 42,
+    "scraped_date": "2026-10-22T10:57:24.057112"
   },
   {
     "name": "Encode London Hackathon",
@@ -199,7 +134,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:12.784494"
+    "scraped_date": "2026-10-22T10:57:28.684474"
   },
   {
     "name": "CEC x Imperial Hackspace Tour",
@@ -215,7 +150,7 @@
       "Climate Entrepreneurs"
     ],
     "attendee_count": 23,
-    "scraped_date": "2026-10-21T10:58:07.461144"
+    "scraped_date": "2026-10-22T10:57:24.057127"
   },
   {
     "name": "Night Shift: $65K Mubit Hackathon in London",
@@ -233,7 +168,7 @@
       "Lily Jahan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:12.784505"
+    "scraped_date": "2026-10-22T10:57:28.684484"
   },
   {
     "name": "Company Brain Buildathon",
@@ -251,24 +186,7 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:12.784528"
-  },
-  {
-    "name": "Decode & Detect: The XRPL AI Hack",
-    "date": "2026-10-24T08:30:00.000Z",
-    "end_date": "2026-10-24T18:00:00.000Z",
-    "location": "IDEALondon, 69 Wilson St, London EC2A 2BB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/71nckopa",
-    "hosts": [
-      "UK CBT",
-      "Narmin Rahimli"
-    ],
-    "attendee_count": 200,
-    "scraped_date": "2026-10-21T10:58:12.784537"
+    "scraped_date": "2026-10-22T10:57:28.684505"
   },
   {
     "name": "Canva Gen©️ - Student Hackathon London 🚀",
@@ -284,7 +202,7 @@
       "Ana Davila"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:07.461164"
+    "scraped_date": "2026-10-22T10:57:24.057156"
   },
   {
     "name": "Typelevel Open Source Hack London",
@@ -302,7 +220,7 @@
       "Sabrina Konrad-lee"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:07.461221"
+    "scraped_date": "2026-10-22T10:57:24.057176"
   },
   {
     "name": "Noetic X Nebius One Day Hackathon",
@@ -323,7 +241,7 @@
       "Imperial Entrepreneurs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:12.784549"
+    "scraped_date": "2026-10-22T10:57:28.684515"
   },
   {
     "name": "Robomasters Hackathon",
@@ -340,8 +258,8 @@
       "Foo Ming li",
       "Ejaz Ahmed"
     ],
-    "attendee_count": 70,
-    "scraped_date": "2026-10-21T10:58:07.461241"
+    "attendee_count": 77,
+    "scraped_date": "2026-10-22T10:57:24.057193"
   },
   {
     "name": "The Founder Speed Date: powered by BuildHer Labs × Lovable × FounderMatcha × Corgi",
@@ -362,6 +280,90 @@
       "Romeo and Juliet"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-21T10:58:07.461258"
+    "scraped_date": "2026-10-22T10:57:24.057209"
+  },
+  {
+    "name": "How to build and scale a tech company w/ Quinten Selhorst (Partner @EWOR, Co-Founder @Felyx ($80M raised + exited))",
+    "date": "2026-10-26T18:00:00.000Z",
+    "end_date": "2026-10-26T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/59wtdbtx",
+    "hosts": [
+      "EWOR Team",
+      "Imperial AI",
+      "Imperial Entrepreneurs"
+    ],
+    "attendee_count": 38,
+    "scraped_date": "2026-10-22T10:57:24.057224"
+  },
+  {
+    "name": "Product Designer Gym 🏋️ - Build fast with AI",
+    "date": "2026-10-26T18:00:00.000Z",
+    "end_date": "2026-10-26T20:00:00.000Z",
+    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8iocojgz",
+    "hosts": [
+      "Phoebe"
+    ],
+    "attendee_count": 17,
+    "scraped_date": "2026-10-22T10:57:28.684539"
+  },
+  {
+    "name": "[RESCHEDULE TBC] SPEED BUILD 2026 | SCREENING",
+    "date": "2026-10-26T18:30:00.000Z",
+    "end_date": "2026-10-26T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/2w1x53o8",
+    "hosts": [
+      "PLUGGED"
+    ],
+    "attendee_count": 36,
+    "scraped_date": "2026-10-22T10:57:24.057238"
+  },
+  {
+    "name": "Building Blocks: Using AI for Business",
+    "date": "2026-10-27T08:30:00.000Z",
+    "end_date": "2026-10-27T13:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/colori-3p87",
+    "hosts": [
+      "Preeti Chattha"
+    ],
+    "attendee_count": 187,
+    "scraped_date": "2026-10-22T10:57:28.684552"
+  },
+  {
+    "name": "Building Your Team’s AI Tool Stack: What to Use, When and Why",
+    "date": "2026-10-27T18:00:00.000Z",
+    "end_date": "2026-10-27T20:00:00.000Z",
+    "location": "IDEALondon, 69 Wilson St, London EC2A 2BB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/fvxie3hz",
+    "hosts": [
+      "IDEALondon",
+      "WilbeLABS",
+      "Breakthrough Social Enterprise"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-22T10:57:28.684578"
   }
 ]
