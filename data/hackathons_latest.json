@@ -1,112 +1,8 @@
 [
   {
-    "name": "Build an Agent Factory with OpenAI’s Agents API and Rasa Mantle",
-    "date": "2026-10-22T14:00:00.000Z",
-    "end_date": "2026-10-22T17:00:00.000Z",
-    "location": "Techspace Worship Street, 25 Worship St, London EC2A 2DX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/rasa-0v2q",
-    "hosts": [
-      "Rasa",
-      "Rod Rivera"
-    ],
-    "attendee_count": 51,
-    "scraped_date": "2026-10-22T10:57:28.684392"
-  },
-  {
-    "name": "Moonfire • Build Night Hackathon",
-    "date": "2026-10-22T15:30:00.000Z",
-    "end_date": "2026-10-22T20:00:00.000Z",
-    "location": "One Triton Square, 1 Triton Square, London NW1 3BF, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/o1su5iop",
-    "hosts": [
-      "Moonfire 🌗🔥"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:28.684414"
-  },
-  {
-    "name": "Lovable MVP Building With LSE Women In Entrepreneurship",
-    "date": "2026-10-22T17:00:00.000Z",
-    "end_date": "2026-10-22T19:30:00.000Z",
-    "location": "London School of Economics and Political Science, Houghton St, London WC2A 2AE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/a8b4k2f8",
-    "hosts": [
-      "Hector Laine",
-      "Zaynab",
-      "Cezara Zaharia"
-    ],
-    "attendee_count": 37,
-    "scraped_date": "2026-10-22T10:57:24.057023"
-  },
-  {
-    "name": "MUG London October 2026: Building a Cloud-Native Data Stack with MongoDB",
-    "date": "2026-10-22T17:00:00.000Z",
-    "end_date": "2026-10-22T20:00:00.000Z",
-    "location": "MongoDB UK, 240 Blackfriars Rd, London SE1 8NW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tp6lpjw3",
-    "hosts": [
-      "MongoDB Community",
-      "Marcus Peck",
-      "Abhishek Bagga"
-    ],
-    "attendee_count": 18,
-    "scraped_date": "2026-10-22T10:57:24.057048"
-  },
-  {
-    "name": "Grok Bot Community Engineering London Hackathon",
-    "date": "2026-10-22T17:00:00.000Z",
-    "end_date": "2026-10-22T22:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/eveur09a",
-    "hosts": [
-      "Francisco Terpolilli",
-      "Louis Le",
-      "Keanu Czirjak"
-    ],
-    "attendee_count": 214,
-    "scraped_date": "2026-10-22T10:57:28.684444"
-  },
-  {
-    "name": "Exits: What Founders Are Building Now",
-    "date": "2026-10-22T17:30:00.000Z",
-    "end_date": "2026-10-22T20:30:00.000Z",
-    "location": "Arc Space London, 13 Tottenham Mews, London W1T 4AQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tower-s0kx",
-    "hosts": [
-      "Anna Parfenova",
-      "Founders Connect"
-    ],
-    "attendee_count": 57,
-    "scraped_date": "2026-10-22T10:57:24.057070"
-  },
-  {
     "name": "KXHL: Build & Demo (with ElevenLabs & Tavily)",
     "date": "2026-10-23T11:00:00.000Z",
-    "end_date": "2026-10-23T14:00:00.000Z",
+    "end_date": "2026-10-23T13:00:00.000Z",
     "location": "52 Charrington St, London NW1 1RD, UK",
     "city": "London",
     "country": "United Kingdom",
@@ -117,8 +13,8 @@
       "Yi Hein",
       "Tavily Events"
     ],
-    "attendee_count": 42,
-    "scraped_date": "2026-10-22T10:57:24.057112"
+    "attendee_count": 44,
+    "scraped_date": "2026-10-23T10:49:59.514754"
   },
   {
     "name": "Encode London Hackathon",
@@ -134,7 +30,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:28.684474"
+    "scraped_date": "2026-10-23T10:50:04.849180"
   },
   {
     "name": "CEC x Imperial Hackspace Tour",
@@ -149,8 +45,8 @@
     "hosts": [
       "Climate Entrepreneurs"
     ],
-    "attendee_count": 23,
-    "scraped_date": "2026-10-22T10:57:24.057127"
+    "attendee_count": 24,
+    "scraped_date": "2026-10-23T10:49:59.514805"
   },
   {
     "name": "Night Shift: $65K Mubit Hackathon in London",
@@ -168,7 +64,7 @@
       "Lily Jahan"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:28.684484"
+    "scraped_date": "2026-10-23T10:50:04.849205"
   },
   {
     "name": "Company Brain Buildathon",
@@ -186,7 +82,7 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:28.684505"
+    "scraped_date": "2026-10-23T10:50:04.849238"
   },
   {
     "name": "Canva Gen©️ - Student Hackathon London 🚀",
@@ -202,7 +98,7 @@
       "Ana Davila"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:24.057156"
+    "scraped_date": "2026-10-23T10:49:59.514838"
   },
   {
     "name": "Typelevel Open Source Hack London",
@@ -220,7 +116,7 @@
       "Sabrina Konrad-lee"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:24.057176"
+    "scraped_date": "2026-10-23T10:49:59.514862"
   },
   {
     "name": "Noetic X Nebius One Day Hackathon",
@@ -241,7 +137,25 @@
       "Imperial Entrepreneurs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:28.684515"
+    "scraped_date": "2026-10-23T10:50:04.849251"
+  },
+  {
+    "name": "HackWimbledon October 2026 #2",
+    "date": "2026-10-25T12:00:00.000Z",
+    "end_date": "2026-10-25T16:00:00.000Z",
+    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/zfy1u1qy",
+    "hosts": [
+      "Bazza",
+      "Neil Lambeth",
+      "Andy Piper"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-10-23T10:49:59.514881"
   },
   {
     "name": "Robomasters Hackathon",
@@ -258,8 +172,8 @@
       "Foo Ming li",
       "Ejaz Ahmed"
     ],
-    "attendee_count": 77,
-    "scraped_date": "2026-10-22T10:57:24.057193"
+    "attendee_count": 81,
+    "scraped_date": "2026-10-23T10:49:59.514893"
   },
   {
     "name": "The Founder Speed Date: powered by BuildHer Labs × Lovable × FounderMatcha × Corgi",
@@ -280,7 +194,7 @@
       "Romeo and Juliet"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:24.057209"
+    "scraped_date": "2026-10-23T10:49:59.514911"
   },
   {
     "name": "How to build and scale a tech company w/ Quinten Selhorst (Partner @EWOR, Co-Founder @Felyx ($80M raised + exited))",
@@ -297,8 +211,8 @@
       "Imperial AI",
       "Imperial Entrepreneurs"
     ],
-    "attendee_count": 38,
-    "scraped_date": "2026-10-22T10:57:24.057224"
+    "attendee_count": 56,
+    "scraped_date": "2026-10-23T10:49:59.514930"
   },
   {
     "name": "Product Designer Gym 🏋️ - Build fast with AI",
@@ -314,7 +228,7 @@
       "Phoebe"
     ],
     "attendee_count": 17,
-    "scraped_date": "2026-10-22T10:57:28.684539"
+    "scraped_date": "2026-10-23T10:50:04.849284"
   },
   {
     "name": "[RESCHEDULE TBC] SPEED BUILD 2026 | SCREENING",
@@ -330,7 +244,7 @@
       "PLUGGED"
     ],
     "attendee_count": 36,
-    "scraped_date": "2026-10-22T10:57:24.057238"
+    "scraped_date": "2026-10-23T10:49:59.514952"
   },
   {
     "name": "Building Blocks: Using AI for Business",
@@ -345,8 +259,8 @@
     "hosts": [
       "Preeti Chattha"
     ],
-    "attendee_count": 187,
-    "scraped_date": "2026-10-22T10:57:28.684552"
+    "attendee_count": 191,
+    "scraped_date": "2026-10-23T10:50:04.849304"
   },
   {
     "name": "Building Your Team’s AI Tool Stack: What to Use, When and Why",
@@ -364,6 +278,101 @@
       "Breakthrough Social Enterprise"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-22T10:57:28.684578"
+    "scraped_date": "2026-10-23T10:50:04.849335"
+  },
+  {
+    "name": "freeCodeCamp x Encode | AI - Jev Workshop: give your AI agents a fast, cheap brain for making decisions safely, locally & creatively!",
+    "date": "2026-10-28T18:00:00.000Z",
+    "end_date": "2026-10-28T21:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/w6i73bgm",
+    "hosts": [
+      "freeCodeCampLondon",
+      "Encode Club",
+      "Lesia Tkacz",
+      "Robert Chu",
+      "Rohit"
+    ],
+    "attendee_count": 47,
+    "scraped_date": "2026-10-23T10:50:04.849373"
+  },
+  {
+    "name": "Lovable Buildathon with YFL & Imperial Entrepreneurs",
+    "date": "2026-10-28T18:00:00.000Z",
+    "end_date": "2026-10-28T22:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/fncgfgwq",
+    "hosts": [
+      "Hector Laine",
+      "Anya Sultan",
+      "Imperial Entrepreneurs",
+      "Hela Hałas",
+      "Ryaan Sultan"
+    ],
+    "attendee_count": 6,
+    "scraped_date": "2026-10-23T10:50:04.849386"
+  },
+  {
+    "name": "Hack for Humanity : London (w/ The AI Collective)",
+    "date": "2026-10-29T09:00:00.000Z",
+    "end_date": "2026-10-29T15:00:00.000Z",
+    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/hack-for-humanity-london-aic",
+    "hosts": [
+      "The AI Collective",
+      "Agnieszka Wszołek",
+      "Mary Grygleski",
+      "James Pimentel-Pinto",
+      "Claudia Maggi",
+      "Lisa Pinto"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-23T10:50:04.849420"
+  },
+  {
+    "name": "GRC AI Labs | Custom Agent Building Workshop",
+    "date": "2026-10-29T13:00:00.000Z",
+    "end_date": "2026-10-29T16:00:00.000Z",
+    "location": "Workspace® | Metal Box Factory, Metal Box Factory, 30 Great Guildford St, London SE1 0HS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/jqo7nvia",
+    "hosts": [
+      "Jack Hardiman"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-23T10:50:04.849434"
+  },
+  {
+    "name": "Founders & AI: What to Buy, What to Build, What to Ignore",
+    "date": "2026-10-29T17:30:00.000Z",
+    "end_date": "2026-10-29T20:00:00.000Z",
+    "location": "The Brew Eagle House – Coworking Space & Office Space, Shoreditch, Eagle House, 163 City Rd, London EC1V 1NR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/v3blfyij",
+    "hosts": [
+      "Anurag Jain",
+      "The Brew",
+      "All AI Events"
+    ],
+    "attendee_count": 39,
+    "scraped_date": "2026-10-23T10:50:04.849482"
   }
 ]
