@@ -1,145 +1,5 @@
 [
   {
-    "name": "KXHL: Build & Demo (with ElevenLabs & Tavily)",
-    "date": "2026-10-23T11:00:00.000Z",
-    "end_date": "2026-10-23T13:00:00.000Z",
-    "location": "52 Charrington St, London NW1 1RD, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/i513bp9m",
-    "hosts": [
-      "Yi Hein",
-      "Tavily Events"
-    ],
-    "attendee_count": 44,
-    "scraped_date": "2026-10-23T10:49:59.514754"
-  },
-  {
-    "name": "Encode London Hackathon",
-    "date": "2026-10-23T11:00:00.000Z",
-    "end_date": "2026-10-25T16:30:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-london-2026",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:50:04.849180"
-  },
-  {
-    "name": "CEC x Imperial Hackspace Tour",
-    "date": "2026-10-23T16:00:00.000Z",
-    "end_date": "2026-10-23T17:00:00.000Z",
-    "location": "Imperial College Advanced Hackspace, Door A, Stadium House, 68 Wood Ln, London W12 7TA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ru7czruo",
-    "hosts": [
-      "Climate Entrepreneurs"
-    ],
-    "attendee_count": 24,
-    "scraped_date": "2026-10-23T10:49:59.514805"
-  },
-  {
-    "name": "Night Shift: $65K Mubit Hackathon in London",
-    "date": "2026-10-23T16:00:00.000Z",
-    "end_date": "2026-10-25T14:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/nightshift-london",
-    "hosts": [
-      "Eldar Utiushev",
-      "Anil Peri",
-      "Lily Jahan"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:50:04.849205"
-  },
-  {
-    "name": "Company Brain Buildathon",
-    "date": "2026-10-24T08:00:00.000Z",
-    "end_date": "2026-10-24T16:00:00.000Z",
-    "location": "The Building Centre, 26 Store St, London WC1E 7BT, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/a5yfh2ve",
-    "hosts": [
-      "Mishti Ali",
-      "Lily",
-      "Sahar Mor (Bond AI)"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:50:04.849238"
-  },
-  {
-    "name": "Canva Gen©️ - Student Hackathon London 🚀",
-    "date": "2026-10-24T09:00:00.000Z",
-    "end_date": "2026-10-24T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/zkjafnlt",
-    "hosts": [
-      "Ana Davila"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:49:59.514838"
-  },
-  {
-    "name": "Typelevel Open Source Hack London",
-    "date": "2026-10-24T09:00:00.000Z",
-    "end_date": "2026-10-24T15:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/vzp35rp7",
-    "hosts": [
-      "Arman Bilge",
-      "Zainab Ali",
-      "Sabrina Konrad-lee"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:49:59.514862"
-  },
-  {
-    "name": "Noetic X Nebius One Day Hackathon",
-    "date": "2026-10-24T09:00:00.000Z",
-    "end_date": "2026-10-24T18:00:00.000Z",
-    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/qa1ds94p",
-    "hosts": [
-      "Olivia Qian",
-      "Zoe Zhou",
-      "Nebius Developer Community",
-      "Daniel Colaianni",
-      "George Patin",
-      "Imperial Entrepreneurs"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:50:04.849251"
-  },
-  {
     "name": "HackWimbledon October 2026 #2",
     "date": "2026-10-25T12:00:00.000Z",
     "end_date": "2026-10-25T16:00:00.000Z",
@@ -155,7 +15,7 @@
       "Andy Piper"
     ],
     "attendee_count": 3,
-    "scraped_date": "2026-10-23T10:49:59.514881"
+    "scraped_date": "2026-10-24T10:05:01.345258"
   },
   {
     "name": "Robomasters Hackathon",
@@ -172,8 +32,8 @@
       "Foo Ming li",
       "Ejaz Ahmed"
     ],
-    "attendee_count": 81,
-    "scraped_date": "2026-10-23T10:49:59.514893"
+    "attendee_count": 86,
+    "scraped_date": "2026-10-24T10:05:01.345281"
   },
   {
     "name": "The Founder Speed Date: powered by BuildHer Labs × Lovable × FounderMatcha × Corgi",
@@ -194,7 +54,7 @@
       "Romeo and Juliet"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:49:59.514911"
+    "scraped_date": "2026-10-24T10:05:01.345299"
   },
   {
     "name": "How to build and scale a tech company w/ Quinten Selhorst (Partner @EWOR, Co-Founder @Felyx ($80M raised + exited))",
@@ -211,8 +71,8 @@
       "Imperial AI",
       "Imperial Entrepreneurs"
     ],
-    "attendee_count": 56,
-    "scraped_date": "2026-10-23T10:49:59.514930"
+    "attendee_count": 70,
+    "scraped_date": "2026-10-24T10:05:01.345316"
   },
   {
     "name": "Product Designer Gym 🏋️ - Build fast with AI",
@@ -227,8 +87,8 @@
     "hosts": [
       "Phoebe"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-10-23T10:50:04.849284"
+    "attendee_count": 20,
+    "scraped_date": "2026-10-24T10:05:05.993079"
   },
   {
     "name": "[RESCHEDULE TBC] SPEED BUILD 2026 | SCREENING",
@@ -244,7 +104,7 @@
       "PLUGGED"
     ],
     "attendee_count": 36,
-    "scraped_date": "2026-10-23T10:49:59.514952"
+    "scraped_date": "2026-10-24T10:05:01.345328"
   },
   {
     "name": "Building Blocks: Using AI for Business",
@@ -259,8 +119,8 @@
     "hosts": [
       "Preeti Chattha"
     ],
-    "attendee_count": 191,
-    "scraped_date": "2026-10-23T10:50:04.849304"
+    "attendee_count": 193,
+    "scraped_date": "2026-10-24T10:05:05.993106"
   },
   {
     "name": "Building Your Team’s AI Tool Stack: What to Use, When and Why",
@@ -278,7 +138,7 @@
       "Breakthrough Social Enterprise"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:50:04.849335"
+    "scraped_date": "2026-10-24T10:05:05.993129"
   },
   {
     "name": "freeCodeCamp x Encode | AI - Jev Workshop: give your AI agents a fast, cheap brain for making decisions safely, locally & creatively!",
@@ -297,8 +157,8 @@
       "Robert Chu",
       "Rohit"
     ],
-    "attendee_count": 47,
-    "scraped_date": "2026-10-23T10:50:04.849373"
+    "attendee_count": 49,
+    "scraped_date": "2026-10-24T10:05:05.993157"
   },
   {
     "name": "Lovable Buildathon with YFL & Imperial Entrepreneurs",
@@ -315,10 +175,11 @@
       "Anya Sultan",
       "Imperial Entrepreneurs",
       "Hela Hałas",
-      "Ryaan Sultan"
+      "Ryaan Sultan",
+      "Mikhail Kuzovkin"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-10-23T10:50:04.849386"
+    "scraped_date": "2026-10-24T10:05:05.993169"
   },
   {
     "name": "Hack for Humanity : London (w/ The AI Collective)",
@@ -339,7 +200,7 @@
       "Lisa Pinto"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:50:04.849420"
+    "scraped_date": "2026-10-24T10:05:05.993193"
   },
   {
     "name": "GRC AI Labs | Custom Agent Building Workshop",
@@ -355,7 +216,7 @@
       "Jack Hardiman"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-23T10:50:04.849434"
+    "scraped_date": "2026-10-24T10:05:05.993203"
   },
   {
     "name": "Founders & AI: What to Buy, What to Build, What to Ignore",
@@ -372,7 +233,41 @@
       "The Brew",
       "All AI Events"
     ],
-    "attendee_count": 39,
-    "scraped_date": "2026-10-23T10:50:04.849482"
+    "attendee_count": 40,
+    "scraped_date": "2026-10-24T10:05:05.993215"
+  },
+  {
+    "name": "Everyone Can Build Now. Almost No One Gets Noticed.",
+    "date": "2026-10-30T10:00:00.000Z",
+    "end_date": "2026-10-30T15:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qd4bslti",
+    "hosts": [
+      "Zal"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-24T10:05:05.993231"
+  },
+  {
+    "name": "AIDevCamp 2026 Agentic Hackathon | GDG London",
+    "date": "2026-10-31T09:00:00.000Z",
+    "end_date": "2026-10-31T17:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/wz7509ty",
+    "hosts": [
+      "GDG London",
+      "Sumith Parambat Damodaran",
+      "Renuka"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-24T10:05:05.993240"
   }
 ]
