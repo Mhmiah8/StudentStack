@@ -1,72 +1,5 @@
 [
   {
-    "name": "How to build and scale a tech company w/ Quinten Selhorst (Partner @EWOR, Co-Founder @Felyx ($80M raised + exited))",
-    "date": "2026-10-26T18:00:00.000Z",
-    "end_date": "2026-10-26T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/59wtdbtx",
-    "hosts": [
-      "EWOR Team",
-      "Imperial AI",
-      "Imperial Entrepreneurs",
-      "Udai Dhamija"
-    ],
-    "attendee_count": 101,
-    "scraped_date": "2026-10-26T12:02:39.326905"
-  },
-  {
-    "name": "Product Designer Gym 🏋️ - Build fast with AI",
-    "date": "2026-10-26T18:00:00.000Z",
-    "end_date": "2026-10-26T20:00:00.000Z",
-    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8iocojgz",
-    "hosts": [
-      "Phoebe"
-    ],
-    "attendee_count": 19,
-    "scraped_date": "2026-10-26T12:02:44.381690"
-  },
-  {
-    "name": "hardware builder coffee",
-    "date": "2026-10-27T08:00:00.000Z",
-    "end_date": "2026-10-27T10:00:00.000Z",
-    "location": "Fabrica X Coffee Shop, 36 York Wy, London N1 9AB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/26ih12u1",
-    "hosts": [
-      "Lachlan Chavasse"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-26T12:02:39.326930"
-  },
-  {
-    "name": "Building Blocks: Using AI for Business",
-    "date": "2026-10-27T08:30:00.000Z",
-    "end_date": "2026-10-27T13:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/colori-3p87",
-    "hosts": [
-      "Preeti Chattha"
-    ],
-    "attendee_count": 202,
-    "scraped_date": "2026-10-26T12:02:44.381730"
-  },
-  {
     "name": "Building Your Team’s AI Tool Stack: What to Use, When and Why",
     "date": "2026-10-27T18:00:00.000Z",
     "end_date": "2026-10-27T20:00:00.000Z",
@@ -82,7 +15,7 @@
       "Breakthrough Social Enterprise"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-26T12:02:44.381753"
+    "scraped_date": "2026-10-27T11:22:50.575423"
   },
   {
     "name": "Wearable Robotics: Build & Code Flapping Wings",
@@ -99,8 +32,8 @@
       "Frances Manginsay",
       "Angelian Wei"
     ],
-    "attendee_count": 24,
-    "scraped_date": "2026-10-26T12:02:39.326960"
+    "attendee_count": 72,
+    "scraped_date": "2026-10-27T11:22:45.228136"
   },
   {
     "name": "freeCodeCamp x Encode | AI - Jev Workshop: give your AI agents a fast, cheap brain for making decisions safely, locally & creatively!",
@@ -119,8 +52,8 @@
       "Robert Chu",
       "Rohit"
     ],
-    "attendee_count": 54,
-    "scraped_date": "2026-10-26T12:02:44.381784"
+    "attendee_count": 60,
+    "scraped_date": "2026-10-27T11:22:50.575476"
   },
   {
     "name": "Lovable Buildathon with YFL & Imperial Entrepreneurs",
@@ -140,8 +73,8 @@
       "Ryaan Sultan",
       "Mikhail Kuzovkin"
     ],
-    "attendee_count": 81,
-    "scraped_date": "2026-10-26T12:02:44.381797"
+    "attendee_count": 85,
+    "scraped_date": "2026-10-27T11:22:50.575492"
   },
   {
     "name": "Hack for Humanity : London (w/ The AI Collective)",
@@ -162,7 +95,7 @@
       "Lisa Pinto"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-26T12:02:44.381822"
+    "scraped_date": "2026-10-27T11:22:50.575524"
   },
   {
     "name": "GRC AI Labs | Custom Agent Building Workshop",
@@ -178,7 +111,7 @@
       "Jack Hardiman"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-26T12:02:44.381831"
+    "scraped_date": "2026-10-27T11:22:50.575536"
   },
   {
     "name": "Founders & AI: What to Buy, What to Build, What to Ignore",
@@ -195,8 +128,8 @@
       "The Brew",
       "All AI Events"
     ],
-    "attendee_count": 46,
-    "scraped_date": "2026-10-26T12:02:44.381842"
+    "attendee_count": 53,
+    "scraped_date": "2026-10-27T11:22:50.575550"
   },
   {
     "name": "build night #3",
@@ -211,8 +144,8 @@
     "hosts": [
       "Deen Developers"
     ],
-    "attendee_count": 29,
-    "scraped_date": "2026-10-26T12:02:39.326988"
+    "attendee_count": 37,
+    "scraped_date": "2026-10-27T11:22:45.228210"
   },
   {
     "name": "Everyone Can Build Now. Almost No One Gets Noticed.",
@@ -228,7 +161,7 @@
       "Zal"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-26T12:02:44.381862"
+    "scraped_date": "2026-10-27T11:22:50.575577"
   },
   {
     "name": "AIDevCamp 2026 Agentic Hackathon | GDG London",
@@ -246,7 +179,7 @@
       "Renuka"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-26T12:02:44.381869"
+    "scraped_date": "2026-10-27T11:22:50.575587"
   },
   {
     "name": "TS26 x Whimsi x Lovable: Haunted Hack",
@@ -263,8 +196,8 @@
       "Anousheh",
       "Waseef Khan"
     ],
-    "attendee_count": 54,
-    "scraped_date": "2026-10-26T12:02:44.381881"
+    "attendee_count": 67,
+    "scraped_date": "2026-10-27T11:22:50.575603"
   },
   {
     "name": "DevDay Community Hackathon: London",
@@ -282,6 +215,23 @@
       "Pauline P. Narvas"
     ],
     "attendee_count": 6,
-    "scraped_date": "2026-10-26T12:02:44.381888"
+    "scraped_date": "2026-10-27T11:22:50.575612"
+  },
+  {
+    "name": "Softr + Corgi: Coworking for AI Builders & Operators",
+    "date": "2026-11-03T10:00:00.000Z",
+    "end_date": "2026-11-03T14:30:00.000Z",
+    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/softr-t65c",
+    "hosts": [
+      "Francisco Opazo",
+      "Claudia Maggi"
+    ],
+    "attendee_count": 11,
+    "scraped_date": "2026-10-27T11:22:50.575627"
   }
 ]
