@@ -1,69 +1,20 @@
 [
   {
-    "name": "GRC AI Labs | Custom Agent Building Workshop",
-    "date": "2026-10-29T13:00:00.000Z",
-    "end_date": "2026-10-29T16:00:00.000Z",
-    "location": "Workspace® | Metal Box Factory, Metal Box Factory, 30 Great Guildford St, London SE1 0HS, UK",
+    "name": "KCL x OpenAI Student Collective Workshop: Build fun things with AI",
+    "date": "2026-10-30T17:00:00.000Z",
+    "end_date": "2026-10-30T18:00:00.000Z",
+    "location": "Franklin Wilkins Building, Kings College London, Stamford St, London SE1 9NQ, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/jqo7nvia",
+    "url": "https://lu.ma/xgp66ai4",
     "hosts": [
-      "Jack Hardiman"
+      "Simone",
+      "Vivash"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-29T12:05:00.084783"
-  },
-  {
-    "name": "Founders & AI: What to Buy, What to Build, What to Ignore",
-    "date": "2026-10-29T17:30:00.000Z",
-    "end_date": "2026-10-29T20:00:00.000Z",
-    "location": "The Brew Eagle House – Coworking Space & Office Space, Shoreditch, Eagle House, 163 City Rd, London EC1V 1NR, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/v3blfyij",
-    "hosts": [
-      "Anurag Jain",
-      "The Brew",
-      "All AI Events"
-    ],
-    "attendee_count": 69,
-    "scraped_date": "2026-10-29T12:05:00.084869"
-  },
-  {
-    "name": "build night #3",
-    "date": "2026-10-29T18:00:00.000Z",
-    "end_date": "2026-10-29T21:15:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1pqocd6t",
-    "hosts": [
-      "Deen Developers"
-    ],
-    "attendee_count": 65,
-    "scraped_date": "2026-10-29T12:04:55.440727"
-  },
-  {
-    "name": "Everyone Can Build Now. Almost No One Gets Noticed.",
-    "date": "2026-10-30T10:00:00.000Z",
-    "end_date": "2026-10-30T15:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/qd4bslti",
-    "hosts": [
-      "Zal"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-29T12:05:00.084910"
+    "attendee_count": 50,
+    "scraped_date": "2026-10-30T11:57:23.704402"
   },
   {
     "name": "AIDevCamp 2026 Agentic Hackathon | GDG London",
@@ -81,7 +32,7 @@
       "Renuka"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-29T12:05:00.084922"
+    "scraped_date": "2026-10-30T11:57:23.704425"
   },
   {
     "name": "TS26 x Whimsi x Lovable: Haunted Hack",
@@ -98,8 +49,8 @@
       "Anousheh",
       "Waseef Khan"
     ],
-    "attendee_count": 68,
-    "scraped_date": "2026-10-29T12:05:00.084948"
+    "attendee_count": 100,
+    "scraped_date": "2026-10-30T11:57:23.704456"
   },
   {
     "name": "DevDay Community Hackathon: London",
@@ -116,8 +67,8 @@
       "Oscar Falemara",
       "Pauline P. Narvas"
     ],
-    "attendee_count": 277,
-    "scraped_date": "2026-10-29T12:05:00.084958"
+    "attendee_count": 272,
+    "scraped_date": "2026-10-30T11:57:23.704468"
   },
   {
     "name": "Game Jam: Between Seasons",
@@ -133,7 +84,7 @@
       "Kingston Tech Society"
     ],
     "attendee_count": 5,
-    "scraped_date": "2026-10-29T12:04:55.440863"
+    "scraped_date": "2026-10-30T11:57:18.373547"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -149,7 +100,7 @@
       "Noam"
     ],
     "attendee_count": 18,
-    "scraped_date": "2026-10-29T12:04:55.440882"
+    "scraped_date": "2026-10-30T11:57:18.373620"
   },
   {
     "name": "Softr + Corgi: Coworking for AI Builders & Operators",
@@ -165,8 +116,8 @@
       "Francisco Opazo",
       "Claudia Maggi"
     ],
-    "attendee_count": 14,
-    "scraped_date": "2026-10-29T12:05:00.084982"
+    "attendee_count": 15,
+    "scraped_date": "2026-10-30T11:57:23.704493"
   },
   {
     "name": "Build Your Client Portal with AI in an Evening",
@@ -182,7 +133,7 @@
       "Francisco Opazo"
     ],
     "attendee_count": 13,
-    "scraped_date": "2026-10-29T12:05:00.085004"
+    "scraped_date": "2026-10-30T11:57:23.704515"
   },
   {
     "name": "AI-First Software Modernisation: Building Platforms Ready for AI Agents",
@@ -200,7 +151,7 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-29T12:05:00.085015"
+    "scraped_date": "2026-10-30T11:57:23.704526"
   },
   {
     "name": "Build Beyond the Demo: Lovable + Go-to-Market",
@@ -219,8 +170,8 @@
       "Rajni Rughwani",
       "Juliana"
     ],
-    "attendee_count": 43,
-    "scraped_date": "2026-10-29T12:05:00.085031"
+    "attendee_count": 53,
+    "scraped_date": "2026-10-30T11:57:23.704544"
   },
   {
     "name": "Biocomputing Hack",
@@ -236,8 +187,8 @@
       "Daria Gneusheva",
       "Omar Hedeya"
     ],
-    "attendee_count": 60,
-    "scraped_date": "2026-10-29T12:05:00.085052"
+    "attendee_count": 111,
+    "scraped_date": "2026-10-30T11:57:23.704609"
   },
   {
     "name": "Encode AI Demo Night 3.0",
@@ -253,7 +204,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-29T12:05:00.085067"
+    "scraped_date": "2026-10-30T11:57:23.704626"
   },
   {
     "name": "HACKATHON - Agent Eval Harness",
@@ -268,8 +219,8 @@
     "hosts": [
       "DL Lim"
     ],
-    "attendee_count": 71,
-    "scraped_date": "2026-10-29T12:05:00.085088"
+    "attendee_count": 83,
+    "scraped_date": "2026-10-30T11:57:23.704649"
   },
   {
     "name": "Agentic Vision Lab London: Build a Working Visual Agent in 60 Minutes",
@@ -286,6 +237,6 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-29T12:05:00.085098"
+    "scraped_date": "2026-10-30T11:57:23.704661"
   }
 ]
