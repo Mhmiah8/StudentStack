@@ -1,40 +1,5 @@
 [
   {
-    "name": "KCL x OpenAI Student Collective Workshop: Build fun things with AI",
-    "date": "2026-10-30T17:00:00.000Z",
-    "end_date": "2026-10-30T18:00:00.000Z",
-    "location": "Franklin Wilkins Building, Kings College London, Stamford St, London SE1 9NQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/xgp66ai4",
-    "hosts": [
-      "Simone",
-      "Vivash"
-    ],
-    "attendee_count": 50,
-    "scraped_date": "2026-10-30T11:57:23.704402"
-  },
-  {
-    "name": "AIDevCamp 2026 Agentic Hackathon | GDG London",
-    "date": "2026-10-31T09:00:00.000Z",
-    "end_date": "2026-10-31T17:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/wz7509ty",
-    "hosts": [
-      "GDG London",
-      "Sumith Parambat Damodaran",
-      "Renuka"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-10-30T11:57:23.704425"
-  },
-  {
     "name": "TS26 x Whimsi x Lovable: Haunted Hack",
     "date": "2026-10-31T14:00:00.000Z",
     "end_date": "2026-10-31T15:30:00.000Z",
@@ -49,8 +14,8 @@
       "Anousheh",
       "Waseef Khan"
     ],
-    "attendee_count": 100,
-    "scraped_date": "2026-10-30T11:57:23.704456"
+    "attendee_count": 98,
+    "scraped_date": "2026-10-31T11:31:03.016941"
   },
   {
     "name": "DevDay Community Hackathon: London",
@@ -67,8 +32,8 @@
       "Oscar Falemara",
       "Pauline P. Narvas"
     ],
-    "attendee_count": 272,
-    "scraped_date": "2026-10-30T11:57:23.704468"
+    "attendee_count": 442,
+    "scraped_date": "2026-10-31T11:31:03.016959"
   },
   {
     "name": "Game Jam: Between Seasons",
@@ -84,7 +49,7 @@
       "Kingston Tech Society"
     ],
     "attendee_count": 5,
-    "scraped_date": "2026-10-30T11:57:18.373547"
+    "scraped_date": "2026-10-31T11:30:57.996251"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -99,8 +64,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 18,
-    "scraped_date": "2026-10-30T11:57:18.373620"
+    "attendee_count": 30,
+    "scraped_date": "2026-10-31T11:30:57.996276"
   },
   {
     "name": "Softr + Corgi: Coworking for AI Builders & Operators",
@@ -116,24 +81,8 @@
       "Francisco Opazo",
       "Claudia Maggi"
     ],
-    "attendee_count": 15,
-    "scraped_date": "2026-10-30T11:57:23.704493"
-  },
-  {
-    "name": "Build Your Client Portal with AI in an Evening",
-    "date": "2026-11-03T17:30:00.000Z",
-    "end_date": "2026-11-03T20:30:00.000Z",
-    "location": "Yellow Building, Nicholas Rd, London W11 4AN, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/build-client-portal",
-    "hosts": [
-      "Francisco Opazo"
-    ],
-    "attendee_count": 13,
-    "scraped_date": "2026-10-30T11:57:23.704515"
+    "attendee_count": 17,
+    "scraped_date": "2026-10-31T11:31:03.016983"
   },
   {
     "name": "AI-First Software Modernisation: Building Platforms Ready for AI Agents",
@@ -151,7 +100,7 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-30T11:57:23.704526"
+    "scraped_date": "2026-10-31T11:31:03.017004"
   },
   {
     "name": "Build Beyond the Demo: Lovable + Go-to-Market",
@@ -170,8 +119,8 @@
       "Rajni Rughwani",
       "Juliana"
     ],
-    "attendee_count": 53,
-    "scraped_date": "2026-10-30T11:57:23.704544"
+    "attendee_count": 56,
+    "scraped_date": "2026-10-31T11:31:03.017023"
   },
   {
     "name": "Biocomputing Hack",
@@ -187,8 +136,8 @@
       "Daria Gneusheva",
       "Omar Hedeya"
     ],
-    "attendee_count": 111,
-    "scraped_date": "2026-10-30T11:57:23.704609"
+    "attendee_count": 108,
+    "scraped_date": "2026-10-31T11:31:03.017052"
   },
   {
     "name": "Encode AI Demo Night 3.0",
@@ -204,7 +153,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-30T11:57:23.704626"
+    "scraped_date": "2026-10-31T11:31:03.017065"
   },
   {
     "name": "HACKATHON - Agent Eval Harness",
@@ -219,8 +168,8 @@
     "hosts": [
       "DL Lim"
     ],
-    "attendee_count": 83,
-    "scraped_date": "2026-10-30T11:57:23.704649"
+    "attendee_count": 82,
+    "scraped_date": "2026-10-31T11:31:03.017086"
   },
   {
     "name": "Agentic Vision Lab London: Build a Working Visual Agent in 60 Minutes",
@@ -237,6 +186,75 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-30T11:57:23.704661"
+    "scraped_date": "2026-10-31T11:31:03.017096"
+  },
+  {
+    "name": "Building Deep Tech Ventures from Day Zero",
+    "date": "2026-11-05T17:00:00.000Z",
+    "end_date": "2026-11-05T20:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/winl33ao",
+    "hosts": [
+      "Kelsey Mays Alvarez",
+      "Tim Colebrooke",
+      "Max Thoma"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-31T11:30:57.996398"
+  },
+  {
+    "name": "GeoCyclone: Cyberterrorism - Extremism & Hacking",
+    "date": "2026-11-05T18:00:00.000Z",
+    "end_date": "2026-11-05T22:00:00.000Z",
+    "location": "Balls Brothers Minster Court, Mincing Ln., London EC3R 7PP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/uqml6c19",
+    "hosts": [
+      "Dr Craig Jarvis"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-31T11:30:57.996409"
+  },
+  {
+    "name": "Agents on Tap: build your AI agent team with Lua",
+    "date": "2026-11-05T18:00:00.000Z",
+    "end_date": "2026-11-05T21:00:00.000Z",
+    "location": "The Eagle, 2 Shepherdess Walk, London N1 7LB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/z1v0fujw",
+    "hosts": [
+      "Rory Russell",
+      "Hugo de Stacpoole"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-10-31T11:31:03.017147"
+  },
+  {
+    "name": "BUILD DIFFERENT OR GET REBUILT // NBE Live Session",
+    "date": "2026-11-05T18:00:00.000Z",
+    "end_date": "2026-11-05T21:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/c34021ih",
+    "hosts": [
+      "Daniel Siahaya",
+      "Daisy Ilaria",
+      "Nathan"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-10-31T11:31:03.017157"
   }
 ]
