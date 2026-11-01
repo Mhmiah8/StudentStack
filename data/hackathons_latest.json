@@ -1,41 +1,5 @@
 [
   {
-    "name": "TS26 x Whimsi x Lovable: Haunted Hack",
-    "date": "2026-10-31T14:00:00.000Z",
-    "end_date": "2026-10-31T15:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/l6cyvape",
-    "hosts": [
-      "Reese Wong",
-      "Anousheh",
-      "Waseef Khan"
-    ],
-    "attendee_count": 98,
-    "scraped_date": "2026-10-31T11:31:03.016941"
-  },
-  {
-    "name": "DevDay Community Hackathon: London",
-    "date": "2026-11-01T09:00:00.000Z",
-    "end_date": "2026-11-01T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dde-ldn-hack",
-    "hosts": [
-      "Andy Tyler",
-      "Oscar Falemara",
-      "Pauline P. Narvas"
-    ],
-    "attendee_count": 442,
-    "scraped_date": "2026-10-31T11:31:03.016959"
-  },
-  {
     "name": "Game Jam: Between Seasons",
     "date": "2026-11-02T10:00:00.000Z",
     "end_date": "2026-11-08T15:00:00.000Z",
@@ -48,8 +12,8 @@
     "hosts": [
       "Kingston Tech Society"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-10-31T11:30:57.996251"
+    "attendee_count": 9,
+    "scraped_date": "2026-11-01T12:28:30.490031"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -64,8 +28,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 30,
-    "scraped_date": "2026-10-31T11:30:57.996276"
+    "attendee_count": 39,
+    "scraped_date": "2026-11-01T12:28:30.490072"
   },
   {
     "name": "Softr + Corgi: Coworking for AI Builders & Operators",
@@ -81,8 +45,8 @@
       "Francisco Opazo",
       "Claudia Maggi"
     ],
-    "attendee_count": 17,
-    "scraped_date": "2026-10-31T11:31:03.016983"
+    "attendee_count": 19,
+    "scraped_date": "2026-11-01T12:28:35.189437"
   },
   {
     "name": "AI-First Software Modernisation: Building Platforms Ready for AI Agents",
@@ -100,7 +64,7 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-31T11:31:03.017004"
+    "scraped_date": "2026-11-01T12:28:35.189487"
   },
   {
     "name": "Build Beyond the Demo: Lovable + Go-to-Market",
@@ -119,8 +83,8 @@
       "Rajni Rughwani",
       "Juliana"
     ],
-    "attendee_count": 56,
-    "scraped_date": "2026-10-31T11:31:03.017023"
+    "attendee_count": 59,
+    "scraped_date": "2026-11-01T12:28:35.189511"
   },
   {
     "name": "Biocomputing Hack",
@@ -136,8 +100,8 @@
       "Daria Gneusheva",
       "Omar Hedeya"
     ],
-    "attendee_count": 108,
-    "scraped_date": "2026-10-31T11:31:03.017052"
+    "attendee_count": 106,
+    "scraped_date": "2026-11-01T12:28:35.189538"
   },
   {
     "name": "Encode AI Demo Night 3.0",
@@ -153,7 +117,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-31T11:31:03.017065"
+    "scraped_date": "2026-11-01T12:28:35.189552"
   },
   {
     "name": "HACKATHON - Agent Eval Harness",
@@ -169,7 +133,7 @@
       "DL Lim"
     ],
     "attendee_count": 82,
-    "scraped_date": "2026-10-31T11:31:03.017086"
+    "scraped_date": "2026-11-01T12:28:35.189576"
   },
   {
     "name": "Agentic Vision Lab London: Build a Working Visual Agent in 60 Minutes",
@@ -186,7 +150,7 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-31T11:31:03.017096"
+    "scraped_date": "2026-11-01T12:28:35.189587"
   },
   {
     "name": "Building Deep Tech Ventures from Day Zero",
@@ -204,7 +168,7 @@
       "Max Thoma"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-31T11:30:57.996398"
+    "scraped_date": "2026-11-01T12:28:30.490199"
   },
   {
     "name": "GeoCyclone: Cyberterrorism - Extremism & Hacking",
@@ -220,7 +184,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-31T11:30:57.996409"
+    "scraped_date": "2026-11-01T12:28:30.490216"
   },
   {
     "name": "Agents on Tap: build your AI agent team with Lua",
@@ -236,8 +200,8 @@
       "Rory Russell",
       "Hugo de Stacpoole"
     ],
-    "attendee_count": 3,
-    "scraped_date": "2026-10-31T11:31:03.017147"
+    "attendee_count": 5,
+    "scraped_date": "2026-11-01T12:28:35.189641"
   },
   {
     "name": "BUILD DIFFERENT OR GET REBUILT // NBE Live Session",
@@ -252,9 +216,28 @@
     "hosts": [
       "Daniel Siahaya",
       "Daisy Ilaria",
-      "Nathan"
+      "Nathan",
+      "Eliana Waldman",
+      "Pieter Teurlings"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-10-31T11:31:03.017157"
+    "scraped_date": "2026-11-01T12:28:35.189697"
+  },
+  {
+    "name": "Better Every Call? Building the Voice AI Improvement Loop",
+    "date": "2026-11-05T18:30:00.000Z",
+    "end_date": "2026-11-05T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/c0iiab0e",
+    "hosts": [
+      "Speechmatics",
+      "Roark"
+    ],
+    "attendee_count": 30,
+    "scraped_date": "2026-11-01T12:28:35.189713"
   }
 ]
