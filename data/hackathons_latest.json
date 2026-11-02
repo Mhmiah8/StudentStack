@@ -1,21 +1,5 @@
 [
   {
-    "name": "Game Jam: Between Seasons",
-    "date": "2026-11-02T10:00:00.000Z",
-    "end_date": "2026-11-08T15:00:00.000Z",
-    "location": "Kingston University Penrhyn Road Campus, 55-59 Penrhyn Rd, Kingston upon Thames KT1 2EE, UK",
-    "city": "Kingston upon Thames",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/qattnf2h",
-    "hosts": [
-      "Kingston Tech Society"
-    ],
-    "attendee_count": 9,
-    "scraped_date": "2026-11-01T12:28:30.490031"
-  },
-  {
     "name": "Campaign Lab Autumn Hack Night!",
     "date": "2026-11-02T19:00:00.000Z",
     "end_date": "2026-11-02T22:00:00.000Z",
@@ -28,8 +12,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 39,
-    "scraped_date": "2026-11-01T12:28:30.490072"
+    "attendee_count": 47,
+    "scraped_date": "2026-11-02T14:27:00.471128"
   },
   {
     "name": "Softr + Corgi: Coworking for AI Builders & Operators",
@@ -45,8 +29,8 @@
       "Francisco Opazo",
       "Claudia Maggi"
     ],
-    "attendee_count": 19,
-    "scraped_date": "2026-11-01T12:28:35.189437"
+    "attendee_count": 30,
+    "scraped_date": "2026-11-02T14:27:06.136831"
   },
   {
     "name": "AI-First Software Modernisation: Building Platforms Ready for AI Agents",
@@ -64,7 +48,7 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-01T12:28:35.189487"
+    "scraped_date": "2026-11-02T14:27:06.136867"
   },
   {
     "name": "Build Beyond the Demo: Lovable + Go-to-Market",
@@ -83,8 +67,8 @@
       "Rajni Rughwani",
       "Juliana"
     ],
-    "attendee_count": 59,
-    "scraped_date": "2026-11-01T12:28:35.189511"
+    "attendee_count": 71,
+    "scraped_date": "2026-11-02T14:27:06.136890"
   },
   {
     "name": "Biocomputing Hack",
@@ -100,8 +84,8 @@
       "Daria Gneusheva",
       "Omar Hedeya"
     ],
-    "attendee_count": 106,
-    "scraped_date": "2026-11-01T12:28:35.189538"
+    "attendee_count": 100,
+    "scraped_date": "2026-11-02T14:27:06.136911"
   },
   {
     "name": "Encode AI Demo Night 3.0",
@@ -117,7 +101,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-01T12:28:35.189552"
+    "scraped_date": "2026-11-02T14:27:06.136925"
   },
   {
     "name": "HACKATHON - Agent Eval Harness",
@@ -133,13 +117,13 @@
       "DL Lim"
     ],
     "attendee_count": 82,
-    "scraped_date": "2026-11-01T12:28:35.189576"
+    "scraped_date": "2026-11-02T14:27:06.136947"
   },
   {
     "name": "Agentic Vision Lab London: Build a Working Visual Agent in 60 Minutes",
     "date": "2026-11-04T18:00:00.000Z",
     "end_date": "2026-11-04T20:30:00.000Z",
-    "location": "Red Lion, 1 Eldon St, London EC2M 7LS, UK",
+    "location": "The Angel, 73 City Rd, London EC1Y 1BD, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
@@ -150,7 +134,7 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-01T12:28:35.189587"
+    "scraped_date": "2026-11-02T14:27:06.136958"
   },
   {
     "name": "Building Deep Tech Ventures from Day Zero",
@@ -168,7 +152,7 @@
       "Max Thoma"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-01T12:28:30.490199"
+    "scraped_date": "2026-11-02T14:27:00.471263"
   },
   {
     "name": "GeoCyclone: Cyberterrorism - Extremism & Hacking",
@@ -184,7 +168,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-01T12:28:30.490216"
+    "scraped_date": "2026-11-02T14:27:00.471300"
   },
   {
     "name": "Agents on Tap: build your AI agent team with Lua",
@@ -200,8 +184,8 @@
       "Rory Russell",
       "Hugo de Stacpoole"
     ],
-    "attendee_count": 5,
-    "scraped_date": "2026-11-01T12:28:35.189641"
+    "attendee_count": 10,
+    "scraped_date": "2026-11-02T14:27:06.137010"
   },
   {
     "name": "BUILD DIFFERENT OR GET REBUILT // NBE Live Session",
@@ -218,26 +202,10 @@
       "Daisy Ilaria",
       "Nathan",
       "Eliana Waldman",
-      "Pieter Teurlings"
+      "Pieter Teurlings",
+      "Remy Sapuletej"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-01T12:28:35.189697"
-  },
-  {
-    "name": "Better Every Call? Building the Voice AI Improvement Loop",
-    "date": "2026-11-05T18:30:00.000Z",
-    "end_date": "2026-11-05T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/c0iiab0e",
-    "hosts": [
-      "Speechmatics",
-      "Roark"
-    ],
-    "attendee_count": 30,
-    "scraped_date": "2026-11-01T12:28:35.189713"
+    "scraped_date": "2026-11-02T14:27:06.137022"
   }
 ]
