@@ -1,38 +1,5 @@
 [
   {
-    "name": "Campaign Lab Autumn Hack Night!",
-    "date": "2026-11-02T19:00:00.000Z",
-    "end_date": "2026-11-02T22:00:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tb3nv9mj",
-    "hosts": [
-      "Noam"
-    ],
-    "attendee_count": 47,
-    "scraped_date": "2026-11-02T14:27:00.471128"
-  },
-  {
-    "name": "Softr + Corgi: Coworking for AI Builders & Operators",
-    "date": "2026-11-03T10:00:00.000Z",
-    "end_date": "2026-11-03T14:30:00.000Z",
-    "location": "Corgi Cafe, 74 Great Eastern St, London EC2A 3JL, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/softr-t65c",
-    "hosts": [
-      "Francisco Opazo",
-      "Claudia Maggi"
-    ],
-    "attendee_count": 30,
-    "scraped_date": "2026-11-02T14:27:06.136831"
-  },
-  {
     "name": "AI-First Software Modernisation: Building Platforms Ready for AI Agents",
     "date": "2026-11-03T18:00:00.000Z",
     "end_date": "2026-11-03T21:00:00.000Z",
@@ -48,7 +15,7 @@
       "Chelsea Keighley"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-02T14:27:06.136867"
+    "scraped_date": "2026-11-03T13:25:05.789474"
   },
   {
     "name": "Build Beyond the Demo: Lovable + Go-to-Market",
@@ -67,8 +34,26 @@
       "Rajni Rughwani",
       "Juliana"
     ],
-    "attendee_count": 71,
-    "scraped_date": "2026-11-02T14:27:06.136890"
+    "attendee_count": 70,
+    "scraped_date": "2026-11-03T13:25:05.789528"
+  },
+  {
+    "name": "Vibecoding 101: an Introduction to Claude Code",
+    "date": "2026-11-03T18:00:00.000Z",
+    "end_date": "2026-11-03T21:00:00.000Z",
+    "location": "Roberts Building, London WC1E 7JE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ap2cd5xj",
+    "hosts": [
+      "Chelsea Semou",
+      "Abdul Azeem Makarim",
+      "UCL AI Society"
+    ],
+    "attendee_count": 111,
+    "scraped_date": "2026-11-03T13:25:05.789546"
   },
   {
     "name": "Biocomputing Hack",
@@ -84,8 +69,8 @@
       "Daria Gneusheva",
       "Omar Hedeya"
     ],
-    "attendee_count": 100,
-    "scraped_date": "2026-11-02T14:27:06.136911"
+    "attendee_count": 89,
+    "scraped_date": "2026-11-03T13:25:05.789565"
   },
   {
     "name": "Encode AI Demo Night 3.0",
@@ -101,7 +86,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-02T14:27:06.136925"
+    "scraped_date": "2026-11-03T13:25:05.789579"
   },
   {
     "name": "HACKATHON - Agent Eval Harness",
@@ -116,8 +101,8 @@
     "hosts": [
       "DL Lim"
     ],
-    "attendee_count": 82,
-    "scraped_date": "2026-11-02T14:27:06.136947"
+    "attendee_count": 79,
+    "scraped_date": "2026-11-03T13:25:05.789603"
   },
   {
     "name": "Agentic Vision Lab London: Build a Working Visual Agent in 60 Minutes",
@@ -134,7 +119,7 @@
       "Sahar Mor (Bond AI)"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-02T14:27:06.136958"
+    "scraped_date": "2026-11-03T13:25:05.789612"
   },
   {
     "name": "Building Deep Tech Ventures from Day Zero",
@@ -152,7 +137,7 @@
       "Max Thoma"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-02T14:27:00.471263"
+    "scraped_date": "2026-11-03T13:25:00.591228"
   },
   {
     "name": "GeoCyclone: Cyberterrorism - Extremism & Hacking",
@@ -168,7 +153,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-02T14:27:00.471300"
+    "scraped_date": "2026-11-03T13:25:00.591260"
   },
   {
     "name": "Agents on Tap: build your AI agent team with Lua",
@@ -182,10 +167,11 @@
     "url": "https://lu.ma/z1v0fujw",
     "hosts": [
       "Rory Russell",
-      "Hugo de Stacpoole"
+      "Hugo de Stacpoole",
+      "Lorcan O Cathain"
     ],
-    "attendee_count": 10,
-    "scraped_date": "2026-11-02T14:27:06.137010"
+    "attendee_count": 15,
+    "scraped_date": "2026-11-03T13:25:05.789662"
   },
   {
     "name": "BUILD DIFFERENT OR GET REBUILT // NBE Live Session",
@@ -206,6 +192,74 @@
       "Remy Sapuletej"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-02T14:27:06.137022"
+    "scraped_date": "2026-11-03T13:25:05.789677"
+  },
+  {
+    "name": "Better Every Call? Building the Voice AI Improvement Loop",
+    "date": "2026-11-05T18:30:00.000Z",
+    "end_date": "2026-11-05T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/c0iiab0e",
+    "hosts": [
+      "Speechmatics",
+      "Roark"
+    ],
+    "attendee_count": 53,
+    "scraped_date": "2026-11-03T13:25:05.789690"
+  },
+  {
+    "name": "Brew and Build",
+    "date": "2026-11-06T09:00:00.000Z",
+    "end_date": "2026-11-06T11:00:00.000Z",
+    "location": "Qima Café and Pâtisserie - Fitzrovia, 21 Warren St, London W1T 5LT, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/eakq1czr",
+    "hosts": [
+      "Laura Rosianu"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-03T13:25:00.591293"
+  },
+  {
+    "name": "Assay-A-Thon | Building an Experimental Validation Toolkit for AI-Enabled Discovery",
+    "date": "2026-11-06T17:00:00.000Z",
+    "end_date": "2026-11-08T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/1a6mdyp6",
+    "hosts": [
+      "nile verleur",
+      "Inga Van den Bossche",
+      "Alex Ainscough",
+      "Anjali Chadha"
+    ],
+    "attendee_count": 41,
+    "scraped_date": "2026-11-03T13:25:05.789711"
+  },
+  {
+    "name": "Crash Course: Build with an AI Agent - AI Builders Society Greenwich",
+    "date": "2026-11-06T17:00:00.000Z",
+    "end_date": "2026-12-06T19:00:00.000Z",
+    "location": "University of Greenwich, Old Royal Naval College, Park Row, London SE10 9LS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/hf83jn7c",
+    "hosts": [
+      "Shahil Rahman"
+    ],
+    "attendee_count": 26,
+    "scraped_date": "2026-11-03T13:25:05.789725"
   }
 ]
