@@ -1,38 +1,5 @@
 [
   {
-    "name": "HACKATHON - Agent Eval Harness",
-    "date": "2026-11-04T17:30:00.000Z",
-    "end_date": "2026-11-04T21:00:00.000Z",
-    "location": "230 Blackfriars Rd, London SE1 8NW, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/h8zer2ek",
-    "hosts": [
-      "DL Lim"
-    ],
-    "attendee_count": 74,
-    "scraped_date": "2026-11-04T13:36:23.522718"
-  },
-  {
-    "name": "Agentic Vision Lab London: Build a Working Visual Agent in 60 Minutes",
-    "date": "2026-11-04T18:00:00.000Z",
-    "end_date": "2026-11-04T20:30:00.000Z",
-    "location": "The Angel, 73 City Rd, London EC1Y 1BD, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/ubrkabh8",
-    "hosts": [
-      "Viso Now",
-      "Sahar Mor (Bond AI)"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:23.522742"
-  },
-  {
     "name": "Building Deep Tech Ventures from Day Zero",
     "date": "2026-11-05T17:00:00.000Z",
     "end_date": "2026-11-05T20:00:00.000Z",
@@ -48,7 +15,7 @@
       "Max Thoma"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:18.327203"
+    "scraped_date": "2026-11-05T13:49:22.852201"
   },
   {
     "name": "GeoCyclone: Cyberterrorism - Extremism & Hacking",
@@ -64,7 +31,7 @@
       "Dr Craig Jarvis"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:18.327237"
+    "scraped_date": "2026-11-05T13:49:22.852256"
   },
   {
     "name": "Agents on Tap: build your AI agent team with Lua",
@@ -81,8 +48,8 @@
       "Hugo de Stacpoole",
       "Lorcan O Cathain"
     ],
-    "attendee_count": 16,
-    "scraped_date": "2026-11-04T13:36:23.522804"
+    "attendee_count": 18,
+    "scraped_date": "2026-11-05T13:49:28.129915"
   },
   {
     "name": "BUILD DIFFERENT OR GET REBUILT // NBE Live Session",
@@ -103,7 +70,7 @@
       "Remy Sapuletej"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:23.522820"
+    "scraped_date": "2026-11-05T13:49:28.129941"
   },
   {
     "name": "Better Every Call? Building the Voice AI Improvement Loop",
@@ -119,14 +86,14 @@
       "Speechmatics",
       "Roark"
     ],
-    "attendee_count": 55,
-    "scraped_date": "2026-11-04T13:36:23.522835"
+    "attendee_count": 67,
+    "scraped_date": "2026-11-05T13:49:28.129952"
   },
   {
     "name": "Brew and Build",
     "date": "2026-11-06T09:00:00.000Z",
     "end_date": "2026-11-06T11:00:00.000Z",
-    "location": "Qima Café and Pâtisserie - Fitzrovia, 21 Warren St, London W1T 5LT, UK",
+    "location": "Caravan Fitzrovia, 152 Great Portland St, London W1W 6AJ, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
@@ -136,7 +103,7 @@
       "Laura Rosianu"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:18.327272"
+    "scraped_date": "2026-11-05T13:49:22.852294"
   },
   {
     "name": "Assay-A-Thon | Building an Experimental Validation Toolkit for AI-Enabled Discovery",
@@ -155,7 +122,7 @@
       "Anjali Chadha"
     ],
     "attendee_count": 46,
-    "scraped_date": "2026-11-04T13:36:23.522863"
+    "scraped_date": "2026-11-05T13:49:28.129980"
   },
   {
     "name": "Crash Course: Build with an AI Agent - AI Builders Society Greenwich",
@@ -170,8 +137,24 @@
     "hosts": [
       "Shahil Rahman"
     ],
-    "attendee_count": 26,
-    "scraped_date": "2026-11-04T13:36:23.522874"
+    "attendee_count": 30,
+    "scraped_date": "2026-11-05T13:49:28.129990"
+  },
+  {
+    "name": "Encode Coffee Club: Saturday Co-working",
+    "date": "2026-11-07T08:00:00.000Z",
+    "end_date": "2026-11-07T18:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/encode-ve37",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-05T13:49:22.852318"
   },
   {
     "name": "AI Agents for Accessibility Hackathon",
@@ -184,10 +167,12 @@
     "is_virtual": false,
     "url": "https://lu.ma/lzacr9yq",
     "hosts": [
-      "Tigmanshu Bhatnagar"
+      "Tigmanshu Bhatnagar",
+      "Maryam Bandukda",
+      "Danyun"
     ],
-    "attendee_count": 98,
-    "scraped_date": "2026-11-04T13:36:23.522889"
+    "attendee_count": 114,
+    "scraped_date": "2026-11-05T13:49:28.130006"
   },
   {
     "name": "House London! #3 | Data Hackathon",
@@ -202,8 +187,8 @@
     "hosts": [
       "Jam Coombes"
     ],
-    "attendee_count": 269,
-    "scraped_date": "2026-11-04T13:36:18.327294"
+    "attendee_count": 302,
+    "scraped_date": "2026-11-05T13:49:22.852330"
   },
   {
     "name": "Attio x Point Nine Builders Café | London",
@@ -222,7 +207,7 @@
       "Ellie Spicer"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:18.327316"
+    "scraped_date": "2026-11-05T13:49:22.852355"
   },
   {
     "name": "HackWimbledon November #1",
@@ -239,8 +224,8 @@
       "Neil Lambeth",
       "Andy Piper"
     ],
-    "attendee_count": 4,
-    "scraped_date": "2026-11-04T13:36:18.327337"
+    "attendee_count": 5,
+    "scraped_date": "2026-11-05T13:49:22.852425"
   },
   {
     "name": "Finnovation Day London - Fintech × Banks: Building the Next Generation of Financial Services",
@@ -256,7 +241,7 @@
       "TechEmbassy"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:18.327368"
+    "scraped_date": "2026-11-05T13:49:22.852461"
   },
   {
     "name": "Roundtable #2 Claude Code Massacre with Simon Small",
@@ -273,7 +258,7 @@
       "Simon Small"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:23.522919"
+    "scraped_date": "2026-11-05T13:49:28.130046"
   },
   {
     "name": "Workshop: Build something Delightfully lovable",
@@ -291,7 +276,41 @@
       "NESRINE CHANGUEL"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-04T13:36:23.522929"
+    "scraped_date": "2026-11-05T13:49:28.130055"
+  },
+  {
+    "name": "Above the Clouds: Building Enterprise AI with AWS",
+    "date": "2026-11-10T18:00:00.000Z",
+    "end_date": "2026-11-10T21:00:00.000Z",
+    "location": "60 Holborn Viaduct, London EC1A 2FD, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/jd1eu3ib",
+    "hosts": [
+      "Ayub Yanturin"
+    ],
+    "attendee_count": 51,
+    "scraped_date": "2026-11-05T13:49:28.130066"
+  },
+  {
+    "name": "AI Builders London - Nov 10",
+    "date": "2026-11-10T18:00:00.000Z",
+    "end_date": "2026-11-10T21:00:00.000Z",
+    "location": "Civo Tech Junction, First Floor, 32-37 Cowper St, London EC2A 4AW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lon-nov10",
+    "hosts": [
+      "AI Builders",
+      "Neo4j",
+      "IndyKite"
+    ],
+    "attendee_count": 242,
+    "scraped_date": "2026-11-05T13:49:28.130076"
   },
   {
     "name": "London Generative AI Builders Night",
@@ -308,7 +327,62 @@
       "Korhan Erçin",
       "Eachlabs Events"
     ],
-    "attendee_count": 52,
-    "scraped_date": "2026-11-04T13:36:23.522949"
+    "attendee_count": 58,
+    "scraped_date": "2026-11-05T13:49:28.130102"
+  },
+  {
+    "name": "Builders Meetup | LONDON",
+    "date": "2026-11-10T18:30:00.000Z",
+    "end_date": "2026-11-10T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/builders-meetup-london",
+    "hosts": [
+      "How to Web",
+      "Alexandru Agatinei",
+      "Roxana Padurean",
+      "Sebastian B"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-05T13:49:22.852497"
+  },
+  {
+    "name": "DevConnect × WorldBuilder Summit",
+    "date": "2026-11-10T19:30:00.000Z",
+    "end_date": "2026-11-10T22:30:00.000Z",
+    "location": "The Cumberland Arms, 29 North End Rd, London W14 8SZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/it38db2o",
+    "hosts": [
+      "Lucien Kinsman",
+      "David Statter"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-05T13:49:22.852521"
+  },
+  {
+    "name": "Agentic Web - Build Night",
+    "date": "2026-11-11T17:30:00.000Z",
+    "end_date": "2026-11-11T22:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/rytzr0zh",
+    "hosts": [
+      "Gamal Mubarak",
+      "Carla Griffiths",
+      "Parallel Web Systems",
+      "incident.io 🔥"
+    ],
+    "attendee_count": 74,
+    "scraped_date": "2026-11-05T13:49:28.130125"
   }
 ]
