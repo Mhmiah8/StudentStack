@@ -1,90 +1,5 @@
 [
   {
-    "name": "Assay-A-Thon | Building an Experimental Validation Toolkit for AI-Enabled Discovery",
-    "date": "2026-11-06T17:00:00.000Z",
-    "end_date": "2026-11-08T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1a6mdyp6",
-    "hosts": [
-      "nile verleur",
-      "Inga Van den Bossche",
-      "Alex Ainscough",
-      "Anjali Chadha"
-    ],
-    "attendee_count": 46,
-    "scraped_date": "2026-11-06T13:33:45.149434"
-  },
-  {
-    "name": "Crash Course: Build with an AI Agent - AI Builders Society Greenwich",
-    "date": "2026-11-06T17:00:00.000Z",
-    "end_date": "2026-12-06T19:00:00.000Z",
-    "location": "University of Greenwich, Old Royal Naval College, Park Row, London SE10 9LS, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/hf83jn7c",
-    "hosts": [
-      "Shahil Rahman"
-    ],
-    "attendee_count": 33,
-    "scraped_date": "2026-11-06T13:33:45.149454"
-  },
-  {
-    "name": "Encode Coffee Club: Saturday Co-working",
-    "date": "2026-11-07T08:00:00.000Z",
-    "end_date": "2026-11-07T18:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-ve37",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-06T13:33:40.538773"
-  },
-  {
-    "name": "AI Agents for Accessibility Hackathon",
-    "date": "2026-11-07T08:30:00.000Z",
-    "end_date": "2026-11-07T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/lzacr9yq",
-    "hosts": [
-      "Tigmanshu Bhatnagar",
-      "Maryam Bandukda",
-      "Danyun"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-06T13:33:45.149484"
-  },
-  {
-    "name": "House London! #3 | Data Hackathon",
-    "date": "2026-11-07T10:00:00.000Z",
-    "end_date": "2026-11-07T19:30:00.000Z",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/m3pbljlh",
-    "hosts": [
-      "Jam Coombes"
-    ],
-    "attendee_count": 301,
-    "scraped_date": "2026-11-06T13:33:40.538828"
-  },
-  {
     "name": "Attio x Point Nine Builders Café | London",
     "date": "2026-11-08T10:00:00.000Z",
     "end_date": "2026-11-08T15:00:00.000Z",
@@ -101,7 +16,7 @@
       "Ellie Spicer"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-06T13:33:40.538857"
+    "scraped_date": "2026-11-07T12:14:19.009448"
   },
   {
     "name": "HackWimbledon November #1",
@@ -118,8 +33,8 @@
       "Neil Lambeth",
       "Andy Piper"
     ],
-    "attendee_count": 8,
-    "scraped_date": "2026-11-06T13:33:40.538877"
+    "attendee_count": 9,
+    "scraped_date": "2026-11-07T12:14:19.009467"
   },
   {
     "name": "Finnovation Day London - Fintech × Banks: Building the Next Generation of Financial Services",
@@ -135,7 +50,7 @@
       "TechEmbassy"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-06T13:33:40.538911"
+    "scraped_date": "2026-11-07T12:14:19.009476"
   },
   {
     "name": "Roundtable #2 Claude Code Massacre with Simon Small",
@@ -152,7 +67,7 @@
       "Simon Small"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-06T13:33:45.149511"
+    "scraped_date": "2026-11-07T12:14:24.019529"
   },
   {
     "name": "Workshop: Build something Delightfully lovable",
@@ -170,7 +85,7 @@
       "NESRINE CHANGUEL"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-06T13:33:45.149521"
+    "scraped_date": "2026-11-07T12:14:24.019542"
   },
   {
     "name": "Above the Clouds: Building Enterprise AI with AWS",
@@ -185,8 +100,8 @@
     "hosts": [
       "Ayub Yanturin"
     ],
-    "attendee_count": 51,
-    "scraped_date": "2026-11-06T13:33:45.149531"
+    "attendee_count": 53,
+    "scraped_date": "2026-11-07T12:14:24.019552"
   },
   {
     "name": "AI Builders London - Nov 10",
@@ -203,8 +118,8 @@
       "Neo4j",
       "IndyKite"
     ],
-    "attendee_count": 242,
-    "scraped_date": "2026-11-06T13:33:45.149540"
+    "attendee_count": 243,
+    "scraped_date": "2026-11-07T12:14:24.019561"
   },
   {
     "name": "London Generative AI Builders Night",
@@ -221,8 +136,8 @@
       "Korhan Erçin",
       "Eachlabs Events"
     ],
-    "attendee_count": 64,
-    "scraped_date": "2026-11-06T13:33:45.149557"
+    "attendee_count": 68,
+    "scraped_date": "2026-11-07T12:14:24.019574"
   },
   {
     "name": "Builders Meetup | LONDON",
@@ -241,7 +156,7 @@
       "Sebastian B"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-06T13:33:40.538946"
+    "scraped_date": "2026-11-07T12:14:19.009495"
   },
   {
     "name": "DevConnect × WorldBuilder Summit",
@@ -258,7 +173,7 @@
       "David Statter"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-06T13:33:40.538966"
+    "scraped_date": "2026-11-07T12:14:19.009505"
   },
   {
     "name": "Agentic Web - Build Night",
@@ -276,7 +191,41 @@
       "Parallel Web Systems",
       "incident.io 🔥"
     ],
-    "attendee_count": 108,
-    "scraped_date": "2026-11-06T13:33:45.149585"
+    "attendee_count": 107,
+    "scraped_date": "2026-11-07T12:14:24.019599"
+  },
+  {
+    "name": "Beyond AI: Building Intelligent Operations",
+    "date": "2026-11-12T15:15:00.000Z",
+    "end_date": "2026-11-12T17:00:00.000Z",
+    "location": "House of Lords, Houses of Parliament, Parliament Sq, London SW1A 0PW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/0fqjq6zl",
+    "hosts": [
+      "Quantanite",
+      "Dave Brown",
+      "Atreya Chaganty"
+    ],
+    "attendee_count": 43,
+    "scraped_date": "2026-11-07T12:14:24.019636"
+  },
+  {
+    "name": "Builders Club #06",
+    "date": "2026-11-12T16:00:00.000Z",
+    "end_date": "2026-11-12T19:00:00.000Z",
+    "location": "22 Upper Woburn Pl, London WC1H 0JW, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/builders-club-6",
+    "hosts": [
+      "Victoria Lawless"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-07T12:14:24.019643"
   }
 ]
