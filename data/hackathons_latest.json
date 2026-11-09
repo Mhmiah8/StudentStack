@@ -13,7 +13,7 @@
       "TechEmbassy"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-08T12:34:27.236653"
+    "scraped_date": "2026-11-09T14:52:27.526831"
   },
   {
     "name": "Roundtable #2 Claude Code Massacre with Simon Small",
@@ -30,7 +30,7 @@
       "Simon Small"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-08T12:34:32.647990"
+    "scraped_date": "2026-11-09T14:52:32.177322"
   },
   {
     "name": "Workshop: Build something Delightfully lovable (London)",
@@ -48,7 +48,7 @@
       "NESRINE CHANGUEL"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-08T12:34:32.648009"
+    "scraped_date": "2026-11-09T14:52:32.177342"
   },
   {
     "name": "Build your content-led GTM motion: Hackathon",
@@ -71,8 +71,8 @@
       "Sagar Shah",
       "Yunsu Tang"
     ],
-    "attendee_count": 71,
-    "scraped_date": "2026-11-08T12:34:27.236708"
+    "attendee_count": 80,
+    "scraped_date": "2026-11-09T14:52:27.526884"
   },
   {
     "name": "Above the Clouds: Building Enterprise AI with AWS",
@@ -88,7 +88,7 @@
       "Ayub Yanturin"
     ],
     "attendee_count": 52,
-    "scraped_date": "2026-11-08T12:34:32.648024"
+    "scraped_date": "2026-11-09T14:52:32.177356"
   },
   {
     "name": "AI Builders London - Nov 10",
@@ -105,8 +105,8 @@
       "Neo4j",
       "IndyKite"
     ],
-    "attendee_count": 242,
-    "scraped_date": "2026-11-08T12:34:32.648034"
+    "attendee_count": 244,
+    "scraped_date": "2026-11-09T14:52:32.177366"
   },
   {
     "name": "London Generative AI Builders Night",
@@ -123,8 +123,8 @@
       "Korhan Erçin",
       "Eachlabs Events"
     ],
-    "attendee_count": 69,
-    "scraped_date": "2026-11-08T12:34:32.648053"
+    "attendee_count": 78,
+    "scraped_date": "2026-11-09T14:52:32.177385"
   },
   {
     "name": "Builders Meetup | LONDON",
@@ -143,7 +143,7 @@
       "Sebastian B"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-08T12:34:27.236731"
+    "scraped_date": "2026-11-09T14:52:27.526920"
   },
   {
     "name": "DevConnect × WorldBuilder Summit",
@@ -160,7 +160,7 @@
       "David Statter"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-08T12:34:27.236758"
+    "scraped_date": "2026-11-09T14:52:27.526941"
   },
   {
     "name": "Agentic Web - Build Night",
@@ -178,8 +178,8 @@
       "Parallel Web Systems",
       "incident.io 🔥"
     ],
-    "attendee_count": 114,
-    "scraped_date": "2026-11-08T12:34:32.648088"
+    "attendee_count": 113,
+    "scraped_date": "2026-11-09T14:52:32.177418"
   },
   {
     "name": "Beyond AI: Building Intelligent Operations",
@@ -196,8 +196,8 @@
       "Dave Brown",
       "Atreya Chaganty"
     ],
-    "attendee_count": 43,
-    "scraped_date": "2026-11-08T12:34:32.648144"
+    "attendee_count": 45,
+    "scraped_date": "2026-11-09T14:52:32.177469"
   },
   {
     "name": "Builders Club #06",
@@ -213,7 +213,7 @@
       "Victoria Lawless"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-08T12:34:32.648152"
+    "scraped_date": "2026-11-09T14:52:32.177476"
   },
   {
     "name": "Build your first AI sales workflow with Claude and Zapier",
@@ -233,6 +233,6 @@
       "Hannah Springett"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-08T12:34:32.648172"
+    "scraped_date": "2026-11-09T14:52:32.177495"
   }
 ]
