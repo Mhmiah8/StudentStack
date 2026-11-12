@@ -1,24 +1,5 @@
 [
   {
-    "name": "Agentic Web - Build Night",
-    "date": "2026-11-11T17:30:00.000Z",
-    "end_date": "2026-11-11T22:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/rytzr0zh",
-    "hosts": [
-      "Gamal Mubarak",
-      "Carla Griffiths",
-      "Parallel Web Systems",
-      "incident.io 🔥"
-    ],
-    "attendee_count": 116,
-    "scraped_date": "2026-11-11T13:22:03.558164"
-  },
-  {
     "name": "Beyond AI: Building Intelligent Operations",
     "date": "2026-11-12T15:15:00.000Z",
     "end_date": "2026-11-12T17:00:00.000Z",
@@ -34,7 +15,7 @@
       "Atreya Chaganty"
     ],
     "attendee_count": 54,
-    "scraped_date": "2026-11-11T13:22:03.558278"
+    "scraped_date": "2026-11-12T14:26:00.114598"
   },
   {
     "name": "Builders Club #06",
@@ -50,7 +31,7 @@
       "Victoria Lawless"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-11T13:22:03.558289"
+    "scraped_date": "2026-11-12T14:26:00.114625"
   },
   {
     "name": "Build your first AI sales workflow with Claude and Zapier",
@@ -70,7 +51,7 @@
       "Hannah Springett"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-11T13:22:03.558311"
+    "scraped_date": "2026-11-12T14:26:00.114666"
   },
   {
     "name": "Coffee & Build | Mobile App Hackathon",
@@ -89,7 +70,7 @@
       "Levina Basra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-11T13:21:58.751374"
+    "scraped_date": "2026-11-12T14:25:55.038874"
   },
   {
     "name": "Hackathon Eve: How We Build with Agents",
@@ -105,7 +86,55 @@
       "Imperial AI"
     ],
     "attendee_count": 400,
-    "scraped_date": "2026-11-11T13:22:03.558360"
+    "scraped_date": "2026-11-12T14:26:00.114792"
+  },
+  {
+    "name": "TamilHack - PARAI x TILE",
+    "date": "2026-11-14T09:30:00.000Z",
+    "end_date": "2026-11-14T19:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qrbvfeun",
+    "hosts": [
+      "Harishan Ganeshan"
+    ],
+    "attendee_count": 63,
+    "scraped_date": "2026-11-12T14:26:00.114808"
+  },
+  {
+    "name": "Imperial AI Hackathon",
+    "date": "2026-11-14T10:00:00.000Z",
+    "end_date": "2026-11-15T18:00:00.000Z",
+    "location": "Imperial College London, South Kensington Campus, Huxley Building, 180 Queen's Gate, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/c6zebxau",
+    "hosts": [
+      "Imperial AI"
+    ],
+    "attendee_count": 444,
+    "scraped_date": "2026-11-12T14:26:00.114819"
+  },
+  {
+    "name": "Building the Next AI-Powered BeSci Unicorn",
+    "date": "2026-11-16T18:30:00.000Z",
+    "end_date": "2026-11-16T21:00:00.000Z",
+    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/encode-t73d",
+    "hosts": [
+      "Encode Club"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-12T14:26:00.114874"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -120,7 +149,40 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 34,
-    "scraped_date": "2026-11-11T13:21:58.751418"
+    "attendee_count": 39,
+    "scraped_date": "2026-11-12T14:25:55.038940"
+  },
+  {
+    "name": "Builders' Morning: Europe's Hard Problems",
+    "date": "2026-11-17T08:30:00.000Z",
+    "end_date": "2026-11-17T12:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/lm9ohrfn",
+    "hosts": [
+      "Antler in the UK"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-12T14:26:00.114889"
+  },
+  {
+    "name": "Firsthand: Building a Unicorn with Adam French",
+    "date": "2026-11-17T19:00:00.000Z",
+    "end_date": "2026-11-17T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/r9rjggwp",
+    "hosts": [
+      "Ted Chalouhi",
+      "Antidote"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-12T14:25:55.038988"
   }
 ]
