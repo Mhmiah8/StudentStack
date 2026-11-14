@@ -1,53 +1,5 @@
 [
   {
-    "name": "Hackathon Eve: How We Build with Agents",
-    "date": "2026-11-13T18:00:00.000Z",
-    "end_date": "2026-11-13T20:00:00.000Z",
-    "location": "City & Guilds Building, South Kensington, London SW7 2BX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/xx7msf8o",
-    "hosts": [
-      "Imperial AI"
-    ],
-    "attendee_count": 400,
-    "scraped_date": "2026-11-13T13:44:42.991440"
-  },
-  {
-    "name": "TamilHack - PARAI x TILE",
-    "date": "2026-11-14T09:30:00.000Z",
-    "end_date": "2026-11-14T19:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/qrbvfeun",
-    "hosts": [
-      "Harishan Ganeshan"
-    ],
-    "attendee_count": 61,
-    "scraped_date": "2026-11-13T13:44:42.991467"
-  },
-  {
-    "name": "Imperial AI Hackathon",
-    "date": "2026-11-14T10:00:00.000Z",
-    "end_date": "2026-11-15T18:00:00.000Z",
-    "location": "Imperial College London, South Kensington Campus, Huxley Building, 180 Queen's Gate, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/c6zebxau",
-    "hosts": [
-      "Imperial AI"
-    ],
-    "attendee_count": 500,
-    "scraped_date": "2026-11-13T13:44:42.991481"
-  },
-  {
     "name": "Building the Next AI-Powered BeSci Unicorn",
     "date": "2026-11-16T18:30:00.000Z",
     "end_date": "2026-11-16T21:00:00.000Z",
@@ -61,7 +13,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-13T13:44:42.991540"
+    "scraped_date": "2026-11-14T12:48:56.690231"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -76,8 +28,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 43,
-    "scraped_date": "2026-11-13T13:44:38.508827"
+    "attendee_count": 48,
+    "scraped_date": "2026-11-14T12:48:51.353795"
   },
   {
     "name": "Builders' Morning: Europe's Hard Problems",
@@ -93,7 +45,7 @@
       "Antler in the UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-13T13:44:42.991560"
+    "scraped_date": "2026-11-14T12:48:56.690254"
   },
   {
     "name": "BIO APERITIVO LDN I Building Biological AI, with Planet A & Bits in Bio",
@@ -110,7 +62,7 @@
       "Christian Gonzalez"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-13T13:44:42.991580"
+    "scraped_date": "2026-11-14T12:48:56.690271"
   },
   {
     "name": "GTM Hackathon by Granola x Gemini",
@@ -129,7 +81,24 @@
       "Michael Carney"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-13T13:44:42.991634"
+    "scraped_date": "2026-11-14T12:48:56.690281"
+  },
+  {
+    "name": "Build Your Student OS in Notion",
+    "date": "2026-11-17T18:30:00.000Z",
+    "end_date": "2026-11-17T20:00:00.000Z",
+    "location": "Bush House North Wing, King's College London, 30 Aldwych, London WC2B 4BG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/notion-j458",
+    "hosts": [
+      "Waseef Khan",
+      "Anika Patel"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-11-14T12:48:51.353866"
   },
   {
     "name": "Firsthand: Building a Unicorn with Adam French",
@@ -146,7 +115,7 @@
       "Antidote"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-13T13:44:38.508882"
+    "scraped_date": "2026-11-14T12:48:51.353885"
   },
   {
     "name": "How Financial Services Brands Build the Trust AI Needs to Recommend Them",
@@ -162,7 +131,7 @@
       "DemandMore"
     ],
     "attendee_count": 22,
-    "scraped_date": "2026-11-13T13:44:42.991678"
+    "scraped_date": "2026-11-14T12:48:56.690319"
   },
   {
     "name": "Founders Playbook: Build your first team",
@@ -180,6 +149,6 @@
       "Imperial Entrepreneurs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-13T13:44:38.508916"
+    "scraped_date": "2026-11-14T12:48:51.353916"
   }
 ]
