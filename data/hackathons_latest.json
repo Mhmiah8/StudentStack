@@ -13,7 +13,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-14T12:48:56.690231"
+    "scraped_date": "2026-11-15T13:16:26.415009"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -28,8 +28,8 @@
     "hosts": [
       "Noam"
     ],
-    "attendee_count": 48,
-    "scraped_date": "2026-11-14T12:48:51.353795"
+    "attendee_count": 49,
+    "scraped_date": "2026-11-15T13:16:21.424614"
   },
   {
     "name": "Builders' Morning: Europe's Hard Problems",
@@ -45,7 +45,7 @@
       "Antler in the UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-14T12:48:56.690254"
+    "scraped_date": "2026-11-15T13:16:26.415035"
   },
   {
     "name": "BIO APERITIVO LDN I Building Biological AI, with Planet A & Bits in Bio",
@@ -59,10 +59,11 @@
     "url": "https://lu.ma/sm45a0jm",
     "hosts": [
       "Planet A",
-      "Christian Gonzalez"
+      "Christian Gonzalez",
+      "Robbie Matthews"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-14T12:48:56.690271"
+    "scraped_date": "2026-11-15T13:16:26.415066"
   },
   {
     "name": "GTM Hackathon by Granola x Gemini",
@@ -81,7 +82,7 @@
       "Michael Carney"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-14T12:48:56.690281"
+    "scraped_date": "2026-11-15T13:16:26.415081"
   },
   {
     "name": "Build Your Student OS in Notion",
@@ -97,8 +98,8 @@
       "Waseef Khan",
       "Anika Patel"
     ],
-    "attendee_count": 3,
-    "scraped_date": "2026-11-14T12:48:51.353866"
+    "attendee_count": 14,
+    "scraped_date": "2026-11-15T13:16:21.424863"
   },
   {
     "name": "Firsthand: Building a Unicorn with Adam French",
@@ -115,7 +116,23 @@
       "Antidote"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-14T12:48:51.353885"
+    "scraped_date": "2026-11-15T13:16:21.424924"
+  },
+  {
+    "name": "How to Win a Hackathon",
+    "date": "2026-11-17T19:00:00.000Z",
+    "end_date": "2026-11-17T20:30:00.000Z",
+    "location": "King's College London, Strand, London WC2R 2LS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/47en7bb6",
+    "hosts": [
+      "KCL Tech Events"
+    ],
+    "attendee_count": 12,
+    "scraped_date": "2026-11-15T13:16:21.424955"
   },
   {
     "name": "How Financial Services Brands Build the Trust AI Needs to Recommend Them",
@@ -131,7 +148,23 @@
       "DemandMore"
     ],
     "attendee_count": 22,
-    "scraped_date": "2026-11-14T12:48:56.690319"
+    "scraped_date": "2026-11-15T13:16:26.415121"
+  },
+  {
+    "name": "UK–Switzerland Leadership Forum: Building the Future of AI-Driven Scientific Discovery",
+    "date": "2026-11-18T17:30:00.000Z",
+    "end_date": "2026-11-18T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/e4p9hyyl",
+    "hosts": [
+      "Daniel Ellul"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-15T13:16:26.415165"
   },
   {
     "name": "Founders Playbook: Build your first team",
@@ -149,6 +182,92 @@
       "Imperial Entrepreneurs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-14T12:48:51.353916"
+    "scraped_date": "2026-11-15T13:16:21.425032"
+  },
+  {
+    "name": "From Corporate to Startup: Building Quiddy",
+    "date": "2026-11-18T18:00:00.000Z",
+    "end_date": "2026-11-18T20:00:00.000Z",
+    "location": "Roberts Building, London WC1E 7JE, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/3u9xgc02",
+    "hosts": [
+      "Ares Dafas",
+      "Rehaan Arora"
+    ],
+    "attendee_count": 13,
+    "scraped_date": "2026-11-15T13:16:21.425063"
+  },
+  {
+    "name": "Jev Mini Hackathon",
+    "date": "2026-11-18T18:00:00.000Z",
+    "end_date": "2026-11-18T20:30:00.000Z",
+    "location": "27 Dingley Pl, London EC1V 8BR, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/8s3s7o73",
+    "hosts": [
+      "Founders and Coders"
+    ],
+    "attendee_count": 38,
+    "scraped_date": "2026-11-15T13:16:26.415185"
+  },
+  {
+    "name": "She Bytes Back x Snyk: What Breaks When Agents Start Shipping Your Code?",
+    "date": "2026-11-18T18:00:00.000Z",
+    "end_date": "2026-11-18T21:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/q3uykk0n",
+    "hosts": [
+      "Amber Shand | She Bytes Back"
+    ],
+    "attendee_count": 111,
+    "scraped_date": "2026-11-15T13:16:26.415199"
+  },
+  {
+    "name": "Your agents have a spending problem (and your platform can't stop for a rebuild)",
+    "date": "2026-11-18T18:00:00.000Z",
+    "end_date": "2026-11-18T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ztgaumty",
+    "hosts": [
+      "Nearform"
+    ],
+    "attendee_count": 112,
+    "scraped_date": "2026-11-15T13:16:26.415207"
+  },
+  {
+    "name": "Build Hardware Like a Founder: Silixon Masterclass",
+    "date": "2026-11-19T18:00:00.000Z",
+    "end_date": "2026-11-19T20:00:00.000Z",
+    "location": "Royal School of Mines, Imperial College, South Kensington, London SW7 2AZ, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/rxczds6i",
+    "hosts": [
+      "Imperial Entrepreneurs",
+      "Mihai Mesteru",
+      "Eliza Ang",
+      "Ryaan Sultan",
+      "Hela Hałas ⭐️",
+      "Ian Zhelezniak"
+    ],
+    "attendee_count": 116,
+    "scraped_date": "2026-11-15T13:16:21.425173"
   }
 ]
