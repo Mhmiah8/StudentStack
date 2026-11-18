@@ -1,144 +1,5 @@
 [
   {
-    "name": "BIO APERITIVO LDN I Building Biological AI, with Planet A & Bits in Bio",
-    "date": "2026-11-17T17:00:00.000Z",
-    "end_date": "2026-11-17T20:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/sm45a0jm",
-    "hosts": [
-      "Planet A",
-      "Christian Gonzalez",
-      "Robbie Matthews"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-17T15:19:46.685370"
-  },
-  {
-    "name": "Launch It Tonight: Build Your Brand with Canva",
-    "date": "2026-11-17T18:00:00.000Z",
-    "end_date": "2026-11-17T21:00:00.000Z",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/encode-nx59",
-    "hosts": [
-      "Encode Club"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-17T15:19:41.979945"
-  },
-  {
-    "name": "GTM Hackathon by Granola x Gemini",
-    "date": "2026-11-17T18:00:00.000Z",
-    "end_date": "2026-11-17T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/granola-gemini-hackathon",
-    "hosts": [
-      "Camilla Bier",
-      "Ryan Francis",
-      "Google DeepMind",
-      "Michael Carney"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-17T15:19:46.685401"
-  },
-  {
-    "name": "Vibecoding 101 × Claude Builder Club: Frontend (Workshop 2)",
-    "date": "2026-11-17T18:00:00.000Z",
-    "end_date": "2026-11-17T21:00:00.000Z",
-    "location": "Roberts Building, London WC1E 7JE, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/wie1kxwp",
-    "hosts": [
-      "Amelie Romano",
-      "UCL AI Society",
-      "Chelsea Semou",
-      "Abdul Azeem Makarim"
-    ],
-    "attendee_count": 132,
-    "scraped_date": "2026-11-17T15:19:46.685422"
-  },
-  {
-    "name": "Build Your Student OS in Notion",
-    "date": "2026-11-17T18:30:00.000Z",
-    "end_date": "2026-11-17T20:00:00.000Z",
-    "location": "Franklin Wilkins Building, Kings College London, Stamford St, London SE1 9NQ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/notion-j458",
-    "hosts": [
-      "Waseef Khan",
-      "Anika Patel",
-      "Raghav Jain"
-    ],
-    "attendee_count": 15,
-    "scraped_date": "2026-11-17T15:19:41.980012"
-  },
-  {
-    "name": "Firsthand: Building a Unicorn with Adam French",
-    "date": "2026-11-17T19:00:00.000Z",
-    "end_date": "2026-11-17T20:30:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/r9rjggwp",
-    "hosts": [
-      "Ted Chalouhi",
-      "Antidote"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-17T15:19:41.980035"
-  },
-  {
-    "name": "How to Win a Hackathon",
-    "date": "2026-11-17T19:00:00.000Z",
-    "end_date": "2026-11-17T20:30:00.000Z",
-    "location": "King's College London, Strand, London WC2R 2LS, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/47en7bb6",
-    "hosts": [
-      "KCL Tech Events"
-    ],
-    "attendee_count": 67,
-    "scraped_date": "2026-11-17T15:19:41.980068"
-  },
-  {
-    "name": "How Financial Services Brands Build the Trust AI Needs to Recommend Them",
-    "date": "2026-11-18T08:30:00.000Z",
-    "end_date": "2026-11-18T10:30:00.000Z",
-    "location": "Bob Bob Ricard City, Level 3, 122 Leadenhall St, London EC3V 4AB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/f3iu1ju6",
-    "hosts": [
-      "DemandMore"
-    ],
-    "attendee_count": 16,
-    "scraped_date": "2026-11-17T15:19:46.685464"
-  },
-  {
     "name": "Build a Game w/JavaFX #1: World and Movement",
     "date": "2026-11-18T17:00:00.000Z",
     "end_date": "2026-11-18T19:00:00.000Z",
@@ -152,7 +13,7 @@
       "KCL Tech Events"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-17T15:19:41.980093"
+    "scraped_date": "2026-11-18T14:55:00.353013"
   },
   {
     "name": "UK–Switzerland Leadership Forum: Building the Future of AI-Driven Scientific Discovery",
@@ -166,11 +27,10 @@
     "url": "https://lu.ma/e4p9hyyl",
     "hosts": [
       "Daniel Ellul",
-      "Swiss Business Hub UK",
-      "David Jenny"
+      "Swiss Business Hub UK"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-17T15:19:46.685525"
+    "scraped_date": "2026-11-18T14:55:05.320858"
   },
   {
     "name": "From Corporate to Startup: Building Quiddy",
@@ -186,8 +46,8 @@
       "Ares Dafas",
       "Rehaan Arora"
     ],
-    "attendee_count": 37,
-    "scraped_date": "2026-11-17T15:19:41.980108"
+    "attendee_count": 40,
+    "scraped_date": "2026-11-18T14:55:00.353049"
   },
   {
     "name": "Building AI Products on the Right Foundations",
@@ -204,7 +64,7 @@
       "Max Absolom"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-17T15:19:46.685550"
+    "scraped_date": "2026-11-18T14:55:05.320894"
   },
   {
     "name": "Mobile App Hackathon Night by Bilt.me",
@@ -224,8 +84,8 @@
       "Grace Greer",
       "Levina Basra"
     ],
-    "attendee_count": 149,
-    "scraped_date": "2026-11-17T15:19:46.685568"
+    "attendee_count": 152,
+    "scraped_date": "2026-11-18T14:55:05.320912"
   },
   {
     "name": "She Bytes Back x Snyk: What Breaks When Agents Start Shipping Your Code?",
@@ -240,8 +100,8 @@
     "hosts": [
       "Amber Shand | She Bytes Back"
     ],
-    "attendee_count": 106,
-    "scraped_date": "2026-11-17T15:19:46.685579"
+    "attendee_count": 86,
+    "scraped_date": "2026-11-18T14:55:05.320922"
   },
   {
     "name": "Your agents have a spending problem (and your platform can't stop for a rebuild)",
@@ -256,8 +116,8 @@
     "hosts": [
       "Nearform"
     ],
-    "attendee_count": 134,
-    "scraped_date": "2026-11-17T15:19:46.685590"
+    "attendee_count": 136,
+    "scraped_date": "2026-11-18T14:55:05.320933"
   },
   {
     "name": "What to Build, What to Trust: Shipping in the Age of AI",
@@ -275,7 +135,41 @@
       "Antidote"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-17T15:19:46.685609"
+    "scraped_date": "2026-11-18T14:55:05.320948"
+  },
+  {
+    "name": "Founder Breakfast: Who Builds Product in the AI Age?",
+    "date": "2026-11-19T08:45:00.000Z",
+    "end_date": "2026-11-19T10:00:00.000Z",
+    "location": "Piazza Italiana - Italian Restaurant, 38 Threadneedle St, London EC2R 8AY, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/0anxfadw",
+    "hosts": [
+      "Nastasia Humbert",
+      "Kenzo Onumonu"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-18T14:55:05.320969"
+  },
+  {
+    "name": "Claude x Softr Build Sprint in London: Build Your Ops App in 60 Minutes",
+    "date": "2026-11-19T17:30:00.000Z",
+    "end_date": "2026-11-19T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/softr-6wa9",
+    "hosts": [
+      "Francisco Opazo",
+      "Ana Cassaniga Simmons"
+    ],
+    "attendee_count": 75,
+    "scraped_date": "2026-11-18T14:55:05.320983"
   },
   {
     "name": "Build Hardware Like a Founder: Silixon Masterclass",
@@ -295,7 +189,93 @@
       "Hela Hałas ⭐️",
       "Ian Zhelezniak"
     ],
-    "attendee_count": 119,
-    "scraped_date": "2026-11-17T15:19:41.980151"
+    "attendee_count": 140,
+    "scraped_date": "2026-11-18T14:55:00.353105"
+  },
+  {
+    "name": "Build AI That Sees the Physical World: Vision AI Agent",
+    "date": "2026-11-19T18:00:00.000Z",
+    "end_date": "2026-11-19T20:30:00.000Z",
+    "location": "Red Lion, 1 Eldon St, London EC2M 7LS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/3dgwka1i",
+    "hosts": [
+      "Viso Now"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-18T14:55:05.321006"
+  },
+  {
+    "name": "FirstYearHack 2026",
+    "date": "2026-11-21T10:00:00.000Z",
+    "end_date": "2026-11-21T19:45:00.000Z",
+    "location": "Bush House, 30 Aldwych, London WC2B 4BG, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/firstyearhack",
+    "hosts": [
+      "KCL Tech Events",
+      "Haleema Mohammed",
+      "Waseef Khan"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-18T14:55:00.353152"
+  },
+  {
+    "name": "Hack for Impact",
+    "date": "2026-11-21T10:00:00.000Z",
+    "end_date": "2026-11-21T18:00:00.000Z",
+    "location": "City & Guilds Building, South Kensington, London SW7 2BX, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/ovddmk7j",
+    "hosts": [
+      "Aras Aksoy"
+    ],
+    "attendee_count": 74,
+    "scraped_date": "2026-11-18T14:55:00.353162"
+  },
+  {
+    "name": "SoTA Scientific Parallelism Hackathon | With Callosum, Inherent, ARIA + Fractile",
+    "date": "2026-11-21T11:00:00.000Z",
+    "end_date": "2026-11-22T18:00:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/scientific-parallelism",
+    "hosts": [
+      "Society for Technological Advancement",
+      "Jamie",
+      "Matvey"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-18T14:55:00.353172"
+  },
+  {
+    "name": "HackWimbledon November #2",
+    "date": "2026-11-22T12:00:00.000Z",
+    "end_date": "2026-11-22T16:00:00.000Z",
+    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/qnth1v1r",
+    "hosts": [
+      "Bazza",
+      "Neil Lambeth",
+      "Andy Piper"
+    ],
+    "attendee_count": 8,
+    "scraped_date": "2026-11-18T14:55:00.353186"
   }
 ]
