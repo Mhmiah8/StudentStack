@@ -1,41 +1,5 @@
 [
   {
-    "name": "Open Court Hackathon with Wonder Studios",
-    "date": "2026-11-22T11:00:00.000Z",
-    "end_date": "2026-11-22T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/fzy8ibe6",
-    "hosts": [
-      "Phoenix Court",
-      "Wonder Studios",
-      "Eugénie Fontugne"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:21.666906"
-  },
-  {
-    "name": "HackWimbledon November #2",
-    "date": "2026-11-22T12:00:00.000Z",
-    "end_date": "2026-11-22T16:00:00.000Z",
-    "location": "Wimbletech, Wimbledon Hill Rd, London SW19 7NB, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/qnth1v1r",
-    "hosts": [
-      "Bazza",
-      "Neil Lambeth",
-      "Andy Piper"
-    ],
-    "attendee_count": 11,
-    "scraped_date": "2026-11-21T13:59:16.419196"
-  },
-  {
     "name": "Daytona Builder Brunch - London, November 2026",
     "date": "2026-11-23T10:00:00.000Z",
     "end_date": "2026-11-23T12:00:00.000Z",
@@ -55,7 +19,7 @@
       "Claudia Maggi"
     ],
     "attendee_count": 70,
-    "scraped_date": "2026-11-21T13:59:21.666929"
+    "scraped_date": "2026-11-22T13:53:25.831094"
   },
   {
     "name": "hardware builder coffee (& makerversity tour)",
@@ -71,7 +35,7 @@
       "Lachlan Chavasse"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:16.419239"
+    "scraped_date": "2026-11-22T13:53:21.135309"
   },
   {
     "name": "Retail AI & Agents Hackathon | Innovators Guild",
@@ -88,8 +52,8 @@
       "Nebius Developer Community",
       "Daniel Colaianni"
     ],
-    "attendee_count": 167,
-    "scraped_date": "2026-11-21T13:59:21.666968"
+    "attendee_count": 178,
+    "scraped_date": "2026-11-22T13:53:25.831148"
   },
   {
     "name": "London Lab Automation Build Group — First Session",
@@ -106,7 +70,7 @@
       "Jay Moore"
     ],
     "attendee_count": 7,
-    "scraped_date": "2026-11-21T13:59:16.419269"
+    "scraped_date": "2026-11-22T13:53:21.135353"
   },
   {
     "name": "Build What’s Next: n8n Enterprise Night in London",
@@ -125,7 +89,7 @@
       "Carmel Anderson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:21.666984"
+    "scraped_date": "2026-11-22T13:53:25.831166"
   },
   {
     "name": "Daytona AI Builders - London, November 2026",
@@ -141,8 +105,8 @@
       "Daytona",
       "Encode Club"
     ],
-    "attendee_count": 308,
-    "scraped_date": "2026-11-21T13:59:21.667009"
+    "attendee_count": 314,
+    "scraped_date": "2026-11-22T13:53:25.831188"
   },
   {
     "name": "Chrome Unprompted: Dinner for Builders and Developers",
@@ -159,7 +123,7 @@
       "André Cipriani Bandarra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:16.419306"
+    "scraped_date": "2026-11-22T13:53:21.135385"
   },
   {
     "name": "The Revenue Engine Hackathon: London",
@@ -181,7 +145,7 @@
       "Conor McCarthy"
     ],
     "attendee_count": 19,
-    "scraped_date": "2026-11-21T13:59:16.419340"
+    "scraped_date": "2026-11-22T13:53:21.135410"
   },
   {
     "name": "Education & AI Connect: Build Your Own Voice AI Multilingual Student Recruitment Advisor",
@@ -197,7 +161,7 @@
       "Giuliana Bonvini"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:21.667052"
+    "scraped_date": "2026-11-22T13:53:25.831250"
   },
   {
     "name": "Build Sprint London: Launch Your Client Portal with AI in a Day",
@@ -212,8 +176,8 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 33,
-    "scraped_date": "2026-11-21T13:59:21.667060"
+    "attendee_count": 32,
+    "scraped_date": "2026-11-22T13:53:25.831260"
   },
   {
     "name": "ENCODE The Procurement Launch of the Year",
@@ -229,7 +193,7 @@
       "Leoni Marhenkel"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:21.667085"
+    "scraped_date": "2026-11-22T13:53:25.831270"
   },
   {
     "name": "Build your first AI Agent in HubSpot",
@@ -245,7 +209,23 @@
       "Anna Drogon"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:21.667119"
+    "scraped_date": "2026-11-22T13:53:25.831278"
+  },
+  {
+    "name": "One Prompt Hackathon with Lovable and YFL, at Oneder",
+    "date": "2026-11-25T15:30:00.000Z",
+    "end_date": "2026-11-25T17:30:00.000Z",
+    "location": "Kindling with Oneder, Mediaworks, Ground Floor, 191 Wood Ln, London W12 7FP, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/bx21kd8g",
+    "hosts": [
+      "Hector Laine"
+    ],
+    "attendee_count": 39,
+    "scraped_date": "2026-11-22T13:53:25.831285"
   },
   {
     "name": "Building the Agentic Business: Strategy, Systems and Smarter AI Spend",
@@ -263,7 +243,25 @@
       "Make"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:21.667135"
+    "scraped_date": "2026-11-22T13:53:25.831294"
+  },
+  {
+    "name": "Building in Britain: AI in Defence",
+    "date": "2026-11-25T17:30:00.000Z",
+    "end_date": "2026-11-25T20:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/CorporaxConvertxLondonAIHubx",
+    "hosts": [
+      "London AI Hub",
+      "Corpora.ai",
+      "Convert Technologies"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-22T13:53:25.831303"
   },
   {
     "name": "Black Tech Builders: Turning Talent into Ownership",
@@ -280,8 +278,8 @@
       "Olivia Maccossa",
       "Viola Kanu"
     ],
-    "attendee_count": 151,
-    "scraped_date": "2026-11-21T13:59:16.419373"
+    "attendee_count": 156,
+    "scraped_date": "2026-11-22T13:53:21.135423"
   },
   {
     "name": "Founders Playbook: Build your first team",
@@ -299,7 +297,7 @@
       "Imperial Entrepreneurs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-21T13:59:16.419391"
+    "scraped_date": "2026-11-22T13:53:21.135435"
   },
   {
     "name": "Oasis Growth Series: Cracking the Corporate Code - Selling Into Large Organisations",
@@ -315,6 +313,23 @@
       "Oasis London"
     ],
     "attendee_count": 16,
-    "scraped_date": "2026-11-21T13:59:16.419401"
+    "scraped_date": "2026-11-22T13:53:21.135446"
+  },
+  {
+    "name": "Mochi & Code",
+    "date": "2026-11-25T18:00:00.000Z",
+    "end_date": "2026-11-25T20:30:00.000Z",
+    "location": "Techspace Goswell Road, 140 Goswell Rd., London EC1V 7DY, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/instalily-0mqs",
+    "hosts": [
+      "Lauren Weber",
+      "London AI Hub"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-22T13:53:25.831315"
   }
 ]
