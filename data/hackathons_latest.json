@@ -1,58 +1,5 @@
 [
   {
-    "name": "hardware builder coffee (& makerversity tour)",
-    "date": "2026-11-24T08:00:00.000Z",
-    "end_date": "2026-11-24T10:00:00.000Z",
-    "location": "WatchHouse Somerset House, Somerset House East Wing, London WC2R 1LA, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1yba1qd0",
-    "hosts": [
-      "Lachlan Chavasse"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:37.632061"
-  },
-  {
-    "name": "Retail AI & Agents Hackathon | Innovators Guild",
-    "date": "2026-11-24T15:00:00.000Z",
-    "end_date": "2026-11-24T21:00:00.000Z",
-    "location": "Fresha, 207-211, The Bower, Old St, Tower, London EC1V 9NR, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/1ri4tr1c",
-    "hosts": [
-      "Ayub Yanturin",
-      "Nebius Developer Community",
-      "Daniel Colaianni",
-      "Tavily Events"
-    ],
-    "attendee_count": 184,
-    "scraped_date": "2026-11-23T17:01:43.032793"
-  },
-  {
-    "name": "London Lab Automation Build Group — First Session",
-    "date": "2026-11-24T16:00:00.000Z",
-    "end_date": "2026-11-24T20:00:00.000Z",
-    "location": "Imperial College Advanced Hackspace, Door A, Stadium House, 68 Wood Ln, London W12 7RH, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/n6fq5unj",
-    "hosts": [
-      "Nathan Skene",
-      "David Brown",
-      "Jay Moore"
-    ],
-    "attendee_count": 36,
-    "scraped_date": "2026-11-23T17:01:37.632109"
-  },
-  {
     "name": "Build What’s Next: n8n Enterprise Night in London",
     "date": "2026-11-24T17:30:00.000Z",
     "end_date": "2026-11-24T20:30:00.000Z",
@@ -69,7 +16,7 @@
       "Carmel Anderson"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:43.032822"
+    "scraped_date": "2026-11-24T16:49:15.305902"
   },
   {
     "name": "Daytona AI Builders - London, November 2026",
@@ -85,8 +32,8 @@
       "Daytona",
       "Encode Club"
     ],
-    "attendee_count": 328,
-    "scraped_date": "2026-11-23T17:01:43.032844"
+    "attendee_count": 338,
+    "scraped_date": "2026-11-24T16:49:15.305941"
   },
   {
     "name": "Chrome Unprompted: Dinner for Builders and Developers",
@@ -103,7 +50,7 @@
       "André Cipriani Bandarra"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:37.632146"
+    "scraped_date": "2026-11-24T16:49:10.513863"
   },
   {
     "name": "The Revenue Engine Hackathon: London",
@@ -125,7 +72,7 @@
       "Conor McCarthy"
     ],
     "attendee_count": 21,
-    "scraped_date": "2026-11-23T17:01:37.632170"
+    "scraped_date": "2026-11-24T16:49:10.513904"
   },
   {
     "name": "Education & AI Connect: Build Your Own Voice AI Multilingual Student Recruitment Advisor",
@@ -141,7 +88,7 @@
       "Giuliana Bonvini"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:43.032887"
+    "scraped_date": "2026-11-24T16:49:15.305991"
   },
   {
     "name": "Build Sprint London: Launch Your Client Portal with AI in a Day",
@@ -156,14 +103,14 @@
     "hosts": [
       "Francisco Opazo"
     ],
-    "attendee_count": 28,
-    "scraped_date": "2026-11-23T17:01:43.032896"
+    "attendee_count": 30,
+    "scraped_date": "2026-11-24T16:49:15.305999"
   },
   {
     "name": "ENCODE The Procurement Launch of the Year",
     "date": "2026-11-25T12:30:00.000Z",
     "end_date": "2026-11-25T17:00:00.000Z",
-    "location": "41 Portland Pl, London W1B 1QH, UK",
+    "location": "The Royal Institution, 21 Albemarle St, London W1S 4BS, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
@@ -173,7 +120,7 @@
       "Leoni Marhenkel"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:43.032920"
+    "scraped_date": "2026-11-24T16:49:15.306012"
   },
   {
     "name": "Build your first AI Agent in HubSpot",
@@ -189,7 +136,7 @@
       "Anna Drogon"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:43.032927"
+    "scraped_date": "2026-11-24T16:49:15.306021"
   },
   {
     "name": "One Prompt Hackathon with Lovable and YFL, at Oneder",
@@ -204,8 +151,8 @@
     "hosts": [
       "Hector Laine"
     ],
-    "attendee_count": 36,
-    "scraped_date": "2026-11-23T17:01:43.032936"
+    "attendee_count": 41,
+    "scraped_date": "2026-11-24T16:49:15.306028"
   },
   {
     "name": "Building the Agentic Business: Strategy, Systems and Smarter AI Spend",
@@ -223,7 +170,7 @@
       "Make"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:43.032945"
+    "scraped_date": "2026-11-24T16:49:15.306037"
   },
   {
     "name": "Build a Game w/JavaFX #2: Bring It to Life",
@@ -239,7 +186,7 @@
       "KCL Tech Events"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:37.632181"
+    "scraped_date": "2026-11-24T16:49:10.513920"
   },
   {
     "name": "Building in Britain: AI in Defence",
@@ -257,7 +204,7 @@
       "Convert Technologies"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:43.032958"
+    "scraped_date": "2026-11-24T16:49:15.306048"
   },
   {
     "name": "Black Tech Builders: Turning Talent into Ownership",
@@ -274,8 +221,8 @@
       "Olivia Maccossa",
       "Viola Kanu"
     ],
-    "attendee_count": 155,
-    "scraped_date": "2026-11-23T17:01:37.632192"
+    "attendee_count": 154,
+    "scraped_date": "2026-11-24T16:49:10.513932"
   },
   {
     "name": "Founders Playbook: Build your first team",
@@ -293,7 +240,7 @@
       "Imperial Entrepreneurs"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:37.632202"
+    "scraped_date": "2026-11-24T16:49:10.513947"
   },
   {
     "name": "Oasis Growth Series: Cracking the Corporate Code - Selling Into Large Organisations",
@@ -309,7 +256,7 @@
       "Oasis London"
     ],
     "attendee_count": 16,
-    "scraped_date": "2026-11-23T17:01:37.632213"
+    "scraped_date": "2026-11-24T16:49:10.513955"
   },
   {
     "name": "Bayes × Fotor - Product Launch Hackathon: Build a Campaign with AI Agents",
@@ -328,7 +275,7 @@
       "Jade Jiang"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:43.032972"
+    "scraped_date": "2026-11-24T16:49:15.306061"
   },
   {
     "name": "Mochi & Code",
@@ -345,6 +292,38 @@
       "London AI Hub"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-23T17:01:43.032988"
+    "scraped_date": "2026-11-24T16:49:15.306076"
+  },
+  {
+    "name": "Open Code #22",
+    "date": "2026-11-25T18:30:00.000Z",
+    "end_date": "2026-11-25T22:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/dgmq1uhn",
+    "hosts": [
+      "Phoenix Court"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-24T16:49:15.306092"
+  },
+  {
+    "name": "When Code Outruns Delivery | CTO Dinner",
+    "date": "2026-11-25T18:30:00.000Z",
+    "end_date": "2026-11-25T23:30:00.000Z",
+    "location": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/vlaubnh4",
+    "hosts": [
+      "Ted Chalouhi"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-24T16:49:15.306102"
   }
 ]
