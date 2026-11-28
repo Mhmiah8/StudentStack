@@ -1,212 +1,5 @@
 [
   {
-    "name": "Mosque & Madrassah Hackathon 2026",
-    "date": "2026-11-27T17:00:00.000Z",
-    "end_date": "2026-11-29T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/bgovi683",
-    "hosts": [
-      "Mosque & Madrassah Expo"
-    ],
-    "attendee_count": 69,
-    "scraped_date": "2026-11-27T15:56:29.377131"
-  },
-  {
-    "name": "#GreHacks OFCOM Application",
-    "date": "2026-11-28T09:00:00.000Z",
-    "end_date": "2026-11-29T18:00:00.000Z",
-    "location": "Greenwich University Stockwell Street Building, 10 Stockwell St, London SE10 9BD, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/e8bpvyfg",
-    "hosts": [
-      "Generator, University of Greenwich"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:29.377164"
-  },
-  {
-    "name": "build circuit",
-    "date": "2026-11-28T09:00:00.000Z",
-    "end_date": "2026-11-28T21:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/dd-build-circuit",
-    "hosts": [
-      "Deen Developers",
-      "Collective Continuum",
-      "Parallel Web Systems",
-      "Sarwech",
-      "Alamin S"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:34.081766"
-  },
-  {
-    "name": "Computer Use Agents Hackathon - London Edition",
-    "date": "2026-11-28T09:00:00.000Z",
-    "end_date": "2026-11-28T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/hcompany-6xo3",
-    "hosts": [
-      "H Company",
-      "Encode Club"
-    ],
-    "attendee_count": 249,
-    "scraped_date": "2026-11-27T15:56:34.081787"
-  },
-  {
-    "name": "Imperial BioHack x Anthropic",
-    "date": "2026-11-28T09:00:00.000Z",
-    "end_date": "2026-11-29T18:00:00.000Z",
-    "location": "City & Guilds Building, South Kensington, London SW7 2BX, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/m21rdpv1",
-    "hosts": [
-      "Maxim",
-      "Louis Le",
-      "Imperial Computational Biology Society",
-      "Kirill Puchkov",
-      "Imperial Entrepreneurs",
-      "Emil Uddevik",
-      "Devin",
-      "BuilderBase",
-      "Nebius Developer Community",
-      "Hayden Jung",
-      "Filip Makraduli",
-      "Modal"
-    ],
-    "attendee_count": 150,
-    "scraped_date": "2026-11-27T15:56:34.081802"
-  },
-  {
-    "name": "No Slop Allowed: A Creative Harness Hackathon by 36 Labs X fal",
-    "date": "2026-11-28T09:00:00.000Z",
-    "end_date": "2026-11-28T18:00:00.000Z",
-    "location": "Ramen Space, Unit 6, Sledge Tower, Dalston Square, London E8 3GP, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/x0qhqiyl",
-    "hosts": [
-      "36 Labs",
-      "Charlie Ward"
-    ],
-    "attendee_count": 120,
-    "scraped_date": "2026-11-27T15:56:34.081811"
-  },
-  {
-    "name": "Reality Check - Robotics Hackathon",
-    "date": "2026-11-28T09:00:00.000Z",
-    "end_date": "2026-11-29T19:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/aiengine-r88j",
-    "hosts": [
-      "Rui Rui Xie",
-      "Zoe Qin",
-      "Lucas Lim",
-      "Shashank Durgad",
-      "Joe Tan",
-      "Desmond Zee",
-      "Zak A"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:34.081822"
-  },
-  {
-    "name": "Rooftop Mobile App Hackathon",
-    "date": "2026-11-28T10:00:00.000Z",
-    "end_date": "2026-11-28T18:00:00.000Z",
-    "location": "Bloom Nine Elms, 55 Nine Elms Ln, Nine Elms, London SW11 7DS, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/tjdf787t",
-    "hosts": [
-      "Marshall",
-      "Isaac Tolley",
-      "Alvaro"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:29.377174"
-  },
-  {
-    "name": "Codex Community Hackathon – London",
-    "date": "2026-11-28T10:00:00.000Z",
-    "end_date": "2026-11-28T19:30:00.000Z",
-    "location": "Imperial College London, Exhibition Rd, South Kensington, London SW7 2AZ, UK",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/pq9gt2z0",
-    "hosts": [
-      "Piyalitt Ittichaiwong",
-      "Thai Society Innovation Network"
-    ],
-    "attendee_count": 165,
-    "scraped_date": "2026-11-27T15:56:34.081833"
-  },
-  {
-    "name": "Lumi x Lume Marketing Hackathon",
-    "date": "2026-11-28T13:00:00.000Z",
-    "end_date": "2026-11-28T17:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/8h9h66mz",
-    "hosts": [
-      "Nazar",
-      "Petr Vinograd",
-      "Xavier",
-      "Sahar Mor (Bond AI)"
-    ],
-    "attendee_count": 53,
-    "scraped_date": "2026-11-27T15:56:29.377183"
-  },
-  {
-    "name": "Ripple x Lovable: Build for a Stranger",
-    "date": "2026-11-28T14:00:00.000Z",
-    "end_date": "2026-11-28T18:00:00.000Z",
-    "location": "",
-    "city": "London",
-    "country": "United Kingdom",
-    "is_uk": true,
-    "is_virtual": false,
-    "url": "https://lu.ma/0z9y6e67",
-    "hosts": [
-      "Reese Wong",
-      "anna nguyen",
-      "Sienna Leung"
-    ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:29.377196"
-  },
-  {
     "name": "Consumer AI Hackathon: Ship an App People Love in a Day",
     "date": "2026-11-29T10:00:00.000Z",
     "end_date": "2026-11-29T19:00:00.000Z",
@@ -220,7 +13,7 @@
       "Encode Club"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:34.081849"
+    "scraped_date": "2026-11-28T14:52:56.985654"
   },
   {
     "name": "Notion November 2026: Build a Theme Park Together 🎡",
@@ -238,8 +31,8 @@
       "Ginnie Lo",
       "Owen Yan"
     ],
-    "attendee_count": 346,
-    "scraped_date": "2026-11-27T15:56:29.377210"
+    "attendee_count": 345,
+    "scraped_date": "2026-11-28T14:52:52.462847"
   },
   {
     "name": "Builders Breakfast Hack - Replit x Corgi",
@@ -257,8 +50,8 @@
       "Briac SOCKALINGUM",
       "Raouf Chebri"
     ],
-    "attendee_count": 65,
-    "scraped_date": "2026-11-27T15:56:29.377232"
+    "attendee_count": 64,
+    "scraped_date": "2026-11-28T14:52:52.462881"
   },
   {
     "name": "Don’t Dilute to Build: Financing Hardware Growth",
@@ -275,7 +68,7 @@
       "Antler in the UK"
     ],
     "attendee_count": 87,
-    "scraped_date": "2026-11-27T15:56:29.377249"
+    "scraped_date": "2026-11-28T14:52:52.462917"
   },
   {
     "name": "Campaign Lab Autumn Hack Night!",
@@ -291,7 +84,7 @@
       "Noam"
     ],
     "attendee_count": 40,
-    "scraped_date": "2026-11-27T15:56:29.377261"
+    "scraped_date": "2026-11-28T14:52:52.462930"
   },
   {
     "name": "[London] Bluehost AI Builder Tour, Competition for £22,500 awards",
@@ -308,7 +101,7 @@
       "Krisha Jasani"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:34.081873"
+    "scraped_date": "2026-11-28T14:52:56.985692"
   },
   {
     "name": "Claude Code Workshop with Netlight",
@@ -325,7 +118,7 @@
       "Build with Claude"
     ],
     "attendee_count": 61,
-    "scraped_date": "2026-11-27T15:56:34.081882"
+    "scraped_date": "2026-11-28T14:52:56.985702"
   },
   {
     "name": "merry vibe-mas: festive hackathon w/ tiiny.host + plugged",
@@ -341,26 +134,24 @@
       "Catherine Park",
       "Elston"
     ],
-    "attendee_count": 65,
-    "scraped_date": "2026-11-27T15:56:29.377274"
+    "attendee_count": 64,
+    "scraped_date": "2026-11-28T14:52:52.462944"
   },
   {
-    "name": "Builders After Hours: Replit × OpenAI",
+    "name": "Behind the Build: Nicola Gunby, Founder of CLIQ [POSTPONED TO WT]",
     "date": "2026-12-01T18:00:00.000Z",
-    "end_date": "2026-12-01T21:00:00.000Z",
-    "location": "Fora - York House, Fora, York House, 221 Pentonville Rd, London N1 9UZ, UK",
+    "end_date": "2026-12-01T19:00:00.000Z",
+    "location": "London School of Economics and Political Science, Houghton St, London WC2A 2AE, UK",
     "city": "London",
     "country": "United Kingdom",
     "is_uk": true,
     "is_virtual": false,
-    "url": "https://lu.ma/replit-openai-builders-after-hours",
+    "url": "https://lu.ma/ac47kd1w",
     "hosts": [
-      "Raouf Chebri",
-      "Juhana Peltomaa",
-      "Pauline P. Narvas"
+      "Cezara Zaharia"
     ],
-    "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:34.081917"
+    "attendee_count": 17,
+    "scraped_date": "2026-11-28T14:52:52.462955"
   },
   {
     "name": "Source Code #4 — London meetup for journalists and technologists",
@@ -375,8 +166,8 @@
     "hosts": [
       "Tristan Werkmeister"
     ],
-    "attendee_count": 138,
-    "scraped_date": "2026-11-27T15:56:34.081926"
+    "attendee_count": 143,
+    "scraped_date": "2026-11-28T14:52:56.985721"
   },
   {
     "name": "Build a Game w/JavaFX #3: Break, Build & Create",
@@ -392,7 +183,7 @@
       "KCL Tech Events"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:29.377315"
+    "scraped_date": "2026-11-28T14:52:52.462994"
   },
   {
     "name": "Build with ASI:One: Fetch.ai x UCL DSS x CSS",
@@ -407,8 +198,40 @@
     "hosts": [
       "UCL Computer Science Society"
     ],
-    "attendee_count": 42,
-    "scraped_date": "2026-11-27T15:56:34.081957"
+    "attendee_count": 67,
+    "scraped_date": "2026-11-28T14:52:56.985756"
+  },
+  {
+    "name": "Building for the Ummah: Baian.ai",
+    "date": "2026-12-02T18:00:00.000Z",
+    "end_date": "2026-12-02T19:30:00.000Z",
+    "location": "UCL Institute of Education, 20 Bedford Way, London WC1H 0AL, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/45r92ueo",
+    "hosts": [
+      "UCL ISoc Tech"
+    ],
+    "attendee_count": 3,
+    "scraped_date": "2026-11-28T14:52:52.463005"
+  },
+  {
+    "name": "Build Your API to the Physical World: Vision AI Agent Night + Win a Prize",
+    "date": "2026-12-02T18:00:00.000Z",
+    "end_date": "2026-12-02T20:30:00.000Z",
+    "location": "Red Lion, 1 Eldon St, London EC2M 7LS, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/4je68w8f",
+    "hosts": [
+      "Viso Now"
+    ],
+    "attendee_count": 15,
+    "scraped_date": "2026-11-28T14:52:56.985766"
   },
   {
     "name": "Claude Code Curious: 1 year anniversary 🎉",
@@ -424,7 +247,7 @@
       "Max Tatton-Brown"
     ],
     "attendee_count": 0,
-    "scraped_date": "2026-11-27T15:56:34.081968"
+    "scraped_date": "2026-11-28T14:52:56.985775"
   },
   {
     "name": "Conversations in the AI era | Builder Community Meetup",
@@ -441,7 +264,23 @@
       "Speechmatics",
       "Voice AI Space Events"
     ],
-    "attendee_count": 166,
-    "scraped_date": "2026-11-27T15:56:34.081978"
+    "attendee_count": 169,
+    "scraped_date": "2026-11-28T14:52:56.985785"
+  },
+  {
+    "name": "Behind the Build: AI Demo night",
+    "date": "2026-12-02T18:30:00.000Z",
+    "end_date": "2026-12-02T21:00:00.000Z",
+    "location": "Techspace Goswell Road, 140 Goswell Rd., London EC1V 7DY, UK",
+    "city": "London",
+    "country": "United Kingdom",
+    "is_uk": true,
+    "is_virtual": false,
+    "url": "https://lu.ma/n0gogxsw",
+    "hosts": [
+      "Yasmin Chalmers"
+    ],
+    "attendee_count": 0,
+    "scraped_date": "2026-11-28T14:52:56.985801"
   }
 ]
